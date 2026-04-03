@@ -14,8 +14,11 @@ const PRESET_PALETTES = [
   { name: '海（青系）', colors: ['#0D47A1', '#546E7A'] },
 ]
 
-export default function BatchForm({ stamps, setStamps }) {
+export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [spotName, setSpotName] = useState('')
+  const [lat, setLat] = useState('')
+  const [lng, setLng] = useState('')
+  const [area, setArea] = useState('asakusa')
   const [palette, setPalette] = useState(['#C0392B', '#8B4513'])
   const [style, setStyle] = useState('circular')
   const [count, setCount] = useState(10)
@@ -69,6 +72,40 @@ Image size: 512x512 pixels.`
           value={spotName}
           onChange={e => setSpotName(e.target.value)}
         />
+      </div>
+
+      <div className="form-group">
+        <label>エリア</label>
+        <select value={area} onChange={e => setArea(e.target.value)}>
+          <option value="asakusa">浅草</option>
+          <option value="shibuya">渋谷</option>
+          <option value="shinjuku">新宿</option>
+        </select>
+      </div>
+
+      <div className="form-group">
+        <label>位置情報（緯度・経度）</label>
+        <div style={{ display: 'flex', gap: 8 }}>
+          <input
+            type="number"
+            step="0.0001"
+            placeholder="緯度 (例: 35.7107)"
+            value={lat}
+            onChange={e => setLat(e.target.value)}
+            style={{ flex: 1 }}
+          />
+          <input
+            type="number"
+            step="0.0001"
+            placeholder="経度 (例: 139.7965)"
+            value={lng}
+            onChange={e => setLng(e.target.value)}
+            style={{ flex: 1 }}
+          />
+        </div>
+        <p style={{ fontSize: 11, color: 'var(--text-muted)', marginTop: 4 }}>
+          Google Mapsで右クリック → 座標をコピーして貼り付け
+        </p>
       </div>
 
       <div className="form-group">

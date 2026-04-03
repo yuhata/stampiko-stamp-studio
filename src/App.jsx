@@ -1,11 +1,13 @@
 import { useState, useEffect } from 'react'
 import StampGallery from './components/StampGallery'
+import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
 import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
 import './App.css'
 
 const TABS = [
+  { id: 'map', label: 'マップ' },
   { id: 'gallery', label: 'ギャラリー' },
   { id: 'batch', label: 'バッチ生成' },
   { id: 'nglog', label: 'NG学習ログ' },
@@ -15,9 +17,10 @@ const TABS = [
 function App() {
   const [stamps, setStamps] = useState([])
   const [ngReasons, setNgReasons] = useState([])
-  const [activeTab, setActiveTab] = useState('gallery')
+  const [activeTab, setActiveTab] = useState('map')
   const [filterArea, setFilterArea] = useState('all')
   const [filterStatus, setFilterStatus] = useState('all')
+  const [focusSpotId, setFocusSpotId] = useState(null)
 
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'stamps/manifest.json')
@@ -25,12 +28,10 @@ function App() {
       .then(setStamps)
       .catch(() => setStamps([]))
 
-    // NG理由ログをlocalStorageから復元
     const saved = localStorage.getItem('lbs-stamp-studio-ng-log')
     if (saved) setNgReasons(JSON.parse(saved))
   }, [])
 
-  // NG理由が変更されたらlocalStorageに保存
   useEffect(() => {
     if (ngReasons.length > 0) {
       localStorage.setItem('lbs-stamp-studio-ng-log', JSON.stringify(ngReasons))
@@ -43,6 +44,15 @@ function App() {
 
   const addNgReason = (reason) => {
     setNgReasons(prev => [...prev, { ...reason, id: Date.now(), createdAt: new Date().toISOString() }])
+  }
+
+  // マップからスポットを選択 → ギャラリーにジャンプ
+  const handleSelectSpot = (spotId) => {
+    setFocusSpotId(spotId)
+    const spot = stamps.find(s => s.spotId === spotId)
+    if (spot) setFilterArea(spot.area)
+    setFilterStatus('all')
+    setActiveTab('gallery')
   }
 
   const areas = [...new Set(stamps.map(s => s.area))]
@@ -87,6 +97,13 @@ function App() {
         ))}
       </nav>
 
+      {activeTab === 'map' && (
+        <MapView
+          stamps={stamps}
+          updateStamp={updateStamp}
+          onSelectSpot={handleSelectSpot}
+        />
+      )}
       {activeTab === 'gallery' && (
         <StampGallery
           stamps={stamps}
@@ -98,6 +115,8 @@ function App() {
           updateStamp={updateStamp}
           addNgReason={addNgReason}
           ngReasons={ngReasons}
+          focusSpotId={focusSpotId}
+          clearFocusSpot={() => setFocusSpotId(null)}
         />
       )}
       {activeTab === 'batch' && (

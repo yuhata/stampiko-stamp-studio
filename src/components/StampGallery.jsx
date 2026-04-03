@@ -30,6 +30,7 @@ export default function StampGallery({
   stamps, areas, filterArea, setFilterArea,
   filterStatus, setFilterStatus, updateStamp,
   addNgReason, ngReasons,
+  focusSpotId, clearFocusSpot,
 }) {
   const [selected, setSelected] = useState(null)
 

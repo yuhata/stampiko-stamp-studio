@@ -8,7 +8,9 @@
     "filename": "kaminarimon_v0.png",
     "path": "stamps/asakusa/kaminarimon_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7107,
+    "lng": 139.7965
   },
   {
     "id": "kaminarimon_v1",
@@ -19,7 +21,9 @@
     "filename": "kaminarimon_v1.png",
     "path": "stamps/asakusa/kaminarimon_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7107,
+    "lng": 139.7965
   },
   {
     "id": "kaminarimon_v2",
@@ -30,7 +34,9 @@
     "filename": "kaminarimon_v2.png",
     "path": "stamps/asakusa/kaminarimon_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7107,
+    "lng": 139.7965
   },
   {
     "id": "kaminarimon_v3",
@@ -41,7 +47,9 @@
     "filename": "kaminarimon_v3.png",
     "path": "stamps/asakusa/kaminarimon_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7107,
+    "lng": 139.7965
   },
   {
     "id": "sensoji_v0",
@@ -52,7 +60,9 @@
     "filename": "sensoji_v0.png",
     "path": "stamps/asakusa/sensoji_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7148,
+    "lng": 139.7967
   },
   {
     "id": "sensoji_v1",
@@ -63,7 +73,9 @@
     "filename": "sensoji_v1.png",
     "path": "stamps/asakusa/sensoji_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7148,
+    "lng": 139.7967
   },
   {
     "id": "sensoji_v2",
@@ -74,7 +86,9 @@
     "filename": "sensoji_v2.png",
     "path": "stamps/asakusa/sensoji_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7148,
+    "lng": 139.7967
   },
   {
     "id": "sensoji_v3",
@@ -85,7 +99,9 @@
     "filename": "sensoji_v3.png",
     "path": "stamps/asakusa/sensoji_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7148,
+    "lng": 139.7967
   },
   {
     "id": "skytree_v0",
@@ -96,7 +112,9 @@
     "filename": "skytree_v0.png",
     "path": "stamps/asakusa/skytree_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7101,
+    "lng": 139.8107
   },
   {
     "id": "skytree_v1",
@@ -107,7 +125,9 @@
     "filename": "skytree_v1.png",
     "path": "stamps/asakusa/skytree_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7101,
+    "lng": 139.8107
   },
   {
     "id": "skytree_v2",
@@ -118,7 +138,9 @@
     "filename": "skytree_v2.png",
     "path": "stamps/asakusa/skytree_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7101,
+    "lng": 139.8107
   },
   {
     "id": "skytree_v3",
@@ -129,7 +151,9 @@
     "filename": "skytree_v3.png",
     "path": "stamps/asakusa/skytree_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.7101,
+    "lng": 139.8107
   },
   {
     "id": "scramble_v0",
@@ -140,7 +164,9 @@
     "filename": "scramble_v0.png",
     "path": "stamps/shibuya/scramble_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6595,
+    "lng": 139.7004
   },
   {
     "id": "scramble_v1",
@@ -151,7 +177,9 @@
     "filename": "scramble_v1.png",
     "path": "stamps/shibuya/scramble_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6595,
+    "lng": 139.7004
   },
   {
     "id": "scramble_v2",
@@ -162,7 +190,9 @@
     "filename": "scramble_v2.png",
     "path": "stamps/shibuya/scramble_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6595,
+    "lng": 139.7004
   },
   {
     "id": "scramble_v3",
@@ -173,7 +203,9 @@
     "filename": "scramble_v3.png",
     "path": "stamps/shibuya/scramble_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6595,
+    "lng": 139.7004
   },
   {
     "id": "hachiko_v0",
@@ -184,7 +216,9 @@
     "filename": "hachiko_v0.png",
     "path": "stamps/shibuya/hachiko_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.659,
+    "lng": 139.7006
   },
   {
     "id": "hachiko_v1",
@@ -195,7 +229,9 @@
     "filename": "hachiko_v1.png",
     "path": "stamps/shibuya/hachiko_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.659,
+    "lng": 139.7006
   },
   {
     "id": "hachiko_v2",
@@ -206,7 +242,9 @@
     "filename": "hachiko_v2.png",
     "path": "stamps/shibuya/hachiko_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.659,
+    "lng": 139.7006
   },
   {
     "id": "hachiko_v3",
@@ -217,7 +255,9 @@
     "filename": "hachiko_v3.png",
     "path": "stamps/shibuya/hachiko_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.659,
+    "lng": 139.7006
   },
   {
     "id": "meiji_v0",
@@ -228,7 +268,9 @@
     "filename": "meiji_v0.png",
     "path": "stamps/shibuya/meiji_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6764,
+    "lng": 139.6993
   },
   {
     "id": "meiji_v1",
@@ -239,7 +281,9 @@
     "filename": "meiji_v1.png",
     "path": "stamps/shibuya/meiji_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6764,
+    "lng": 139.6993
   },
   {
     "id": "meiji_v2",
@@ -250,7 +294,9 @@
     "filename": "meiji_v2.png",
     "path": "stamps/shibuya/meiji_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6764,
+    "lng": 139.6993
   },
   {
     "id": "meiji_v3",
@@ -261,7 +307,9 @@
     "filename": "meiji_v3.png",
     "path": "stamps/shibuya/meiji_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6764,
+    "lng": 139.6993
   },
   {
     "id": "omoide_v0",
@@ -272,7 +320,9 @@
     "filename": "omoide_v0.png",
     "path": "stamps/shinjuku/omoide_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6938,
+    "lng": 139.6989
   },
   {
     "id": "omoide_v1",
@@ -283,7 +333,9 @@
     "filename": "omoide_v1.png",
     "path": "stamps/shinjuku/omoide_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6938,
+    "lng": 139.6989
   },
   {
     "id": "omoide_v2",
@@ -294,7 +346,9 @@
     "filename": "omoide_v2.png",
     "path": "stamps/shinjuku/omoide_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6938,
+    "lng": 139.6989
   },
   {
     "id": "omoide_v3",
@@ -305,7 +359,9 @@
     "filename": "omoide_v3.png",
     "path": "stamps/shinjuku/omoide_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6938,
+    "lng": 139.6989
   },
   {
     "id": "godzilla_v0",
@@ -316,7 +372,9 @@
     "filename": "godzilla_v0.png",
     "path": "stamps/shinjuku/godzilla_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6945,
+    "lng": 139.7035
   },
   {
     "id": "godzilla_v1",
@@ -327,7 +385,9 @@
     "filename": "godzilla_v1.png",
     "path": "stamps/shinjuku/godzilla_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6945,
+    "lng": 139.7035
   },
   {
     "id": "godzilla_v2",
@@ -338,7 +398,9 @@
     "filename": "godzilla_v2.png",
     "path": "stamps/shinjuku/godzilla_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6945,
+    "lng": 139.7035
   },
   {
     "id": "godzilla_v3",
@@ -349,7 +411,9 @@
     "filename": "godzilla_v3.png",
     "path": "stamps/shinjuku/godzilla_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6945,
+    "lng": 139.7035
   },
   {
     "id": "tocho_v0",
@@ -360,7 +424,9 @@
     "filename": "tocho_v0.png",
     "path": "stamps/shinjuku/tocho_v0.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6896,
+    "lng": 139.6922
   },
   {
     "id": "tocho_v1",
@@ -371,7 +437,9 @@
     "filename": "tocho_v1.png",
     "path": "stamps/shinjuku/tocho_v1.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6896,
+    "lng": 139.6922
   },
   {
     "id": "tocho_v2",
@@ -382,7 +450,9 @@
     "filename": "tocho_v2.png",
     "path": "stamps/shinjuku/tocho_v2.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6896,
+    "lng": 139.6922
   },
   {
     "id": "tocho_v3",
@@ -393,6 +463,8 @@
     "filename": "tocho_v3.png",
     "path": "stamps/shinjuku/tocho_v3.png",
     "status": "draft",
-    "designerNote": null
+    "designerNote": null,
+    "lat": 35.6896,
+    "lng": 139.6922
   }
 ]

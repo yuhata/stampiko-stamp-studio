@@ -532,3 +532,22 @@ body {
 .criteria-add-form { margin-top: 12px; padding: 12px; background: var(--bg-card); border: 1px dashed var(--accent); border-radius: 8px; }
 .criteria-add-row { display: flex; gap: 8px; }
 .criteria-add-row input { flex: 1; }
+
+/* === Map View === */
+.map-view { height: calc(100vh - 100px); position: relative; }
+.stamp-map { height: 100%; width: 100%; z-index: 1; }
+.stamp-map .leaflet-popup-content-wrapper { background: var(--bg-card); color: var(--text); border: 1px solid var(--border); border-radius: 10px; }
+.stamp-map .leaflet-popup-tip { background: var(--bg-card); }
+.popup-content { min-width: 180px; }
+.popup-header { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+.popup-header strong { font-size: 14px; color: #fff; }
+.popup-area { font-size: 11px; color: var(--accent); }
+.popup-stats { font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+.popup-stamps { display: flex; gap: 6px; margin-bottom: 8px; }
+.popup-stamp-thumb { width: 48px; height: 48px; border-radius: 6px; background: var(--checker-dark); display: flex; align-items: center; justify-content: center; cursor: pointer; border: 1px solid var(--border); }
+.popup-stamp-thumb.approved { border-color: var(--accent-green); }
+.popup-stamp-thumb.rejected { opacity: 0.4; }
+.popup-stamp-thumb img { width: 40px; height: 40px; object-fit: contain; }
+.popup-view-btn { width: 100%; padding: 6px; background: var(--accent); border: none; border-radius: 6px; color: #fff; font-size: 12px; cursor: pointer; }
+.popup-view-btn:hover { opacity: 0.9; }
+.custom-marker { background: none !important; border: none !important; }
