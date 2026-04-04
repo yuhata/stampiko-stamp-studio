@@ -715,6 +715,270 @@
     "data_source": "osm"
   },
   {
+    "name": "古賀政男音楽博物館分館古賀政男記念館",
+    "name_en": "",
+    "lat": 33.1924903,
+    "lng": 130.3836128,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423757717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.020306,
+    "lng": 130.444022,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 1423758204,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市石炭産業科学館",
+    "name_en": "",
+    "lat": 33.031073,
+    "lng": 130.424355,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423758215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市立三池カルタ記念館;大牟田市立図書館",
+    "name_en": "",
+    "lat": 33.023391,
+    "lng": 130.443671,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423758217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩戸山歴史資料館",
+    "name_en": "",
+    "lat": 33.2290359,
+    "lng": 130.5524038,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423758855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬高町歴史資料館",
+    "name_en": "",
+    "lat": 33.153788,
+    "lng": 130.476382,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423777054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀市文化財資料館",
+    "name_en": "",
+    "lat": 33.239353,
+    "lng": 130.28232,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423799749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八代市立博物館未来の森ミュージアム",
+    "name_en": "Yatsushiro Municipal Museum",
+    "lat": 32.5082562,
+    "lng": 130.5965866,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423800025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "合志市歴史資料館",
+    "name_en": "",
+    "lat": 32.8860516,
+    "lng": 130.7910204,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423800639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉田司家宝物館",
+    "name_en": "",
+    "lat": 32.808752,
+    "lng": 130.716915,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423800760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和水町歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.9721323,
+    "lng": 130.5973206,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423800856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和水町歴史資料館",
+    "name_en": "",
+    "lat": 32.9707189,
+    "lng": 130.5974033,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423800861,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂本善三美術館",
+    "name_en": "",
+    "lat": 33.127025,
+    "lng": 131.037025,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423801397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "城南町歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.692115,
+    "lng": 130.737616,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423801500,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草いるかワールド",
+    "name_en": "",
+    "lat": 32.472778,
+    "lng": 130.205671,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草パールマリア館",
+    "name_en": "",
+    "lat": 32.527406,
+    "lng": 130.427497,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草市立天草切支丹館",
+    "name_en": "",
+    "lat": 32.4599462,
+    "lng": 130.1840326,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太良町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.0198446,
+    "lng": 130.1796999,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇城市不知火美術館",
+    "name_en": "",
+    "lat": 32.646941,
+    "lng": 130.66914,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802180,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山鹿市立博物館",
+    "name_en": "",
+    "lat": 33.024868,
+    "lng": 130.666443,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島田美術館",
+    "name_en": "Shimada Museum of Arts",
+    "lat": 32.809728,
+    "lng": 130.686067,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423802761,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御船町恐竜博物館",
+    "name_en": "",
+    "lat": 32.714585,
+    "lng": 130.801245,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423804487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徳富記念園",
+    "name_en": "",
+    "lat": 32.803309,
+    "lng": 130.720826,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423804592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新聞博物館",
+    "name_en": "",
+    "lat": 32.782051,
+    "lng": 130.6986461,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423804954,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本妙寺",
     "name_en": "Honmyoji",
     "lat": 32.817203,
@@ -726,6 +990,259 @@
     "data_source": "osm"
   },
   {
+    "name": "東陽石匠館",
+    "name_en": "",
+    "lat": 32.550185,
+    "lng": 130.71781,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423806347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松井文庫驥斎",
+    "name_en": "",
+    "lat": 32.509269,
+    "lng": 130.596668,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423806416,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江北町郷土資料館",
+    "name_en": "",
+    "lat": 33.220439,
+    "lng": 130.157361,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423807188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "清浦記念館",
+    "name_en": "",
+    "lat": 33.006145,
+    "lng": 130.748347,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423807450,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本国際民藝館",
+    "name_en": "",
+    "lat": 32.83001,
+    "lng": 130.756443,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423808143,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本市立熊本博物館",
+    "name_en": "",
+    "lat": 32.808624,
+    "lng": 130.6993427,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423808453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本県環境センター",
+    "name_en": "",
+    "lat": 32.2040931,
+    "lng": 130.3744849,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423808745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本県立美術館",
+    "name_en": "",
+    "lat": 32.807451,
+    "lng": 130.7004739,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423808780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本県立装飾古墳館",
+    "name_en": "",
+    "lat": 32.993694,
+    "lng": 130.6698099,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423808785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "監物台樹木園森林博物館",
+    "name_en": "",
+    "lat": 32.80839,
+    "lng": 130.703704,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 1423811510,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神風連資料館",
+    "name_en": "",
+    "lat": 32.815134,
+    "lng": 130.732325,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423814501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾総合文化センター子ども科学館",
+    "name_en": "",
+    "lat": 32.984678,
+    "lng": 130.463977,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423817378,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菊池神社歴史館",
+    "name_en": "",
+    "lat": 32.9881669,
+    "lng": 130.8157149,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423817616,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇古代の郷美術館",
+    "name_en": "",
+    "lat": 32.927955,
+    "lng": 131.106921,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423822650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙ビードロ美術館",
+    "name_en": "",
+    "lat": 32.7384848,
+    "lng": 130.2613701,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423822950,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙市小浜歴史資料館",
+    "name_en": "",
+    "lat": 32.7260978,
+    "lng": 130.2070659,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423822962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "地底博物館鯛生金山",
+    "name_en": "",
+    "lat": 33.128275,
+    "lng": 130.88215,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423865225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小川城址公園",
+    "name_en": "",
+    "lat": 32.235381,
+    "lng": 131.21307,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423867044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出水市ツル博物館クレインパークいずみ",
+    "name_en": "",
+    "lat": 32.098207,
+    "lng": 130.343464,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423924901,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出水市立歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.0816792,
+    "lng": 130.3602323,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423924974,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出水市高尾野郷土館・古城画伯コレクション館",
+    "name_en": "",
+    "lat": 32.06169,
+    "lng": 130.304589,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423924987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊佐市歴史民俗鉄道記念資料館",
+    "name_en": "",
+    "lat": 32.0619232,
+    "lng": 130.6089895,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423926450,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本マングリンセンター",
+    "name_en": "",
+    "lat": 32.198622,
+    "lng": 130.185431,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1423930408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水田天満宮 Mizuta Shine",
     "name_en": "Mizuta Shine",
     "lat": 33.1986101,
@@ -733,6 +1250,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1662553153,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平家の里",
+    "name_en": "",
+    "lat": 32.5051165,
+    "lng": 130.9641226,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1726180844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉城址",
+    "name_en": "Hitoyoshi Castle",
+    "lat": 32.2111204,
+    "lng": 130.7665614,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 1735884331,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -854,6 +1393,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 2415480860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鞠智城",
+    "name_en": "",
+    "lat": 33.0020729,
+    "lng": 130.7881432,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 2483565746,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇たにびと博物館事務所",
+    "name_en": "The Office of Mount Aso Ecomusee",
+    "lat": 32.8308383,
+    "lng": 131.0532849,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 2692205650,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1144,6 +1705,17 @@
     "data_source": "osm"
   },
   {
+    "name": "守護陣温泉",
+    "name_en": "",
+    "lat": 33.1508976,
+    "lng": 131.126259,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3399307490,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "佐敷",
     "name_en": "Sashiki",
     "lat": 32.3024975,
@@ -1151,6 +1723,28 @@
     "category": "station",
     "prefecture": "kumamoto",
     "osm_id": 3437583836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立花家史料館",
+    "name_en": "Tachibana Museum",
+    "lat": 33.1587783,
+    "lng": 130.3971773,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 3478445254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川城天守台阯",
+    "name_en": "The site of Yanagawa Castle Donjon foundation",
+    "lat": 33.1609793,
+    "lng": 130.4011825,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 3651082798,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1177,6 +1771,39 @@
     "data_source": "osm"
   },
   {
+    "name": "展望大浴場",
+    "name_en": "fine view large public baths",
+    "lat": 33.1568937,
+    "lng": 130.3994399,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3654797800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂",
+    "name_en": "family baths",
+    "lat": 33.1568513,
+    "lng": 130.400275,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3654799329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やながわ有明海水族館",
+    "name_en": "Okinohata Aquarium",
+    "lat": 33.1592065,
+    "lng": 130.395169,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 3655576177,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "矢留大神宮",
     "name_en": "Yadomi Grand Shrine",
     "lat": 33.1576221,
@@ -1195,6 +1822,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 3656615985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の資料館",
+    "name_en": "Museum of Water",
+    "lat": 33.1641216,
+    "lng": 130.4088213,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 3657145681,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1243,6 +1881,17 @@
     "data_source": "osm"
   },
   {
+    "name": "柳川古文書館",
+    "name_en": "Yanagawa Archives",
+    "lat": 33.1651557,
+    "lng": 130.4135522,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 3661047699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西方寺",
     "name_en": "Saiho-ji Temple",
     "lat": 33.1683507,
@@ -1272,6 +1921,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 3661058025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松月文人館",
+    "name_en": "Shogetsu Writers Museum",
+    "lat": 33.1671311,
+    "lng": 130.4153476,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 3661058027,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1404,6 +2064,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 3663441731,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九州電力 八丁原発電所展示館",
+    "name_en": "",
+    "lat": 33.106384,
+    "lng": 131.1874722,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 3665598596,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2420,6 +3091,17 @@
     "data_source": "osm"
   },
   {
+    "name": "玉の湯",
+    "name_en": "Tama-no-yu",
+    "lat": 33.1670979,
+    "lng": 130.4069153,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3730375839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1656721,
@@ -2695,6 +3377,28 @@
     "data_source": "osm"
   },
   {
+    "name": "特別史跡 熊本城",
+    "name_en": "",
+    "lat": 32.8060202,
+    "lng": 130.7045875,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 3792430167,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯元の足湯",
+    "name_en": "",
+    "lat": 32.7422973,
+    "lng": 130.2608731,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3830064288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大乗院 満明寺",
     "name_en": "",
     "lat": 32.7410777,
@@ -2702,6 +3406,39 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 3830064289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "指湯",
+    "name_en": "",
+    "lat": 32.7421281,
+    "lng": 130.2608973,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3830069882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯広場",
+    "name_en": "Foot bath",
+    "lat": 32.7383624,
+    "lng": 130.2635417,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3833604259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙新湯温泉館",
+    "name_en": "",
+    "lat": 32.7381153,
+    "lng": 130.2636003,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 3833604261,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2724,6 +3461,28 @@
     "category": "station",
     "prefecture": "kumamoto",
     "osm_id": 4029601740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大野木場砂防みらい館",
+    "name_en": "",
+    "lat": 32.7456355,
+    "lng": 130.3400684,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4107813813,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かどわき歴史災害記念館",
+    "name_en": "",
+    "lat": 32.734448,
+    "lng": 130.3378455,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4107813858,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3093,6 +3852,39 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 32.9116476,
+    "lng": 131.197774,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 4520658890,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Crane Observation Center",
+    "name_en": "",
+    "lat": 32.1028598,
+    "lng": 130.2750649,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4576789780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎鼻灯台",
+    "name_en": "Nagasakibana Lighthouse",
+    "lat": 32.1259066,
+    "lng": 130.1120752,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 4576897055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 32.3987137,
     "lng": 130.8288469,
     "category": "temple",
@@ -3109,6 +3901,39 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 4636583829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "現代美術館",
+    "name_en": "Contemporary Art Museum",
+    "lat": 32.8032369,
+    "lng": 130.7109376,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4693003290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7930169,
+    "lng": 131.2112969,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 4752129022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夜灯鼻灯台",
+    "name_en": "",
+    "lat": 32.9568459,
+    "lng": 130.2245159,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 4770835174,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3135,6 +3960,28 @@
     "data_source": "osm"
   },
   {
+    "name": "熊本県立美術館分館",
+    "name_en": "",
+    "lat": 32.8065587,
+    "lng": 130.7081811,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4941409380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伝統工芸館",
+    "name_en": "",
+    "lat": 32.8075629,
+    "lng": 130.706923,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 4941929157,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "東福寺",
     "name_en": "",
     "lat": 32.9838062,
@@ -3153,6 +4000,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 4960906414,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "200yen Onsen",
+    "name_en": "",
+    "lat": 32.7418178,
+    "lng": 130.2592027,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 4996185426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "茜の湯 貸切風呂",
+    "name_en": "",
+    "lat": 32.7262637,
+    "lng": 130.2042067,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 4996513024,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3355,6 +4224,17 @@
     "data_source": "osm"
   },
   {
+    "name": "筑後市 郷土資料館",
+    "name_en": "",
+    "lat": 33.1987128,
+    "lng": 130.4862553,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 5141653474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大神宮",
     "name_en": "",
     "lat": 33.1989446,
@@ -3384,6 +4264,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 5141653500,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9835127,
+    "lng": 131.0143206,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 5238664124,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3428,6 +4319,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 5259657805,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菊池夢美術館",
+    "name_en": "",
+    "lat": 32.9852219,
+    "lng": 130.814622,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 5263442649,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3516,6 +4418,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 5367379166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沖ノ神瀬灯標",
+    "name_en": "",
+    "lat": 33.0639172,
+    "lng": 130.226024,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 5436895313,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3901,6 +4814,28 @@
     "category": "station",
     "prefecture": "kumamoto",
     "osm_id": 5746757924,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0783716,
+    "lng": 131.1573154,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 5808899475,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "べんがら村",
+    "name_en": "",
+    "lat": 33.2026389,
+    "lng": 130.5663822,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 5831418537,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4499,6 +5434,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8037266,
+    "lng": 130.7034202,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 6390878528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蓍町の水神さん",
     "name_en": "",
     "lat": 32.7325972,
@@ -4565,6 +5511,28 @@
     "data_source": "osm"
   },
   {
+    "name": "十三奉行温泉",
+    "name_en": "",
+    "lat": 32.0609674,
+    "lng": 130.2577661,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491259184,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舞鶴温泉",
+    "name_en": "",
+    "lat": 32.0812256,
+    "lng": 130.2716013,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491273725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松橋",
     "name_en": "Matsubase",
     "lat": 32.6523019,
@@ -4609,6 +5577,1359 @@
     "data_source": "osm"
   },
   {
+    "name": "高尾野温泉センター;もみじ",
+    "name_en": "",
+    "lat": 32.0630387,
+    "lng": 130.3124183,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491286676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぬくもりの湯",
+    "name_en": "",
+    "lat": 32.1104756,
+    "lng": 130.3280527,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491318583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "針原塩湯温泉",
+    "name_en": "",
+    "lat": 32.1397711,
+    "lng": 130.3539527,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491633089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千宝の湯",
+    "name_en": "",
+    "lat": 32.1664303,
+    "lng": 130.360558,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6491697641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の鶴温泉保健センター;ほたるの湯",
+    "name_en": "",
+    "lat": 32.1474101,
+    "lng": 130.4395399,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6493228316,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四浦屋本店",
+    "name_en": "",
+    "lat": 32.148619,
+    "lng": 130.4397509,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6493235898,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;中村温泉",
+    "name_en": "",
+    "lat": 32.2323652,
+    "lng": 130.4162045,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6493258796,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白梅湯裸楽",
+    "name_en": "",
+    "lat": 32.2328313,
+    "lng": 130.4158606,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6493262239,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つなぎ温泉;四季彩",
+    "name_en": "",
+    "lat": 32.2325078,
+    "lng": 130.4561276,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6494814359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯浦温泉センター",
+    "name_en": "",
+    "lat": 32.2746527,
+    "lng": 130.4998211,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6494923080,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御立岬温泉センター",
+    "name_en": "",
+    "lat": 32.3668942,
+    "lng": 130.4926674,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6495007003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大野温泉センター",
+    "name_en": "",
+    "lat": 32.2898492,
+    "lng": 130.5822479,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6495126825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さかもと温泉センター;クレオン",
+    "name_en": "",
+    "lat": 32.413452,
+    "lng": 130.638632,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6495176095,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千丁町福祉健康センター;パトリア千丁",
+    "name_en": "",
+    "lat": 32.5346623,
+    "lng": 130.6334612,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6495337020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東陽交流センター;せせらぎ",
+    "name_en": "",
+    "lat": 32.5478315,
+    "lng": 130.7157883,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6495753422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "なごみ温泉;やすらぎの湯",
+    "name_en": "",
+    "lat": 32.5990699,
+    "lng": 130.7031321,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6496467354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "不知火温泉;ロマンの湯",
+    "name_en": "",
+    "lat": 32.6338502,
+    "lng": 130.6292904,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6496476743,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "隠れ家温泉;古保山リゾート",
+    "name_en": "",
+    "lat": 32.670408,
+    "lng": 130.705647,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6496484420,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元湯;佐俣の湯",
+    "name_en": "",
+    "lat": 32.6226893,
+    "lng": 130.8225515,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6496599110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇土市健康福祉館;あじさいの湯",
+    "name_en": "",
+    "lat": 32.6892134,
+    "lng": 130.5982366,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6496647299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本渡温泉センター",
+    "name_en": "",
+    "lat": 32.4526387,
+    "lng": 130.2094098,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6497761583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "総合交流ターミナル施設;ユメール",
+    "name_en": "",
+    "lat": 32.5514083,
+    "lng": 130.1128219,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6497774593,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草ゆ楽園",
+    "name_en": "",
+    "lat": 32.3561557,
+    "lng": 130.1527659,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6498269772,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太陽の里温泉センター;東泉望",
+    "name_en": "",
+    "lat": 32.1942494,
+    "lng": 130.1908022,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6498980004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "草枕温泉;てんすい",
+    "name_en": "",
+    "lat": 32.8516806,
+    "lng": 130.5924386,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6498982937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名市岱明コミュニティセンター;潮湯",
+    "name_en": "",
+    "lat": 32.8975261,
+    "lng": 130.4894405,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499277456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岱明ふれあい健康センター",
+    "name_en": "",
+    "lat": 32.9169098,
+    "lng": 130.5126131,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499295882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄屋の湯",
+    "name_en": "",
+    "lat": 32.9350774,
+    "lng": 130.5726769,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499444783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;竹乃香",
+    "name_en": "",
+    "lat": 32.9388934,
+    "lng": 130.5628413,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499451013,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名温泉家族風呂 純乃時;湯願",
+    "name_en": "",
+    "lat": 32.9376335,
+    "lng": 130.5595902,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499495485,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉の湯",
+    "name_en": "",
+    "lat": 32.9371588,
+    "lng": 130.5587121,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499514520,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名温泉;かさの湯",
+    "name_en": "",
+    "lat": 32.9386761,
+    "lng": 130.5559787,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499527468,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菊水ロマン舘",
+    "name_en": "",
+    "lat": 32.9733758,
+    "lng": 130.6022517,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499552647,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾温泉;ドリームの湯",
+    "name_en": "",
+    "lat": 32.961884,
+    "lng": 130.4494055,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499604036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂;いつでも一番風呂",
+    "name_en": "",
+    "lat": 32.9615396,
+    "lng": 130.4499661,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499605039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南の関;うから館",
+    "name_en": "",
+    "lat": 33.0573914,
+    "lng": 130.5399383,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499728232,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川総合保健福祉センター;水の郷;柳川温泉 南風",
+    "name_en": "",
+    "lat": 33.1542303,
+    "lng": 130.4006544,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499771436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島原温泉;ゆとろぎの湯",
+    "name_en": "",
+    "lat": 32.7848327,
+    "lng": 130.369208,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6499897372,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙ビードロ美術館;雲仙スパハウス",
+    "name_en": "",
+    "lat": 32.7383836,
+    "lng": 130.2613083,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6500389981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙よか湯",
+    "name_en": "",
+    "lat": 32.7358096,
+    "lng": 130.260186,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6500411963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレッシュセンター;おばま",
+    "name_en": "",
+    "lat": 32.720855,
+    "lng": 130.2025812,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6501874525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "味処湯処;よしちょう",
+    "name_en": "",
+    "lat": 32.7257455,
+    "lng": 130.205298,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6501890848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小長井健康センター",
+    "name_en": "",
+    "lat": 32.9303397,
+    "lng": 130.1988213,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6502206670,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;大木の湯;アクアス",
+    "name_en": "",
+    "lat": 33.2122748,
+    "lng": 130.4437124,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6507833858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;あおき温泉",
+    "name_en": "",
+    "lat": 33.2393775,
+    "lng": 130.4111159,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6508414387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大口温泉;高熊荘",
+    "name_en": "",
+    "lat": 32.0854067,
+    "lng": 130.6113453,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513245886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一勝地温泉;かわせみ",
+    "name_en": "",
+    "lat": 32.2418787,
+    "lng": 130.6458641,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513249625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.2423673,
+    "lng": 130.7260421,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513267675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筌場温泉;花手箱",
+    "name_en": "",
+    "lat": 32.2199755,
+    "lng": 130.7229461,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513279134,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白岳温泉;しろみづき荘",
+    "name_en": "",
+    "lat": 32.2085416,
+    "lng": 130.7513363,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513302028,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉温泉 家族湯;癒しの杜",
+    "name_en": "",
+    "lat": 32.2255374,
+    "lng": 130.7685826,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513311981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相良路の湯;おおが",
+    "name_en": "",
+    "lat": 32.2087067,
+    "lng": 130.7559085,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513328420,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "錦町温泉センター（座標不明瞭）",
+    "name_en": "",
+    "lat": 32.2013172,
+    "lng": 130.8418617,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513375433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あさぎり町ヘルシーランド;薬師温泉",
+    "name_en": "",
+    "lat": 32.2173996,
+    "lng": 130.9004178,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513425244,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あさぎり町ふれあい温泉;温華乃遥",
+    "name_en": "",
+    "lat": 32.2401154,
+    "lng": 130.9293361,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513452135,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多良木町ふれあい交流センター;えびすの湯",
+    "name_en": "",
+    "lat": 32.2633439,
+    "lng": 130.9333259,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513469020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西米良温泉;ゆた～と",
+    "name_en": "",
+    "lat": 32.2232174,
+    "lng": 131.1633806,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513495806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "そよ風浴場",
+    "name_en": "",
+    "lat": 32.7275831,
+    "lng": 131.1631664,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513764244,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高森温泉館",
+    "name_en": "",
+    "lat": 32.8456949,
+    "lng": 131.1507051,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6513807222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂 秘湯;うめ乃湯",
+    "name_en": "",
+    "lat": 33.2371706,
+    "lng": 130.9863303,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6514792050,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0136725,
+    "lng": 131.2199728,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515880151,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白丹温泉;ふれあいの湯",
+    "name_en": "",
+    "lat": 33.0096752,
+    "lng": 131.2643461,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515898039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田の原温泉 大朗舘;笹のしずく",
+    "name_en": "",
+    "lat": 33.0822939,
+    "lng": 131.1256889,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515931550,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大人の日帰り温泉;るりの湯",
+    "name_en": "",
+    "lat": 33.0742348,
+    "lng": 131.1220426,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515941167,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南小国町介護予防拠点施設;湯夢プラザ",
+    "name_en": "",
+    "lat": 33.0728596,
+    "lng": 131.0319726,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515972775,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南小国町交流促進センター;温泉館きよら",
+    "name_en": "",
+    "lat": 33.0923569,
+    "lng": 131.068833,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6515975300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杖立温泉;観音岩温泉",
+    "name_en": "",
+    "lat": 33.1731919,
+    "lng": 131.0376677,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516061233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山川温泉;ホタルの里温泉",
+    "name_en": "",
+    "lat": 33.1451901,
+    "lng": 131.1098823,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516092986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊礼の湯",
+    "name_en": "",
+    "lat": 33.1529495,
+    "lng": 131.1349999,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516106735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "守護陣温泉",
+    "name_en": "",
+    "lat": 33.1509426,
+    "lng": 131.1263541,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516108518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岳の湯温泉;ゆけむり茶屋",
+    "name_en": "",
+    "lat": 33.1556891,
+    "lng": 131.1357599,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516109894,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀山の湯",
+    "name_en": "",
+    "lat": 33.1786412,
+    "lng": 131.1169063,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516112971,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はげの湯温泉;くぬぎ湯",
+    "name_en": "",
+    "lat": 33.1532815,
+    "lng": 131.1378794,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516122621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岳の湯露天風呂",
+    "name_en": "",
+    "lat": 33.155579,
+    "lng": 131.136518,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516135208,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富温泉",
+    "name_en": "",
+    "lat": 33.1673114,
+    "lng": 131.113888,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516137400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岳の湯地獄谷温泉;裕花",
+    "name_en": "",
+    "lat": 33.1585823,
+    "lng": 131.1207019,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516144203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝泉寺温泉;せせらぎの湯",
+    "name_en": "",
+    "lat": 33.1885332,
+    "lng": 131.1479679,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516185926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "生竜温泉七福",
+    "name_en": "",
+    "lat": 33.1993322,
+    "lng": 131.166796,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516202215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまつぶしの湯",
+    "name_en": "",
+    "lat": 33.1359709,
+    "lng": 131.1992997,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516267235,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "里山温泉 家族湯;四季彩の湯",
+    "name_en": "",
+    "lat": 33.1896274,
+    "lng": 131.1726621,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516290638,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂;紅葉谷の湯",
+    "name_en": "",
+    "lat": 33.1751111,
+    "lng": 131.1717484,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516307860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1272107,
+    "lng": 131.1925452,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516358829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場;河原湯温泉",
+    "name_en": "",
+    "lat": 33.1269614,
+    "lng": 131.1923132,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516401124,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アゼリア21;長者乃湯",
+    "name_en": "",
+    "lat": 32.9289516,
+    "lng": 131.1096741,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516450262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇市立;一の宮温泉センター",
+    "name_en": "",
+    "lat": 32.9745576,
+    "lng": 131.1287666,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516460046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乙姫さま温泉;弁財天の湯",
+    "name_en": "",
+    "lat": 32.9299946,
+    "lng": 131.0432049,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516584257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "火の山温泉;どんどこ湯",
+    "name_en": "",
+    "lat": 32.9044783,
+    "lng": 130.9900932,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516589807,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南阿蘇村温泉センター;ウィナス",
+    "name_en": "",
+    "lat": 32.8712117,
+    "lng": 131.006474,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6516601069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すきむらんど;かじかの湯",
+    "name_en": "",
+    "lat": 32.0659813,
+    "lng": 131.0869174,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520119666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五木温泉;夢唄",
+    "name_en": "",
+    "lat": 32.3971707,
+    "lng": 130.8262064,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520566172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みゆきの里;ェルネススクエアー;和楽",
+    "name_en": "",
+    "lat": 32.7576992,
+    "lng": 130.7090073,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520587968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梶尾温泉",
+    "name_en": "",
+    "lat": 32.8735694,
+    "lng": 130.7290205,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520674099,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;きしゃぽっぽ",
+    "name_en": "",
+    "lat": 32.8862534,
+    "lng": 130.7305641,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520713215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;はなみずき",
+    "name_en": "",
+    "lat": 32.9412919,
+    "lng": 130.7258075,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520732970,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀の甲温泉",
+    "name_en": "",
+    "lat": 32.9385519,
+    "lng": 130.7457525,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520736682,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温泉邸;湯～庵",
+    "name_en": "",
+    "lat": 32.9354888,
+    "lng": 130.725026,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520736753,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "辰頭温泉",
+    "name_en": "",
+    "lat": 32.9320326,
+    "lng": 130.7391592,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520739698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝田温泉;宝の湯",
+    "name_en": "",
+    "lat": 32.9351196,
+    "lng": 130.729298,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520754496,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然家族温泉 蘇ざき",
+    "name_en": "",
+    "lat": 32.9500056,
+    "lng": 130.7439246,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520831270,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;藤の瀬",
+    "name_en": "",
+    "lat": 32.9559719,
+    "lng": 130.7269081,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520837042,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;リバーサイドパーク",
+    "name_en": "",
+    "lat": 32.9627567,
+    "lng": 130.7479997,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520850363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふろや湯湧",
+    "name_en": "",
+    "lat": 32.9557893,
+    "lng": 130.7267303,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520850621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "風の湯",
+    "name_en": "",
+    "lat": 32.9536952,
+    "lng": 130.7256237,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520868077,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;七城の森",
+    "name_en": "",
+    "lat": 32.9504607,
+    "lng": 130.7619958,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6520932588,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水辺プラザかもと;湯花里",
+    "name_en": "",
+    "lat": 32.9871141,
+    "lng": 130.7558135,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521054846,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 家族湯;もみじ湯",
+    "name_en": "",
+    "lat": 33.0222298,
+    "lng": 130.7784702,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521229546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;源氏",
+    "name_en": "",
+    "lat": 33.0144371,
+    "lng": 130.6845756,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521322478,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;再会",
+    "name_en": "",
+    "lat": 33.0160505,
+    "lng": 130.6857055,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521363495,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊入温泉センター",
+    "name_en": "",
+    "lat": 33.0214068,
+    "lng": 130.6854043,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521385750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊入温泉センター",
+    "name_en": "",
+    "lat": 33.0216656,
+    "lng": 130.6857109,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521390407,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮苑温泉",
+    "name_en": "",
+    "lat": 33.024482,
+    "lng": 130.6908179,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521419350,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三加和温泉;ふるさと交流センター",
+    "name_en": "",
+    "lat": 33.0384893,
+    "lng": 130.6195729,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521455652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;美感遊創",
+    "name_en": "",
+    "lat": 33.0404199,
+    "lng": 130.619033,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521477921,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0396772,
+    "lng": 130.6149992,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521490339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栗山温泉;紅さんざし",
+    "name_en": "",
+    "lat": 33.0393637,
+    "lng": 130.6117006,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521528404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;ひらおぎ",
+    "name_en": "",
+    "lat": 33.0527878,
+    "lng": 130.6596685,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521539463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;春日",
+    "name_en": "",
+    "lat": 33.0490295,
+    "lng": 130.6523871,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521566201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯処;風月",
+    "name_en": "",
+    "lat": 33.0557558,
+    "lng": 130.6611598,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521700161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平山温泉 日帰りスパ;フローラ",
+    "name_en": "",
+    "lat": 33.05408,
+    "lng": 130.6599221,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521703040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平小城温泉;城山公衆浴場",
+    "name_en": "",
+    "lat": 33.0563723,
+    "lng": 130.6585357,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521744791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平山温泉;華の番台",
+    "name_en": "",
+    "lat": 33.056611,
+    "lng": 130.6558036,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521764140,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;湯の川",
+    "name_en": "",
+    "lat": 33.0457137,
+    "lng": 130.6629888,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6521771878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九重やまなみ牧場;まきばの温泉館",
+    "name_en": "",
+    "lat": 33.1434418,
+    "lng": 131.2331788,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6522335069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宣徳寺",
     "name_en": "",
     "lat": 32.211242,
@@ -4616,6 +6937,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 6522417768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "幸の国健康温泉館;ゆーかむ",
+    "name_en": "",
+    "lat": 33.1157907,
+    "lng": 130.701301,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6522721884,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4631,6 +6963,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鯉の泳ぐまち",
+    "name_en": "Koi Fish Town",
+    "lat": 32.7849427,
+    "lng": 130.3706685,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 6660701086,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "淡島神社",
     "name_en": "",
     "lat": 32.8662302,
@@ -4638,6 +6981,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 6711839233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙国埼灯台",
+    "name_en": "",
+    "lat": 32.6890522,
+    "lng": 130.1270281,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 6764134485,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4675,6 +7029,17 @@
     "data_source": "osm"
   },
   {
+    "name": "別所浴場",
+    "name_en": "Bessho Bath House",
+    "lat": 32.7451228,
+    "lng": 130.2586953,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 6984882022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "栂尾神社拝殿",
     "name_en": "Tsugao Jinja Shrine",
     "lat": 32.4052768,
@@ -4697,6 +7062,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長者原温泉 足湯",
+    "name_en": "",
+    "lat": 33.1182636,
+    "lng": 131.2296483,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 7054528304,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "栂尾神社本殿",
     "name_en": "Tsugao Jinja Shrine Honden",
     "lat": 32.4049247,
@@ -4715,6 +7091,28 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 7070556875,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "薬師湯",
+    "name_en": "",
+    "lat": 33.1141383,
+    "lng": 131.1863427,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 7080362465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筋湯温泉足湯",
+    "name_en": "",
+    "lat": 33.1143961,
+    "lng": 131.1861134,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 7080362466,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4770,6 +7168,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 7221345556,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Former Onokoba Elementary School",
+    "name_en": "",
+    "lat": 32.7457121,
+    "lng": 130.3407575,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 7254082810,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "深江埋蔵文化財・噴火災害資料館",
+    "name_en": "",
+    "lat": 32.7451007,
+    "lng": 130.339918,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 7254082811,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4836,6 +7256,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 7331096693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7087119,
+    "lng": 130.5903478,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 7619286698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七通瀬灯標",
+    "name_en": "Nanatsuse light beacon",
+    "lat": 32.5469115,
+    "lng": 130.1057135,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 7679238200,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5489,6 +7931,17 @@
     "data_source": "osm"
   },
   {
+    "name": "共同湯 湯かたば",
+    "name_en": "",
+    "lat": 33.1825628,
+    "lng": 131.0350141,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 8270409894,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杖立温泉神社",
     "name_en": "Tsuetate Hotspring Shrine",
     "lat": 33.1807476,
@@ -5500,6 +7953,17 @@
     "data_source": "osm"
   },
   {
+    "name": "元湯",
+    "name_en": "Motoyu Spa",
+    "lat": 33.1846161,
+    "lng": 131.0317468,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 8356128767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師堂",
     "name_en": "Yakushido",
     "lat": 33.1845255,
@@ -5507,6 +7971,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 8356257825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "薬師湯",
+    "name_en": "Yakushi-yu",
+    "lat": 33.1845328,
+    "lng": 131.0323152,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 8356257826,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5577,6 +8052,39 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅しろいし",
+    "name_en": "",
+    "lat": 33.1771369,
+    "lng": 130.1956325,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 8489858656,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "幣串港南防波堤灯台",
+    "name_en": "",
+    "lat": 32.2603158,
+    "lng": 130.2270481,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8537313295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "片側港西防波堤灯台",
+    "name_en": "",
+    "lat": 32.2775262,
+    "lng": 130.2133712,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8537313296,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白髭稲荷大明神",
     "name_en": "",
     "lat": 32.1888089,
@@ -5606,6 +8114,17 @@
     "category": "station",
     "prefecture": "kumamoto",
     "osm_id": 8657034811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長瀬灯標",
+    "name_en": "Nagase Light Beacon",
+    "lat": 32.3134516,
+    "lng": 130.1679138,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8668618254,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5709,6 +8228,17 @@
     "data_source": "osm"
   },
   {
+    "name": "下大戸ノ鼻灯台",
+    "name_en": "Shimoutonohana Lighthouse",
+    "lat": 32.5294391,
+    "lng": 130.4608987,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8739651545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "矢嶽神社",
     "name_en": "",
     "lat": 32.4634582,
@@ -5716,6 +8246,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 8741760806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牟田港牛瀬灯標",
+    "name_en": "Muta Ko Ushise Lightbeacon",
+    "lat": 32.4733337,
+    "lng": 130.4393982,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8741988995,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牟田港2号防波堤北灯台",
+    "name_en": "",
+    "lat": 32.4704891,
+    "lng": 130.4384765,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8741988996,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5797,6 +8349,28 @@
     "data_source": "osm"
   },
   {
+    "name": "唐網代鼻灯台",
+    "name_en": "Karajirohana lighthouse",
+    "lat": 32.3772216,
+    "lng": 130.3560317,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8755557820,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "棚底城跡",
+    "name_en": "",
+    "lat": 32.4148847,
+    "lng": 130.3338114,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 8760507294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "棚底諏訪神社",
     "name_en": "",
     "lat": 32.4050706,
@@ -5815,6 +8389,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 8761662774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栖本城跡",
+    "name_en": "",
+    "lat": 32.414564,
+    "lng": 130.2752124,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 8767558488,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5896,6 +8481,28 @@
     "data_source": "osm"
   },
   {
+    "name": "湯島灯台",
+    "name_en": "Yushima Lighthouse",
+    "lat": 32.6053115,
+    "lng": 130.3312062,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8785313767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.5988265,
+    "lng": 130.3334606,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8785322806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.4884656,
@@ -5903,6 +8510,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 8785657643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "わくわく海中水族館シードーナツ",
+    "name_en": "",
+    "lat": 32.5298573,
+    "lng": 130.4283611,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 8785700317,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5940,6 +8558,28 @@
     "data_source": "osm"
   },
   {
+    "name": "肥後兜島灯台",
+    "name_en": "Higokabutoshima Lighthouse",
+    "lat": 32.5748728,
+    "lng": 130.4584106,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8809137032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三角灯台",
+    "name_en": "Misumi Lighthouse",
+    "lat": 32.6252353,
+    "lng": 130.4442094,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 8810360233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "清水寺",
     "name_en": "Kiyomizu-dera Temple",
     "lat": 32.80021,
@@ -5973,6 +8613,28 @@
     "data_source": "osm"
   },
   {
+    "name": "長者原ヘルスセンター",
+    "name_en": "",
+    "lat": 33.1180668,
+    "lng": 131.2295993,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 9085630893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "動馬木城",
+    "name_en": "",
+    "lat": 33.0846486,
+    "lng": 131.0866886,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 9193265019,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "元吉大明神",
     "name_en": "",
     "lat": 32.7829068,
@@ -5984,6 +8646,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山の中の海軍の町 にしき ひみつ基地ミュージアム",
+    "name_en": "",
+    "lat": 32.2208354,
+    "lng": 130.8170961,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 9287551979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "土屋観音 相良三十三観音 第三十一番",
     "name_en": "",
     "lat": 32.2064817,
@@ -5991,6 +8664,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 9287552041,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉海軍航空基地資料館",
+    "name_en": "",
+    "lat": 32.2208564,
+    "lng": 130.8175049,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 9339856735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1977496,
+    "lng": 130.2209794,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 9422997225,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6083,6 +8778,17 @@
     "data_source": "osm"
   },
   {
+    "name": "恋路島灯台",
+    "name_en": "Koiji Island Lighthouse",
+    "lat": 32.1967077,
+    "lng": 130.3609049,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 9833352277,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.3966251,
@@ -6171,6 +8877,17 @@
     "data_source": "osm"
   },
   {
+    "name": "沖ノ瀬灯標",
+    "name_en": "",
+    "lat": 32.6113318,
+    "lng": 130.2371693,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 10281553222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白鬚大明神社",
     "name_en": "",
     "lat": 32.6012126,
@@ -6222,6 +8939,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 10316052357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南島原市アートビレッジ・シラキノ",
+    "name_en": "Minamishimabara-shi Art Village",
+    "lat": 32.6397082,
+    "lng": 130.2247354,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 10542950834,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6424,6 +9152,17 @@
     "data_source": "osm"
   },
   {
+    "name": "島原灯台",
+    "name_en": "Shimabara Light House",
+    "lat": 32.779658,
+    "lng": 130.3821435,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 10680305246,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "琴平神社",
     "name_en": "",
     "lat": 32.7638322,
@@ -6600,6 +9339,17 @@
     "data_source": "osm"
   },
   {
+    "name": "荒尾干潟・水鳥湿地センター",
+    "name_en": "",
+    "lat": 32.9612145,
+    "lng": 130.4325578,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 10716215430,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "洗磯前神社",
     "name_en": "",
     "lat": 32.685016,
@@ -6666,6 +9416,17 @@
     "data_source": "osm"
   },
   {
+    "name": "黒川荘",
+    "name_en": "KuroKawaso",
+    "lat": 33.0789531,
+    "lng": 131.1362147,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 10951517745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.0786045,
@@ -6673,6 +9434,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 10960272454,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.3854594,
+    "lng": 130.4091532,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 10975641277,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6765,6 +9537,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0780192,
+    "lng": 131.139258,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 11156269409,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0774988,
+    "lng": 131.1405954,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 11362522032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ミニ水族館",
+    "name_en": "",
+    "lat": 33.075873,
+    "lng": 130.14584,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 11385821799,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山田日吉神社",
     "name_en": "",
     "lat": 32.9450962,
@@ -6805,6 +9610,28 @@
     "category": "station",
     "prefecture": "kumamoto",
     "osm_id": 11758716722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.023456,
+    "lng": 131.1505834,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 11794067161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旅館わかば",
+    "name_en": "Ryokan Wakaba",
+    "lat": 33.0767457,
+    "lng": 131.1434305,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 11956350056,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6974,6 +9801,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.3794711,
+    "lng": 130.2355023,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 12504195269,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上熊本",
     "name_en": "Kami-Kumamoto",
     "lat": 32.8184081,
@@ -7051,6 +9889,28 @@
     "data_source": "osm"
   },
   {
+    "name": "水俣市立 水俣病資料館",
+    "name_en": "",
+    "lat": 32.2034778,
+    "lng": 130.3747222,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12535981636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国立水俣病総合研究センター 水俣病情報センター",
+    "name_en": "",
+    "lat": 32.203282,
+    "lng": 130.3742596,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12535981637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三池藩総鎮守 三笠神社",
     "name_en": "",
     "lat": 33.0417228,
@@ -7069,6 +9929,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 12609736117,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひがさす",
+    "name_en": "Higasasu",
+    "lat": 33.1750714,
+    "lng": 130.2701348,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12652529142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋山幸二ギャラリー",
+    "name_en": "",
+    "lat": 32.5559654,
+    "lng": 130.6821348,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12686435176,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7095,6 +9977,72 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0105529,
+    "lng": 130.6882283,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 12735204224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒蔵",
+    "name_en": "",
+    "lat": 33.0112096,
+    "lng": 130.6872801,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12735204843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あし湯",
+    "name_en": "",
+    "lat": 33.0150043,
+    "lng": 130.6886891,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 12735515917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "池の間",
+    "name_en": "",
+    "lat": 33.0143239,
+    "lng": 130.6891401,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12735690613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍の湯",
+    "name_en": "",
+    "lat": 33.0143876,
+    "lng": 130.6890619,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12735690614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Foot onsen",
+    "name_en": "",
+    "lat": 33.0771034,
+    "lng": 131.1452889,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 12740392101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蓮台寺",
     "name_en": "",
     "lat": 32.7739819,
@@ -7102,6 +10050,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 12829675155,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草市立御所浦恐竜の島博物館",
+    "name_en": "",
+    "lat": 32.3376001,
+    "lng": 130.3379611,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 12850012154,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7194,6 +10153,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8882403,
+    "lng": 130.5069066,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 13119178512,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0773378,
+    "lng": 131.1417767,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13120426871,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "菊池神社",
     "name_en": "",
     "lat": 32.987829,
@@ -7216,6 +10197,83 @@
     "data_source": "osm"
   },
   {
+    "name": "熊本県菊池エミュー観光牧場",
+    "name_en": "",
+    "lat": 33.0156568,
+    "lng": 130.8683144,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 13142697459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "後藤温泉",
+    "name_en": "",
+    "lat": 32.973333,
+    "lng": 130.8035747,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13155121783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1738208,
+    "lng": 131.2147947,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13157144174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8571459,
+    "lng": 130.7257317,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 13235441544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "とよみずの湯",
+    "name_en": "",
+    "lat": 32.9237872,
+    "lng": 130.7694678,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13415601422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇火山博物館",
+    "name_en": "",
+    "lat": 32.8855019,
+    "lng": 131.0521153,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 13419528877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "輝泉荘(浴場)",
+    "name_en": "",
+    "lat": 33.1761708,
+    "lng": 130.403549,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13441896796,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙蓮寺",
     "name_en": "",
     "lat": 32.9826342,
@@ -7223,6 +10281,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 13444828088,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七城温泉ドーム",
+    "name_en": "",
+    "lat": 32.9617277,
+    "lng": 130.749744,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13447323407,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7271,6 +10340,83 @@
     "data_source": "osm"
   },
   {
+    "name": "しすいラドン温泉",
+    "name_en": "",
+    "lat": 32.931336,
+    "lng": 130.7746378,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 13500697088,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八代城",
+    "name_en": "Yatsushiro Castle",
+    "lat": 32.5076218,
+    "lng": 130.5997864,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 158829859,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅清和文楽邑",
+    "name_en": "",
+    "lat": 32.6906417,
+    "lng": 131.091587,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 160867598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高森温泉館",
+    "name_en": "",
+    "lat": 32.8457578,
+    "lng": 131.1507385,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 178938021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉城歴史館",
+    "name_en": "",
+    "lat": 32.2109933,
+    "lng": 130.7618273,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 230853459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "万田抗ステーション",
+    "name_en": "Manda Koh Station",
+    "lat": 33.0015199,
+    "lng": 130.4506651,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 244384012,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇火山博物館",
+    "name_en": "Aso Volcano Museum",
+    "lat": 32.8855264,
+    "lng": 131.0521478,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 244506566,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "阿蘇山本堂　西巌殿寺奥之院",
     "name_en": "",
     "lat": 32.8800912,
@@ -7282,6 +10428,39 @@
     "data_source": "osm"
   },
   {
+    "name": "阿蘇坊中温泉;夢の湯",
+    "name_en": "",
+    "lat": 32.936512,
+    "lng": 131.0788161,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 244541145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広川町古墳公園資料館",
+    "name_en": "",
+    "lat": 33.2381559,
+    "lng": 130.5176714,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 248195336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筌の口共同浴場",
+    "name_en": "Uke-no-kuchi Public Bath",
+    "lat": 33.1639112,
+    "lng": 131.2254372,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 255192700,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "青井阿蘇神社",
     "name_en": "Aoi Aso Shrine",
     "lat": 32.2133805,
@@ -7289,6 +10468,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 258076699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しあわせの湯",
+    "name_en": "",
+    "lat": 32.7015507,
+    "lng": 130.669617,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 270354218,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市石炭産業科学館",
+    "name_en": "",
+    "lat": 33.0310086,
+    "lng": 130.4243232,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 271997070,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7315,6 +10516,17 @@
     "data_source": "osm"
   },
   {
+    "name": "白丹温泉;ふれあいの湯",
+    "name_en": "",
+    "lat": 33.0096839,
+    "lng": 131.2642938,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 311836519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "善林寺",
     "name_en": "Zenrinji",
     "lat": 32.6451576,
@@ -7326,6 +10538,28 @@
     "data_source": "osm"
   },
   {
+    "name": "九重やまなみ牧場;まきばの温泉館",
+    "name_en": "",
+    "lat": 33.1435007,
+    "lng": 131.2334624,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 318491165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石段の郷 佐俣の湯",
+    "name_en": "Ishidan no Sato Samata Hot Spring",
+    "lat": 32.6236035,
+    "lng": 130.8225095,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 333214766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蓮政寺",
     "name_en": "",
     "lat": 32.8020016,
@@ -7333,6 +10567,61 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 342293718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御花",
+    "name_en": "Ohana Villa",
+    "lat": 33.1581939,
+    "lng": 130.398274,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 360717768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北原白秋生家・柳川市立歴史民俗資料館",
+    "name_en": "Birthplace of Hakushu Kitahara / Yanagawa Municipal Folk Museum",
+    "lat": 33.1587409,
+    "lng": 130.3941122,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 360923227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "からたち文人の足湯",
+    "name_en": "Karatachi Foot Bath of Literary Persons",
+    "lat": 33.1567682,
+    "lng": 130.4011794,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 360940323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川観光開発(株)",
+    "name_en": "Yanagawa Kanko Kaihatsu K.K.",
+    "lat": 33.1671797,
+    "lng": 130.4153169,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 363304073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯前まんが美術館",
+    "name_en": "",
+    "lat": 32.2806774,
+    "lng": 130.9810822,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 365543406,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7399,6 +10688,39 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 369704597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本城",
+    "name_en": "Kumamoto Castle",
+    "lat": 32.8053638,
+    "lng": 130.7054918,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 375062710,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙お山の情報館",
+    "name_en": "",
+    "lat": 32.7392338,
+    "lng": 130.2620208,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 379887469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙新湯温泉館",
+    "name_en": "Unzen Fresh Water Onsen",
+    "lat": 32.737986,
+    "lng": 130.2639208,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 380011555,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7546,6 +10868,17 @@
     "data_source": "osm"
   },
   {
+    "name": "Gamadas Dome (Mt. Unzen Disaster Memorial Hall)",
+    "name_en": "Gamadas Dome (Mt. Unzen Disaster Memorial Hall)",
+    "lat": 32.7435017,
+    "lng": 130.3759219,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 408866639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "津森神宮",
     "name_en": "",
     "lat": 32.80117,
@@ -7553,6 +10886,61 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 410409237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南阿蘇村温泉センター;ウィナス",
+    "name_en": "",
+    "lat": 32.8711701,
+    "lng": 131.0064929,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 410691877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すずめの湯",
+    "name_en": "",
+    "lat": 32.8598522,
+    "lng": 131.0353607,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 410709732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "火の山温泉;どんどこ湯",
+    "name_en": "",
+    "lat": 32.9044547,
+    "lng": 130.9900976,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 410709932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東陽交流センター;せせらぎ",
+    "name_en": "",
+    "lat": 32.54783,
+    "lng": 130.7157911,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 410741010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;ばってんの湯",
+    "name_en": "",
+    "lat": 32.7755621,
+    "lng": 130.7382136,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 410747476,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7590,6 +10978,28 @@
     "data_source": "osm"
   },
   {
+    "name": "乙姫さま温泉;弁財天の湯",
+    "name_en": "",
+    "lat": 32.9300001,
+    "lng": 131.0431987,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 411191369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇乙姫温泉;湯ら癒ら",
+    "name_en": "",
+    "lat": 32.933351,
+    "lng": 131.0413904,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 411193856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法輪寺",
     "name_en": "",
     "lat": 32.9368867,
@@ -7608,6 +11018,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 411261722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇市立;一の宮温泉センター",
+    "name_en": "",
+    "lat": 32.9745626,
+    "lng": 131.1287319,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 411262463,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7656,6 +11077,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8073328,
+    "lng": 130.700496,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 412130100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8077466,
+    "lng": 130.7006737,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 412130101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8080017,
+    "lng": 130.7005693,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 412130104,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8646035,
+    "lng": 130.809314,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 412462408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光明寺",
     "name_en": "",
     "lat": 32.7832728,
@@ -7667,6 +11132,17 @@
     "data_source": "osm"
   },
   {
+    "name": "アゼリア21;長者乃湯",
+    "name_en": "",
+    "lat": 32.9289088,
+    "lng": 131.109815,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 412925637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.8808872,
@@ -7674,6 +11150,50 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 413280139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みふね観音温泉;華ほたる",
+    "name_en": "",
+    "lat": 32.7145981,
+    "lng": 130.811177,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 413309101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇カドリー・ドミニオン",
+    "name_en": "",
+    "lat": 32.9316539,
+    "lng": 131.0669872,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 415203822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿蘇カドリー・ドミニオン",
+    "name_en": "",
+    "lat": 32.9315583,
+    "lng": 131.0647002,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 415207311,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇土市健康福祉館;あじさいの湯",
+    "name_en": "",
+    "lat": 32.6891933,
+    "lng": 130.5982997,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 415341135,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7931,6 +11451,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ふろや湯湧",
+    "name_en": "",
+    "lat": 32.9558447,
+    "lng": 130.7267482,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 424798336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;藤の瀬",
+    "name_en": "",
+    "lat": 32.9559811,
+    "lng": 130.7269339,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 424798337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.8004787,
@@ -7938,6 +11480,28 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 434706866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅あそ",
+    "name_en": "",
+    "lat": 32.9366641,
+    "lng": 131.0810049,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 436808993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯らっくす",
+    "name_en": "",
+    "lat": 32.7853365,
+    "lng": 130.7023924,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 438229175,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7953,6 +11517,193 @@
     "data_source": "osm"
   },
   {
+    "name": "山川PA (下り)",
+    "name_en": "Yamakawa PA",
+    "lat": 33.1283576,
+    "lng": 130.518111,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443690789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山川PA (上り)",
+    "name_en": "Yamakawa PA",
+    "lat": 33.1282939,
+    "lng": 130.5173324,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443690974,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名PA (上り)",
+    "name_en": "Tamana PA",
+    "lat": 33.0145645,
+    "lng": 130.5834939,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443691279,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名PA (下り)",
+    "name_en": "Tamana PA",
+    "lat": 33.0122817,
+    "lng": 130.5848646,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443691381,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "託麻PA (上り)",
+    "name_en": "Takuma PA",
+    "lat": 32.8095741,
+    "lng": 130.7930932,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443693120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "託麻PA (下り)",
+    "name_en": "Takuma PA",
+    "lat": 32.8092382,
+    "lng": 130.7941847,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443693604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "緑川PA (下り)",
+    "name_en": "Midorikawa PA",
+    "lat": 32.7078614,
+    "lng": 130.7565173,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443696485,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "緑川PA (上り)",
+    "name_en": "Midorikawa PA",
+    "lat": 32.708974,
+    "lng": 130.7565469,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443697346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂本PA (下り)",
+    "name_en": "Sakamoto PA",
+    "lat": 32.4425855,
+    "lng": 130.6693235,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443698635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂本PA (上り)",
+    "name_en": "Sakamoto PA",
+    "lat": 32.4424316,
+    "lng": 130.6679716,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443698917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "えびのPA (下り)",
+    "name_en": "Ebino PA",
+    "lat": 32.0692133,
+    "lng": 130.7968101,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443702265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "えびのPA (上り)",
+    "name_en": "Ebino PA",
+    "lat": 32.0690088,
+    "lng": 130.7958526,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 443704582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有明温泉さざ波の湯",
+    "name_en": "",
+    "lat": 32.5051835,
+    "lng": 130.3059692,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 459282746,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五木温泉;夢唄",
+    "name_en": "",
+    "lat": 32.3970969,
+    "lng": 130.8262729,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 469310295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "民具資料館",
+    "name_en": "Folk Implement Museum",
+    "lat": 32.7900572,
+    "lng": 130.3677331,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 477197118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西望記念館",
+    "name_en": "Seibo Memorial Hall",
+    "lat": 32.7891765,
+    "lng": 130.3678317,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 477197125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島原城キリシタン史料館",
+    "name_en": "Shimabara Castle",
+    "lat": 32.7892377,
+    "lng": 130.3672532,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 477197128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観音禅寺",
     "name_en": "",
     "lat": 32.2165535,
@@ -7960,6 +11711,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 478881768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西の櫓",
+    "name_en": "West Turret(Nishi-no-yagura)",
+    "lat": 32.7886764,
+    "lng": 130.3666108,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 482767122,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7986,6 +11748,28 @@
     "data_source": "osm"
   },
   {
+    "name": "玉樹温泉 露天風呂",
+    "name_en": "",
+    "lat": 33.1873322,
+    "lng": 131.0305423,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 515676763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フォレストテラス豊後の湯",
+    "name_en": "Forest Terrace Bungo",
+    "lat": 33.1867396,
+    "lng": 131.0303289,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 515676764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杖立皇大神宮",
     "name_en": "",
     "lat": 33.1846039,
@@ -7993,6 +11777,39 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 515679505,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御前湯",
+    "name_en": "Gosenyu",
+    "lat": 33.1834165,
+    "lng": 131.0323394,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 515679516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊本城天然温泉;城の湯",
+    "name_en": "",
+    "lat": 32.8108351,
+    "lng": 130.7015334,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 528610402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほっとふっと105",
+    "name_en": "",
+    "lat": 32.7272293,
+    "lng": 130.2052334,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 529325432,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8030,6 +11847,28 @@
     "data_source": "osm"
   },
   {
+    "name": "菊池わくわく温泉",
+    "name_en": "",
+    "lat": 32.9785373,
+    "lng": 130.8154962,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 545012462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍の湯",
+    "name_en": "",
+    "lat": 32.7878801,
+    "lng": 130.7050036,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 545836836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "日吉神社",
     "name_en": "",
     "lat": 32.7783857,
@@ -8059,6 +11898,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 548622201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "嘉島湯元;水春",
+    "name_en": "",
+    "lat": 32.7365802,
+    "lng": 130.7484207,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 558514422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐野常民と三重津海軍所跡の歴史館",
+    "name_en": "Sano Tsunetami and the Mietsu Naval Dock History Museum",
+    "lat": 33.2081142,
+    "lng": 130.3394402,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 559186158,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8283,6 +12144,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本庄の湯",
+    "name_en": "",
+    "lat": 33.2399745,
+    "lng": 130.3084418,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 572766236,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "那知熊野神社",
     "name_en": "",
     "lat": 32.8904548,
@@ -8492,6 +12364,17 @@
     "data_source": "osm"
   },
   {
+    "name": "瀬詰崎灯台",
+    "name_en": "",
+    "lat": 32.5907443,
+    "lng": 130.1674101,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 593952646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2136917,
@@ -8569,6 +12452,17 @@
     "data_source": "osm"
   },
   {
+    "name": "口之津灯台",
+    "name_en": "",
+    "lat": 32.6017352,
+    "lng": 130.1973388,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 619948326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浅間神社",
     "name_en": "",
     "lat": 32.6369422,
@@ -8609,6 +12503,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 630644398,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多良木町ふれあい交流センター;えびすの湯",
+    "name_en": "",
+    "lat": 32.2633716,
+    "lng": 130.9333445,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 636872382,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8675,6 +12580,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 643768046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1436608,
+    "lng": 130.3259464,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 644857181,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8752,6 +12668,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 651513934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "櫓台跡",
+    "name_en": "",
+    "lat": 32.6289571,
+    "lng": 130.2537997,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 651521340,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8921,6 +12848,17 @@
     "data_source": "osm"
   },
   {
+    "name": "熊本市動植物園",
+    "name_en": "",
+    "lat": 32.775277,
+    "lng": 130.748169,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 660871771,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2354688,
@@ -8939,6 +12877,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 661989949,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長島町温泉センター椿の湯",
+    "name_en": "",
+    "lat": 32.161832,
+    "lng": 130.1112131,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 664750307,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9016,6 +12965,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 682655810,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の鶴温泉保健センター;ほたるの湯",
+    "name_en": "",
+    "lat": 32.1474068,
+    "lng": 130.4395135,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 683471933,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9141,6 +13101,633 @@
     "data_source": "osm"
   },
   {
+    "name": "十三奉行温泉",
+    "name_en": "",
+    "lat": 32.0609712,
+    "lng": 130.2576951,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691688929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舞鶴温泉",
+    "name_en": "",
+    "lat": 32.0812271,
+    "lng": 130.271597,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691690299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高尾野温泉センター;もみじ",
+    "name_en": "",
+    "lat": 32.0630593,
+    "lng": 130.312567,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691691745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぬくもりの湯",
+    "name_en": "",
+    "lat": 32.1105309,
+    "lng": 130.3283333,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691694450,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "針原塩湯温泉",
+    "name_en": "",
+    "lat": 32.1397469,
+    "lng": 130.3538687,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691715109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千宝の湯",
+    "name_en": "",
+    "lat": 32.1664405,
+    "lng": 130.3605232,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691721413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四浦屋本店",
+    "name_en": "",
+    "lat": 32.1486237,
+    "lng": 130.4397472,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691833229,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;中村温泉",
+    "name_en": "",
+    "lat": 32.2323631,
+    "lng": 130.4162037,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691835366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白梅湯裸楽",
+    "name_en": "",
+    "lat": 32.2328154,
+    "lng": 130.4157989,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691835529,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つなぎ温泉;四季彩",
+    "name_en": "",
+    "lat": 32.2324937,
+    "lng": 130.4561296,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691936658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヘルシーパーク芦北",
+    "name_en": "",
+    "lat": 32.2726105,
+    "lng": 130.5020619,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691940967,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯浦温泉センター",
+    "name_en": "",
+    "lat": 32.274648,
+    "lng": 130.4998109,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691945693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "計石温泉センター",
+    "name_en": "",
+    "lat": 32.3017153,
+    "lng": 130.4774807,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691951262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御立岬温泉センター",
+    "name_en": "",
+    "lat": 32.3671113,
+    "lng": 130.492588,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691952810,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大野温泉センター",
+    "name_en": "",
+    "lat": 32.2898549,
+    "lng": 130.5823041,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691963403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さかもと温泉センター;クレオン",
+    "name_en": "",
+    "lat": 32.4134875,
+    "lng": 130.6385929,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691967763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さかもと温泉;いこいの家",
+    "name_en": "",
+    "lat": 32.4171786,
+    "lng": 130.6172599,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691973842,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日奈久温泉センター;ばんぺい湯",
+    "name_en": "",
+    "lat": 32.4323092,
+    "lng": 130.5751638,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 691976618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つる乃湯八代店",
+    "name_en": "",
+    "lat": 32.5143837,
+    "lng": 130.6515515,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692001934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "なごみ温泉;やすらぎの湯",
+    "name_en": "",
+    "lat": 32.5992271,
+    "lng": 130.7033306,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692092888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "不知火温泉;ロマンの湯",
+    "name_en": "",
+    "lat": 32.6338526,
+    "lng": 130.6292609,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692093939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯",
+    "name_en": "",
+    "lat": 32.6339506,
+    "lng": 130.6289036,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692094326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6700294,
+    "lng": 130.7056062,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692095043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6701016,
+    "lng": 130.705899,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692095598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "隠れ家温泉;古保山リゾート",
+    "name_en": "",
+    "lat": 32.6704053,
+    "lng": 130.7056417,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692095601,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元湯;佐俣の湯",
+    "name_en": "",
+    "lat": 32.6226814,
+    "lng": 130.8226759,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692106923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富合サウナランド",
+    "name_en": "",
+    "lat": 32.702439,
+    "lng": 130.6734137,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692188111,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上天草市交流センター;スパ・タラソ天草",
+    "name_en": "",
+    "lat": 32.5794375,
+    "lng": 130.418254,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692215548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本渡温泉センター",
+    "name_en": "",
+    "lat": 32.452656,
+    "lng": 130.2094605,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692229763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "総合交流ターミナル施設;ユメール",
+    "name_en": "",
+    "lat": 32.5514242,
+    "lng": 130.1127591,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692230750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草ゆ楽園",
+    "name_en": "",
+    "lat": 32.3561486,
+    "lng": 130.1528077,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692272486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太陽の里温泉センター;東泉望",
+    "name_en": "",
+    "lat": 32.1942127,
+    "lng": 130.1910201,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692345858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "草枕温泉;てんすい",
+    "name_en": "",
+    "lat": 32.8516971,
+    "lng": 130.5922623,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692346287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横島総合保健福祉センター ゆとりーむ",
+    "name_en": "",
+    "lat": 32.8769226,
+    "lng": 130.5562615,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692348817,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名市岱明コミュニティセンター;潮湯",
+    "name_en": "",
+    "lat": 32.8975979,
+    "lng": 130.4893077,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692373991,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄屋の湯",
+    "name_en": "",
+    "lat": 32.9351262,
+    "lng": 130.5726377,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692390382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9391027,
+    "lng": 130.5629981,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9390276,
+    "lng": 130.56286,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9389514,
+    "lng": 130.5629133,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9388185,
+    "lng": 130.5629022,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391027,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9387271,
+    "lng": 130.5628396,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391028,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9388098,
+    "lng": 130.5627869,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692391029,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つかさの湯",
+    "name_en": "",
+    "lat": 32.9387116,
+    "lng": 130.5559841,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692398111,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいの丘交流センター",
+    "name_en": "",
+    "lat": 32.913677,
+    "lng": 130.6214949,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692399888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菊水ロマン舘",
+    "name_en": "",
+    "lat": 32.9732965,
+    "lng": 130.6022008,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692400928,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂;いつでも一番風呂",
+    "name_en": "",
+    "lat": 32.9614958,
+    "lng": 130.4500238,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692406094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾温泉;ドリームの湯",
+    "name_en": "",
+    "lat": 32.9618884,
+    "lng": 130.4493438,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692406330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "トリムパーク;春光の湯",
+    "name_en": "",
+    "lat": 33.0061598,
+    "lng": 130.442758,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692409254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0129408,
+    "lng": 130.4686529,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692410916,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田天然温泉;最高の湯",
+    "name_en": "",
+    "lat": 33.0131433,
+    "lng": 130.4682866,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692410917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南の関;うから館",
+    "name_en": "",
+    "lat": 33.0576185,
+    "lng": 130.5399785,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692421575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南島原市布津保健福祉センター 湯楽里",
+    "name_en": "",
+    "lat": 32.6981588,
+    "lng": 130.3468993,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692438294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島原温泉;ゆとろぎの湯",
+    "name_en": "",
+    "lat": 32.7848166,
+    "lng": 130.3692363,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692439089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有明温泉 美人の湯",
+    "name_en": "",
+    "lat": 32.8489498,
+    "lng": 130.3374551,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692443763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みずほ温泉 千年の湯",
+    "name_en": "",
+    "lat": 32.8717214,
+    "lng": 130.237055,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692450856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙よか湯",
+    "name_en": "",
+    "lat": 32.7356776,
+    "lng": 130.2601767,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692454754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙温泉 小地獄温泉館",
+    "name_en": "",
+    "lat": 32.7326,
+    "lng": 130.2631225,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692457379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1740294,
@@ -9148,6 +13735,1282 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 692555863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレッシュセンター;おばま",
+    "name_en": "",
+    "lat": 32.7207975,
+    "lng": 130.2025235,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692569318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "味処湯処;よしちょう",
+    "name_en": "",
+    "lat": 32.725776,
+    "lng": 130.205306,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692570130,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小長井健康センター",
+    "name_en": "",
+    "lat": 32.9303215,
+    "lng": 130.198918,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 692598982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;大木の湯;アクアス",
+    "name_en": "",
+    "lat": 33.212278,
+    "lng": 130.4435965,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693164579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大川温泉 貴肌美人;緑の湯",
+    "name_en": "",
+    "lat": 33.219955,
+    "lng": 130.4154141,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693229780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;あおき温泉",
+    "name_en": "",
+    "lat": 33.2393954,
+    "lng": 130.4111145,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693269952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大口温泉;高熊荘",
+    "name_en": "",
+    "lat": 32.085455,
+    "lng": 130.6113096,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693742397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.2422608,
+    "lng": 130.6457468,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693744678,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一勝地温泉;かわせみ",
+    "name_en": "",
+    "lat": 32.2419139,
+    "lng": 130.6458411,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693744679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筌場温泉;花手箱",
+    "name_en": "",
+    "lat": 32.2199475,
+    "lng": 130.7229601,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693746367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.2424339,
+    "lng": 130.7261315,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693747412,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白岳温泉;しろみづき荘",
+    "name_en": "",
+    "lat": 32.2085718,
+    "lng": 130.7512468,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693748766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相良路の湯;おおが",
+    "name_en": "",
+    "lat": 32.2086315,
+    "lng": 130.7558959,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693750314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉温泉 家族湯;癒しの杜",
+    "name_en": "",
+    "lat": 32.2255862,
+    "lng": 130.7685638,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693750967,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あさぎり町ヘルシーランド;薬師温泉",
+    "name_en": "",
+    "lat": 32.2172567,
+    "lng": 130.9005398,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693761245,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あさぎり町ふれあい温泉;温華乃遥",
+    "name_en": "",
+    "lat": 32.2401336,
+    "lng": 130.9293467,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693762197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.2235511,
+    "lng": 131.1632242,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693765908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西米良温泉;ゆた～と",
+    "name_en": "",
+    "lat": 32.2232275,
+    "lng": 131.1633438,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693765909,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "そよ風浴場",
+    "name_en": "",
+    "lat": 32.7274861,
+    "lng": 131.1631651,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693784651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7274387,
+    "lng": 131.1630296,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693784652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2373389,
+    "lng": 130.9865355,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693894335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2372245,
+    "lng": 130.9864953,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693894336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂 秘湯;うめ乃湯",
+    "name_en": "",
+    "lat": 33.2371179,
+    "lng": 130.9864255,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693894337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2370192,
+    "lng": 130.9863585,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 693894338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0137895,
+    "lng": 131.2199442,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694011437,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒川日帰り温泉;彩もみぢ",
+    "name_en": "",
+    "lat": 33.0809789,
+    "lng": 131.1380066,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694012377,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南小国町交流促進センター;温泉館きよら",
+    "name_en": "",
+    "lat": 33.0923739,
+    "lng": 131.068869,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694017018,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南小国町介護予防拠点施設;湯夢プラザ",
+    "name_en": "",
+    "lat": 33.0728368,
+    "lng": 131.0319525,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694020517,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杖立温泉 観音岩温泉",
+    "name_en": "Kannon-iwa Onsen Spa",
+    "lat": 33.1732029,
+    "lng": 131.0376775,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694029507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白岩温泉",
+    "name_en": "Shiraiwa Onsen Spa",
+    "lat": 33.1758512,
+    "lng": 131.0371795,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694031725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山川温泉;ホタルの里温泉",
+    "name_en": "",
+    "lat": 33.1451865,
+    "lng": 131.1099515,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694033351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "守護陣温泉",
+    "name_en": "",
+    "lat": 33.1509614,
+    "lng": 131.1263304,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694034986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊礼の湯",
+    "name_en": "",
+    "lat": 33.1528967,
+    "lng": 131.135012,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694036329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1531913,
+    "lng": 131.137719,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694037455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1533475,
+    "lng": 131.1375717,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694037456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はげの湯温泉;くぬぎ湯",
+    "name_en": "",
+    "lat": 33.153404,
+    "lng": 131.1377391,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694037457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岳の湯露天風呂",
+    "name_en": "",
+    "lat": 33.1555892,
+    "lng": 131.1365163,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694038237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岳の湯地獄谷温泉;裕花",
+    "name_en": "",
+    "lat": 33.1585733,
+    "lng": 131.1207304,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694040065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富温泉",
+    "name_en": "",
+    "lat": 33.1673078,
+    "lng": 131.1138732,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694040642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀山の湯",
+    "name_en": "",
+    "lat": 33.1786474,
+    "lng": 131.1169036,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694040998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1787534,
+    "lng": 131.1168075,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694041874,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1787534,
+    "lng": 131.1166988,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694041875,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1787864,
+    "lng": 131.116576,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694041876,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1787747,
+    "lng": 131.1164516,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694041877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.178782,
+    "lng": 131.1163525,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694041878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝泉寺温泉;せせらぎの湯",
+    "name_en": "",
+    "lat": 33.1885646,
+    "lng": 131.1480732,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694044692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "生竜温泉七福",
+    "name_en": "",
+    "lat": 33.1993222,
+    "lng": 131.1667877,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694045900,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "里山温泉 家族湯;四季彩の湯",
+    "name_en": "",
+    "lat": 33.1896495,
+    "lng": 131.17264,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694055927,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.189877,
+    "lng": 131.1725474,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694055928,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまつぶしの湯",
+    "name_en": "",
+    "lat": 33.1359964,
+    "lng": 131.1993135,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694061596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1272147,
+    "lng": 131.1925781,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694063253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すきむらんど;かじかの湯",
+    "name_en": "",
+    "lat": 32.0660502,
+    "lng": 131.0869146,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694407548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菊南温泉スパリゾート あがんなっせ",
+    "name_en": "",
+    "lat": 32.860395,
+    "lng": 130.7277537,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694455414,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梶尾温泉",
+    "name_en": "",
+    "lat": 32.8735942,
+    "lng": 130.7290122,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694456034,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の屋台村",
+    "name_en": "",
+    "lat": 32.9152475,
+    "lng": 130.737051,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694458661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "辰頭温泉",
+    "name_en": "",
+    "lat": 32.9320809,
+    "lng": 130.7390694,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694460358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀の甲温泉",
+    "name_en": "",
+    "lat": 32.9385502,
+    "lng": 130.7457483,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694461112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝田温泉;宝の湯",
+    "name_en": "",
+    "lat": 32.9351455,
+    "lng": 130.7292658,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694461584,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温泉邸;湯～庵",
+    "name_en": "",
+    "lat": 32.9354442,
+    "lng": 130.7251337,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694462935,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;はなみずき",
+    "name_en": "",
+    "lat": 32.9413049,
+    "lng": 130.7257944,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694464794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9414161,
+    "lng": 130.725912,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9415189,
+    "lng": 130.7259379,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465127,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9414834,
+    "lng": 130.7257308,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.941374,
+    "lng": 130.7256596,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9415356,
+    "lng": 130.7256524,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465130,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9414631,
+    "lng": 130.7256342,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9414171,
+    "lng": 130.7258214,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9415012,
+    "lng": 130.725848,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694465133,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "風の湯",
+    "name_en": "",
+    "lat": 32.9538251,
+    "lng": 130.7256236,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694470562,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;リバーサイドパーク",
+    "name_en": "",
+    "lat": 32.9625652,
+    "lng": 130.7481796,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.962625,
+    "lng": 130.7480323,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471649,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9626554,
+    "lng": 130.7478632,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9626919,
+    "lng": 130.7476979,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9628833,
+    "lng": 130.7478029,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9628935,
+    "lng": 130.7480492,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471653,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9628884,
+    "lng": 130.74831,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694471654,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;七城の森",
+    "name_en": "",
+    "lat": 32.9504748,
+    "lng": 130.761998,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694475100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9502768,
+    "lng": 130.762333,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694475101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9502107,
+    "lng": 130.7621711,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694475102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水辺プラザかもと;湯花里",
+    "name_en": "",
+    "lat": 32.9869482,
+    "lng": 130.7556903,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694487738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 家族湯;もみじ湯",
+    "name_en": "",
+    "lat": 33.0222257,
+    "lng": 130.7784302,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694498548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ならのさこ温泉;いやしの湯",
+    "name_en": "",
+    "lat": 33.0106722,
+    "lng": 130.7014674,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694499081,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;幸泉閣",
+    "name_en": "",
+    "lat": 33.0148765,
+    "lng": 130.7060193,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694501041,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "露天湯;椛",
+    "name_en": "",
+    "lat": 33.0172604,
+    "lng": 130.7108091,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694502358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温泉の郷;山鹿どんぐり村",
+    "name_en": "",
+    "lat": 33.0207276,
+    "lng": 130.7123053,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694504258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "貸切湯舟;山伏天然温泉",
+    "name_en": "",
+    "lat": 33.0190999,
+    "lng": 130.7031344,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694505326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山鹿温泉;さくら湯",
+    "name_en": "",
+    "lat": 33.0144356,
+    "lng": 130.6889643,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694507095,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;源氏",
+    "name_en": "",
+    "lat": 33.0143324,
+    "lng": 130.6846596,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694508994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;再会",
+    "name_en": "",
+    "lat": 33.0161059,
+    "lng": 130.6856927,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694510753,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊入温泉センター",
+    "name_en": "",
+    "lat": 33.0216587,
+    "lng": 130.6857516,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694512653,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊入温泉センター",
+    "name_en": "",
+    "lat": 33.0214238,
+    "lng": 130.685388,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694513686,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮苑温泉",
+    "name_en": "",
+    "lat": 33.0245218,
+    "lng": 130.690828,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694518523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三加和温泉;ふるさと交流センター",
+    "name_en": "",
+    "lat": 33.0384948,
+    "lng": 130.6196039,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694520161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;美感遊創",
+    "name_en": "",
+    "lat": 33.0404265,
+    "lng": 130.6190184,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694526536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0395634,
+    "lng": 130.6150057,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694527628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栗山温泉;紅さんざし",
+    "name_en": "",
+    "lat": 33.0394201,
+    "lng": 130.6117643,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694530000,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0395704,
+    "lng": 130.6117744,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694530099,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族湯;春日",
+    "name_en": "",
+    "lat": 33.0488485,
+    "lng": 130.652375,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694535105,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;ひらおぎ",
+    "name_en": "",
+    "lat": 33.0529867,
+    "lng": 130.6596713,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694536535,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平山温泉 日帰りスパ;フローラ",
+    "name_en": "",
+    "lat": 33.0541968,
+    "lng": 130.6599659,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694545806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯処;風月",
+    "name_en": "",
+    "lat": 33.0557771,
+    "lng": 130.6612272,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694547335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平山温泉;華の番台",
+    "name_en": "",
+    "lat": 33.0564701,
+    "lng": 130.655827,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694551408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0461364,
+    "lng": 130.6626662,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694553007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0459609,
+    "lng": 130.6627079,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694553008,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉;湯の川",
+    "name_en": "",
+    "lat": 33.0457179,
+    "lng": 130.6629928,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694553009,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1789025,
+    "lng": 131.1163855,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621500,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1789085,
+    "lng": 131.1165395,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1793796,
+    "lng": 131.1169441,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1795598,
+    "lng": 131.1167762,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1795556,
+    "lng": 131.1170897,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621505,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1796593,
+    "lng": 131.1168843,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621506,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.179775,
+    "lng": 131.1170025,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694621507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "幸の国健康温泉館;ゆーかむ",
+    "name_en": "",
+    "lat": 33.1156964,
+    "lng": 130.7012782,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 694653801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "幸徳温泉",
+    "name_en": "",
+    "lat": 32.9885255,
+    "lng": 130.7041164,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 699918741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つる乃湯熊本インター店",
+    "name_en": "",
+    "lat": 32.8421873,
+    "lng": 130.7810605,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 699944800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;ぶぶたん",
+    "name_en": "",
+    "lat": 32.8159518,
+    "lng": 130.7926757,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 699945952,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9185,6 +15048,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川の駅 船小屋;恋ぼたる温泉館",
+    "name_en": "",
+    "lat": 33.1829897,
+    "lng": 130.5025906,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 737062147,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 33.1489651,
@@ -9214,6 +15088,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 753539658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "椎葉民俗芸能博物館",
+    "name_en": "Shiiba Museum of Folk Performing Arts",
+    "lat": 32.4639296,
+    "lng": 131.1553584,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 753546789,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9251,6 +15136,17 @@
     "data_source": "osm"
   },
   {
+    "name": "祐徳博物館",
+    "name_en": "Yūtoku Museum",
+    "lat": 33.0739371,
+    "lng": 130.1097882,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 753618055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1760503,
@@ -9258,6 +15154,50 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 753707515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九州芸文館",
+    "name_en": "",
+    "lat": 33.1785053,
+    "lng": 130.493673,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 754903240,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立ち寄り湯 三俣の湯・泉水の湯",
+    "name_en": "",
+    "lat": 33.1172062,
+    "lng": 131.2274324,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 755190065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "露天岩ん湯",
+    "name_en": "",
+    "lat": 33.1139236,
+    "lng": 131.1858519,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 758174791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筋湯温泉 うたせ大浴場",
+    "name_en": "",
+    "lat": 33.1143201,
+    "lng": 131.1861971,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 758174793,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9548,6 +15488,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.0203107,
+    "lng": 130.443951,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 817457164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2194648,
@@ -9680,6 +15631,17 @@
     "data_source": "osm"
   },
   {
+    "name": "水竹居の館",
+    "name_en": "",
+    "lat": 32.5649449,
+    "lng": 130.639425,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 824861862,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.5547511,
@@ -9720,6 +15682,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 826028146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水竹居資料館",
+    "name_en": "",
+    "lat": 32.5646761,
+    "lng": 130.6394073,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 826046411,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9801,6 +15774,17 @@
     "data_source": "osm"
   },
   {
+    "name": "御湯の駅",
+    "name_en": "Oyu-no-eki Foot Bath",
+    "lat": 33.1821488,
+    "lng": 131.0350592,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 899316026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杖立稲荷神社",
     "name_en": "",
     "lat": 33.1819018,
@@ -9808,6 +15792,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 899316029,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉祥の湯",
+    "name_en": "Kichijo-no-yu Spa",
+    "lat": 33.1783069,
+    "lng": 131.0373912,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 899316040,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9922,6 +15917,17 @@
     "data_source": "osm"
   },
   {
+    "name": "須古城趾",
+    "name_en": "",
+    "lat": 33.1800491,
+    "lng": 130.1037126,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 902270816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社　弁財天",
     "name_en": "",
     "lat": 33.1713459,
@@ -10032,6 +16038,17 @@
     "data_source": "osm"
   },
   {
+    "name": "男島城趾",
+    "name_en": "",
+    "lat": 33.1807927,
+    "lng": 130.1123399,
+    "category": "castle",
+    "prefecture": "kumamoto",
+    "osm_id": 904128779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "幣串神社",
     "name_en": "",
     "lat": 32.2546721,
@@ -10039,6 +16056,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 919231920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天草市新和歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.3300614,
+    "lng": 130.1641974,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 919609430,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10087,6 +16115,28 @@
     "data_source": "osm"
   },
   {
+    "name": "長島町歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.1624961,
+    "lng": 130.1116203,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 924015919,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五和歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.5504299,
+    "lng": 130.1146158,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 931690935,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本徳稲荷神社",
     "name_en": "",
     "lat": 32.4712161,
@@ -10094,6 +16144,39 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 932260892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ペルラの湯船",
+    "name_en": "",
+    "lat": 32.4722036,
+    "lng": 130.2066858,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 932260894,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本渡歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.4607918,
+    "lng": 130.198626,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 933727828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.3866785,
+    "lng": 130.1938957,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 934672295,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10175,6 +16258,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天草市立有明歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.4864397,
+    "lng": 130.28913,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 940882219,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "下津浦諏訪神社",
     "name_en": "",
     "lat": 32.4763458,
@@ -10182,6 +16276,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 940897224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.4897963,
+    "lng": 130.2904518,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 940923866,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10208,6 +16313,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.4935381,
+    "lng": 130.2964468,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 941172764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.5114217,
+    "lng": 130.3116884,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 941468448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "菅原神社",
     "name_en": "",
     "lat": 32.4650856,
@@ -10230,6 +16357,50 @@
     "data_source": "osm"
   },
   {
+    "name": "松ケ鼻麦瀬照射灯",
+    "name_en": "Matsugahana Lightbeacon",
+    "lat": 32.3824554,
+    "lng": 130.3800809,
+    "category": "lighthouse",
+    "prefecture": "kumamoto",
+    "osm_id": 945525725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.383308,
+    "lng": 130.3812159,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 945525726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.38379,
+    "lng": 130.379696,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 945525727,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉岳歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.4102088,
+    "lng": 130.343662,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 946385410,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "城山大師堂",
     "name_en": "",
     "lat": 32.4098069,
@@ -10237,6 +16408,39 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 946667587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.4446254,
+    "lng": 130.3103513,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 947774666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栖本温泉センター 河童ロマン館",
+    "name_en": "",
+    "lat": 32.4151077,
+    "lng": 130.2663167,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 948334792,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.5350299,
+    "lng": 130.4225814,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 949249872,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10340,6 +16544,72 @@
     "data_source": "osm"
   },
   {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.019768,
+    "lng": 130.4442097,
+    "category": "zoo",
+    "prefecture": "kumamoto",
+    "osm_id": 1005425338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "錦町温泉センター",
+    "name_en": "",
+    "lat": 32.2013257,
+    "lng": 130.8418633,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1006315171,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.2010709,
+    "lng": 130.8419772,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1006315172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉海軍航空基地資料館",
+    "name_en": "",
+    "lat": 32.2208617,
+    "lng": 130.8175066,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1006658522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山の中の海軍の町 にしき ひみつ基地ミュージアム",
+    "name_en": "",
+    "lat": 32.2208343,
+    "lng": 130.8170984,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1006658523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川古文書館",
+    "name_en": "",
+    "lat": 33.1651042,
+    "lng": 130.4136027,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1007896246,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松枝神社 本殿",
     "name_en": "",
     "lat": 33.1825991,
@@ -10402,6 +16672,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1018792203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "合志市マンガミュージアム",
+    "name_en": "",
+    "lat": 32.8911288,
+    "lng": 130.7451653,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1019037095,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10611,6 +16892,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1025250607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山恵の湯　九重星生ホテル",
+    "name_en": "",
+    "lat": 33.1119701,
+    "lng": 131.2270234,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1025812757,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10967,6 +17259,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大町温泉ひじり乃湯",
+    "name_en": "",
+    "lat": 33.2200991,
+    "lng": 130.0996156,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1052635382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "矢村神社",
     "name_en": "",
     "lat": 32.9495314,
@@ -10974,6 +17277,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1057092848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴さくら",
+    "name_en": "",
+    "lat": 33.1927686,
+    "lng": 130.3148562,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1064365492,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11033,6 +17347,28 @@
     "data_source": "osm"
   },
   {
+    "name": "熊本市田原坂西南戦争資料館",
+    "name_en": "",
+    "lat": 32.9117481,
+    "lng": 130.6521298,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1109177983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "口之津歴史民俗資料館分館",
+    "name_en": "",
+    "lat": 32.6051688,
+    "lng": 130.1957759,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1122537506,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "静雲寺",
     "name_en": "",
     "lat": 32.6121655,
@@ -11051,6 +17387,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1122812692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "加津佐道路公園",
+    "name_en": "",
+    "lat": 32.6358659,
+    "lng": 130.1378608,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 1122835648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西望記念館 西望生誕之家",
+    "name_en": "",
+    "lat": 32.6405442,
+    "lng": 130.2307186,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1126137651,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11084,6 +17442,28 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 1127373627,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日野江の里 天守閣タワー広場",
+    "name_en": "",
+    "lat": 32.6541334,
+    "lng": 130.2611271,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 1127996040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7295125,
+    "lng": 130.286454,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 1128018625,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11154,6 +17534,17 @@
     "data_source": "osm"
   },
   {
+    "name": "脇浜温泉浴場",
+    "name_en": "",
+    "lat": 32.7189496,
+    "lng": 130.2020804,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1132154324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小濱神社",
     "name_en": "",
     "lat": 32.7292936,
@@ -11161,6 +17552,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1132154346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市営 浜の湯",
+    "name_en": "",
+    "lat": 32.7311502,
+    "lng": 130.2069315,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1132374487,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11282,6 +17684,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1140712621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島原市有明歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.8469256,
+    "lng": 130.3356106,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1142499109,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11418,6 +17831,17 @@
     "data_source": "osm"
   },
   {
+    "name": "さかきばら郷土史料館",
+    "name_en": "",
+    "lat": 32.7927396,
+    "lng": 130.3620866,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1147514515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "猛島神社",
     "name_en": "",
     "lat": 32.7933524,
@@ -11495,6 +17919,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯の里温泉共同浴場 だんきゅう風呂",
+    "name_en": "Yunosato Onsen Public Bath",
+    "lat": 32.7429551,
+    "lng": 130.2595955,
+    "category": "onsen",
+    "prefecture": "kumamoto",
+    "osm_id": 1149101360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 32.7224543,
@@ -11546,6 +17981,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1149394758,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "レストパーク布津",
+    "name_en": "",
+    "lat": 32.6864955,
+    "lng": 130.3514152,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 1149437839,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11737,6 +18183,17 @@
     "data_source": "osm"
   },
   {
+    "name": "展望広場",
+    "name_en": "",
+    "lat": 32.610717,
+    "lng": 130.226955,
+    "category": "rest_area",
+    "prefecture": "kumamoto",
+    "osm_id": 1150892328,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "通津山 眞乗寺",
     "name_en": "",
     "lat": 32.6110108,
@@ -11777,6 +18234,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1151111109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾干潟・水鳥湿地センター",
+    "name_en": "",
+    "lat": 32.961218,
+    "lng": 130.4325672,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1151948941,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11825,6 +18293,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雲仙市歴史資料館 南串山展示館",
+    "name_en": "",
+    "lat": 32.6834763,
+    "lng": 130.1669317,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1153393559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光永山 楽常寺",
     "name_en": "",
     "lat": 32.6839417,
@@ -11847,6 +18326,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宮崎兄弟資料館",
+    "name_en": "",
+    "lat": 32.9846965,
+    "lng": 130.4346091,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1155954570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満神社",
     "name_en": "",
     "lat": 33.2045663,
@@ -11854,6 +18344,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1156517651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "KIOKU",
+    "name_en": "",
+    "lat": 32.8902762,
+    "lng": 130.9967115,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1190190433,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11876,6 +18377,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1207231315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉名市立歴史博物館こころピア",
+    "name_en": "",
+    "lat": 32.9340253,
+    "lng": 130.5612953,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1227702351,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12122,6 +18634,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9343828,
+    "lng": 130.5613694,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1239768121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9342425,
+    "lng": 130.561309,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1239768811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "権現神社",
     "name_en": "",
     "lat": 32.3127083,
@@ -12177,6 +18711,17 @@
     "data_source": "osm"
   },
   {
+    "name": "つなぎ美術館",
+    "name_en": "",
+    "lat": 32.23164,
+    "lng": 130.4577641,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1349529498,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.0164924,
@@ -12206,6 +18751,17 @@
     "category": "temple",
     "prefecture": "kumamoto",
     "osm_id": 1349911968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山鹿灯篭民芸館",
+    "name_en": "",
+    "lat": 33.0151346,
+    "lng": 130.6884078,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1349911971,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12452,6 +19008,17 @@
     "data_source": "osm"
   },
   {
+    "name": "竜北歴史資料館",
+    "name_en": "",
+    "lat": 32.5893171,
+    "lng": 130.6656633,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1366466130,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満宮",
     "name_en": "",
     "lat": 32.5960364,
@@ -12580,6 +19147,28 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1370760860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みやはらの里絵画館",
+    "name_en": "",
+    "lat": 32.5547512,
+    "lng": 130.6815266,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1370760864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮原歴史資料館",
+    "name_en": "",
+    "lat": 32.554181,
+    "lng": 130.6817304,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1370760878,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13002,6 +19591,28 @@
     "data_source": "osm"
   },
   {
+    "name": "伊佐市大口歴史民俗鉄道資料館",
+    "name_en": "",
+    "lat": 32.0621135,
+    "lng": 130.6088335,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1411747491,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出水麓歴史館",
+    "name_en": "",
+    "lat": 32.0755516,
+    "lng": 130.3592243,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1411774046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "箱崎八幡神社",
     "name_en": "",
     "lat": 32.0853678,
@@ -13141,6 +19752,17 @@
     "category": "shrine",
     "prefecture": "kumamoto",
     "osm_id": 1429133868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人吉鉄道ミュージアム　MOZOCAステーション868",
+    "name_en": "",
+    "lat": 32.2147821,
+    "lng": 130.7514521,
+    "category": "museum",
+    "prefecture": "kumamoto",
+    "osm_id": 1431980792,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

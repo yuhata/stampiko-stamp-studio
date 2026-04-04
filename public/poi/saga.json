@@ -451,6 +451,17 @@
     "data_source": "osm"
   },
   {
+    "name": "基肄城跡",
+    "name_en": "Kii Castle Ruins",
+    "lat": 33.4449826,
+    "lng": 130.5136221,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 839501989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八雲神社",
     "name_en": "",
     "lat": 33.5672808,
@@ -473,6 +484,17 @@
     "data_source": "osm"
   },
   {
+    "name": "太宰府市文化ふれあい館",
+    "name_en": "Fureai Culture Museum",
+    "lat": 33.5202557,
+    "lng": 130.5095003,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1205775433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "博多南",
     "name_en": "Hakata South",
     "lat": 33.5182232,
@@ -480,6 +502,578 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 1266239592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都国歴史博物館",
+    "name_en": "",
+    "lat": 33.536327,
+    "lng": 130.251445,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423756367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都民俗資料館",
+    "name_en": "",
+    "lat": 33.536327,
+    "lng": 130.251445,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423756368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都郷土美術館",
+    "name_en": "",
+    "lat": 33.560563,
+    "lng": 130.204713,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423756369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古賀政男音楽博物館分館古賀政男記念館",
+    "name_en": "",
+    "lat": 33.1924903,
+    "lng": 130.3836128,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423757717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.020306,
+    "lng": 130.444022,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 1423758204,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市石炭産業科学館",
+    "name_en": "",
+    "lat": 33.031073,
+    "lng": 130.424355,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市立三池カルタ記念館;大牟田市立図書館",
+    "name_en": "",
+    "lat": 33.023391,
+    "lng": 130.443671,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大野城市歴史資料展示室",
+    "name_en": "",
+    "lat": 33.5362177,
+    "lng": 130.4785768,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758282,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太宰府市文化ふれあい館",
+    "name_en": "Fureai Culture Museum",
+    "lat": 33.520172,
+    "lng": 130.509447,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇美八幡宮宝物殿",
+    "name_en": "",
+    "lat": 33.570543,
+    "lng": 130.508522,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇美町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.569694,
+    "lng": 130.50896,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩戸山歴史資料館",
+    "name_en": "",
+    "lat": 33.2290359,
+    "lng": 130.5524038,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423758855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "志免町歴史資料室",
+    "name_en": "",
+    "lat": 33.592274,
+    "lng": 130.479053,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423760801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "志摩町歴史資料館",
+    "name_en": "",
+    "lat": 33.58302,
+    "lng": 130.186548,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423760811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春日奴国の丘歴史資料館",
+    "name_en": "",
+    "lat": 33.538067,
+    "lng": 130.451837,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423761233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬高町歴史資料館",
+    "name_en": "",
+    "lat": 33.153788,
+    "lng": 130.476382,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423777054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真木和泉守顕彰記念館",
+    "name_en": "",
+    "lat": 33.318247,
+    "lng": 130.496332,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423779034,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石橋財団石橋美術館",
+    "name_en": "",
+    "lat": 33.312056,
+    "lng": 130.5305337,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423779055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡アジア美術館",
+    "name_en": "Fukuoka Asian Art Museum",
+    "lat": 33.594969,
+    "lng": 130.405817,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423779941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡市埋蔵文化財センター",
+    "name_en": "",
+    "lat": 33.555478,
+    "lng": 130.462501,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423780639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡県立糸島高等学校郷土博物館",
+    "name_en": "",
+    "lat": 33.557416,
+    "lng": 130.210329,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423781544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡県立美術館",
+    "name_en": "",
+    "lat": 33.597265,
+    "lng": 130.398732,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423781545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫野市歴史博物館（ふるさと館ちくしの）",
+    "name_en": "",
+    "lat": 33.490747,
+    "lng": 130.51925,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423782129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須惠町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.59187,
+    "lng": 130.524475,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423784532,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ハウステンボス美術館・博物館",
+    "name_en": "Palace Huis Ten Bosch",
+    "lat": 33.0795856,
+    "lng": 129.7835755,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423797459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上峰町郷土資料館",
+    "name_en": "",
+    "lat": 33.320076,
+    "lng": 130.4228171,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423797741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中冨記念くすり博物館",
+    "name_en": "",
+    "lat": 33.397805,
+    "lng": 130.510751,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423797860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今右衛門古陶磁美術館",
+    "name_en": "",
+    "lat": 33.1878487,
+    "lng": 129.8961817,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423798499,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里・鍋島ギャラリー",
+    "name_en": "",
+    "lat": 33.2718807,
+    "lng": 129.8762116,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423798549,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里市歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.27971,
+    "lng": 129.878474,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423798584,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐世保市世知原炭鉱資料館",
+    "name_en": "",
+    "lat": 33.255539,
+    "lng": 129.750124,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423798960,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀市文化財資料館",
+    "name_en": "",
+    "lat": 33.239353,
+    "lng": 130.28232,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423799749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立九州陶磁文化館",
+    "name_en": "",
+    "lat": 33.179011,
+    "lng": 129.880574,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423799812,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立名護屋城博物館",
+    "name_en": "Saga Prefectural Museum of Nagoya Castle",
+    "lat": 33.5276739,
+    "lng": 129.8702292,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423799816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "唐津曳山展示場",
+    "name_en": "",
+    "lat": 33.4518676,
+    "lng": 129.9688981,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423801020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多久市郷土資料館",
+    "name_en": "",
+    "lat": 33.271521,
+    "lng": 130.10109,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423801713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太良町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.0198446,
+    "lng": 130.1796999,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423802109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小城市立歴史資料館",
+    "name_en": "Ogi City Historical Museum",
+    "lat": 33.2885426,
+    "lng": 130.1984983,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423802427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小笠原記念館",
+    "name_en": "",
+    "lat": 33.449893,
+    "lng": 129.965843,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423802536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徐福長寿館",
+    "name_en": "",
+    "lat": 33.329917,
+    "lng": 130.308151,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423804458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田ポーセリンパーク",
+    "name_en": "",
+    "lat": 33.164637,
+    "lng": 129.908242,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423805631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.195076,
+    "lng": 129.91104,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423805646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田町歴史民族資料館西館",
+    "name_en": "",
+    "lat": 33.2111295,
+    "lng": 129.848565,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423805650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東彼杵町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.035106,
+    "lng": 129.919956,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423806156,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松浦市立福島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.365243,
+    "lng": 129.824706,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423806672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松浦市立鷹島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.436424,
+    "lng": 129.762361,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423806680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江北町郷土資料館",
+    "name_en": "",
+    "lat": 33.220439,
+    "lng": 130.157361,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423807188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河村美術館",
+    "name_en": "",
+    "lat": 33.453257,
+    "lng": 129.971706,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423807284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海エネルギーパーク",
+    "name_en": "",
+    "lat": 33.51533,
+    "lng": 129.840365,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423809279,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾総合文化センター子ども科学館",
+    "name_en": "",
+    "lat": 32.984678,
+    "lng": 130.463977,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1423817378,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎バイオパーク",
+    "name_en": "Nagasaki Bio Park",
+    "lat": 32.988442,
+    "lng": 129.78648,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 1423820495,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.585863,
+    "lng": 130.4175136,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1626347260,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -539,6 +1133,17 @@
     "data_source": "osm"
   },
   {
+    "name": "炎の博記念堂",
+    "name_en": "",
+    "lat": 33.1886498,
+    "lng": 129.8559914,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1786061145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八坂神社",
     "name_en": "",
     "lat": 33.2015012,
@@ -568,6 +1173,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 1872315827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "篠山城址",
+    "name_en": "Kurume Castle Ruins",
+    "lat": 33.3281542,
+    "lng": 130.5078037,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 1928819532,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -803,6 +1419,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東郷平八郎書石碑",
+    "name_en": "Togo Heihachiro Stone Monument",
+    "lat": 33.5304234,
+    "lng": 129.8693085,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 2460168003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明善寺",
     "name_en": "",
     "lat": 33.270453,
@@ -990,6 +1617,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長崎バイオパーク",
+    "name_en": "",
+    "lat": 32.9881943,
+    "lng": 129.783301,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 2905890225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岬神社",
     "name_en": "",
     "lat": 33.555619,
@@ -997,6 +1635,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 2910212502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "波戸岬灯台",
+    "name_en": "",
+    "lat": 33.5554833,
+    "lng": 129.8464199,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 2910212503,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1023,6 +1672,28 @@
     "data_source": "osm"
   },
   {
+    "name": "石橋美術館 別館",
+    "name_en": "",
+    "lat": 33.3127552,
+    "lng": 130.5304217,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3011799969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "Foot Bath",
+    "lat": 33.5877983,
+    "lng": 130.3995541,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 3210240834,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝立寺",
     "name_en": "Shoryuji Temple",
     "lat": 33.593461,
@@ -1030,6 +1701,61 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 3210271732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上杉景勝陣跡",
+    "name_en": "",
+    "lat": 33.5419119,
+    "lng": 129.8540039,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3298400760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九鬼守隆陣跡",
+    "name_en": "",
+    "lat": 33.5366395,
+    "lng": 129.8599513,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3298400961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島津義弘陣跡",
+    "name_en": "",
+    "lat": 33.5481335,
+    "lng": 129.8492871,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3298400962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徳川家康陣跡",
+    "name_en": "",
+    "lat": 33.5335309,
+    "lng": 129.8754909,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3298400963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "生駒親正陣跡",
+    "name_en": "",
+    "lat": 33.5498768,
+    "lng": 129.855043,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3298400964,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1052,6 +1778,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 3427650168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立花家史料館",
+    "name_en": "Tachibana Museum",
+    "lat": 33.1587783,
+    "lng": 130.3971773,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3478445254,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1089,6 +1826,17 @@
     "data_source": "osm"
   },
   {
+    "name": "柳川城天守台阯",
+    "name_en": "The site of Yanagawa Castle Donjon foundation",
+    "lat": 33.1609793,
+    "lng": 130.4011825,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 3651082798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水天宮",
     "name_en": "Suitengu Shrine",
     "lat": 33.1587698,
@@ -1111,6 +1859,39 @@
     "data_source": "osm"
   },
   {
+    "name": "展望大浴場",
+    "name_en": "fine view large public baths",
+    "lat": 33.1568937,
+    "lng": 130.3994399,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 3654797800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂",
+    "name_en": "family baths",
+    "lat": 33.1568513,
+    "lng": 130.400275,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 3654799329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やながわ有明海水族館",
+    "name_en": "Okinohata Aquarium",
+    "lat": 33.1592065,
+    "lng": 130.395169,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 3655576177,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "矢留大神宮",
     "name_en": "Yadomi Grand Shrine",
     "lat": 33.1576221,
@@ -1129,6 +1910,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 3656615985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の資料館",
+    "name_en": "Museum of Water",
+    "lat": 33.1641216,
+    "lng": 130.4088213,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3657145681,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1177,6 +1969,17 @@
     "data_source": "osm"
   },
   {
+    "name": "柳川古文書館",
+    "name_en": "Yanagawa Archives",
+    "lat": 33.1651557,
+    "lng": 130.4135522,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3661047699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西方寺",
     "name_en": "Saiho-ji Temple",
     "lat": 33.1683507,
@@ -1206,6 +2009,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 3661058025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松月文人館",
+    "name_en": "Shogetsu Writers Museum",
+    "lat": 33.1671311,
+    "lng": 130.4153476,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3661058027,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2343,6 +3157,17 @@
     "data_source": "osm"
   },
   {
+    "name": "玉の湯",
+    "name_en": "Tama-no-yu",
+    "lat": 33.1670979,
+    "lng": 130.4069153,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 3730375839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1656721,
@@ -2493,6 +3318,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 3753533430,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田陶磁美術館",
+    "name_en": "",
+    "lat": 33.1904701,
+    "lng": 129.8987623,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 3755776811,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2728,6 +3564,17 @@
     "data_source": "osm"
   },
   {
+    "name": "博多町家鄉土館",
+    "name_en": "Hakata Machiya Folk Museum",
+    "lat": 33.5936544,
+    "lng": 130.4115066,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 4293172389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弁財天",
     "name_en": "",
     "lat": 33.2251125,
@@ -2823,6 +3670,61 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 4658611090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Game Museum/ free with passport",
+    "lat": 33.082369,
+    "lng": 129.7854104,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 4693016790,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Porcelain Museum free with passport",
+    "lat": 33.0813767,
+    "lng": 129.7853119,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 4693036989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Museum of glass",
+    "lat": 33.0840276,
+    "lng": 129.7875416,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 4693105390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Teddy Bear Kingdom",
+    "lat": 33.0888505,
+    "lng": 129.7905952,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 4693105405,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5860041,
+    "lng": 129.8604861,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 4695518698,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2926,6 +3828,17 @@
     "data_source": "osm"
   },
   {
+    "name": "夜灯鼻灯台",
+    "name_en": "",
+    "lat": 32.9568459,
+    "lng": 130.2245159,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 4770835174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弥生が丘",
     "name_en": "Yayoigaoka",
     "lat": 33.4025169,
@@ -3016,11 +3929,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4721286,
+    "lng": 129.9859348,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 4930708839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4740863,
     "lng": 129.9881852,
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 4930708840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4686405,
+    "lng": 129.9746346,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 4930748650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4701597,
+    "lng": 129.9732104,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 4930748651,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3102,6 +4048,17 @@
     "data_source": "osm"
   },
   {
+    "name": "筑後市 郷土資料館",
+    "name_en": "",
+    "lat": 33.1987128,
+    "lng": 130.4862553,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5141653474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大神宮",
     "name_en": "",
     "lat": 33.1989446,
@@ -3157,6 +4114,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5658664,
+    "lng": 130.0531724,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 5167047025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "姪浜",
     "name_en": "Meinohama",
     "lat": 33.5837095,
@@ -3190,6 +4158,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐賀バルーンミュージアム",
+    "name_en": "",
+    "lat": 33.2524694,
+    "lng": 130.3003905,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5211905043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬院",
     "name_en": "Yakuin",
     "lat": 33.5824351,
@@ -3197,6 +4176,39 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 5213896821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つきほし歴史館",
+    "name_en": "",
+    "lat": 33.3137243,
+    "lng": 130.5048585,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5218907423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "武雄温泉新館",
+    "name_en": "Takeo Onsen Shinkan",
+    "lat": 33.1965837,
+    "lng": 130.014294,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5228408622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 ばってんの湯",
+    "name_en": "",
+    "lat": 33.0930039,
+    "lng": 129.7970774,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 5256788696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3267,6 +4279,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福岡市科学館",
+    "name_en": "Fukuoka City Science Museum",
+    "lat": 33.5773528,
+    "lng": 130.3779288,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5264951969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "住吉神社",
     "name_en": "",
     "lat": 33.127658,
@@ -3285,6 +4308,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 5304667725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Hasami Hot Spring 波佐見温泉",
+    "name_en": "",
+    "lat": 33.1150998,
+    "lng": 129.8690633,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 5305922625,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3377,6 +4411,17 @@
     "data_source": "osm"
   },
   {
+    "name": "久我美術館",
+    "name_en": "",
+    "lat": 33.5961816,
+    "lng": 130.5176095,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5382711504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "味水御井神社",
     "name_en": "",
     "lat": 33.3112096,
@@ -3384,6 +4429,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 5394847120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊の川温泉郷",
+    "name_en": "",
+    "lat": 33.3656623,
+    "lng": 130.2405173,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 5406948197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古湯温泉郷",
+    "name_en": "",
+    "lat": 33.371769,
+    "lng": 130.2079794,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 5406948204,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3439,6 +4506,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 5435768937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沖ノ神瀬灯標",
+    "name_en": "",
+    "lat": 33.0639172,
+    "lng": 130.226024,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 5436895313,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3883,6 +4961,17 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅大和",
+    "name_en": "",
+    "lat": 33.3392847,
+    "lng": 130.257687,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 5538286821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "延命院",
     "name_en": "",
     "lat": 33.2483975,
@@ -3890,6 +4979,28 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 5539336837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5450007,
+    "lng": 130.3849047,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 5541728221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5449589,
+    "lng": 130.3848223,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 5541735021,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5159,6 +6270,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Machiya Hall",
+    "lat": 33.5934176,
+    "lng": 130.4112117,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 5935619261,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八坂神社",
     "name_en": "",
     "lat": 33.1584611,
@@ -6050,6 +7172,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯楽庵",
+    "name_en": "",
+    "lat": 33.3478309,
+    "lng": 130.4660766,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6169976048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2133483,
@@ -6354,6 +7487,336 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 6491281102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾温泉;ドリームの湯",
+    "name_en": "",
+    "lat": 32.961884,
+    "lng": 130.4494055,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6499604036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族風呂;いつでも一番風呂",
+    "name_en": "",
+    "lat": 32.9615396,
+    "lng": 130.4499661,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6499605039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南の関;うから館",
+    "name_en": "",
+    "lat": 33.0573914,
+    "lng": 130.5399383,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6499728232,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川総合保健福祉センター;水の郷;柳川温泉 南風",
+    "name_en": "",
+    "lat": 33.1542303,
+    "lng": 130.4006544,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6499771436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呼子台場の湯",
+    "name_en": "",
+    "lat": 33.5471805,
+    "lng": 129.8917501,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6499803158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平谷温泉;山吹の湯",
+    "name_en": "",
+    "lat": 33.0063386,
+    "lng": 130.0625248,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6503773370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千綿花房温泉",
+    "name_en": "",
+    "lat": 33.0203782,
+    "lng": 129.9529982,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6503805698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川棚大崎温泉;しおさいの湯",
+    "name_en": "",
+    "lat": 33.055746,
+    "lng": 129.8238069,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6503888684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はさみ温泉;湯治楼",
+    "name_en": "",
+    "lat": 33.1150287,
+    "lng": 129.8689912,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6504102782,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "頭部クリーンセンター;エコスパ佐世保",
+    "name_en": "",
+    "lat": 33.1437549,
+    "lng": 129.7777064,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6504149987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヌルヌル;有田温泉",
+    "name_en": "",
+    "lat": 33.1899715,
+    "lng": 129.860257,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505020378,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒髪の森温泉;天童の湯",
+    "name_en": "",
+    "lat": 33.2125899,
+    "lng": 129.9162188,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505033891,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里温泉;白磁乃湯",
+    "name_en": "",
+    "lat": 33.2601061,
+    "lng": 129.8893952,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505057139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあい自然塾ひぜん",
+    "name_en": "",
+    "lat": 33.4054368,
+    "lng": 129.8546034,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505184512,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高串温泉;肥前町福祉センター",
+    "name_en": "",
+    "lat": 33.4223128,
+    "lng": 129.8325696,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505341486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海海上温泉;パレア",
+    "name_en": "",
+    "lat": 33.4714523,
+    "lng": 129.8495037,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505632525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡日帰りの旅;まむしの湯",
+    "name_en": "",
+    "lat": 33.4895375,
+    "lng": 130.0748847,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6505765696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳴神温泉;ななの湯",
+    "name_en": "",
+    "lat": 33.4426738,
+    "lng": 130.1201597,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6506017054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫野;天拝の郷",
+    "name_en": "",
+    "lat": 33.4886528,
+    "lng": 130.4968846,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507323329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫の湯",
+    "name_en": "",
+    "lat": 33.4577222,
+    "lng": 130.5364393,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507344192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫野温泉;アマンディ",
+    "name_en": "",
+    "lat": 33.4398298,
+    "lng": 130.5356835,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507361074,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "基山ラジウム温泉",
+    "name_en": "",
+    "lat": 33.4176928,
+    "lng": 130.5363389,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507394663,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小郡市総合保健福祉センター あすてらす;満天の湯",
+    "name_en": "",
+    "lat": 33.3812891,
+    "lng": 130.5586299,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507395937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いづみ乃湯",
+    "name_en": "",
+    "lat": 33.322084,
+    "lng": 130.5421439,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507444789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "源泉掛け流し温泉 久留米;游心の湯",
+    "name_en": "",
+    "lat": 33.2853836,
+    "lng": 130.5168299,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507613753,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 ゆのそ;献上の湯",
+    "name_en": "",
+    "lat": 33.2633135,
+    "lng": 130.5348271,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507645428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;大木の湯;アクアス",
+    "name_en": "",
+    "lat": 33.2122748,
+    "lng": 130.4437124,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6507833858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;あおき温泉",
+    "name_en": "",
+    "lat": 33.2393775,
+    "lng": 130.4111159,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6508414387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "妙法寺温泉;飛龍乃湯",
+    "name_en": "",
+    "lat": 33.3186591,
+    "lng": 130.0381609,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6515797399,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きゅうらぎ温泉;佐用姫の湯",
+    "name_en": "",
+    "lat": 33.3143801,
+    "lng": 130.0683396,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 6515843740,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6743,6 +8206,17 @@
     "data_source": "osm"
   },
   {
+    "name": "五郎山古墳資料館",
+    "name_en": "",
+    "lat": 33.4516352,
+    "lng": 130.5444893,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 6984153793,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "永尾",
     "name_en": "Nagao",
     "lat": 33.1931925,
@@ -6750,6 +8224,17 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 7222666256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里・有田焼伝統産業会館",
+    "name_en": "Imari-Arita Ware Traditional Crafts Center",
+    "lat": 33.2362425,
+    "lng": 129.8921391,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 7254755076,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6783,6 +8268,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 7274095498,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "博多湯",
+    "name_en": "",
+    "lat": 33.4914148,
+    "lng": 130.5149819,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 7293686186,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7135,6 +8631,17 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 7736610596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久留米絣資料館",
+    "name_en": "Kurume Kasuri Museum",
+    "lat": 33.3193558,
+    "lng": 130.5550954,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 7792068952,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8239,6 +9746,17 @@
     "data_source": "osm"
   },
   {
+    "name": "神集島港宮埼灯台",
+    "name_en": "",
+    "lat": 33.5379976,
+    "lng": 129.9647105,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 8088235809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "神埼",
     "name_en": "Kanzaki",
     "lat": 33.3158443,
@@ -8257,6 +9775,17 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 8168035527,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東名縄文館",
+    "name_en": "",
+    "lat": 33.2943596,
+    "lng": 130.3061154,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 8320922980,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8290,6 +9819,17 @@
     "category": "station",
     "prefecture": "saga",
     "osm_id": 8447296024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅しろいし",
+    "name_en": "",
+    "lat": 33.1771369,
+    "lng": 130.1956325,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 8489858656,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8415,6 +9955,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岸岳城跡",
+    "name_en": "Kishidake Castle Ruins",
+    "lat": 33.3567376,
+    "lng": 129.9785748,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 9049943487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒髪神社上宮",
     "name_en": "",
     "lat": 33.2133376,
@@ -8433,6 +9984,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 9219672573,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西公園浴場",
+    "name_en": "",
+    "lat": 33.5945968,
+    "lng": 130.3764008,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 9219672574,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8756,6 +10318,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1977496,
+    "lng": 130.2209794,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9422997225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小城",
     "name_en": "Ogi",
     "lat": 33.2856312,
@@ -8846,6 +10419,72 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5935039,
+    "lng": 129.8989964,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625412718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5819599,
+    "lng": 129.910491,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625412764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5544372,
+    "lng": 129.8935059,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625537154,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5671269,
+    "lng": 129.8821467,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625537687,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5592954,
+    "lng": 129.9037693,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625537719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5644092,
+    "lng": 129.8963973,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9625537722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.5682913,
     "lng": 129.7624437,
     "category": "shrine",
@@ -8862,6 +10501,39 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 9632924813,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5639845,
+    "lng": 129.7627133,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9632924814,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5649232,
+    "lng": 129.7648913,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9632924815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4885617,
+    "lng": 129.7758535,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 9643270324,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9108,6 +10780,39 @@
     "data_source": "osm"
   },
   {
+    "name": "荒尾干潟・水鳥湿地センター",
+    "name_en": "",
+    "lat": 32.9612145,
+    "lng": 130.4325578,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 10716215430,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御前湯",
+    "name_en": "",
+    "lat": 33.4914114,
+    "lng": 130.5152799,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 10716477151,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩﨑記代子音楽記念館",
+    "name_en": "",
+    "lat": 33.5153222,
+    "lng": 130.5242235,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 10726617682,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝善寺",
     "name_en": "",
     "lat": 33.5433217,
@@ -9218,6 +10923,28 @@
     "data_source": "osm"
   },
   {
+    "name": "梶峰城跡",
+    "name_en": "",
+    "lat": 33.2532638,
+    "lng": 130.0931454,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 10786992396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シーメイトの湯",
+    "name_en": "",
+    "lat": 33.5893018,
+    "lng": 130.4870254,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 10923528873,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若八幡宮",
     "name_en": "",
     "lat": 33.5647422,
@@ -9225,6 +10952,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 10925411061,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "直鳥城跡",
+    "name_en": "Naotori Castle Ruins",
+    "lat": 33.2727265,
+    "lng": 130.3699869,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 10994993451,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9273,6 +11011,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小城市立中林梧竹記念館",
+    "name_en": "Ogi City Nakabayashi Gochiku Museum",
+    "lat": 33.2885485,
+    "lng": 130.1983084,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 11051474536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蔵宿",
     "name_en": "Zoushuku",
     "lat": 33.2020564,
@@ -9295,6 +11044,17 @@
     "data_source": "osm"
   },
   {
+    "name": "嬉野市歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.1280008,
+    "lng": 130.0604627,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 11083936835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5475405,
@@ -9302,6 +11062,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 11221010355,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3394379,
+    "lng": 129.7926926,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 11223035942,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9317,6 +11088,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3171864,
+    "lng": 129.8358437,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 11286285413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "女瀬鼻灯台",
+    "name_en": "",
+    "lat": 33.528794,
+    "lng": 129.9570581,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 11303008502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5246619,
+    "lng": 129.9590752,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 11303008503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5377305,
+    "lng": 129.966993,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 11303039533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝の観音",
     "name_en": "",
     "lat": 33.0612395,
@@ -9324,6 +11139,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 11351572298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ミニ水族館",
+    "name_en": "",
+    "lat": 33.075873,
+    "lng": 130.14584,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 11385821799,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9383,6 +11209,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福岡東洋陶磁美術館",
+    "name_en": "",
+    "lat": 33.552331,
+    "lng": 130.3632734,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 11660012201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松原",
     "name_en": "Matsubara",
     "lat": 32.9780626,
@@ -9394,6 +11231,83 @@
     "data_source": "osm"
   },
   {
+    "name": "葛籠城跡",
+    "name_en": "",
+    "lat": 33.3889546,
+    "lng": 130.478729,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡城跡",
+    "name_en": "",
+    "lat": 33.3937067,
+    "lng": 130.4896188,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694364,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼ヶ城跡",
+    "name_en": "",
+    "lat": 33.3966671,
+    "lng": 130.4603451,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "若山砦跡",
+    "name_en": "",
+    "lat": 33.3960715,
+    "lng": 130.4748559,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高取城跡",
+    "name_en": "",
+    "lat": 33.3901326,
+    "lng": 130.4715943,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫氏居館跡",
+    "name_en": "",
+    "lat": 33.3950302,
+    "lng": 130.466415,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝尾城跡",
+    "name_en": "Katsunoo Castle Ruins",
+    "lat": 33.4015487,
+    "lng": 130.4654494,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 11807694369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長圓寺",
     "name_en": "",
     "lat": 33.5837193,
@@ -9401,6 +11315,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 11840999708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3647964,
+    "lng": 129.7419987,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 11875548970,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9660,11 +11585,88 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4534765,
+    "lng": 129.9817862,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 12111682333,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4524752,
     "lng": 129.9829119,
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 12111682334,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "獅子ケ城跡",
+    "name_en": "",
+    "lat": 33.3116819,
+    "lng": 130.0416293,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 12148146793,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "殿様湯・家老湯",
+    "name_en": "",
+    "lat": 33.1962711,
+    "lng": 130.0142375,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 12193973721,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鷺乃湯",
+    "name_en": "",
+    "lat": 33.1967262,
+    "lng": 130.0145419,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 12193973738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柄崎亭",
+    "name_en": "",
+    "lat": 33.1963901,
+    "lng": 130.0141429,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 12193973739,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蓬莱湯",
+    "name_en": "",
+    "lat": 33.1961909,
+    "lng": 130.0144896,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 12193973740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元湯",
+    "name_en": "",
+    "lat": 33.196302,
+    "lng": 130.0143769,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 12193973741,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9720,6 +11722,50 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 12243165197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5510418,
+    "lng": 129.8950817,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 12271416571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5502225,
+    "lng": 129.8671049,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 12271416572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.54667,
+    "lng": 129.8683753,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 12271416573,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.557419,
+    "lng": 129.8918121,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 12271417878,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9867,6 +11913,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ひがさす",
+    "name_en": "Higasasu",
+    "lat": 33.1750714,
+    "lng": 130.2701348,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 12652529142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大橋",
     "name_en": "Ohashi",
     "lat": 33.5592046,
@@ -9885,6 +11942,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 12761933329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立石春美記念美術館",
+    "name_en": "Tateishi Harumi Memorial Art Museum",
+    "lat": 33.3298134,
+    "lng": 130.2687013,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 12802737407,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9933,6 +12001,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名護屋城跡",
+    "name_en": "Nagoya Castle Ruins",
+    "lat": 33.5270662,
+    "lng": 129.8759583,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 12871663877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小戸大神宮",
     "name_en": "Odo Daijingu Shrine",
     "lat": 33.5951029,
@@ -9940,6 +12019,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 12873075996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都菜彩休憩所",
+    "name_en": "",
+    "lat": 33.5559624,
+    "lng": 130.2279511,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 12880904201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀城",
+    "name_en": "Saga Castle",
+    "lat": 33.2453451,
+    "lng": 130.3028388,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 12902924455,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9999,6 +12100,39 @@
     "data_source": "osm"
   },
   {
+    "name": "シーボルトの足湯",
+    "name_en": "",
+    "lat": 33.096812,
+    "lng": 129.9850776,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 13153908934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0972308,
+    "lng": 129.9859163,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 13153908939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4151821,
+    "lng": 129.7962396,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 13180517288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4206268,
@@ -10006,6 +12140,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 13243587433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "味楽窯美術館",
+    "name_en": "",
+    "lat": 33.5796103,
+    "lng": 130.3509917,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 13334932487,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10043,6 +12188,17 @@
     "data_source": "osm"
   },
   {
+    "name": "輝泉荘(浴場)",
+    "name_en": "",
+    "lat": 33.1761708,
+    "lng": 130.403549,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 13441896796,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小串郷",
     "name_en": "Ogushigō",
     "lat": 33.063528,
@@ -10065,6 +12221,17 @@
     "data_source": "osm"
   },
   {
+    "name": "健康ランド みかさの湯",
+    "name_en": "",
+    "lat": 33.524855,
+    "lng": 130.5270553,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 13613749593,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "荒江櫛田神社",
     "name_en": "",
     "lat": 33.5727171,
@@ -10076,6 +12243,17 @@
     "data_source": "osm"
   },
   {
+    "name": "SAMOYEDO PARK 福岡天神店",
+    "name_en": "",
+    "lat": 33.5859497,
+    "lng": 130.3965431,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 13674497172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福岡縣護國神社",
     "name_en": "Gokoku shrine",
     "lat": 33.5812952,
@@ -10083,6 +12261,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 28479220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "Treasure Hall",
+    "lat": 33.5207848,
+    "lng": 130.5353535,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 45775588,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10164,6 +12353,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宝蔵",
+    "name_en": "",
+    "lat": 33.5149359,
+    "lng": 130.5222843,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 104986672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観世音寺 講堂",
     "name_en": "",
     "lat": 33.5153571,
@@ -10193,6 +12393,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 104986678,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九州国立博物館",
+    "name_en": "Kyushu National Museum",
+    "lat": 33.5182056,
+    "lng": 130.5384624,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 134721523,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10230,6 +12441,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福岡市動植物園",
+    "name_en": "Fukuoka Municipal Zoo and Botanical Garden",
+    "lat": 33.5732626,
+    "lng": 130.3890111,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 169652278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "照天神社",
     "name_en": "",
     "lat": 33.5388171,
@@ -10241,6 +12463,28 @@
     "data_source": "osm"
   },
   {
+    "name": "柿右衛門古陶磁参考館",
+    "name_en": "",
+    "lat": 33.1811079,
+    "lng": 129.8679039,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 172467543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原榮三郎美術館",
+    "name_en": "",
+    "lat": 33.1867034,
+    "lng": 129.8935257,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 173382777,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "粟島神社",
     "name_en": "",
     "lat": 33.1880662,
@@ -10248,6 +12492,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 173424661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田陶磁美術館",
+    "name_en": "",
+    "lat": 33.1906901,
+    "lng": 129.8987211,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 174249402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉野ケ里遺跡展示室",
+    "name_en": "",
+    "lat": 33.3243164,
+    "lng": 130.3854819,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 177863766,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10292,6 +12558,127 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 210412520,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡市博物館",
+    "name_en": "Fukuoka City Museum",
+    "lat": 33.589736,
+    "lng": 130.3530733,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 210616030,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀大学美術館",
+    "name_en": "Saga University Art Museum",
+    "lat": 33.2444094,
+    "lng": 130.2922224,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 238676423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡県青少年科学館",
+    "name_en": "Fukuoka Science Museum",
+    "lat": 33.3181138,
+    "lng": 130.5285406,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 238997415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久留米市鳥類センター",
+    "name_en": "Kurume Bird Center",
+    "lat": 33.3199306,
+    "lng": 130.5279959,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 238999385,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "万田抗ステーション",
+    "name_en": "Manda Koh Station",
+    "lat": 33.0015199,
+    "lng": 130.4506651,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 244384012,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広川町古墳公園資料館",
+    "name_en": "",
+    "lat": 33.2381559,
+    "lng": 130.5176714,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 248195336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立博物館",
+    "name_en": "Saga Prefectural Museum",
+    "lat": 33.2449878,
+    "lng": 130.30055,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 249574451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須恵PA (上り)",
+    "name_en": "Sue PA",
+    "lat": 33.5875181,
+    "lng": 130.5000761,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 258393586,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須恵PA (下り)",
+    "name_en": "Sue PA",
+    "lat": 33.5871889,
+    "lng": 130.5010247,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 258393587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市石炭産業科学館",
+    "name_en": "",
+    "lat": 33.0310086,
+    "lng": 130.4243232,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 271997070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "動物科学館",
+    "name_en": "",
+    "lat": 33.572546,
+    "lng": 130.387689,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 276434592,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10347,6 +12734,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 332127685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立美術館",
+    "name_en": "Saga Prefectural Art Museum",
+    "lat": 33.2446676,
+    "lng": 130.3001641,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 332128489,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10439,6 +12837,17 @@
     "data_source": "osm"
   },
   {
+    "name": "舞鶴公園",
+    "name_en": "Fukuoka Castle",
+    "lat": 33.5846204,
+    "lng": 130.3824418,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 345642780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "願正寺",
     "name_en": "",
     "lat": 33.2557797,
@@ -10461,6 +12870,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧古賀銀行",
+    "name_en": "Former Koga Bank",
+    "lat": 33.254111,
+    "lng": 130.3066434,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 353543400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2556664,
@@ -10479,6 +12899,61 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 353543422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西南学院大学博物館",
+    "name_en": "",
+    "lat": 33.5854002,
+    "lng": 130.3577205,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 355137668,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御花",
+    "name_en": "Ohana Villa",
+    "lat": 33.1581939,
+    "lng": 130.398274,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 360717768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北原白秋生家・柳川市立歴史民俗資料館",
+    "name_en": "Birthplace of Hakushu Kitahara / Yanagawa Municipal Folk Museum",
+    "lat": 33.1587409,
+    "lng": 130.3941122,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 360923227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "からたち文人の足湯",
+    "name_en": "Karatachi Foot Bath of Literary Persons",
+    "lat": 33.1567682,
+    "lng": 130.4011794,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 360940323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川観光開発(株)",
+    "name_en": "Yanagawa Kanko Kaihatsu K.K.",
+    "lat": 33.1671797,
+    "lng": 130.4153169,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 363304073,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10512,6 +12987,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 378846768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "博多歴史館",
+    "name_en": "Hakata History Museum",
+    "lat": 33.5927982,
+    "lng": 130.410919,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 379059633,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10780,6 +13266,105 @@
     "data_source": "osm"
   },
   {
+    "name": "おうち温泉;天徳の湯",
+    "name_en": "",
+    "lat": 33.3474317,
+    "lng": 130.0009528,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 423415531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山川PA (下り)",
+    "name_en": "Yamakawa PA",
+    "lat": 33.1283576,
+    "lng": 130.518111,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443690789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山川PA (上り)",
+    "name_en": "Yamakawa PA",
+    "lat": 33.1282939,
+    "lng": 130.5173324,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443690974,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山浦PA (上り)",
+    "name_en": "Yamaura PA",
+    "lat": 33.385995,
+    "lng": 130.482438,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443741284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山浦PA (下り)",
+    "name_en": "Yamaura PA",
+    "lat": 33.3839222,
+    "lng": 130.4815512,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443742059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "基山PA (下り)",
+    "name_en": "Kiyama PA",
+    "lat": 33.4420881,
+    "lng": 130.5321532,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443782032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "基山PA (上り)",
+    "name_en": "Kiyama PA",
+    "lat": 33.4408664,
+    "lng": 130.5304688,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 443782033,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立宇宙科学館",
+    "name_en": "",
+    "lat": 33.179115,
+    "lng": 130.0354491,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 476235474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1792763,
+    "lng": 130.0354459,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 476235475,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒髪山太鼓岩不動寺",
     "name_en": "",
     "lat": 33.2097994,
@@ -10787,6 +13372,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 478960554,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡西PA (上り)",
+    "name_en": "Fukuoka-nishi PA",
+    "lat": 33.5695495,
+    "lng": 130.2930421,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 479542457,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10809,6 +13405,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 479990671,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀バルーンミュージアム",
+    "name_en": "Saga Balloon Museum",
+    "lat": 33.2524172,
+    "lng": 130.3004116,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 480824452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10857,6 +13464,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧唐津銀行本店",
+    "name_en": "Former Karatsu Bank Head Office",
+    "lat": 33.4487116,
+    "lng": 129.971121,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 494802389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4475822,
@@ -10890,6 +13508,17 @@
     "data_source": "osm"
   },
   {
+    "name": "唐津城",
+    "name_en": "Karatsu Castle",
+    "lat": 33.4535131,
+    "lng": 129.9781934,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 500427895,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "毘沙門堂",
     "name_en": "",
     "lat": 33.5381782,
@@ -10901,6 +13530,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐賀県立佐賀城本丸歴史館",
+    "name_en": "Saga Prefectural Saga Castle History Museum",
+    "lat": 33.2453412,
+    "lng": 130.3027978,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 511628392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "太良嶽山　金泉寺",
     "name_en": "",
     "lat": 32.9736652,
@@ -10908,6 +13548,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 518149697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徴古館",
+    "name_en": "Nabeshima Chokokan Museum",
+    "lat": 33.2515933,
+    "lng": 130.3013628,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 528257590,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10956,6 +13607,39 @@
     "data_source": "osm"
   },
   {
+    "name": "古代植物館",
+    "name_en": "",
+    "lat": 33.3312224,
+    "lng": 130.3837001,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 539998768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "肥前犬山城",
+    "name_en": "",
+    "lat": 33.1773564,
+    "lng": 130.074743,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 541293217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1773418,
+    "lng": 130.0747581,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 541293220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長興寺",
     "name_en": "",
     "lat": 33.264323,
@@ -10985,6 +13669,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 545764547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳴神温泉ななのゆ",
+    "name_en": "Narukami Onsen Nananoyu",
+    "lat": 33.4428319,
+    "lng": 130.1202115,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 547790776,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11110,6 +13805,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5961506,
+    "lng": 130.5175931,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 558571903,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五郎丸神社",
     "name_en": "",
     "lat": 33.32738,
@@ -11117,6 +13823,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 558844880,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐野常民と三重津海軍所跡の歴史館",
+    "name_en": "Sano Tsunetami and the Mietsu Naval Dock History Museum",
+    "lat": 33.2081142,
+    "lng": 130.3394402,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 559186158,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11150,6 +13867,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 559782704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜崎祇園山囃子保存会館",
+    "name_en": "",
+    "lat": 33.4497334,
+    "lng": 130.0404273,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 560707734,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11194,6 +13922,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 560757741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さが水ものがたり館",
+    "name_en": "",
+    "lat": 33.3030106,
+    "lng": 130.2743119,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 561436147,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11275,6 +14014,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2730868,
+    "lng": 130.3108274,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 566597160,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石塔院",
     "name_en": "",
     "lat": 33.3251397,
@@ -11315,6 +14065,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 567730984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シーボルトの湯",
+    "name_en": "Siebold's Bath",
+    "lat": 33.0965665,
+    "lng": 129.9855805,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 568000739,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11425,6 +14186,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 572013916,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本庄の湯",
+    "name_en": "",
+    "lat": 33.2399745,
+    "lng": 130.3084418,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 572766236,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11546,6 +14318,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 579542522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡田三郎助アトリエ",
+    "name_en": "Okada Saburosuke Atelier",
+    "lat": 33.2450937,
+    "lng": 130.301059,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 580105303,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11678,6 +14461,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 585729483,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多久市先覚者資料館",
+    "name_en": "",
+    "lat": 33.2570837,
+    "lng": 130.0882789,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 586672627,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12144,6 +14938,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ふくの湯",
+    "name_en": "",
+    "lat": 33.5362864,
+    "lng": 130.3997304,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 604488128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2155588,
@@ -12283,6 +15088,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 625741440,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2186784,
+    "lng": 130.0892548,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 628726157,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12657,6 +15473,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 643768046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1436608,
+    "lng": 130.3259464,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 644857181,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13046,6 +15873,28 @@
     "data_source": "osm"
   },
   {
+    "name": "熊の川温泉;ちどりの湯",
+    "name_en": "",
+    "lat": 33.3640256,
+    "lng": 130.2405707,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 674221680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯泉郷 温泉館;湯招花",
+    "name_en": "",
+    "lat": 33.3636253,
+    "lng": 130.24186,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 674221684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3734109,
@@ -13255,6 +16104,83 @@
     "data_source": "osm"
   },
   {
+    "name": "家族風呂;いつでも一番風呂",
+    "name_en": "",
+    "lat": 32.9614958,
+    "lng": 130.4500238,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692406094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾温泉;ドリームの湯",
+    "name_en": "",
+    "lat": 32.9618884,
+    "lng": 130.4493438,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692406330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "トリムパーク;春光の湯",
+    "name_en": "",
+    "lat": 33.0061598,
+    "lng": 130.442758,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692409254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0129408,
+    "lng": 130.4686529,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692410916,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田天然温泉;最高の湯",
+    "name_en": "",
+    "lat": 33.0131433,
+    "lng": 130.4682866,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692410917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南の関;うから館",
+    "name_en": "",
+    "lat": 33.0576185,
+    "lng": 130.5399785,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692421575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呼子台場の湯",
+    "name_en": "",
+    "lat": 33.547292,
+    "lng": 129.8919441,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692428631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1740294,
@@ -13262,6 +16188,369 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 692555863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍神温泉;かやぜの湯",
+    "name_en": "",
+    "lat": 32.9500059,
+    "lng": 129.9924768,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692740523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平谷温泉;山吹の湯",
+    "name_en": "",
+    "lat": 33.0063488,
+    "lng": 130.0625328,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692748780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千綿花房温泉",
+    "name_en": "",
+    "lat": 33.0204424,
+    "lng": 129.952962,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692751838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川棚大崎温泉;しおさいの湯",
+    "name_en": "",
+    "lat": 33.0558269,
+    "lng": 129.8239035,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692759979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄金と水素の湯;ハウステンボス天然温泉",
+    "name_en": "",
+    "lat": 33.0875353,
+    "lng": 129.7822279,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692770210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はさみ温泉 湯治楼",
+    "name_en": "",
+    "lat": 33.1150395,
+    "lng": 129.8689734,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692782635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "頭部クリーンセンター;エコスパ佐世保",
+    "name_en": "",
+    "lat": 33.1438213,
+    "lng": 129.7776877,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692787821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヌルヌル;有田温泉",
+    "name_en": "",
+    "lat": 33.1899839,
+    "lng": 129.860251,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692877082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒髪の森温泉;天童の湯",
+    "name_en": "",
+    "lat": 33.2126056,
+    "lng": 129.9162175,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692878883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白磁乃湯",
+    "name_en": "",
+    "lat": 33.2604293,
+    "lng": 129.8897325,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692881240,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美遊館",
+    "name_en": "",
+    "lat": 33.259658,
+    "lng": 129.8899547,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692881730,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高串温泉;肥前町福祉センター",
+    "name_en": "",
+    "lat": 33.4223865,
+    "lng": 129.8326085,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692912979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡山温泉茶屋",
+    "name_en": "",
+    "lat": 33.4368135,
+    "lng": 130.0173559,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692954272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野田の元湯",
+    "name_en": "",
+    "lat": 33.4299978,
+    "lng": 130.0510757,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692955865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野田の湯;やすらぎ荘",
+    "name_en": "",
+    "lat": 33.4295323,
+    "lng": 130.0507299,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692956358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡日帰りの旅;まむしの湯",
+    "name_en": "",
+    "lat": 33.4895407,
+    "lng": 130.0748936,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692965048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二丈温泉;きららの湯",
+    "name_en": "",
+    "lat": 33.5200217,
+    "lng": 130.139627,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692990753,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都の湯どころ",
+    "name_en": "",
+    "lat": 33.5858775,
+    "lng": 130.2133202,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 692997467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくの湯",
+    "name_en": "",
+    "lat": 33.5693627,
+    "lng": 130.3288502,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693002926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "楽天の湯",
+    "name_en": "",
+    "lat": 33.5443942,
+    "lng": 130.3899925,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693017268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "博多温泉;元祖元湯",
+    "name_en": "",
+    "lat": 33.5470856,
+    "lng": 130.4360975,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693044128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "家族温泉 華の湯",
+    "name_en": "",
+    "lat": 33.5131612,
+    "lng": 130.4829548,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693046939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫野;天拝の郷",
+    "name_en": "",
+    "lat": 33.4887419,
+    "lng": 130.4970119,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693115952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筑紫の湯",
+    "name_en": "",
+    "lat": 33.4577502,
+    "lng": 130.5363556,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693117259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "基山ラジウム温泉",
+    "name_en": "",
+    "lat": 33.4176978,
+    "lng": 130.5363421,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693122486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いづみ乃湯",
+    "name_en": "",
+    "lat": 33.3220824,
+    "lng": 130.5418078,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693126301,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の坂 久留米温泉",
+    "name_en": "Yunosaka Kurume Hotspring",
+    "lat": 33.3091304,
+    "lng": 130.5301108,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693139149,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "源泉掛け流し温泉 久留米;游心の湯",
+    "name_en": "",
+    "lat": 33.2854013,
+    "lng": 130.516817,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693142648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 ゆのそ;献上の湯",
+    "name_en": "",
+    "lat": 33.2633376,
+    "lng": 130.5347953,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693145568,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;大木の湯;アクアス",
+    "name_en": "",
+    "lat": 33.212278,
+    "lng": 130.4435965,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693164579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大川温泉 貴肌美人;緑の湯",
+    "name_en": "",
+    "lat": 33.219955,
+    "lng": 130.4154141,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693229780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;あおき温泉",
+    "name_en": "",
+    "lat": 33.2393954,
+    "lng": 130.4111145,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 693269952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きゅうらぎ温泉;佐用姫の湯",
+    "name_en": "",
+    "lat": 33.31438,
+    "lng": 130.0683341,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 694003335,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13288,6 +16577,17 @@
     "data_source": "osm"
   },
   {
+    "name": "三瀬温泉;やまびこの湯",
+    "name_en": "",
+    "lat": 33.4218676,
+    "lng": 130.2758778,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 697748865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "深遠寺",
     "name_en": "",
     "lat": 33.1887115,
@@ -13295,6 +16595,28 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 699797281,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北方温泉 四季の里;七彩の湯",
+    "name_en": "",
+    "lat": 33.2272029,
+    "lng": 130.044158,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 699904395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4621692,
+    "lng": 130.2751157,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 700107773,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13321,6 +16643,17 @@
     "data_source": "osm"
   },
   {
+    "name": "野方遺跡住居跡展示館",
+    "name_en": "",
+    "lat": 33.5552515,
+    "lng": 130.3064367,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 701091502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白瀧神社",
     "name_en": "",
     "lat": 33.2041276,
@@ -13339,6 +16672,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 704111948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海海中展望塔",
+    "name_en": "Genkai Undersea Observatory Tower",
+    "lat": 33.5559541,
+    "lng": 129.852299,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 704120699,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13387,6 +16731,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2480651,
+    "lng": 130.308681,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 731260631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 33.5890151,
@@ -13405,6 +16760,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 736399096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川の駅 船小屋;恋ぼたる温泉館",
+    "name_en": "",
+    "lat": 33.1829897,
+    "lng": 130.5025906,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 737062147,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13431,6 +16797,17 @@
     "data_source": "osm"
   },
   {
+    "name": "祐徳博物館",
+    "name_en": "Yūtoku Museum",
+    "lat": 33.0739371,
+    "lng": 130.1097882,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 753618055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1760503,
@@ -13438,6 +16815,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 753707515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九州芸文館",
+    "name_en": "",
+    "lat": 33.1785053,
+    "lng": 130.493673,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 754903240,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "こがね湯",
+    "name_en": "",
+    "lat": 33.5462962,
+    "lng": 130.4651267,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 757332133,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13596,6 +16995,17 @@
     "data_source": "osm"
   },
   {
+    "name": "修猷資料館",
+    "name_en": "",
+    "lat": 33.583118,
+    "lng": 130.3562205,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 799277300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "猿田彦神社",
     "name_en": "",
     "lat": 33.5809559,
@@ -13614,6 +17024,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 807177853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.0203107,
+    "lng": 130.443951,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 817457164,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14010,6 +17431,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 842706870,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久光製薬ミュージアム",
+    "name_en": "",
+    "lat": 33.3885424,
+    "lng": 130.5201928,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 842876497,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14630,6 +18062,17 @@
     "data_source": "osm"
   },
   {
+    "name": "須古城趾",
+    "name_en": "",
+    "lat": 33.1800491,
+    "lng": 130.1037126,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 902270816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社　弁財天",
     "name_en": "",
     "lat": 33.1713459,
@@ -14740,6 +18183,17 @@
     "data_source": "osm"
   },
   {
+    "name": "男島城趾",
+    "name_en": "",
+    "lat": 33.1807927,
+    "lng": 130.1123399,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 904128779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杵島神社",
     "name_en": "",
     "lat": 33.1805058,
@@ -14747,6 +18201,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 904128783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杵島城趾",
+    "name_en": "",
+    "lat": 33.1805466,
+    "lng": 130.0982188,
+    "category": "castle",
+    "prefecture": "saga",
+    "osm_id": 904128784,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15587,6 +19052,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陽光美術館",
+    "name_en": "",
+    "lat": 33.1849671,
+    "lng": 130.0143142,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 991959214,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1908887,
@@ -16056,6 +19532,28 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 1004938428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大牟田市動物園",
+    "name_en": "",
+    "lat": 33.019768,
+    "lng": 130.4442097,
+    "category": "zoo",
+    "prefecture": "saga",
+    "osm_id": 1005425338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳川古文書館",
+    "name_en": "",
+    "lat": 33.1651042,
+    "lng": 130.4136027,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1007896246,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16995,6 +20493,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大町温泉ひじり乃湯",
+    "name_en": "",
+    "lat": 33.2200991,
+    "lng": 130.0996156,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1052635382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "Fumyozan Koya Temple",
     "lat": 33.222601,
@@ -17057,6 +20566,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 1062907618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴さくら",
+    "name_en": "",
+    "lat": 33.1927686,
+    "lng": 130.3148562,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1064365492,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17336,6 +20856,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福岡西PA (下り)",
+    "name_en": "",
+    "lat": 33.5689058,
+    "lng": 130.2940823,
+    "category": "rest_area",
+    "prefecture": "saga",
+    "osm_id": 1137974985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 33.0725764,
@@ -17354,6 +20885,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1148278714,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大宰府展示館",
+    "name_en": "",
+    "lat": 33.5137162,
+    "lng": 130.516168,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1150792843,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17398,6 +20940,28 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 1151405384,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "次田の湯 大浴場",
+    "name_en": "",
+    "lat": 33.4896528,
+    "lng": 130.5142378,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1151608785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒尾干潟・水鳥湿地センター",
+    "name_en": "",
+    "lat": 32.961218,
+    "lng": 130.4325672,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1151948941,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17501,6 +21065,28 @@
     "data_source": "osm"
   },
   {
+    "name": "宮崎兄弟資料館",
+    "name_en": "",
+    "lat": 32.9846965,
+    "lng": 130.4346091,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1155954570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡二日市文学館",
+    "name_en": "",
+    "lat": 33.4977492,
+    "lng": 130.5180853,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1156467123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満神社",
     "name_en": "",
     "lat": 33.2045663,
@@ -17523,6 +21109,61 @@
     "data_source": "osm"
   },
   {
+    "name": "多久市資料館",
+    "name_en": "",
+    "lat": 33.2573186,
+    "lng": 130.0882162,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1159885636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "末盧館",
+    "name_en": "Matsuro-kan Museum",
+    "lat": 33.4485235,
+    "lng": 129.9578824,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1161314288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧高取家住宅",
+    "name_en": "Old Takatori Family Residence",
+    "lat": 33.4543234,
+    "lng": 129.9721959,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1161705831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧大島邸",
+    "name_en": "",
+    "lat": 33.4525515,
+    "lng": 129.9707677,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1161705837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "唐津市少年科学館",
+    "name_en": "",
+    "lat": 33.4613046,
+    "lng": 129.9627752,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1161705842,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鶴林寺",
     "name_en": "",
     "lat": 33.4393928,
@@ -17541,6 +21182,17 @@
     "category": "temple",
     "prefecture": "saga",
     "osm_id": 1165388924,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料館",
+    "name_en": "Folk History Data House",
+    "lat": 33.4707305,
+    "lng": 129.9537255,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1166160172,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17596,6 +21248,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1174796637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大野城心のふるさと館",
+    "name_en": "",
+    "lat": 33.5347081,
+    "lng": 130.4803738,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1174845657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "板付遺跡弥生館",
+    "name_en": "",
+    "lat": 33.5653405,
+    "lng": 130.4509885,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1175110374,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17706,6 +21380,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1190567226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村田英雄記念館",
+    "name_en": "",
+    "lat": 33.3494634,
+    "lng": 130.0137721,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1192607168,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18053,6 +21738,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5181157,
+    "lng": 129.8286521,
+    "category": "lighthouse",
+    "prefecture": "saga",
+    "osm_id": 1215764047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.2736034,
     "lng": 129.833598,
     "category": "shrine",
@@ -18080,6 +21776,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1217755662,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里湾カブトガニの館",
+    "name_en": "",
+    "lat": 33.2938122,
+    "lng": 129.8534275,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1217755951,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18887,6 +22594,17 @@
     "data_source": "osm"
   },
   {
+    "name": "万葉の湯",
+    "name_en": "",
+    "lat": 33.5980275,
+    "lng": 130.4342147,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1301054710,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2635589,
@@ -18960,6 +22678,17 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1307990091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小戸の湯処　ヒナタの杜",
+    "name_en": "",
+    "lat": 33.592438,
+    "lng": 130.3170065,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1308277225,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19505,6 +23234,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 32.9754245,
+    "lng": 129.9440879,
+    "category": "museum",
+    "prefecture": "saga",
+    "osm_id": 1366051199,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 32.9795951,
     "lng": 129.9468496,
     "category": "temple",
@@ -19521,6 +23261,28 @@
     "category": "shrine",
     "prefecture": "saga",
     "osm_id": 1374472069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍登園",
+    "name_en": "Ryutoen",
+    "lat": 33.3272696,
+    "lng": 130.2702027,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1382819189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀大和温泉ホテルアマンディ",
+    "name_en": "Sagayamato Onsen Hotel Amandi",
+    "lat": 33.3215749,
+    "lng": 130.2712434,
+    "category": "onsen",
+    "prefecture": "saga",
+    "osm_id": 1382819202,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

@@ -979,6 +979,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9617482,
+    "lng": 130.9539036,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 1223939632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9548882,
+    "lng": 130.962309,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 1223939636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "料金所",
+    "name_en": "",
+    "lat": 34.4173435,
+    "lng": 131.3837448,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1292507798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国城 天守台跡",
+    "name_en": "Iwakuni Castle Former Tower",
+    "lat": 34.1757736,
+    "lng": 132.1741301,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 1306306158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "櫛代賀姫神社",
     "name_en": "",
     "lat": 34.701253,
@@ -986,6 +1030,578 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 1423608487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島根県立石見美術館",
+    "name_en": "",
+    "lat": 34.672679,
+    "lng": 131.8484067,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423611773,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杜塾美術館",
+    "name_en": "",
+    "lat": 34.464362,
+    "lng": 131.773355,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423615922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "板橋アンティックドール美術館",
+    "name_en": "",
+    "lat": 34.460408,
+    "lng": 131.771305,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423616192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森鴎外記念館",
+    "name_en": "",
+    "lat": 34.457277,
+    "lng": 131.768319,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423616327,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "藩校　養老館",
+    "name_en": "",
+    "lat": 34.466585,
+    "lng": 131.773257,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423616656,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津和野町郷土館",
+    "name_en": "",
+    "lat": 34.465597,
+    "lng": 131.773357,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423616661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "資料室　はぜくら",
+    "name_en": "",
+    "lat": 34.468061,
+    "lng": 131.7735431,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423616662,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "益田市立雪舟の郷記念館",
+    "name_en": "",
+    "lat": 34.685022,
+    "lng": 131.847458,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423618053,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本遺産センター",
+    "name_en": "",
+    "lat": 34.4702307,
+    "lng": 131.7755459,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423619177,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芸北民俗博物館",
+    "name_en": "",
+    "lat": 34.650209,
+    "lng": 132.167972,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423647166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "のむら美術館",
+    "name_en": "",
+    "lat": 34.1880872,
+    "lng": 131.4716177,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423653582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下関市烏山民俗資料館",
+    "name_en": "",
+    "lat": 34.142332,
+    "lng": 130.935452,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423653951,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下関市豊北歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.289904,
+    "lng": 130.947569,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423653986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中原中也記念館",
+    "name_en": "",
+    "lat": 34.164779,
+    "lng": 131.457879,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乃木神社宝物館",
+    "name_en": "",
+    "lat": 33.999462,
+    "lng": 130.986398,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654092,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊藤公資料館",
+    "name_en": "",
+    "lat": 34.008826,
+    "lng": 131.995763,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "住吉神社宝物館",
+    "name_en": "",
+    "lat": 33.9988737,
+    "lng": 130.9569282,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "光ふるさと郷土館",
+    "name_en": "",
+    "lat": 33.926263,
+    "lng": 131.97033,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654209,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "光市文化センター",
+    "name_en": "",
+    "lat": 33.962802,
+    "lng": 131.944938,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周南市美術博物館",
+    "name_en": "",
+    "lat": 34.06019,
+    "lng": 131.812206,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和木町歴史資料館",
+    "name_en": "",
+    "lat": 34.193168,
+    "lng": 132.221253,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "商家博物館・むろやの園",
+    "name_en": "",
+    "lat": 33.968457,
+    "lng": 132.109186,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.951079,
+    "lng": 132.183977,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423654739,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口市小郡文化資料館",
+    "name_en": "",
+    "lat": 34.1024797,
+    "lng": 131.3936595,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423655655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.1827971,
+    "lng": 131.4702216,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423655658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国城",
+    "name_en": "",
+    "lat": 34.175249,
+    "lng": 132.17427,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423656100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国学校教育資料館",
+    "name_en": "",
+    "lat": 34.164151,
+    "lng": 132.184045,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423656103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平生町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.939715,
+    "lng": 132.068991,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423657559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平生町民具館",
+    "name_en": "",
+    "lat": 33.939715,
+    "lng": 132.068991,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423657560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "忌宮神社宝物館",
+    "name_en": "",
+    "lat": 33.9989548,
+    "lng": 130.9871614,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423658231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本ハワイ移民資料館",
+    "name_en": "",
+    "lat": 33.921282,
+    "lng": 132.20014,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423658336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "月性展示館",
+    "name_en": "",
+    "lat": 33.957589,
+    "lng": 132.14654,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423658396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本郷歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.295624,
+    "lng": 132.03847,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423658491,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東行記念館",
+    "name_en": "",
+    "lat": 34.085972,
+    "lng": 131.071271,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423658742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梅光学院大学博物館",
+    "name_en": "",
+    "lat": 33.967704,
+    "lng": 130.931927,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423659553,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊谷美術館（重要文化財熊谷家住宅）",
+    "name_en": "",
+    "lat": 34.416862,
+    "lng": 131.396012,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423659796,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瑠璃光寺資料館",
+    "name_en": "Rurikōji Museum",
+    "lat": 34.1895171,
+    "lng": 131.4721213,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423659848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由宇歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.017637,
+    "lng": 132.217098,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423659885,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石井茶碗美術館",
+    "name_en": "",
+    "lat": 34.410612,
+    "lng": 131.393191,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋吉台科学博物館",
+    "name_en": "",
+    "lat": 34.2350117,
+    "lng": 131.3072713,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋吉台自然動物公園サファリランド",
+    "name_en": "",
+    "lat": 34.284696,
+    "lng": 131.331477,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美袮市化石館",
+    "name_en": "",
+    "lat": 34.1674072,
+    "lng": 131.2075324,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660671,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美袮市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.165922,
+    "lng": 131.207438,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩史料館",
+    "name_en": "",
+    "lat": 34.415627,
+    "lng": 131.381759,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660799,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩市立阿武川歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.3558,
+    "lng": 131.488145,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩市立須佐歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.6195483,
+    "lng": 131.5993877,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩陶芸美術館・吉賀大眉記念館",
+    "name_en": "",
+    "lat": 34.425111,
+    "lng": 131.415372,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "藤原義江記念館",
+    "name_en": "",
+    "lat": 33.95911,
+    "lng": 130.94661,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423660901,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長門市日置歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.38327,
+    "lng": 131.105208,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423661236,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "防府市青少年科学館",
+    "name_en": "",
+    "lat": 34.04929,
+    "lng": 131.562037,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423661321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿弥陀寺文化財収蔵庫",
+    "name_en": "",
+    "lat": 34.0767397,
+    "lng": 131.6141771,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423661406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出光佐三記念美術館・出光美術館（門司）",
+    "name_en": "",
+    "lat": 33.94891,
+    "lng": 130.965276,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1423757203,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1012,6 +1628,28 @@
     "data_source": "osm"
   },
   {
+    "name": "大理石加工展示館",
+    "name_en": "",
+    "lat": 34.2252994,
+    "lng": 131.3067267,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1631278100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雙津峡温泉憩の家",
+    "name_en": "",
+    "lat": 34.3136545,
+    "lng": 131.9894208,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1631280055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正一位立石稲荷大明神",
     "name_en": "",
     "lat": 33.9628202,
@@ -1019,6 +1657,39 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 2142733061,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9658036,
+    "lng": 130.956346,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 2142733062,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "門司埼灯台",
+    "name_en": "Mojizaki",
+    "lat": 33.9621318,
+    "lng": 130.9630422,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 2142757764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金子みすゞ記念館",
+    "name_en": "Kaneko Misuzu Memorial Museum",
+    "lat": 34.3915045,
+    "lng": 131.1985334,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 2301970322,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1067,6 +1738,17 @@
     "data_source": "osm"
   },
   {
+    "name": "津和野城",
+    "name_en": "",
+    "lat": 34.4600199,
+    "lng": 131.7641695,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 2460030752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "玉祖神社",
     "name_en": "",
     "lat": 34.0576772,
@@ -1074,6 +1756,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 2466495275,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3890226,
+    "lng": 132.1042109,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 2491282136,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1474,6 +2167,17 @@
     "data_source": "osm"
   },
   {
+    "name": "津和野町伝統文化館",
+    "name_en": "",
+    "lat": 34.4633957,
+    "lng": 131.7678723,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 2898787404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "萬福寺",
     "name_en": "",
     "lat": 34.5657134,
@@ -1595,6 +2299,28 @@
     "data_source": "osm"
   },
   {
+    "name": "回天記念館",
+    "name_en": "Kaiten Memorial Museum",
+    "lat": 33.9933391,
+    "lng": 131.7174195,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 3037174633,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蜂ヶ峯総合公園キャンプ場",
+    "name_en": "",
+    "lat": 34.1908584,
+    "lng": 132.2201484,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 3038354633,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "人麻呂神社",
     "name_en": "",
     "lat": 34.680107,
@@ -1602,6 +2328,50 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 3045130534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.6771425,
+    "lng": 131.8602949,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 3045192289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7970264,
+    "lng": 131.0131748,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3074371420,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7999573,
+    "lng": 131.012492,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3074371424,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8730162,
+    "lng": 131.0101796,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3074371583,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1859,6 +2629,17 @@
     "data_source": "osm"
   },
   {
+    "name": "由宇温泉",
+    "name_en": "",
+    "lat": 34.0299731,
+    "lng": 132.1658505,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 3186060461,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍文寺",
     "name_en": "",
     "lat": 34.1451222,
@@ -1866,6 +2647,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 3357265193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7649141,
+    "lng": 132.2544592,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041007,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1899,6 +2691,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 3412041010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7816717,
+    "lng": 132.2589054,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041012,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1943,6 +2746,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 3412041017,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8479314,
+    "lng": 132.1824253,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041020,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2400,11 +3214,55 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.9495057,
+    "lng": 132.2652954,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041327,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.9535059,
     "lng": 132.2128906,
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 3412041330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9540427,
+    "lng": 132.1772019,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9545232,
+    "lng": 132.1836183,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9562304,
+    "lng": 132.1749474,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 3412041336,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2460,6 +3318,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 3412041484,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "門司電気通信レトロ館",
+    "name_en": "",
+    "lat": 33.9497531,
+    "lng": 130.9668644,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 3553356004,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2739,6 +3608,17 @@
     "data_source": "osm"
   },
   {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 33.8393367,
+    "lng": 131.0319091,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 4029229253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "多聞院",
     "name_en": "",
     "lat": 34.0405896,
@@ -2933,6 +3813,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 4179784690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "パビリオ曽根の湯",
+    "name_en": "",
+    "lat": 33.8223089,
+    "lng": 130.9342141,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 4271092672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大久保石州和紙資料館",
+    "name_en": "",
+    "lat": 34.6496578,
+    "lng": 132.004867,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4287059990,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3289,6 +4191,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石城の里三国志城",
+    "name_en": "",
+    "lat": 33.9917942,
+    "lng": 132.024856,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4360862691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石城神社",
     "name_en": "",
     "lat": 33.9874424,
@@ -3296,6 +4209,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 4360872791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "室積灯台",
+    "name_en": "",
+    "lat": 33.9216698,
+    "lng": 131.9768762,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4362722401,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3476,6 +4400,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋吉台エコ・ミュージアム",
+    "name_en": "",
+    "lat": 34.2762933,
+    "lng": 131.3224992,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4367073841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長安寺",
     "name_en": "",
     "lat": 33.9323343,
@@ -3494,6 +4429,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 4373094096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海来館",
+    "name_en": "",
+    "lat": 33.8305388,
+    "lng": 132.1124419,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4373971893,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3553,6 +4499,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2259481,
+    "lng": 131.3088989,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 4450750991,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "堀越三神社",
     "name_en": "",
     "lat": 34.037852,
@@ -3560,6 +4517,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 4451305071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0210806,
+    "lng": 131.6095746,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4452848974,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3630,6 +4598,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土美術資料館",
+    "name_en": "",
+    "lat": 34.077989,
+    "lng": 131.7697748,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4587041807,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "建咲院",
     "name_en": "",
     "lat": 34.0799079,
@@ -3692,6 +4671,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 4607816709,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "飯塚城跡",
+    "name_en": "",
+    "lat": 34.1777409,
+    "lng": 131.0613292,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 4618259755,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3839,6 +4829,17 @@
     "data_source": "osm"
   },
   {
+    "name": "清流館",
+    "name_en": "",
+    "lat": 34.2141208,
+    "lng": 131.0099142,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 4685085401,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三島神社",
     "name_en": "",
     "lat": 34.2223194,
@@ -3982,6 +4983,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3530557,
+    "lng": 131.9436838,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 4812767321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡宮",
     "name_en": "",
     "lat": 34.0412583,
@@ -4061,6 +5073,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.937254,
+    "lng": 131.6955346,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4852646191,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.9424209,
     "lng": 131.6936758,
     "category": "shrine",
@@ -4083,11 +5106,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.8600559,
+    "lng": 132.0075219,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4855633586,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8719945,
+    "lng": 132.0172548,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4855633587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.8965191,
     "lng": 132.0487869,
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 4859771594,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9011676,
+    "lng": 132.034653,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4859781020,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4169,6 +5225,17 @@
     "data_source": "osm"
   },
   {
+    "name": "相島灯台",
+    "name_en": "",
+    "lat": 34.5168427,
+    "lng": 131.2762195,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 4946815929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.5062826,
@@ -4246,6 +5313,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3244597,
+    "lng": 131.9393127,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 5049784184,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "若山城跡",
+    "name_en": "",
+    "lat": 34.0836715,
+    "lng": 131.7273088,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 5157947393,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "神田神社",
     "name_en": "",
     "lat": 34.0973554,
@@ -4275,6 +5364,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 5167381400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国しろへびの館",
+    "name_en": "",
+    "lat": 34.1708513,
+    "lng": 132.175617,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5167456144,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4390,6 +5490,17 @@
   },
   {
     "name": "名称不明",
+    "name_en": "hagiyaki museum",
+    "lat": 34.4099167,
+    "lng": 131.3899724,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5185427822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
     "name_en": "",
     "lat": 34.0317536,
     "lng": 131.7136294,
@@ -4455,6 +5566,17 @@
     "data_source": "osm"
   },
   {
+    "name": "火振岬灯台",
+    "name_en": "",
+    "lat": 33.9296954,
+    "lng": 131.8186259,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5228227126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "立岩稲荷",
     "name_en": "",
     "lat": 33.9992619,
@@ -4462,6 +5584,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 5230182783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9994466,
+    "lng": 131.5438661,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5230199366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "草山埼灯台",
+    "name_en": "",
+    "lat": 33.9847553,
+    "lng": 131.4401693,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5230228954,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4484,6 +5628,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 5244094191,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9949712,
+    "lng": 131.0257413,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5244123557,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4774,6 +5929,28 @@
     "data_source": "osm"
   },
   {
+    "name": "桑原史成写真美術館",
+    "name_en": "",
+    "lat": 34.4724035,
+    "lng": 131.7741563,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5421689469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安野光雅美術館",
+    "name_en": "",
+    "lat": 34.4719943,
+    "lng": 131.7743928,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5421689471,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弥栄神社 御旅所",
     "name_en": "",
     "lat": 34.4721283,
@@ -4825,6 +6002,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 5424535658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.0157868,
+    "lng": 131.4378032,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5437366406,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4939,6 +6127,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6241942,
+    "lng": 131.598305,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5507287834,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧下関英国領事館",
+    "name_en": "",
+    "lat": 33.9569379,
+    "lng": 130.9431845,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5514642022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "櫛崎城跡",
+    "name_en": "",
+    "lat": 33.9893763,
+    "lng": 130.993778,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 5515960383,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "曹洞宗 大楽寺",
     "name_en": "",
     "lat": 33.9879159,
@@ -4957,6 +6178,50 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 5524511689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.565243,
+    "lng": 131.5387558,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5525547304,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4781006,
+    "lng": 131.4435276,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5525608192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4453605,
+    "lng": 131.4112526,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5525665711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4454729,
+    "lng": 131.411969,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 5525665712,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5034,6 +6299,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 5599473118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水源会館",
+    "name_en": "",
+    "lat": 34.3721822,
+    "lng": 132.0000741,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 5619842992,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5225,6 +6501,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川尻岬灯台",
+    "name_en": "",
+    "lat": 34.4408348,
+    "lng": 130.9734442,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 6238852095,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯免住吉社",
     "name_en": "",
     "lat": 34.3585099,
@@ -5243,6 +6530,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 6257715439,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3807226,
+    "lng": 131.1790029,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 6297262167,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4208558,
+    "lng": 131.0042345,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 6357426492,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5287,6 +6596,94 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 6448703559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉田温泉;晋作の湯",
+    "name_en": "",
+    "lat": 34.0872111,
+    "lng": 131.0712784,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6465886121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山陽小野田市きらら交流館",
+    "name_en": "",
+    "lat": 33.9452509,
+    "lng": 131.1678798,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6465992797,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ロハス島地温泉",
+    "name_en": "",
+    "lat": 34.1592145,
+    "lng": 131.7028444,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6466195382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9854221,
+    "lng": 131.9922299,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 6481702685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サングリーン菊川",
+    "name_en": "",
+    "lat": 34.1302404,
+    "lng": 131.0349566,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6659463826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅蛍街道 西ノ市;西ノ市温泉",
+    "name_en": "",
+    "lat": 34.1984397,
+    "lng": 131.0767381,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6659806907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅;願成就温泉",
+    "name_en": "",
+    "lat": 34.4342874,
+    "lng": 131.7705892,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6660059278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3891972,
+    "lng": 132.1044192,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 6660427435,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5342,6 +6739,83 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 7062373194,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7551214,
+    "lng": 131.8658635,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063119794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜神崎灯台",
+    "name_en": "",
+    "lat": 34.6523582,
+    "lng": 131.6458238,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063173188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高山岬灯台",
+    "name_en": "",
+    "lat": 34.6650577,
+    "lng": 131.6127997,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063173189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4367936,
+    "lng": 131.4125937,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063298237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4369512,
+    "lng": 131.2525278,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063328488,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.398094,
+    "lng": 131.1960435,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063328509,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4170606,
+    "lng": 131.1309899,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 7063522215,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5540,6 +7014,17 @@
     "category": "station",
     "prefecture": "yamaguchi",
     "osm_id": 8195950643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "コワ温泉",
+    "name_en": "",
+    "lat": 34.7391471,
+    "lng": 131.9955822,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 8327424178,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5786,6 +7271,50 @@
     "data_source": "osm"
   },
   {
+    "name": "きく湯",
+    "name_en": "",
+    "lat": 33.9501775,
+    "lng": 130.9732009,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 9113628206,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9534814,
+    "lng": 132.1378987,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 9148544345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9519141,
+    "lng": 132.1379591,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 9148544359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9514824,
+    "lng": 132.1344169,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 9148544360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕社",
     "name_en": "",
     "lat": 34.1059422,
@@ -5874,6 +7403,28 @@
     "data_source": "osm"
   },
   {
+    "name": "かまぼこ歴史館",
+    "name_en": "",
+    "lat": 33.9954589,
+    "lng": 131.2734297,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 9515680347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アインシュタイン・メモリアルルーム",
+    "name_en": "",
+    "lat": 33.9456352,
+    "lng": 130.9626369,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 9604719247,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新福寺",
     "name_en": "",
     "lat": 34.0018811,
@@ -5907,6 +7458,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3926134,
+    "lng": 130.9330857,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 9780438701,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明神社",
     "name_en": "",
     "lat": 34.3962838,
@@ -5914,6 +7476,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 9782438913,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "厚保老人憩いの家",
+    "name_en": "",
+    "lat": 34.1085024,
+    "lng": 131.1501482,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 9813759698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カルストの湯",
+    "name_en": "",
+    "lat": 34.1869747,
+    "lng": 131.2876563,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 9813771611,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5984,6 +7568,17 @@
     "data_source": "osm"
   },
   {
+    "name": "勅使殿",
+    "name_en": "",
+    "lat": 33.9604251,
+    "lng": 130.9491899,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 10275623757,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正一位紅石稲荷神社",
     "name_en": "",
     "lat": 33.9605557,
@@ -6013,6 +7608,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 10606368552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本海温泉・鹿島の湯",
+    "name_en": "",
+    "lat": 34.4981951,
+    "lng": 131.4678937,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 10703326962,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6061,6 +7667,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Nagato, Yamaguchi",
+    "lat": 34.3747932,
+    "lng": 131.1857751,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 10767847405,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法輪寺",
     "name_en": "",
     "lat": 34.1101288,
@@ -6083,6 +7700,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9550666,
+    "lng": 130.944292,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11353508076,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "世界平和パゴダ",
     "name_en": "",
     "lat": 33.9546664,
@@ -6101,6 +7729,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 11482664477,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩城",
+    "name_en": "Hagi Castle",
+    "lat": 34.4175201,
+    "lng": 131.3837761,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 11630385962,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6283,6 +7922,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.6309228,
+    "lng": 131.5815378,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11822686782,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.6293761,
     "lng": 131.582496,
     "category": "shrine",
@@ -6349,6 +7999,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4182503,
+    "lng": 131.2668184,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11826897899,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.428088,
     "lng": 131.2505928,
     "category": "shrine",
@@ -6360,11 +8021,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4224846,
+    "lng": 131.2522009,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11826897902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.436798,
+    "lng": 131.2527876,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11826897903,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4282741,
     "lng": 131.2491293,
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 11826897904,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4241589,
+    "lng": 131.2481729,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11826897905,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6633,6 +8327,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4210936,
+    "lng": 131.005838,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 11898648286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "仁壁神社",
     "name_en": "",
     "lat": 34.1891819,
@@ -6750,6 +8455,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 12568155430,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8750699,
+    "lng": 131.0028172,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 12568156068,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7084,6 +8800,39 @@
     "data_source": "osm"
   },
   {
+    "name": "井上公園足湯",
+    "name_en": "",
+    "lat": 34.1636853,
+    "lng": 131.4566752,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 12993962150,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯田温泉駅前足湯(白狐の湯)",
+    "name_en": "",
+    "lat": 34.1597117,
+    "lng": 131.45998,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 12993970612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿多田交流館",
+    "name_en": "",
+    "lat": 33.9131243,
+    "lng": 132.0563515,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 12998453295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白鳥神社",
     "name_en": "",
     "lat": 33.8967924,
@@ -7172,6 +8921,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛行場灯台",
+    "name_en": "",
+    "lat": 33.9354206,
+    "lng": 131.2750885,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 13525496137,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.490978,
@@ -7201,6 +8961,83 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 13649867083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1641954,
+    "lng": 131.4579612,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.165423,
+    "lng": 131.4574427,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1653064,
+    "lng": 131.4575874,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127833,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1643213,
+    "lng": 131.4567347,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1651544,
+    "lng": 131.457738,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1676907,
+    "lng": 131.4569752,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1651245,
+    "lng": 131.4577732,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 13666127848,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7238,6 +9075,17 @@
     "data_source": "osm"
   },
   {
+    "name": "九州鉄道記念館",
+    "name_en": "Kyushu Railway History Museum",
+    "lat": 33.9432942,
+    "lng": 130.9619156,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 32387865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "遠石八幡宮",
     "name_en": "",
     "lat": 34.0399224,
@@ -7267,6 +9115,72 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 221472062,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下関市立しものせき水族館・海響館",
+    "name_en": "Kaikyokan",
+    "lat": 33.9544226,
+    "lng": 130.9423827,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 221599485,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口情報芸術センター[YCAM]",
+    "name_en": "Yamaguchi Center for Arts and Media [YCAM]",
+    "lat": 34.169548,
+    "lng": 131.4672561,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 239844964,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口銀行旧本店",
+    "name_en": "",
+    "lat": 33.9529842,
+    "lng": 130.9387212,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 245096850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口県立山口博物館",
+    "name_en": "",
+    "lat": 34.1824606,
+    "lng": 131.4727431,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 248187404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9488017,
+    "lng": 130.9652602,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 269979035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "防府天満宮歴史館",
+    "name_en": "",
+    "lat": 34.0626983,
+    "lng": 131.5737545,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 297142747,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7315,6 +9229,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石見美術館",
+    "name_en": "",
+    "lat": 34.6729291,
+    "lng": 131.8479691,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 299628188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6743893,
@@ -7344,6 +9269,39 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 300167320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呼鶴温泉",
+    "name_en": "",
+    "lat": 34.0469766,
+    "lng": 131.9688563,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 305828147,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "バーデンハウス三丘",
+    "name_en": "",
+    "lat": 34.034567,
+    "lng": 131.9934131,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 305923774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東善寺;やすらぎの里",
+    "name_en": "",
+    "lat": 34.0324266,
+    "lng": 131.9940375,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 305923804,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7458,6 +9416,17 @@
     "data_source": "osm"
   },
   {
+    "name": "徳山動物園",
+    "name_en": "",
+    "lat": 34.0619337,
+    "lng": 131.8158048,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 312367525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "称名寺",
     "name_en": "",
     "lat": 34.0693458,
@@ -7465,6 +9434,28 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 314646141,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤間神宮宝物殿",
+    "name_en": "",
+    "lat": 33.9595636,
+    "lng": 130.9484903,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 320351803,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Hagi Meirin Gakusha Visitor Center",
+    "lat": 34.4092273,
+    "lng": 131.3997775,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 320364413,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7487,6 +9478,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 323595745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和木美術館",
+    "name_en": "",
+    "lat": 34.2029075,
+    "lng": 132.2200845,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 324704739,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7645,6 +9647,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石炭記念館",
+    "name_en": "",
+    "lat": 33.945532,
+    "lng": 131.2854312,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 356932963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "順正寺",
     "name_en": "",
     "lat": 34.0324601,
@@ -7667,6 +9680,28 @@
     "data_source": "osm"
   },
   {
+    "name": "山口県立美術館",
+    "name_en": "",
+    "lat": 34.1795883,
+    "lng": 131.4744402,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 366784521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3370769,
+    "lng": 131.0228324,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 367395981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝賢寺",
     "name_en": "",
     "lat": 34.0236575,
@@ -7685,6 +9720,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 370523121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筒賀PA (下り)",
+    "name_en": "",
+    "lat": 34.5617347,
+    "lng": 132.2540662,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 370867308,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7821,6 +9867,17 @@
     "data_source": "osm"
   },
   {
+    "name": "於福温泉",
+    "name_en": "",
+    "lat": 34.237814,
+    "lng": 131.2084842,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 384632717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "専宗寺",
     "name_en": "",
     "lat": 34.0423566,
@@ -7883,6 +9940,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 389691629,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "くだまつ健康パーク",
+    "name_en": "",
+    "lat": 34.0155563,
+    "lng": 131.8429808,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 389996237,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7953,6 +10021,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天然温泉宮浜;べにまんさくの湯",
+    "name_en": "",
+    "lat": 34.2708987,
+    "lng": 132.2549263,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 395269590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "秋葉神社",
     "name_en": "",
     "lat": 34.1626433,
@@ -7997,6 +10076,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩国徴古館",
+    "name_en": "",
+    "lat": 34.1709688,
+    "lng": 132.1771653,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 408281178,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "護国神社",
     "name_en": "",
     "lat": 34.1935708,
@@ -8004,6 +10094,83 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 408562807,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田布施郷土館",
+    "name_en": "",
+    "lat": 33.9558072,
+    "lng": 132.0438676,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 425343734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山陽小野田市歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.9909319,
+    "lng": 131.1761666,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 427587185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅津和野温泉 なごみの里;あさぎりの湯",
+    "name_en": "",
+    "lat": 34.4500473,
+    "lng": 131.7606981,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 434744391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柏原美術館",
+    "name_en": "Kashiwabara Museum",
+    "lat": 34.1713632,
+    "lng": 132.1748386,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 436641220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Iwakuni Castle",
+    "name_en": "Iwakuni Castle",
+    "lat": 34.1752324,
+    "lng": 132.1742329,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 436641226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国石人形ミニ資料館",
+    "name_en": "",
+    "lat": 34.1687201,
+    "lng": 132.1777905,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 436681109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉川史料館",
+    "name_en": "Kikkawa Historical Museum",
+    "lat": 34.1704543,
+    "lng": 132.1777098,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 436681116,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8041,6 +10208,149 @@
     "data_source": "osm"
   },
   {
+    "name": "王司PA (上り)",
+    "name_en": "",
+    "lat": 34.0499529,
+    "lng": 131.0034603,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443365961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "王司PA (下り)",
+    "name_en": "",
+    "lat": 34.050568,
+    "lng": 131.0047088,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443366457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊佐PA (上り)",
+    "name_en": "isa PA",
+    "lat": 34.1196727,
+    "lng": 131.204483,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443367493,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊佐PA (下り)",
+    "name_en": "isa PA",
+    "lat": 34.1190615,
+    "lng": 131.2069416,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443368429,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯田温泉PA (下り)",
+    "name_en": "",
+    "lat": 34.1390356,
+    "lng": 131.4658049,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443371254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯田温泉PA (上り)",
+    "name_en": "",
+    "lat": 34.1393575,
+    "lng": 131.46528,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443371828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荷卸峠PA (下り)",
+    "name_en": "",
+    "lat": 34.1798068,
+    "lng": 131.5935445,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443374158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荷卸峠PA (上り)",
+    "name_en": "",
+    "lat": 34.1800347,
+    "lng": 131.5946571,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443374605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "深谷PA (下り)",
+    "name_en": "",
+    "lat": 34.3856937,
+    "lng": 132.0151744,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443378419,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "深谷PA (上り)",
+    "name_en": "",
+    "lat": 34.3864716,
+    "lng": 132.0150096,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443379041,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筒賀PA (上り)",
+    "name_en": "",
+    "lat": 34.5621342,
+    "lng": 132.2539025,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443384872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉志PA (下り)",
+    "name_en": "Kishi PA",
+    "lat": 33.8722135,
+    "lng": 130.9648802,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443625088,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉志PA (上り)",
+    "name_en": "Kishi PA",
+    "lat": 33.8724846,
+    "lng": 130.9645636,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 443626359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大明神社",
     "name_en": "",
     "lat": 33.9551498,
@@ -8048,6 +10358,83 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 444670024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周防灘PA (下り)",
+    "name_en": "Suohnada P.A.",
+    "lat": 34.0307305,
+    "lng": 131.1108628,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 445043040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周防灘PA (上り)",
+    "name_en": "Suohnada P.A.",
+    "lat": 34.0315283,
+    "lng": 131.1109218,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 445044303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江泊温泉 和の湯",
+    "name_en": "",
+    "lat": 34.0487154,
+    "lng": 131.6045921,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 453431096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (下り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.0995499,
+    "lng": 132.1021831,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 454669632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (上り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.100122,
+    "lng": 132.1017634,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 454670076,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富海PA (下り)",
+    "name_en": "Tonomi P.A.",
+    "lat": 34.0630134,
+    "lng": 131.6549258,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 454681045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富海PA (上り)",
+    "name_en": "Tonomi P.A.",
+    "lat": 34.0620776,
+    "lng": 131.6525754,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 454681275,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8070,6 +10457,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 483330385,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;みちしお",
+    "name_en": "",
+    "lat": 34.0424127,
+    "lng": 131.0709286,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 488607293,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "毛利博物館",
+    "name_en": "",
+    "lat": 34.0632862,
+    "lng": 131.5869943,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 490152838,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8118,6 +10527,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高嶺城跡",
+    "name_en": "",
+    "lat": 34.1843843,
+    "lng": 131.4630796,
+    "category": "castle",
+    "prefecture": "yamaguchi",
+    "osm_id": 505704993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社",
     "name_en": "",
     "lat": 34.0395066,
@@ -8140,6 +10560,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9698535,
+    "lng": 131.8524901,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 517487946,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小鯖鰐鳴八幡宮",
     "name_en": "",
     "lat": 34.1146393,
@@ -8147,6 +10578,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 537561840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やまぎん史料館",
+    "name_en": "",
+    "lat": 33.9529775,
+    "lng": 130.938424,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 539320103,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8206,6 +10648,17 @@
     "data_source": "osm"
   },
   {
+    "name": "酒井酒造美術館・五橋文庫",
+    "name_en": "",
+    "lat": 34.169424,
+    "lng": 132.1777341,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 549148319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "中津瀬神社",
     "name_en": "",
     "lat": 33.9489204,
@@ -8224,6 +10677,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 549554508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日清講和記念館",
+    "name_en": "Sino-Japan Peace Treaty Memorial Hall",
+    "lat": 33.9590407,
+    "lng": 130.948352,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 552006984,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8305,6 +10769,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4151096,
+    "lng": 131.382094,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 556205052,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "引接寺",
     "name_en": "",
     "lat": 33.9590166,
@@ -8345,6 +10820,39 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 559670166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村田清風記念館",
+    "name_en": "",
+    "lat": 34.3696139,
+    "lng": 131.2150678,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 560660370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3694449,
+    "lng": 131.2150219,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 560660497,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三隅山荘",
+    "name_en": "",
+    "lat": 34.369476,
+    "lng": 131.2146503,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 560660941,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8400,6 +10908,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 561429942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口県立萩美術館・浦上記念館",
+    "name_en": "",
+    "lat": 34.4094708,
+    "lng": 131.3942024,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 561533123,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8499,6 +11018,28 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 561780587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋吉台サファリランド",
+    "name_en": "",
+    "lat": 34.2849911,
+    "lng": 131.3316999,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 561960091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フレスパランド　カッタの湯",
+    "name_en": "",
+    "lat": 33.9584484,
+    "lng": 131.2614821,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 562104075,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8646,6 +11187,17 @@
     "data_source": "osm"
   },
   {
+    "name": "壇之浦PA (下り)",
+    "name_en": "Dannoura PA",
+    "lat": 33.9633589,
+    "lng": 130.9538079,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 564925286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常盤神社",
     "name_en": "",
     "lat": 33.9504195,
@@ -8668,6 +11220,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ときわ動物園",
+    "name_en": "Tokiwa Zoo",
+    "lat": 33.9453926,
+    "lng": 131.283615,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 568485035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.1702448,
@@ -8686,6 +11249,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 574697170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下関市立長府博物館",
+    "name_en": "",
+    "lat": 33.9954248,
+    "lng": 130.9822694,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 574697171,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8745,6 +11319,17 @@
     "data_source": "osm"
   },
   {
+    "name": "下関市立美術館",
+    "name_en": "",
+    "lat": 33.9897356,
+    "lng": 130.9907792,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 608551915,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鴨神社",
     "name_en": "",
     "lat": 34.0550178,
@@ -8800,6 +11385,28 @@
     "data_source": "osm"
   },
   {
+    "name": "旧大阪商船",
+    "name_en": "",
+    "lat": 33.9461299,
+    "lng": 130.9622371,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 627252015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧門司三井倶楽部",
+    "name_en": "",
+    "lat": 33.9457306,
+    "lng": 130.9625755,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 627252021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "梶返天満宮",
     "name_en": "",
     "lat": 33.9556601,
@@ -8807,6 +11414,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 654740034,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田万川温泉;憩いの湯",
+    "name_en": "",
+    "lat": 34.6524273,
+    "lng": 131.6609237,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 664546761,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8910,6 +11528,28 @@
     "data_source": "osm"
   },
   {
+    "name": "香月泰男美術館",
+    "name_en": "",
+    "lat": 34.3587529,
+    "lng": 131.2626619,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 668050785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯免ふれあいセンター",
+    "name_en": "",
+    "lat": 34.359978,
+    "lng": 131.2620655,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 668051554,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "亀山神社",
     "name_en": "",
     "lat": 34.4133387,
@@ -8972,6 +11612,39 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 672492445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄波戸温泉交流センター",
+    "name_en": "",
+    "lat": 34.3962119,
+    "lng": 131.1318771,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 672554073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和楽の湯;下関せいりゅう",
+    "name_en": "",
+    "lat": 33.9819078,
+    "lng": 130.9467745,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 675836136,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿武川温泉;ふれあい会館",
+    "name_en": "",
+    "lat": 34.3594637,
+    "lng": 131.4807856,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 676591817,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9273,6 +11946,182 @@
     "data_source": "osm"
   },
   {
+    "name": "大河内温泉;いのゆ",
+    "name_en": "",
+    "lat": 34.2135932,
+    "lng": 130.9497535,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689160596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぴーすふる青竜泉",
+    "name_en": "",
+    "lat": 34.1372351,
+    "lng": 130.9387019,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689164711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヘルシーランド下関",
+    "name_en": "",
+    "lat": 34.0597389,
+    "lng": 130.9683723,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689167903,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きくがわ温泉;華陽",
+    "name_en": "",
+    "lat": 34.1304401,
+    "lng": 131.0347478,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689171094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉田温泉;晋作の湯",
+    "name_en": "",
+    "lat": 34.0872334,
+    "lng": 131.0712829,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689246836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日野温泉;いこいの家",
+    "name_en": "",
+    "lat": 34.175878,
+    "lng": 131.0709761,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689247756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "片倉温泉くぼた",
+    "name_en": "",
+    "lat": 33.9731389,
+    "lng": 131.2990823,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689259803,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "持世寺温泉;杉野湯",
+    "name_en": "",
+    "lat": 34.0316259,
+    "lng": 131.258871,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689261311,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "楠こもれびの郷;くすくすの湯",
+    "name_en": "",
+    "lat": 34.0696212,
+    "lng": 131.244323,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689268036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おんせんの森",
+    "name_en": "",
+    "lat": 34.1640999,
+    "lng": 131.4534872,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689277187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ロハス島地温泉",
+    "name_en": "",
+    "lat": 34.1592483,
+    "lng": 131.7028012,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689280454,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石船温泉",
+    "name_en": "",
+    "lat": 34.2495352,
+    "lng": 131.8289908,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689284176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中原温泉",
+    "name_en": "",
+    "lat": 34.1910175,
+    "lng": 131.919442,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689288287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三島温泉健康交流施設;ゆーぱーく光",
+    "name_en": "",
+    "lat": 33.9889497,
+    "lng": 131.9568918,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689291203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柳井スイミングスクール;健康余田温泉",
+    "name_en": "",
+    "lat": 33.9625493,
+    "lng": 132.0720692,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689314825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上関海峡温泉;鳩子の湯",
+    "name_en": "",
+    "lat": 33.8326835,
+    "lng": 132.117104,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 689317211,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弥重家三霊堂",
     "name_en": "",
     "lat": 34.4641387,
@@ -9313,6 +12162,39 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 690186078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "パビリオ曽根の湯",
+    "name_en": "",
+    "lat": 33.822166,
+    "lng": 130.9344553,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 690916317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮野温泉;山口ふれあい館",
+    "name_en": "",
+    "lat": 34.21947,
+    "lng": 131.5129445,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 696531110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 清水湯",
+    "name_en": "",
+    "lat": 34.1722118,
+    "lng": 131.46708,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 696846659,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9383,6 +12265,105 @@
     "data_source": "osm"
   },
   {
+    "name": "俵山温泉;白猿の湯",
+    "name_en": "",
+    "lat": 34.2913958,
+    "lng": 131.1022914,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708712961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長門峡温泉;湯ノ瀬",
+    "name_en": "",
+    "lat": 34.3486284,
+    "lng": 131.5589795,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708735840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柚木慈生温泉",
+    "name_en": "",
+    "lat": 34.3419683,
+    "lng": 131.7252162,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708742655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4363213,
+    "lng": 131.8666028,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708764547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木部谷温泉;松の湯",
+    "name_en": "",
+    "lat": 34.4288716,
+    "lng": 131.8950597,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708770624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元湯;小瀬川温泉",
+    "name_en": "",
+    "lat": 34.3840403,
+    "lng": 132.1347416,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708797056,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿賀ふれあいセンター",
+    "name_en": "",
+    "lat": 34.2794872,
+    "lng": 132.0693816,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 708799773,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美都温泉;湯元館",
+    "name_en": "",
+    "lat": 34.6880947,
+    "lng": 132.0244242,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 709049464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鋳銭司郷土館",
+    "name_en": "",
+    "lat": 34.0759044,
+    "lng": 131.4646685,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 709535892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.0094953,
@@ -9412,6 +12393,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 750505372,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯨館",
+    "name_en": "",
+    "lat": 33.9889006,
+    "lng": 130.9937764,
+    "category": "zoo",
+    "prefecture": "yamaguchi",
+    "osm_id": 750505374,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9511,6 +12503,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 777198806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "部埼灯台",
+    "name_en": "",
+    "lat": 33.959378,
+    "lng": 131.0229668,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 778930950,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9746,6 +12749,28 @@
     "data_source": "osm"
   },
   {
+    "name": "関門海峡ミュージアム",
+    "name_en": "",
+    "lat": 33.9437996,
+    "lng": 130.9567826,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 969230646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧大連航路上屋",
+    "name_en": "",
+    "lat": 33.9434776,
+    "lng": 130.9574131,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 969230656,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄光寺",
     "name_en": "",
     "lat": 34.0811753,
@@ -9753,6 +12778,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 969480878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下関市立近代先人顕彰館（田中絹代ぶんか館）",
+    "name_en": "",
+    "lat": 33.9590897,
+    "lng": 130.941196,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1005110393,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9775,6 +12811,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 1021673997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "草山埼灯台",
+    "name_en": "",
+    "lat": 33.9847867,
+    "lng": 131.4401578,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 1027461888,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9902,6 +12949,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.1584693,
+    "lng": 132.179994,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1069977637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.8483133,
     "lng": 130.9471135,
     "category": "shrine",
@@ -9940,6 +12998,39 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 1124389445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊田ホタルの里ミュージアム",
+    "name_en": "",
+    "lat": 34.1981955,
+    "lng": 131.0783692,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1126812732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.238419,
+    "lng": 131.2082741,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1198011091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋穂漁港大海防波堤灯台",
+    "name_en": "",
+    "lat": 34.0308269,
+    "lng": 131.4690506,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 1236082096,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10006,6 +13097,28 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 1272219033,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0181294,
+    "lng": 131.4791136,
+    "category": "lighthouse",
+    "prefecture": "yamaguchi",
+    "osm_id": 1278973651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ギャルリー小川",
+    "name_en": "",
+    "lat": 34.0037166,
+    "lng": 131.2262573,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1285753386,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10131,6 +13244,17 @@
     "data_source": "osm"
   },
   {
+    "name": "下関市立歴史博物館",
+    "name_en": "Shimonoseki City Museum of History",
+    "lat": 33.9958782,
+    "lng": 130.9839372,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1363532446,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三神社",
     "name_en": "",
     "lat": 34.3790638,
@@ -10149,6 +13273,17 @@
     "category": "shrine",
     "prefecture": "yamaguchi",
     "osm_id": 1364987235,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0658355,
+    "lng": 131.4370738,
+    "category": "rest_area",
+    "prefecture": "yamaguchi",
+    "osm_id": 1383031157,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10197,6 +13332,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9647121,
+    "lng": 132.2327774,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1385818868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川棚温泉足湯",
+    "name_en": "",
+    "lat": 34.1378221,
+    "lng": 130.9389054,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1415910914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社",
     "name_en": "",
     "lat": 34.0302813,
@@ -10219,6 +13376,39 @@
     "data_source": "osm"
   },
   {
+    "name": "恩湯",
+    "name_en": "",
+    "lat": 34.3287343,
+    "lng": 131.1720547,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1431643583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市国民宿舎湯来ロッジ",
+    "name_en": "",
+    "lat": 34.4735126,
+    "lng": 132.2399477,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1432539888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河鹿荘",
+    "name_en": "",
+    "lat": 34.4770436,
+    "lng": 132.2415692,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1432539961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正円寺",
     "name_en": "",
     "lat": 34.476033,
@@ -10226,6 +13416,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 1433652312,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "誠の桧湯",
+    "name_en": "",
+    "lat": 34.4758514,
+    "lng": 132.2417344,
+    "category": "onsen",
+    "prefecture": "yamaguchi",
+    "osm_id": 1433652314,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10259,6 +13460,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 1492479724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6195439,
+    "lng": 131.5993802,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1492492380,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10314,6 +13526,17 @@
     "category": "temple",
     "prefecture": "yamaguchi",
     "osm_id": 1493038334,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郷土文化保存伝習施設",
+    "name_en": "",
+    "lat": 34.6213846,
+    "lng": 131.5847003,
+    "category": "museum",
+    "prefecture": "yamaguchi",
+    "osm_id": 1493063227,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

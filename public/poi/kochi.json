@@ -539,6 +539,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5040961,
+    "lng": 133.5581136,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 564443271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "甲浦八幡宮",
     "name_en": "",
     "lat": 33.5472871,
@@ -568,6 +579,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 608402737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山城",
+    "name_en": "Matsuyama Castle",
+    "lat": 33.845651,
+    "lng": 132.7657463,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 611661255,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -649,6 +671,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7970867,
+    "lng": 132.8401186,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 1025003132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第32番札所 禅師峰寺(Zenjibu-ji)",
     "name_en": "32 Zenjibu-ji",
     "lat": 33.5267092,
@@ -704,6 +737,17 @@
     "data_source": "osm"
   },
   {
+    "name": "足摺岬灯台",
+    "name_en": "",
+    "lat": 32.7240332,
+    "lng": 133.0202873,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 1275225566,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍宮厳",
     "name_en": "",
     "lat": 33.2463855,
@@ -715,6 +759,17 @@
     "data_source": "osm"
   },
   {
+    "name": "臼碆灯台",
+    "name_en": "",
+    "lat": 32.731722,
+    "lng": 132.965137,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 1331979329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若宮八幡宮",
     "name_en": "",
     "lat": 33.5619995,
@@ -722,6 +777,545 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1347334401,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那賀町木沢歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.830047,
+    "lng": 134.297128,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423661158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上黒岩岩陰遺跡考古館",
+    "name_en": "",
+    "lat": 33.6178272,
+    "lng": 132.9603091,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423707002,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中岡慎太郎館",
+    "name_en": "",
+    "lat": 33.456357,
+    "lng": 134.057308,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423707178,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万美術館",
+    "name_en": "",
+    "lat": 33.662004,
+    "lng": 132.906867,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423707323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万高原ふるさと旅行村内久万町立山村歴史館",
+    "name_en": "",
+    "lat": 33.672986,
+    "lng": 132.937985,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423707325,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乗松巖記念館「エスパス２１」",
+    "name_en": "",
+    "lat": 33.833246,
+    "lng": 132.780479,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423707362,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五十崎凧博物館",
+    "name_en": "",
+    "lat": 33.539742,
+    "lng": 132.656661,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423729711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五十崎歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.544166,
+    "lng": 132.656871,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423729724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐川町立青山文庫",
+    "name_en": "",
+    "lat": 33.4977846,
+    "lng": 133.2887416,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423730636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十市立郷土資料館",
+    "name_en": "",
+    "lat": 32.9969402,
+    "lng": 132.930622,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423731922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土佐山内家宝物資料館",
+    "name_en": "",
+    "lat": 33.5553684,
+    "lng": 133.5312644,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423732303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土佐足摺サンゴ博物館",
+    "name_en": "",
+    "lat": 32.789603,
+    "lng": 132.866171,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423732454,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲市河辺歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.5109546,
+    "lng": 132.7951415,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733302,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲市立博物館",
+    "name_en": "",
+    "lat": 33.5137327,
+    "lng": 132.546179,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大豊町立民俗資料館",
+    "name_en": "",
+    "lat": 33.792532,
+    "lng": 133.769492,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733491,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和先哲記念館",
+    "name_en": "",
+    "lat": 33.362861,
+    "lng": 132.515465,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和島市立歴史資料館",
+    "name_en": "",
+    "lat": 33.226452,
+    "lng": 132.554664,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.364209,
+    "lng": 132.513604,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和民具館",
+    "name_en": "",
+    "lat": 33.363916,
+    "lng": 132.513942,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和米博物館",
+    "name_en": "",
+    "lat": 33.368208,
+    "lng": 132.512223,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733874,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安芸市立書道美術館",
+    "name_en": "",
+    "lat": 33.5195295,
+    "lng": 133.9132501,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安芸市立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.5192065,
+    "lng": 133.9132474,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423733998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宿毛市立宿毛歴史館",
+    "name_en": "",
+    "lat": 32.938777,
+    "lng": 132.730371,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423734251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県歴史文化博物館",
+    "name_en": "",
+    "lat": 33.363945,
+    "lng": 132.518216,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423737734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春野町立郷土資料館",
+    "name_en": "",
+    "lat": 33.4997193,
+    "lng": 133.4885182,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423738402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山城",
+    "name_en": "",
+    "lat": 33.8455983,
+    "lng": 132.7659376,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423739161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山市立子規記念博物館",
+    "name_en": "Shiki Memorial Museum",
+    "lat": 33.849701,
+    "lng": 132.787045,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423739411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梅山古陶資料館",
+    "name_en": "",
+    "lat": 33.729903,
+    "lng": 132.786681,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423739774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "檮原町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.391313,
+    "lng": 132.927127,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423739942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯築城資料館",
+    "name_en": "Yuzuji-jo Museum",
+    "lat": 33.848147,
+    "lng": 132.785669,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423740447,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜串貝類展示館海のギャラリー",
+    "name_en": "",
+    "lat": 32.788672,
+    "lng": 132.865787,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423743074,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "肱川風の博物館・歌麿館",
+    "name_en": "",
+    "lat": 33.447215,
+    "lng": 132.693317,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423743413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芝不器男記念館",
+    "name_en": "",
+    "lat": 33.227147,
+    "lng": 132.708182,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423743470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "虹の森公園四万十川学習センターおさかな館",
+    "name_en": "",
+    "lat": 33.2293438,
+    "lng": 132.7104239,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1423743648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西予市立ギャラリーしろかわ",
+    "name_en": "",
+    "lat": 33.379411,
+    "lng": 132.751639,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423743690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西予市立城川歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.380208,
+    "lng": 132.751546,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423743693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足摺海底館",
+    "name_en": "",
+    "lat": 32.785949,
+    "lng": 132.8601351,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1423744371,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "開明学校",
+    "name_en": "",
+    "lat": 33.36446,
+    "lng": 132.513825,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423744734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香南市立赤岡町絵金蔵",
+    "name_en": "",
+    "lat": 33.541673,
+    "lng": 133.724606,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423744981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香美市立やなせたかし記念館・アンパンマンミュージアム",
+    "name_en": "Yanase Takashi Memorial Hall & Anpanman Museum",
+    "lat": 33.64756,
+    "lng": 133.783432,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423745458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香美市立やなせたかし記念館・詩とメルヘン絵本館",
+    "name_en": "",
+    "lat": 33.647367,
+    "lng": 133.784658,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423745463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香美市立吉井勇記念館",
+    "name_en": "",
+    "lat": 33.706263,
+    "lng": 133.856334,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423745469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香美市立美術館",
+    "name_en": "",
+    "lat": 33.610802,
+    "lng": 133.6876568,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423745473,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立龍馬の生まれたまち記念館",
+    "name_en": "",
+    "lat": 33.556407,
+    "lng": 133.524589,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423747784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県懐徳館",
+    "name_en": "",
+    "lat": 33.5606603,
+    "lng": 133.531502,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423748051,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.5960448,
+    "lng": 133.6234897,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423748112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼北町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.335175,
+    "lng": 132.798039,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423748456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍河洞博物館",
+    "name_en": "",
+    "lat": 33.603835,
+    "lng": 133.745039,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1423748617,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Regional Museum",
+    "name_en": "",
+    "lat": 33.3063131,
+    "lng": 134.1101919,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1493125453,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -766,6 +1360,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1710827746,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海洋堂ホビー館四万十",
+    "name_en": "Kayodo Hobby Museum",
+    "lat": 33.1530096,
+    "lng": 133.0449105,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1746665094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弁天座",
+    "name_en": "",
+    "lat": 33.5417882,
+    "lng": 133.7247491,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1747355585,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -891,6 +1507,17 @@
     "data_source": "osm"
   },
   {
+    "name": "庚申庵",
+    "name_en": "",
+    "lat": 33.843634,
+    "lng": 132.754876,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 2305741706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄土宗 大林寺",
     "name_en": "",
     "lat": 33.84522,
@@ -898,6 +1525,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 2305791301,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一草庵",
+    "name_en": "Issōan",
+    "lat": 33.853954,
+    "lng": 132.771832,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 2306291341,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -986,6 +1624,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 2395226930,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯築城",
+    "name_en": "Yuzuki  Castle",
+    "lat": 33.8480881,
+    "lng": 132.7867746,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 2460130038,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2486,6 +3135,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東祖谷歴史民俗資料館",
+    "name_en": "Higashi-Iya Museum of Local History and Folklore",
+    "lat": 33.8681591,
+    "lng": 133.906376,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 3717934209,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3954412,
@@ -2574,6 +3234,83 @@
     "data_source": "osm"
   },
   {
+    "name": "叶崎灯台",
+    "name_en": "Kanaezaki Lighthouse",
+    "lat": 32.7474873,
+    "lng": 132.8024168,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3925534371,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7542689,
+    "lng": 132.5455716,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3928356736,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7674111,
+    "lng": 132.6208444,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3928356746,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7730951,
+    "lng": 132.6288878,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3928356747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7699239,
+    "lng": 132.9550975,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3928790308,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8021339,
+    "lng": 132.9664225,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3928791839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "布崎灯台",
+    "name_en": "",
+    "lat": 32.8631249,
+    "lng": 132.9930108,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3930787591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宗安寺",
     "name_en": "",
     "lat": 33.5713181,
@@ -2581,6 +3318,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 3946233340,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4432612,
+    "lng": 133.4569824,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3950127800,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2609,11 +3357,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4440978,
+    "lng": 133.4548868,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3954003290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4456333,
     "lng": 133.43695,
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 3954003372,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白ノ鼻燈台",
+    "name_en": "",
+    "lat": 33.4304222,
+    "lng": 133.4618491,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3957029655,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2629,6 +3399,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5009906,
+    "lng": 133.5831189,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3968913333,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若宮八幡宮",
     "name_en": "",
     "lat": 33.494949,
@@ -2636,6 +3417,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 3968917096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知灯台",
+    "name_en": "",
+    "lat": 33.4961593,
+    "lng": 133.572982,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 3968917098,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2669,6 +3461,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 3976328253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8732796,
+    "lng": 133.4710836,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4080906120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Hotel Riviera et Onsen",
+    "name_en": "",
+    "lat": 33.5686763,
+    "lng": 134.3071333,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 4082044769,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2783,6 +3597,17 @@
     "data_source": "osm"
   },
   {
+    "name": "室戸世界ジオパークセンター",
+    "name_en": "",
+    "lat": 33.2992155,
+    "lng": 134.1865065,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4142770228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3060114,
@@ -2812,6 +3637,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 4211736689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8453836,
+    "lng": 132.532342,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 4375291398,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2878,6 +3714,28 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 4435493592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鵜来島灯台",
+    "name_en": "",
+    "lat": 32.8038551,
+    "lng": 132.4979096,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 4501855252,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛大学ミュージアム",
+    "name_en": "",
+    "lat": 33.8499023,
+    "lng": 132.7714711,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4523600452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3102,6 +3960,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7357898,
+    "lng": 132.4771759,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 4864161712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "施法寺",
     "name_en": "",
     "lat": 33.5510781,
@@ -3131,6 +4000,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 4947996623,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和文化会館",
+    "name_en": "",
+    "lat": 33.361599,
+    "lng": 132.5118487,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4957749321,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3179,6 +4059,39 @@
     "data_source": "osm"
   },
   {
+    "name": "海中天然ミュージアム 足摺海底館",
+    "name_en": "",
+    "lat": 32.7900394,
+    "lng": 132.8602918,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4984013431,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "民芸伊予かすり会館",
+    "name_en": "",
+    "lat": 33.8566882,
+    "lng": 132.7437328,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 4987455021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Kochi Yosakoi Info exchange center",
+    "lat": 33.5599764,
+    "lng": 133.5448927,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 5099545222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "江川崎",
     "name_en": "Ekawasaki",
     "lat": 33.178334,
@@ -3219,6 +4132,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 5343910559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "朝倉城址",
+    "name_en": "",
+    "lat": 33.5492768,
+    "lng": 133.4800237,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 5348708708,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3740,6 +4664,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浦戸城跡",
+    "name_en": "",
+    "lat": 33.4978995,
+    "lng": 133.5724847,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 5379614951,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金刀比羅宮",
     "name_en": "",
     "lat": 33.5478056,
@@ -3747,6 +4682,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 5380097105,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坊ちゃん列車ミュージアム",
+    "name_en": "",
+    "lat": 33.8355777,
+    "lng": 132.7641605,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 5388280722,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4004,6 +4950,17 @@
     "data_source": "osm"
   },
   {
+    "name": "行川城址",
+    "name_en": "",
+    "lat": 33.5849531,
+    "lng": 133.4591702,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 5488047073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.6019191,
@@ -4154,6 +5111,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 5542324704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3650013,
+    "lng": 134.2046991,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 5552154637,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4334,6 +5302,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ぎやまんガラス美術館",
+    "name_en": "Giyaman Glass Museum",
+    "lat": 33.8546568,
+    "lng": 132.7854991,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 5635161098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "垣生城跡",
+    "name_en": "Habu-jo Castle Ruins",
+    "lat": 33.8364387,
+    "lng": 132.7148907,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 5701073691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "一之宮神社",
     "name_en": "",
     "lat": 33.5180497,
@@ -4352,6 +5342,39 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 5804125023,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.6984182,
+    "lng": 132.8758089,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 5927935186,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡文化ステーションRIO",
+    "name_en": "Kagami onsen",
+    "lat": 33.602655,
+    "lng": 133.4738029,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 5957384387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Sansuien onsen",
+    "lat": 33.5561037,
+    "lng": 133.5340312,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 5957384388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4807,6 +5830,17 @@
     "data_source": "osm"
   },
   {
+    "name": "海の駅 とろむ",
+    "name_en": "",
+    "lat": 33.2691955,
+    "lng": 134.1606487,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 6418656663,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八所河内神社",
     "name_en": "",
     "lat": 33.5695444,
@@ -4825,6 +5859,127 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 6451304550,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シレストむろと",
+    "name_en": "",
+    "lat": 33.2588326,
+    "lng": 134.1823119,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6477756598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "こまどり温泉",
+    "name_en": "",
+    "lat": 33.5538592,
+    "lng": 133.9425357,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6477941092,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;ながおか温泉",
+    "name_en": "",
+    "lat": 33.5900968,
+    "lng": 133.6508145,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6477971788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ファミリー温泉;湯川",
+    "name_en": "",
+    "lat": 33.582679,
+    "lng": 133.5135795,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6478043112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅 土佐和紙工芸村;くらうどクアハウス",
+    "name_en": "",
+    "lat": 33.5736149,
+    "lng": 133.3662826,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6478135975,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑田山温泉",
+    "name_en": "",
+    "lat": 33.4312495,
+    "lng": 133.2800586,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6478672853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津島やすらぎの里",
+    "name_en": "",
+    "lat": 33.139696,
+    "lng": 132.520381,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6479541833,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森の国 ぽっぽ温泉",
+    "name_en": "",
+    "lat": 33.2283963,
+    "lng": 132.7084336,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6479581996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "游の里温泉;ユートピア宇和",
+    "name_en": "",
+    "lat": 33.358453,
+    "lng": 132.6171246,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6479594254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森林保養センター;やなせの湯",
+    "name_en": "",
+    "lat": 33.6137063,
+    "lng": 134.11034,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6481779705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふもと温泉;友愛館",
+    "name_en": "",
+    "lat": 33.7147208,
+    "lng": 132.9496981,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6481798135,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4858,6 +6013,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 6564392287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊予の湯治場;喜助の湯",
+    "name_en": "",
+    "lat": 33.841041,
+    "lng": 132.7528122,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6566820445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アウトドアヴィレッジ本山;れいほくの湯（座標誤差あり）",
+    "name_en": "",
+    "lat": 33.7586643,
+    "lng": 133.5942945,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 6570465597,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5544,6 +6721,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3849165,
+    "lng": 133.2832766,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 6853394171,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝厳寺",
     "name_en": "Hogonji Temple",
     "lat": 33.8516618,
@@ -6189,6 +7377,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 7203388754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2755573,
+    "lng": 132.4761274,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 7207345539,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7073,6 +8272,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5417747,
+    "lng": 134.3044683,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 7874471603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5378926,
+    "lng": 134.3063231,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 7874471615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大元神社",
     "name_en": "",
     "lat": 33.5857829,
@@ -7212,6 +8433,28 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 8071499345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山崎鼻灯台",
+    "name_en": "",
+    "lat": 33.382386,
+    "lng": 133.2905098,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 8076682317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3835157,
+    "lng": 133.2894252,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 8076682318,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7498,6 +8741,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 8201685279,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "羽根埼灯台",
+    "name_en": "",
+    "lat": 33.3725889,
+    "lng": 134.038825,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 8349260355,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8305,6 +9559,171 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7752227,
+    "lng": 132.9341633,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9043868605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7785383,
+    "lng": 132.934765,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9043915324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8616908,
+    "lng": 132.9621829,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044032312,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8574484,
+    "lng": 132.9567598,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044032419,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7886654,
+    "lng": 132.9977991,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044033245,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0338225,
+    "lng": 133.0533278,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044202375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0100479,
+    "lng": 133.0126856,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044202823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.011407,
+    "lng": 133.0113928,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044203030,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0115009,
+    "lng": 133.0168471,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044203035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2795412,
+    "lng": 133.248018,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044519522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3749811,
+    "lng": 133.2885227,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044585689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9188748,
+    "lng": 132.5004756,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9044638923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1276568,
+    "lng": 132.4961049,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9061446775,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8674723,
+    "lng": 132.7074747,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9130492956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8680147,
+    "lng": 132.6986535,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9130493071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "保福寺",
     "name_en": "",
     "lat": 33.2848072,
@@ -8719,6 +10138,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 9855514607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4479593,
+    "lng": 133.4500893,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 9873909027,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9548,6 +10978,61 @@
     "data_source": "osm"
   },
   {
+    "name": "ヘルストン温泉",
+    "name_en": "",
+    "lat": 33.4979466,
+    "lng": 133.904481,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 10810988381,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海洋堂かっぱ館",
+    "name_en": "Kayodo Kappa Museum",
+    "lat": 33.1625581,
+    "lng": 133.0380991,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 10814207005,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Sora-no-sanpomichi",
+    "lat": 33.851673,
+    "lng": 132.7867497,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 10836417472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後放生園足湯",
+    "name_en": "",
+    "lat": 33.8506767,
+    "lng": 132.7855305,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 10836417476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛道後足湯カフェ 坊っちゃん",
+    "name_en": "Ashiyu Cafe Botchan Dogo Ehime",
+    "lat": 33.8523241,
+    "lng": 132.7860396,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 10836417487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "波賀部神社",
     "name_en": "",
     "lat": 33.7968249,
@@ -9759,11 +11244,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5693358,
+    "lng": 133.5483969,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 11085357319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八日市護国町並保存センター",
+    "name_en": "Yokaichi/Gokoku Townscape Preservation Center",
+    "lat": 33.5588628,
+    "lng": 132.6545916,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 11331559438,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.5580995,
     "lng": 132.6539693,
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 11331559440,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内子歴史民俗資料館・商いと暮らし博物館",
+    "name_en": "Museum of Historical Commerce and Life",
+    "lat": 33.5522277,
+    "lng": 132.6526236,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 11331800857,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9775,6 +11293,28 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 11370723164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4373896,
+    "lng": 133.4325202,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 11374684769,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7487398,
+    "lng": 132.8018722,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 11380830369,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9911,6 +11451,17 @@
     "data_source": "osm"
   },
   {
+    "name": "手結崎灯台",
+    "name_en": "",
+    "lat": 33.5207689,
+    "lng": 133.7544894,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 11623045039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 33.5477278,
@@ -10043,6 +11594,28 @@
     "data_source": "osm"
   },
   {
+    "name": "小才角港防波堤灯台",
+    "name_en": "Kozaitsuno port Breakwater Lighthouse",
+    "lat": 32.7561916,
+    "lng": 132.7846767,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 11637195579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小才角休憩所",
+    "name_en": "Kosaitsuno Rest Area",
+    "lat": 32.7550111,
+    "lng": 132.7817735,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 11637195613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "秋吉神社",
     "name_en": "Akiyoshi Shrine",
     "lat": 32.7641389,
@@ -10050,6 +11623,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 11637195635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Aki Castle",
+    "lat": 33.5199119,
+    "lng": 133.9126837,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 11652391729,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10226,6 +11810,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 11665438896,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4452122,
+    "lng": 133.9546265,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 11665439297,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4424996,
+    "lng": 133.963353,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 11665439305,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10670,6 +12276,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宇和島市立伊達博物館",
+    "name_en": "",
+    "lat": 33.2159805,
+    "lng": 132.562659,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 12035283135,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5740068,
@@ -10934,6 +12551,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2861178,
+    "lng": 134.1445939,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 12147866721,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "中道寺",
     "name_en": "",
     "lat": 33.2900213,
@@ -10952,6 +12580,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 12150955477,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2855886,
+    "lng": 134.1430798,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 12160172848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "室戸ドルフィンセンター",
+    "name_en": "",
+    "lat": 33.2682346,
+    "lng": 134.1596277,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 12160173919,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11458,6 +13108,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 12249819686,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2311988,
+    "lng": 132.8468983,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 12252928307,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11990,6 +13651,17 @@
     "data_source": "osm"
   },
   {
+    "name": "城山郷土館",
+    "name_en": "",
+    "lat": 33.2206068,
+    "lng": 132.5643054,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 12386244637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙徳寺",
     "name_en": "",
     "lat": 33.1433531,
@@ -11997,6 +13669,28 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 12404066321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2257962,
+    "lng": 132.5502295,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 12409245460,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牛鬼館",
+    "name_en": "",
+    "lat": 33.2220512,
+    "lng": 132.5579225,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 12409245499,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12085,6 +13779,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 12725573699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Matsuyama Castle",
+    "name_en": "",
+    "lat": 33.844972,
+    "lng": 132.7659941,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 12827570072,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12342,6 +14047,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9295081,
+    "lng": 132.9622768,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 13172298801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5704602,
+    "lng": 132.7062637,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 13174830601,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7210496,
+    "lng": 132.84744,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 13176324701,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マルモッタンモネの庭",
+    "name_en": "",
+    "lat": 33.5674098,
+    "lng": 133.6668561,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 13298565022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五色濱神社",
     "name_en": "Goshikihama Shrine",
     "lat": 33.7558941,
@@ -12349,6 +14098,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 13371370190,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "わんぱーくこうちアニマルランド",
+    "name_en": "",
+    "lat": 33.5418909,
+    "lng": 133.5572667,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 120075392,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12375,6 +14135,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知城",
+    "name_en": "Kōchi Castle",
+    "lat": 33.5606904,
+    "lng": 133.5314388,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 126495756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "藁原神社",
     "name_en": "",
     "lat": 33.6233972,
@@ -12397,6 +14168,116 @@
     "data_source": "osm"
   },
   {
+    "name": "子規堂",
+    "name_en": "",
+    "lat": 33.8345802,
+    "lng": 132.7634068,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 204405278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県美術館",
+    "name_en": "Museum of Art, Ehime",
+    "lat": 33.8405543,
+    "lng": 132.7621234,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 204405280,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県美術館 南館",
+    "name_en": "",
+    "lat": 33.8401364,
+    "lng": 132.7620639,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 204405282,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山市考古館",
+    "name_en": "",
+    "lat": 33.8396888,
+    "lng": 132.7353721,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 213510838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フライブルク城",
+    "name_en": "",
+    "lat": 33.8443732,
+    "lng": 132.7410165,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 213563390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "文化財情報館",
+    "name_en": "",
+    "lat": 33.8396321,
+    "lng": 132.7339613,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 214453463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂の上の雲ミュージアム",
+    "name_en": "Saka no Ue no Kumo Museum",
+    "lat": 33.8418018,
+    "lng": 132.7691966,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 216404934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古川温泉;湯楽",
+    "name_en": "",
+    "lat": 33.8088793,
+    "lng": 132.7580756,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 231297989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後温泉本館",
+    "name_en": "Dōgo Onsen",
+    "lat": 33.8520666,
+    "lng": 132.7864045,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 235751036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲城",
+    "name_en": "Ozu Castle",
+    "lat": 33.5095479,
+    "lng": 132.5411347,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 244039533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三鈴神社",
     "name_en": "",
     "lat": 33.5560608,
@@ -12408,6 +14289,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知県立坂本龍馬記念館",
+    "name_en": "Sakamoto Ryoma Memorial museum",
+    "lat": 33.4963711,
+    "lng": 133.5719179,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 250513019,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若一王子宮",
     "name_en": "",
     "lat": 33.5606551,
@@ -12415,6 +14307,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 272245115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふるさと交流館;さくらの湯",
+    "name_en": "",
+    "lat": 33.8031004,
+    "lng": 132.9145225,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 290527431,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12562,6 +14465,61 @@
     "data_source": "osm"
   },
   {
+    "name": "媛彦温泉",
+    "name_en": "",
+    "lat": 33.8274119,
+    "lng": 132.8009694,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 340383211,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星乃岡温泉",
+    "name_en": "",
+    "lat": 33.8178423,
+    "lng": 132.7864735,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 340383390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "見奈良天然温泉;利楽",
+    "name_en": "",
+    "lat": 33.7907045,
+    "lng": 132.8787657,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 340535881,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東道後のそらともり",
+    "name_en": "",
+    "lat": 33.8186056,
+    "lng": 132.8048066,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 343102421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東道後温泉;久米之癒",
+    "name_en": "",
+    "lat": 33.8140463,
+    "lng": 132.8030619,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 343102892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "和霊神社",
     "name_en": "Warei Shrine",
     "lat": 33.2299352,
@@ -12602,6 +14560,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 369997759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "モネの庭",
+    "name_en": "",
+    "lat": 33.4407052,
+    "lng": 134.0344386,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 373027286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎ふるさと館",
+    "name_en": "",
+    "lat": 33.498986,
+    "lng": 133.2866754,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 388378996,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12672,6 +14652,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐川地質館",
+    "name_en": "",
+    "lat": 33.4997141,
+    "lng": 133.3021979,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 388701476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五所神社",
     "name_en": "",
     "lat": 33.5049407,
@@ -12701,6 +14692,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 388909575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横倉山自然の森博物館",
+    "name_en": "",
+    "lat": 33.535419,
+    "lng": 133.2420371,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 388909576,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12762,11 +14764,99 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4160724,
+    "lng": 133.4255172,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 392484864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4070683,
+    "lng": 133.3878137,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 392484865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.5426929,
     "lng": 133.5070447,
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 394400494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いの町紙の博物館",
+    "name_en": "",
+    "lat": 33.5478405,
+    "lng": 133.4232768,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 394661396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "Treasure Hall",
+    "lat": 33.5464213,
+    "lng": 133.5776592,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 397666685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎記念館展示館",
+    "name_en": "Makino Tomitaro Memorial Museum Exhibition Hall",
+    "lat": 33.5491423,
+    "lng": 133.5812309,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 397666708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎記念館本館",
+    "name_en": "Makino Tomitaro Memorial Museum Main Building",
+    "lat": 33.5490842,
+    "lng": 133.5788257,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 397666709,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立のいち動物公園",
+    "name_en": "",
+    "lat": 33.5702504,
+    "lng": 133.7077647,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 400583082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "住友の森エコシステム フォレスターハウス",
+    "name_en": "",
+    "lat": 33.8367754,
+    "lng": 133.3275132,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 412618386,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12782,6 +14872,94 @@
     "data_source": "osm"
   },
   {
+    "name": "東平歴史資料館",
+    "name_en": "",
+    "lat": 33.87661,
+    "lng": 133.3142936,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 414414059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内子PA (下り)",
+    "name_en": "",
+    "lat": 33.5665861,
+    "lng": 132.6674906,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 443580577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内子PA (上り)",
+    "name_en": "",
+    "lat": 33.5684478,
+    "lng": 132.6672412,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 443580926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桜三里PA (上り)",
+    "name_en": "",
+    "lat": 33.8034263,
+    "lng": 132.9390707,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 443585119,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立川PA (下り)",
+    "name_en": "",
+    "lat": 33.8176215,
+    "lng": 133.6652767,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 443616314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天山トロン温泉",
+    "name_en": "",
+    "lat": 33.8239374,
+    "lng": 132.7817321,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 443714705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "Treasure Hall",
+    "lat": 33.8475159,
+    "lng": 132.7975102,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 444272233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星乃岡温泉;千湯館",
+    "name_en": "",
+    "lat": 33.8169745,
+    "lng": 132.7860883,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 445479530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "阿沼美神社",
     "name_en": "",
     "lat": 33.8461929,
@@ -12789,6 +14967,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 449815514,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆらり内海",
+    "name_en": "",
+    "lat": 33.0401981,
+    "lng": 132.4881672,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 453018271,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12826,6 +15015,39 @@
     "data_source": "osm"
   },
   {
+    "name": "室戸岬灯台",
+    "name_en": "Murotozaki Lighthouse",
+    "lat": 33.2472249,
+    "lng": 134.1756524,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 478815009,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森林保養センター;やなせの湯",
+    "name_en": "",
+    "lat": 33.6137118,
+    "lng": 134.1102958,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 500472008,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知城歴史博物館",
+    "name_en": "Kōchi Castle Museum of History",
+    "lat": 33.5601131,
+    "lng": 133.5341119,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 500621920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "潮江天満宮",
     "name_en": "",
     "lat": 33.5535139,
@@ -12833,6 +15055,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 500635725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "町家資料館",
+    "name_en": "Machiya Townhouse Museum",
+    "lat": 33.5545033,
+    "lng": 132.6532917,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 504741433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萬翠荘",
+    "name_en": "Bansuiso",
+    "lat": 33.8424515,
+    "lng": 132.7681819,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 505266693,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12848,6 +15092,17 @@
     "data_source": "osm"
   },
   {
+    "name": "木蝋資料館",
+    "name_en": "Wax Museum",
+    "lat": 33.557158,
+    "lng": 132.6538731,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 532890461,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常栄神社",
     "name_en": "",
     "lat": 32.9872468,
@@ -12855,6 +15110,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 549283428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十川学遊館",
+    "name_en": "Shimanto River Gakuyuu Hall",
+    "lat": 32.9894818,
+    "lng": 132.9152513,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 549286487,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13101,6 +15367,17 @@
     "data_source": "osm"
   },
   {
+    "name": "土佐ぽかぽか温泉",
+    "name_en": "",
+    "lat": 33.5410509,
+    "lng": 133.5121129,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 555864750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山﨑神社",
     "name_en": "",
     "lat": 33.5507021,
@@ -13317,6 +15594,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 557915531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.610862,
+    "lng": 133.6875711,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 558734527,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13631,6 +15919,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4966162,
+    "lng": 133.5715214,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 573204142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4943459,
     "lng": 133.5660497,
     "category": "shrine",
@@ -13772,6 +16071,50 @@
     "data_source": "osm"
   },
   {
+    "name": "浜口雄幸生家",
+    "name_en": "",
+    "lat": 33.5383531,
+    "lng": 133.5883464,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 579499096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜口雄幸生家記念館",
+    "name_en": "",
+    "lat": 33.5384214,
+    "lng": 133.5881879,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 579499098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5383687,
+    "lng": 133.5881872,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 579499099,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5430394,
+    "lng": 133.5503597,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 582776511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.6001979,
@@ -13845,6 +16188,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 588905902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知みらい科学館",
+    "name_en": "",
+    "lat": 33.5609347,
+    "lng": 133.537052,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 589137557,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13999,6 +16353,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 617336560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "少彦名温泉 大洲 臥龍の湯",
+    "name_en": "",
+    "lat": 33.5032665,
+    "lng": 132.5495873,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 617479509,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14355,6 +16720,28 @@
     "data_source": "osm"
   },
   {
+    "name": "錦鯉とつつじの公園 りんりんパークー",
+    "name_en": "",
+    "lat": 33.8759316,
+    "lng": 133.0643007,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 631599114,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の里小町温泉;しこくや",
+    "name_en": "",
+    "lat": 33.876156,
+    "lng": 133.0646594,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 631599341,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "河内神社",
     "name_en": "",
     "lat": 33.5672845,
@@ -14498,6 +16885,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知ぽかぽか温泉",
+    "name_en": "",
+    "lat": 33.5747428,
+    "lng": 133.5587778,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 636169148,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "一木神社",
     "name_en": "",
     "lat": 33.2881452,
@@ -14505,6 +16903,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 640038072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5432126,
+    "lng": 133.5502378,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 644750357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5431307,
+    "lng": 133.5503068,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 644750358,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14637,6 +17057,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 669944628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立坂本龍馬記念館",
+    "name_en": "",
+    "lat": 33.4964345,
+    "lng": 133.5717677,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 671741432,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14806,6 +17237,270 @@
     "data_source": "osm"
   },
   {
+    "name": "たのたの温泉",
+    "name_en": "",
+    "lat": 33.430783,
+    "lng": 134.0165391,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690472140,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "こまどり温泉",
+    "name_en": "",
+    "lat": 33.5539147,
+    "lng": 133.9426417,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690475296,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;ながおか温泉",
+    "name_en": "Nagaoka Onsen",
+    "lat": 33.5901498,
+    "lng": 133.6508211,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690478837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ファミリー温泉;湯川",
+    "name_en": "",
+    "lat": 33.5827158,
+    "lng": 133.5135821,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690485749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡文化ステーションRIO",
+    "name_en": "",
+    "lat": 33.6027301,
+    "lng": 133.4738047,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690490701,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;吾北むささび温泉",
+    "name_en": "",
+    "lat": 33.6267717,
+    "lng": 133.3001666,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690497249,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑田山温泉",
+    "name_en": "",
+    "lat": 33.4312869,
+    "lng": 133.2801081,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690526205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十温泉;平和な湯",
+    "name_en": "",
+    "lat": 32.984356,
+    "lng": 132.953598,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690527403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一本松温泉あけぼの荘",
+    "name_en": "",
+    "lat": 32.9679036,
+    "lng": 132.6583544,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690532724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛南町一本松郷土資料館",
+    "name_en": "",
+    "lat": 32.9677232,
+    "lng": 132.6577606,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 690593044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "祓川温泉",
+    "name_en": "",
+    "lat": 33.0832328,
+    "lng": 132.6544098,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690594335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三間町老人憩の家",
+    "name_en": "",
+    "lat": 33.2842891,
+    "lng": 132.6656547,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690598993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛治ふるさと館",
+    "name_en": "",
+    "lat": 33.3037988,
+    "lng": 132.6915106,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 690599548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝泉坊温泉",
+    "name_en": "",
+    "lat": 33.3649139,
+    "lng": 132.7916656,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690600252,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クアテルメ宝泉坊",
+    "name_en": "",
+    "lat": 33.3647548,
+    "lng": 132.7920009,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690600253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長浜なぎさの湯",
+    "name_en": "",
+    "lat": 33.6154899,
+    "lng": 132.4791523,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690654727,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふもと温泉;友愛館",
+    "name_en": "",
+    "lat": 33.7147484,
+    "lng": 132.9496937,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 690831881,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立美術館",
+    "name_en": "",
+    "lat": 33.5612341,
+    "lng": 133.5733503,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 695573884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後さや温泉;ゆらら 家族の湯",
+    "name_en": "",
+    "lat": 33.8305954,
+    "lng": 132.7244759,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699304464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後さや温泉;ゆらら",
+    "name_en": "",
+    "lat": 33.8314598,
+    "lng": 132.7244156,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699304575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万の台温泉",
+    "name_en": "",
+    "lat": 33.8568619,
+    "lng": 132.7443951,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699306131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "谷町リゾート;ゆとりあ温泉",
+    "name_en": "",
+    "lat": 33.8784404,
+    "lng": 132.7523647,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699306768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南道後温泉;ていれぎの湯",
+    "name_en": "",
+    "lat": 33.7805151,
+    "lng": 132.8184026,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699344910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道前渓温泉",
+    "name_en": "",
+    "lat": 33.855522,
+    "lng": 133.0117297,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 699652272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大宝寺",
     "name_en": "",
     "lat": 33.8417,
@@ -14883,6 +17578,17 @@
     "data_source": "osm"
   },
   {
+    "name": "かわうそ学習館",
+    "name_en": "",
+    "lat": 33.4455702,
+    "lng": 133.2049486,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 709707546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "河内神社",
     "name_en": "",
     "lat": 33.6349264,
@@ -14945,6 +17651,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 712503241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津野町郷土資料館",
+    "name_en": "",
+    "lat": 33.4464979,
+    "lng": 133.1988645,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 712967677,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15026,6 +17743,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4564886,
+    "lng": 134.0569797,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 722250152,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "多賀神社",
     "name_en": "",
     "lat": 33.5619505,
@@ -15081,6 +17809,17 @@
     "data_source": "osm"
   },
   {
+    "name": "椿の湯",
+    "name_en": "Tsubaki-no-yu",
+    "lat": 33.8523899,
+    "lng": 132.7849913,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 732001496,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯神社",
     "name_en": "Yu Jinja",
     "lat": 33.8513638,
@@ -15132,6 +17871,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 736548838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ジョン万次郎資料館",
+    "name_en": "",
+    "lat": 32.7813927,
+    "lng": 132.9327137,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 749870314,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15367,6 +18117,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ギャラリー 闘変木と偏竹林",
+    "name_en": "",
+    "lat": 33.2883355,
+    "lng": 132.6041487,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 806005843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観音堂（珠玉庵跡）",
     "name_en": "",
     "lat": 33.439648,
@@ -15532,6 +18293,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7859679,
+    "lng": 132.8601335,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 855187518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宿毛大明神",
     "name_en": "",
     "lat": 33.5362012,
@@ -15550,6 +18322,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 857794886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高茂埼灯台",
+    "name_en": "",
+    "lat": 32.9068803,
+    "lng": 132.4762963,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 866672274,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15620,6 +18403,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知県立足摺海洋館「SATOUMI」",
+    "name_en": "",
+    "lat": 32.7913444,
+    "lng": 132.8620301,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 966116946,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満宮",
     "name_en": "",
     "lat": 33.3945202,
@@ -15653,6 +18447,28 @@
     "data_source": "osm"
   },
   {
+    "name": "カルスト学習館",
+    "name_en": "",
+    "lat": 33.4766134,
+    "lng": 133.00355,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 969301389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉村虎太郎邸",
+    "name_en": "",
+    "lat": 33.4115363,
+    "lng": 133.0229336,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 977874713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "将監神社",
     "name_en": "",
     "lat": 33.4180987,
@@ -15660,6 +18476,39 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 978422866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1366108,
+    "lng": 132.4941356,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 979452797,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1360265,
+    "lng": 132.4945766,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 979452798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆういんぐ四万十",
+    "name_en": "",
+    "lat": 33.2295088,
+    "lng": 133.1471274,
+    "category": "rest_area",
+    "prefecture": "kochi",
+    "osm_id": 979575101,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15719,6 +18568,17 @@
     "data_source": "osm"
   },
   {
+    "name": "広見町老人保養センター清水荘",
+    "name_en": "",
+    "lat": 33.3033926,
+    "lng": 132.691439,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1023281614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第38番札所 金剛福寺",
     "name_en": "38 Kongōfuku-ji",
     "lat": 32.7257338,
@@ -15726,6 +18586,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 1024256178,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "畦地梅太郎記念美術館",
+    "name_en": "",
+    "lat": 33.2864776,
+    "lng": 132.5961072,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1041934146,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15770,6 +18641,28 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 1053942396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南レク馬瀬山公園こども動物園",
+    "name_en": "NANREKU Baseyama Park Petting Zoo",
+    "lat": 32.9505225,
+    "lng": 132.5522421,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1057593618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南レク馬瀬山公園 紫電改展示館",
+    "name_en": "NANREKU Baseyama Park SHIDEN-KAI (N1K2-J) Exhibition Hall",
+    "lat": 32.9502219,
+    "lng": 132.5491412,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1057602041,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15851,6 +18744,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桂浜水族館",
+    "name_en": "",
+    "lat": 33.4972538,
+    "lng": 133.573752,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1061555847,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.7034526,
@@ -15869,6 +18773,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1062984302,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むろと廃校水族館",
+    "name_en": "",
+    "lat": 33.325791,
+    "lng": 134.1950344,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1063469545,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15902,6 +18817,17 @@
     "category": "temple",
     "prefecture": "kochi",
     "osm_id": 1065564644,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土佐望月温泉 姫若子の湯",
+    "name_en": "",
+    "lat": 33.5640285,
+    "lng": 133.5681357,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1065790642,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15946,6 +18872,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1068236480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1546128,
+    "lng": 133.218913,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 1068304578,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16335,6 +19272,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山崎鼻灯台",
+    "name_en": "",
+    "lat": 33.3823874,
+    "lng": 133.2905093,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 1128252013,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本村茶堂",
     "name_en": "",
     "lat": 33.392656,
@@ -16423,6 +19371,17 @@
     "data_source": "osm"
   },
   {
+    "name": "愛媛県立とべ動物園",
+    "name_en": "Tobe Zoological Park of Ehime Prefecture.",
+    "lat": 33.7623941,
+    "lng": 132.792952,
+    "category": "zoo",
+    "prefecture": "kochi",
+    "osm_id": 1136475818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五十石茶堂",
     "name_en": "",
     "lat": 33.4338526,
@@ -16463,6 +19422,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1136937332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白ノ鼻燈台",
+    "name_en": "",
+    "lat": 33.4304225,
+    "lng": 133.4618508,
+    "category": "lighthouse",
+    "prefecture": "kochi",
+    "osm_id": 1147381779,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16854,6 +19824,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5074227,
+    "lng": 133.4951512,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1189829729,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5075321,
+    "lng": 133.4952705,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1189829730,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.2317794,
     "lng": 133.2467714,
     "category": "shrine",
@@ -16969,6 +19961,28 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1221395941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5066271,
+    "lng": 132.5471632,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1221406978,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5065213,
+    "lng": 132.5469708,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1221406982,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17204,6 +20218,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛鳥乃湯",
+    "name_en": "Asuka-no-yu",
+    "lat": 33.8523428,
+    "lng": 132.7846732,
+    "category": "onsen",
+    "prefecture": "kochi",
+    "osm_id": 1291330158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "榎谷神社",
     "name_en": "",
     "lat": 33.5989276,
@@ -17259,6 +20284,17 @@
     "data_source": "osm"
   },
   {
+    "name": "面河山岳博物館",
+    "name_en": "",
+    "lat": 33.7151509,
+    "lng": 133.0932136,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1317528578,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.254245,
@@ -17270,6 +20306,17 @@
     "data_source": "osm"
   },
   {
+    "name": "井関邦三郎記念館",
+    "name_en": "",
+    "lat": 33.2862472,
+    "lng": 132.5961422,
+    "category": "museum",
+    "prefecture": "kochi",
+    "osm_id": 1330413364,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.7731049,
@@ -17277,6 +20324,17 @@
     "category": "shrine",
     "prefecture": "kochi",
     "osm_id": 1337457760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和島城",
+    "name_en": "Uwajima Castle",
+    "lat": 33.219932,
+    "lng": 132.5646266,
+    "category": "castle",
+    "prefecture": "kochi",
+    "osm_id": 1339048111,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

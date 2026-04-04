@@ -33,6 +33,17 @@
     "data_source": "osm"
   },
   {
+    "name": "銚子渓自然動物園 お猿の国",
+    "name_en": "Choshi-Kei Monkey Park",
+    "lat": 34.5153878,
+    "lng": 134.242635,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 261020205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝生院 54",
     "name_en": "Hoshoin Temple 54",
     "lat": 34.4932721,
@@ -1265,6 +1276,1128 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3611119,
+    "lng": 134.0552136,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 742454518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "直島銭湯 (Naoshima Bath)",
+    "name_en": "Naoshima Bath",
+    "lat": 34.4579858,
+    "lng": 133.9751323,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 892741840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3667129,
+    "lng": 134.0610976,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1034841734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3604278,
+    "lng": 134.0588573,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1034841844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大多府島灯台",
+    "name_en": "",
+    "lat": 34.6805968,
+    "lng": 134.2951267,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1223938752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4567905,
+    "lng": 133.9704925,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1223939065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Ogre's Light House",
+    "name_en": "",
+    "lat": 34.3882363,
+    "lng": 134.0530371,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1223939082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Red Light House",
+    "name_en": "",
+    "lat": 34.3884336,
+    "lng": 134.0512257,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1223939083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3800116,
+    "lng": 134.0380401,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1223939084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8158858,
+    "lng": 133.6295339,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 1307512614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上郡町郷土資料館",
+    "name_en": "",
+    "lat": 34.8760263,
+    "lng": 134.3624719,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423049170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐用町立平福郷土館",
+    "name_en": "",
+    "lat": 35.0479755,
+    "lng": 134.3702994,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423052909,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "兵庫県立大学西はりま天文台",
+    "name_en": "",
+    "lat": 35.0253917,
+    "lng": 134.3355186,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423054295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "義士宝物殿",
+    "name_en": "Gishi Treasury",
+    "lat": 34.7493976,
+    "lng": 134.3883394,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423057732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日南町美術館",
+    "name_en": "",
+    "lat": 35.1636058,
+    "lng": 133.3062919,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423068164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有年考古館",
+    "name_en": "",
+    "lat": 34.835254,
+    "lng": 134.382581,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423068883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "祐生出会いの館",
+    "name_en": "",
+    "lat": 35.3040837,
+    "lng": 133.3250722,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423079074,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物館",
+    "name_en": "",
+    "lat": 34.752902,
+    "lng": 134.3902415,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423090251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "若桜町歴史民俗資料館",
+    "name_en": "",
+    "lat": 35.345954,
+    "lng": 134.403074,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423090382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂市立歴史博物館",
+    "name_en": "Akō City Museum of History",
+    "lat": 34.747287,
+    "lng": 134.390462,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423091818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂市立民俗資料館",
+    "name_en": "",
+    "lat": 34.7498194,
+    "lng": 134.3822829,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423091819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂市立海洋科学館",
+    "name_en": "",
+    "lat": 34.733958,
+    "lng": 134.398217,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423091828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂市立美術工芸館田淵記念館",
+    "name_en": "",
+    "lat": 34.73075,
+    "lng": 134.406878,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423091830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つやま自然のふしぎ館（津山科学教育博物館）",
+    "name_en": "",
+    "lat": 35.061108,
+    "lng": 134.005265,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ビオトープ",
+    "name_en": "biotope",
+    "lat": 35.1005605,
+    "lng": 134.1882974,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608050,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やかげ郷土美術館",
+    "name_en": "",
+    "lat": 34.624927,
+    "lng": 133.587343,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中世夢が原",
+    "name_en": "",
+    "lat": 34.674057,
+    "lng": 133.540098,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五流博物館",
+    "name_en": "",
+    "lat": 34.537296,
+    "lng": 133.818832,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608561,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "井原市芳井歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.629108,
+    "lng": 133.433275,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608586,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人形峠展示館",
+    "name_en": "",
+    "lat": 35.315766,
+    "lng": 133.93708,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608617,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷埋蔵文化財センター",
+    "name_en": "",
+    "lat": 34.536722,
+    "lng": 133.7692211,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷昆虫館",
+    "name_en": "",
+    "lat": 34.603559,
+    "lng": 133.773171,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷考古館",
+    "name_en": "Kurashiki Archaeological Museum",
+    "lat": 34.596038,
+    "lng": 133.771863,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423608962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "備前市吉永美術館",
+    "name_en": "",
+    "lat": 34.8154119,
+    "lng": 134.2078634,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609014,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "備前市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.746938,
+    "lng": 134.193765,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609017,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "備前長船刀剣博物館",
+    "name_en": "Bizen Osafune Japanese Sword Museum",
+    "lat": 34.721634,
+    "lng": 134.106905,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609042,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "加子浦歴史文化館",
+    "name_en": "Kakonoura Historical Museum",
+    "lat": 34.727859,
+    "lng": 134.2723273,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609219,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "加計美術館",
+    "name_en": "Tribune Museum",
+    "lat": 34.595721,
+    "lng": 133.7714865,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609234,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝央美術文学館",
+    "name_en": "",
+    "lat": 35.0421825,
+    "lng": 134.1162448,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝山郷土資料館",
+    "name_en": "",
+    "lat": 35.0840277,
+    "lng": 133.6906575,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉備考古館",
+    "name_en": "",
+    "lat": 34.659538,
+    "lng": 133.768379,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉備路文学館",
+    "name_en": "",
+    "lat": 34.6752024,
+    "lng": 133.9238796,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和気町歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.819575,
+    "lng": 134.175599,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609431,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竹久夢二生家",
+    "name_en": "",
+    "lat": 34.6591766,
+    "lng": 134.1205122,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609562,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夢二郷土美術館本館",
+    "name_en": "Yumejikyodo Museum",
+    "lat": 34.6707119,
+    "lng": 133.9346426,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609563,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大原美術館 工芸・東洋館",
+    "name_en": "Ohara Art Museum Crafts - Toyokan",
+    "lat": 34.5962761,
+    "lng": 133.77034,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423609579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山シティミュージアム",
+    "name_en": "",
+    "lat": 34.66631,
+    "lng": 133.9158203,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423610324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山市水道記念館",
+    "name_en": "",
+    "lat": 34.686874,
+    "lng": 133.935422,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423610424,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山市立オリエント美術館",
+    "name_en": "Okayama Orient Museum",
+    "lat": 34.6663706,
+    "lng": 133.9301513,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423610534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "備前焼ミュージアム",
+    "name_en": "Bizen Pottery Museum",
+    "lat": 34.7390268,
+    "lng": 134.1612141,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423610946,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山県立吉備路郷土館",
+    "name_en": "Soja Kibiji Bunka-kan Art Gallery",
+    "lat": 34.668927,
+    "lng": 133.787199,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423611036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山県立美術館",
+    "name_en": "Okayama Prefectural Museum of Art",
+    "lat": 34.6676691,
+    "lng": 133.9298108,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423611098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山県自然保護センター",
+    "name_en": "",
+    "lat": 34.852671,
+    "lng": 134.049909,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 1423611127,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡崎嘉平太記念館",
+    "name_en": "",
+    "lat": 34.8348149,
+    "lng": 133.7607637,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423611380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧吹屋小学校",
+    "name_en": "",
+    "lat": 34.8629595,
+    "lng": 133.4705455,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423613069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市立玉野海洋博物館",
+    "name_en": "",
+    "lat": 34.454952,
+    "lng": 133.905395,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 1423614642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御津町郷土歴史資料館",
+    "name_en": "",
+    "lat": 34.7983116,
+    "lng": 133.9297642,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "成羽歴史史料館",
+    "name_en": "",
+    "lat": 34.782708,
+    "lng": 133.5391,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615616,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "成羽町美術館",
+    "name_en": "",
+    "lat": 34.780714,
+    "lng": 133.536896,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615619,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "招き猫美術館",
+    "name_en": "Manekineko Museum of Art",
+    "lat": 34.739897,
+    "lng": 133.944939,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615626,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "政田民俗資料館",
+    "name_en": "",
+    "lat": 34.633483,
+    "lng": 134.002244,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新庄村歴史民俗資料館",
+    "name_en": "",
+    "lat": 35.18038,
+    "lng": 133.567049,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新見美術館",
+    "name_en": "",
+    "lat": 34.9853098,
+    "lng": 133.4572467,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本化石資料館",
+    "name_en": "",
+    "lat": 34.641946,
+    "lng": 134.026882,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615739,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂野記念館",
+    "name_en": "",
+    "lat": 34.718941,
+    "lng": 133.9076313,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "早島町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.5993578,
+    "lng": 133.8266716,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423615778,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江坂コレクション展示室",
+    "name_en": "",
+    "lat": 34.869588,
+    "lng": 133.9027548,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616580,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "池田動物園",
+    "name_en": "",
+    "lat": 34.6748239,
+    "lng": 133.9062361,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 1423616626,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山市久米歴史民俗資料館",
+    "name_en": "",
+    "lat": 35.0600741,
+    "lng": 133.8998212,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山弥生の里文化財センター",
+    "name_en": "",
+    "lat": 35.082918,
+    "lng": 134.013658,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山洋学資料館",
+    "name_en": "",
+    "lat": 35.0637185,
+    "lng": 134.0162193,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山郷土博物館",
+    "name_en": "",
+    "lat": 35.060886,
+    "lng": 134.005737,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海遊文化館",
+    "name_en": "",
+    "lat": 34.615808,
+    "lng": 134.164017,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616890,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "渓雨資料館",
+    "name_en": "",
+    "lat": 34.659553,
+    "lng": 134.036882,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616909,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内市立邑久郷土資料館",
+    "name_en": "",
+    "lat": 34.662983,
+    "lng": 134.093866,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423616950,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "犬養木堂記念館",
+    "name_en": "",
+    "lat": 34.652112,
+    "lng": 133.842783,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423617006,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "笠岡市立郷土館",
+    "name_en": "",
+    "lat": 34.5047305,
+    "lng": 133.4969041,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423618849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "総社市まちかど郷土館",
+    "name_en": "",
+    "lat": 34.675535,
+    "lng": 133.754453,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423618934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荻野美術館",
+    "name_en": "",
+    "lat": 34.437989,
+    "lng": 133.802366,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619154,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蒜山郷土博物館",
+    "name_en": "",
+    "lat": 35.294883,
+    "lng": 133.712338,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蒜山郷土館",
+    "name_en": "",
+    "lat": 35.2802282,
+    "lng": 133.6768932,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619183,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "FAN美術館(藤原啓記念館)",
+    "name_en": "",
+    "lat": 34.7333055,
+    "lng": 134.2018719,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "誕生寺宝物館",
+    "name_en": "",
+    "lat": 34.9549591,
+    "lng": 133.9534492,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遊び心の美術館古意庵",
+    "name_en": "",
+    "lat": 34.624438,
+    "lng": 133.590466,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野崎家塩業歴史館",
+    "name_en": "",
+    "lat": 34.4721998,
+    "lng": 133.8028143,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡野郷土博物館",
+    "name_en": "",
+    "lat": 35.090622,
+    "lng": 133.932675,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高梁市吉備川上ふれあい漫画美術館",
+    "name_en": "",
+    "lat": 34.736577,
+    "lng": 133.483494,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高梁市郷土資料館",
+    "name_en": "",
+    "lat": 34.795453,
+    "lng": 133.618034,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鴨方郷土資料館",
+    "name_en": "",
+    "lat": 34.5322442,
+    "lng": 133.5821265,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒住教宝物館「まることセンター」",
+    "name_en": "",
+    "lat": 34.663339,
+    "lng": 133.859736,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423619934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくやま書道美術館",
+    "name_en": "",
+    "lat": 34.487915,
+    "lng": 133.358082,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423627115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中川美術館",
+    "name_en": "",
+    "lat": 34.398052,
+    "lng": 133.368763,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423628369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国際聚蔵館（歌舞藍）",
+    "name_en": "",
+    "lat": 34.487213,
+    "lng": 133.364242,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423630353,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中家具木工資料館",
+    "name_en": "",
+    "lat": 34.563497,
+    "lng": 133.263213,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423637914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弥勒之里美術館",
+    "name_en": "",
+    "lat": 34.423319,
+    "lng": 133.310003,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423637997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山市神辺歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.537236,
+    "lng": 133.387039,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423639351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山自動車時計博物館",
+    "name_en": "Fukuyama Auto & Clock Museum",
+    "lat": 34.497828,
+    "lng": 133.363143,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423639410,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菅茶山記念館",
+    "name_en": "",
+    "lat": 34.55735,
+    "lng": 133.389945,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423647181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "正覚院（山寺）宝物館",
+    "name_en": "",
+    "lat": 34.388384,
+    "lng": 133.772372,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423739987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内海歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.378347,
+    "lng": 133.931263,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423740501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香川県自然科学館",
+    "name_en": "",
+    "lat": 34.3777673,
+    "lng": 133.9280333,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1423745274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松市鬼ヶ島おにの館",
+    "name_en": "Onigashima Oninoyakata Museum",
+    "lat": 34.3893786,
+    "lng": 134.0521595,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1527616378,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "青野神社",
     "name_en": "",
     "lat": 35.1553347,
@@ -1272,6 +2405,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1777909512,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白石城址",
+    "name_en": "",
+    "lat": 34.8531471,
+    "lng": 133.9129793,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1907294241,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1419,6 +2563,39 @@
     "data_source": "osm"
   },
   {
+    "name": "津山城跡",
+    "name_en": "Tsuyama Castle Ruins",
+    "lat": 35.0627653,
+    "lng": 134.0048125,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1909471047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩屋城跡　Former Iwaya Castle",
+    "name_en": "",
+    "lat": 35.076084,
+    "lng": 133.8352196,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1909480287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江美城跡",
+    "name_en": "",
+    "lat": 35.2823144,
+    "lng": 133.4870668,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1954278684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "生山神社",
     "name_en": "",
     "lat": 35.1690559,
@@ -1496,6 +2673,28 @@
     "data_source": "osm"
   },
   {
+    "name": "豊島横尾館",
+    "name_en": "Yokoo House",
+    "lat": 34.4869088,
+    "lng": 134.0596607,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 2401280882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ANDO MUSEUM",
+    "name_en": "Ando Museum",
+    "lat": 34.4594028,
+    "lng": 133.997021,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 2401898964,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "護王神社 (Goō-jinja)",
     "name_en": "Goō-jinja",
     "lat": 34.4597583,
@@ -1503,6 +2702,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 2401900371,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼ノ城",
+    "name_en": "Ki castle",
+    "lat": 34.7275739,
+    "lng": 133.7678973,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 2460039705,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1529,6 +2739,17 @@
     "data_source": "osm"
   },
   {
+    "name": "プラネタリウム＆科学館 Planetarium",
+    "name_en": "",
+    "lat": 34.5356906,
+    "lng": 133.7690389,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 2808919360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "足高神社",
     "name_en": "",
     "lat": 34.5773287,
@@ -1536,6 +2757,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 2839238929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "心臓音のアーカイブ (Les Archives du Cœur)",
+    "name_en": "Les Archives du Cœur",
+    "lat": 34.4878754,
+    "lng": 134.1031091,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 2916091602,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2563,6 +3795,127 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5441935,
+    "lng": 134.3483937,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3043588068,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3738332,
+    "lng": 133.8518228,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.382384,
+    "lng": 133.823685,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3834618,
+    "lng": 133.8242293,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342606,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4154598,
+    "lng": 134.2358527,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4797315,
+    "lng": 134.0213673,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342609,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4897694,
+    "lng": 134.0596246,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342611,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4908926,
+    "lng": 134.0971836,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5478712,
+    "lng": 134.2830752,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7038339,
+    "lng": 134.3421314,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7299575,
+    "lng": 134.4090676,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3051342615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "須賀神社",
     "name_en": "",
     "lat": 34.8798817,
@@ -2574,6 +3927,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7227036,
+    "lng": 134.4069729,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3069717851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙霑寺",
     "name_en": "",
     "lat": 34.6924012,
@@ -2581,6 +3945,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 3074326736,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大多府港一文字防波堤西灯台",
+    "name_en": "",
+    "lat": 34.686384,
+    "lng": 134.2976222,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3079530994,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2625,6 +4000,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 3283314958,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大松山城跡",
+    "name_en": "Ōmatsuyama castle",
+    "lat": 34.8138894,
+    "lng": 133.6234443,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 3302242537,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2702,6 +4088,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 3662446970,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高梁市商家資料館",
+    "name_en": "",
+    "lat": 34.7991771,
+    "lng": 133.6165877,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3662447035,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2937,6 +4334,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桃太郎資料館",
+    "name_en": "",
+    "lat": 34.8281868,
+    "lng": 133.4358549,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3662465152,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "重林寺",
     "name_en": "",
     "lat": 34.8295428,
@@ -3021,6 +4429,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 3711539558,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アイビー学館",
+    "name_en": "Ivy College",
+    "lat": 34.5950965,
+    "lng": 133.7732537,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3719435728,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吹屋ふるさと村郷土館",
+    "name_en": "",
+    "lat": 34.8618552,
+    "lng": 133.4693549,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3719549888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧片山家住宅",
+    "name_en": "",
+    "lat": 34.8617827,
+    "lng": 133.4688304,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3719549889,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3190,6 +4631,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩神城跡",
+    "name_en": "",
+    "lat": 35.2723061,
+    "lng": 134.2191211,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 3935654892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "清水観音堂",
     "name_en": "",
     "lat": 34.8897165,
@@ -3208,6 +4660,83 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 3937474063,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国指定史跡 箕作阮甫旧宅",
+    "name_en": "",
+    "lat": 35.0629984,
+    "lng": 134.0162795,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3939057629,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "城東むかし町家",
+    "name_en": "",
+    "lat": 35.0632119,
+    "lng": 134.0168992,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3939057630,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "作州城東屋敷",
+    "name_en": "",
+    "lat": 35.0621994,
+    "lng": 134.0126772,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 3939057631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4889313,
+    "lng": 133.9835232,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 3965264090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "動物ふれあい広場",
+    "name_en": "",
+    "lat": 34.8681651,
+    "lng": 134.0142425,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 4018627609,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "百々温泉",
+    "name_en": "",
+    "lat": 35.1780276,
+    "lng": 134.0499902,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 4020934320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山市加茂町歴史民族資料館",
+    "name_en": "",
+    "lat": 35.1785153,
+    "lng": 134.0501986,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4020934337,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3258,11 +4787,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4685373,
+    "lng": 133.9586698,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4041431688,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4689044,
     "lng": 133.9749026,
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4041432189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.480451,
+    "lng": 133.9721936,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4041432190,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3285,6 +4836,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4041514581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5124177,
+    "lng": 134.0158009,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4041518908,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3344,6 +4906,17 @@
     "data_source": "osm"
   },
   {
+    "name": "いきいき交流ふるさと館",
+    "name_en": "",
+    "lat": 34.9073843,
+    "lng": 134.3148178,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4102658505,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "願栄寺",
     "name_en": "",
     "lat": 34.8652809,
@@ -3351,6 +4924,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 4102691057,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松城址公園",
+    "name_en": "",
+    "lat": 34.6910316,
+    "lng": 133.8221533,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 4130581022,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3454,6 +5038,39 @@
     "data_source": "osm"
   },
   {
+    "name": "昭和館",
+    "name_en": "",
+    "lat": 34.9933827,
+    "lng": 134.1348188,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4265423489,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "てつどう模型館",
+    "name_en": "",
+    "lat": 34.9946557,
+    "lng": 134.1384382,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4265423848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "現代玩具博物館・オルゴール夢館",
+    "name_en": "",
+    "lat": 34.9937526,
+    "lng": 134.1372339,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4265423977,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "津山",
     "name_en": "Tsuyama",
     "lat": 35.0545175,
@@ -3472,6 +5089,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 4317581290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "だいご湯 Daigo Yu",
+    "name_en": "",
+    "lat": 34.4826696,
+    "lng": 133.3583068,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 4333891337,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3522,11 +5150,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4446905,
+    "lng": 133.9653824,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4385273818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4472032,
+    "lng": 133.9691683,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4385273827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4537004,
     "lng": 133.9994129,
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4385273863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4736587,
+    "lng": 133.9478836,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4385273872,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3553,6 +5214,17 @@
     "data_source": "osm"
   },
   {
+    "name": "若桜民工芸館",
+    "name_en": "",
+    "lat": 35.3430118,
+    "lng": 134.3981441,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4406459451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若桜神社",
     "name_en": "",
     "lat": 35.3430416,
@@ -3564,6 +5236,17 @@
     "data_source": "osm"
   },
   {
+    "name": "竹橋美術館",
+    "name_en": "",
+    "lat": 34.4971759,
+    "lng": 133.516316,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4409360690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "榎本神社",
     "name_en": "",
     "lat": 34.6706838,
@@ -3571,6 +5254,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4413048556,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河野美術館",
+    "name_en": "",
+    "lat": 35.0616783,
+    "lng": 134.0106231,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4415990023,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3615,6 +5309,17 @@
     "category": "station",
     "prefecture": "okayama",
     "osm_id": 4439893771,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おかでんミュージアム",
+    "name_en": "Okaden Museum",
+    "lat": 34.6560505,
+    "lng": 133.9431701,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4439932311,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3791,6 +5496,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4508756160,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4215294,
+    "lng": 133.4957192,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4509516054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4163785,
+    "lng": 133.5141889,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4509516055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4318719,
+    "lng": 133.5031016,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4510124644,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4004,6 +5742,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鞆の津ミュージアム",
+    "name_en": "",
+    "lat": 34.3858677,
+    "lng": 133.3820572,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4570272285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大観寺",
     "name_en": "",
     "lat": 34.3864776,
@@ -4048,6 +5797,28 @@
     "data_source": "osm"
   },
   {
+    "name": "常夜灯",
+    "name_en": "Old Lighthouse",
+    "lat": 34.3824356,
+    "lng": 133.3807827,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4570272540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いろは丸展示館",
+    "name_en": "",
+    "lat": 34.3826727,
+    "lng": 133.3807801,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4570272542,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄泉寺",
     "name_en": "",
     "lat": 34.383259,
@@ -4066,6 +5837,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 4594197704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6127921,
+    "lng": 134.1738236,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4656588751,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4466,6 +6248,17 @@
     "data_source": "osm"
   },
   {
+    "name": "赤松の郷 昆虫文化館",
+    "name_en": "",
+    "lat": 34.913554,
+    "lng": 134.358589,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4756847030,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.608124,
@@ -4653,6 +6446,28 @@
     "data_source": "osm"
   },
   {
+    "name": "大山名人記念館",
+    "name_en": "",
+    "lat": 34.5927545,
+    "lng": 133.7706601,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4838604422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.594284,
+    "lng": 133.774148,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4838610621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Small Shrine (Bamboo)",
     "name_en": "",
     "lat": 34.9662036,
@@ -4754,6 +6569,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.604076,
+    "lng": 134.0307002,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 4878440380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.6055149,
     "lng": 134.0981901,
     "category": "shrine",
@@ -4825,6 +6651,61 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 4927553921,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "（株）ベティスミス 総務部",
+    "name_en": "Betty Smith",
+    "lat": 34.4767757,
+    "lng": 133.8228891,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4937648022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美星天文台",
+    "name_en": "Bisei Observatory",
+    "lat": 34.6722789,
+    "lng": 133.5458943,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4937650121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベンガラ館",
+    "name_en": "",
+    "lat": 34.8531834,
+    "lng": 133.4683567,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 4941383722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真賀温泉館",
+    "name_en": "",
+    "lat": 35.1381237,
+    "lng": 133.7156467,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 4941416721,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "I love Yu 直島銭湯「I♥湯」",
+    "name_en": "",
+    "lat": 34.458355,
+    "lng": 133.9750194,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 4943270321,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4950,6 +6831,17 @@
     "data_source": "osm"
   },
   {
+    "name": "まにわ温泉白梅の湯",
+    "name_en": "",
+    "lat": 35.0400514,
+    "lng": 133.7555781,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 5110048934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕宮",
     "name_en": "",
     "lat": 34.6120594,
@@ -5023,6 +6915,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 5154854453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3658196,
+    "lng": 133.4265163,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 5159012126,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5115,6 +7018,17 @@
     "data_source": "osm"
   },
   {
+    "name": "歴史民俗館",
+    "name_en": "",
+    "lat": 35.0608707,
+    "lng": 134.0044995,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5237801770,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6105823,
@@ -5203,6 +7117,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ベル・串田記念館",
+    "name_en": "",
+    "lat": 34.6285815,
+    "lng": 134.0619735,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5285298010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍徳院",
     "name_en": "",
     "lat": 34.7962593,
@@ -5247,6 +7172,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岡山空港温泉;レスパール藤ヶ鳴",
+    "name_en": "",
+    "lat": 34.7605464,
+    "lng": 133.8698624,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 5346121775,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "牛神宮",
     "name_en": "",
     "lat": 34.6251367,
@@ -5254,6 +7190,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 5382162427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遺跡&スポーツミュージアム",
+    "name_en": "Iseki & Sports Museum",
+    "lat": 34.6806089,
+    "lng": 133.9187413,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5389817396,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5753,6 +7700,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5306189,
+    "lng": 134.1619679,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 5661068382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三穂神社",
     "name_en": "Miho Shrine",
     "lat": 35.1382798,
@@ -5793,6 +7751,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 5678975908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さんぶたろう屋敷跡",
+    "name_en": "Sambutaro's Castle Ruin",
+    "lat": 35.1673887,
+    "lng": 134.1716608,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 5679181464,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5951,6 +7920,17 @@
     "data_source": "osm"
   },
   {
+    "name": "健康ホルミシスルーム 快癒",
+    "name_en": "",
+    "lat": 34.5615353,
+    "lng": 133.8066745,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 5821844977,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝神社（本社）",
     "name_en": "Taki Shrine",
     "lat": 35.1589685,
@@ -5995,6 +7975,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Tobias Rehberger",
+    "lat": 34.4874364,
+    "lng": 134.0588667,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5835707788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "菩提寺",
     "name_en": "Bodaiji Temple",
     "lat": 35.156094,
@@ -6006,6 +7997,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大別当城跡",
+    "name_en": "Obettou Castle Ruins",
+    "lat": 35.1500925,
+    "lng": 134.1949891,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 5837383097,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "随泉寺",
     "name_en": "Zuisenji Temple",
     "lat": 35.1228977,
@@ -6013,6 +8015,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 5837401453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原澄治・本田實記念館",
+    "name_en": "",
+    "lat": 34.5932748,
+    "lng": 133.7683189,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5837653777,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6046,6 +8059,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 5845705086,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿波温泉やすらぎ館",
+    "name_en": "",
+    "lat": 35.2358994,
+    "lng": 134.1122829,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 5847479988,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6112,6 +8136,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 5852887010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名木ノ城跡",
+    "name_en": "Naginojo Castle Ruins",
+    "lat": 35.1618248,
+    "lng": 134.1896923,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 5870352003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有元城(中島城・西坪城)跡",
+    "name_en": "Arimoto Castle Ruins",
+    "lat": 35.1004606,
+    "lng": 134.1675011,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 5884049904,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6325,6 +8371,17 @@
     "data_source": "osm"
   },
   {
+    "name": "加茂川歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.8605577,
+    "lng": 133.812582,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 5970881893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "馬桑荒神社",
     "name_en": "Maguwa Kojinsha",
     "lat": 35.157156,
@@ -6453,6 +8510,39 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6045550956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "だんじり展示館",
+    "name_en": "",
+    "lat": 35.0625198,
+    "lng": 134.0126194,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6045596491,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中島病院旧本館",
+    "name_en": "",
+    "lat": 35.0624885,
+    "lng": 133.9948924,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6047566264,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山土岐家財団記念館",
+    "name_en": "",
+    "lat": 35.0625369,
+    "lng": 133.9963254,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6047566516,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6754,6 +8844,28 @@
     "data_source": "osm"
   },
   {
+    "name": "きびの森植物園 天空の王国",
+    "name_en": "",
+    "lat": 34.8756754,
+    "lng": 133.8390559,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6193947261,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太陽美術館",
+    "name_en": "",
+    "lat": 34.6248533,
+    "lng": 133.5898169,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6200587848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "飯綱神社",
     "name_en": "Iiduna Shrine",
     "lat": 35.0697292,
@@ -6875,6 +8987,39 @@
     "data_source": "osm"
   },
   {
+    "name": "無動山永福寺の山門",
+    "name_en": "",
+    "lat": 35.345988,
+    "lng": 134.4032114,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6272630658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三百田氏住宅",
+    "name_en": "",
+    "lat": 35.3459246,
+    "lng": 134.4034447,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6272630659,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たくみの館",
+    "name_en": "",
+    "lat": 35.3459355,
+    "lng": 134.4037183,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6272630660,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.9015815,
@@ -6882,6 +9027,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 6281155522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "利神城跡",
+    "name_en": "",
+    "lat": 35.0467658,
+    "lng": 134.377239,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 6283421732,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7029,6 +9185,17 @@
     "data_source": "osm"
   },
   {
+    "name": "若桜鬼ヶ城跡",
+    "name_en": "",
+    "lat": 35.3370196,
+    "lng": 134.3982584,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 6308661257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.3304646,
@@ -7040,6 +9207,28 @@
     "data_source": "osm"
   },
   {
+    "name": "神勝寺温泉昭和の湯",
+    "name_en": "",
+    "lat": 34.4206172,
+    "lng": 133.3029845,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6315903691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "満天の湯倉敷店",
+    "name_en": "",
+    "lat": 34.5620401,
+    "lng": 133.6854687,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6329012159,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "広昌寺",
     "name_en": "",
     "lat": 34.5939387,
@@ -7047,6 +9236,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6332649118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;コロナの湯福山店",
+    "name_en": "",
+    "lat": 34.4659253,
+    "lng": 133.4069735,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6334528457,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7146,6 +9346,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6354762674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀山城",
+    "name_en": "",
+    "lat": 34.7065004,
+    "lng": 134.0365047,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 6363948327,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7260,6 +9471,17 @@
     "data_source": "osm"
   },
   {
+    "name": "倉敷ゲゲゲの妖怪館",
+    "name_en": "",
+    "lat": 34.5962522,
+    "lng": 133.7725836,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6392577757,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "風穴庵 - 29",
     "name_en": "",
     "lat": 34.4385834,
@@ -7282,6 +9504,17 @@
     "data_source": "osm"
   },
   {
+    "name": "明善寺城跡",
+    "name_en": "",
+    "lat": 34.6651592,
+    "lng": 133.9603344,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 6403483224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "茶屋町",
     "name_en": "Chayamachi",
     "lat": 34.5770835,
@@ -7289,6 +9522,28 @@
     "category": "station",
     "prefecture": "okayama",
     "osm_id": 6433941948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "健幸プラザ西大寺",
+    "name_en": "",
+    "lat": 34.6465192,
+    "lng": 134.0493588,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6466628318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "オリーブ温泉 満点の湯",
+    "name_en": "",
+    "lat": 34.4762962,
+    "lng": 134.1789433,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6475946966,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7326,6 +9581,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高松城址公園資料館",
+    "name_en": "",
+    "lat": 34.6915489,
+    "lng": 133.8223034,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6541545344,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福山",
     "name_en": "Fukuyama",
     "lat": 34.4892799,
@@ -7337,6 +9603,17 @@
     "data_source": "osm"
   },
   {
+    "name": "たけべ八幡温泉",
+    "name_en": "",
+    "lat": 34.8629885,
+    "lng": 133.9046804,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6665353987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙慶寺",
     "name_en": "",
     "lat": 34.7536083,
@@ -7344,6 +9621,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6669285668,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3789799,
+    "lng": 133.3826548,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 6813217860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3755995,
+    "lng": 133.382298,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 6813242059,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7366,6 +9665,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6865163503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山城下町歴史館",
+    "name_en": "",
+    "lat": 35.0618713,
+    "lng": 133.9958431,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6901878985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山城下町歴史館",
+    "name_en": "",
+    "lat": 35.0619531,
+    "lng": 133.9957904,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6901986785,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7641,6 +9962,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6944412304,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島温泉",
+    "name_en": "",
+    "lat": 34.6128801,
+    "lng": 133.9453279,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6944413298,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8041,6 +10373,28 @@
     "data_source": "osm"
   },
   {
+    "name": "岡山淡水魚水族館",
+    "name_en": "",
+    "lat": 34.6186711,
+    "lng": 133.9276126,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6953489087,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくろう美術館",
+    "name_en": "",
+    "lat": 34.6553582,
+    "lng": 133.7770105,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6953489098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍泉寺",
     "name_en": "",
     "lat": 34.5987422,
@@ -8081,6 +10435,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 6953496688,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内市立美術館",
+    "name_en": "",
+    "lat": 34.6206092,
+    "lng": 134.1467779,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6956624062,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8228,6 +10593,17 @@
     "data_source": "osm"
   },
   {
+    "name": "古代まほろば館",
+    "name_en": "",
+    "lat": 34.5988216,
+    "lng": 133.465009,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6961374486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "足次山神社",
     "name_en": "",
     "lat": 34.5985326,
@@ -8246,6 +10622,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 6968291190,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ワコーミュージアム",
+    "name_en": "",
+    "lat": 34.4982565,
+    "lng": 133.5136461,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 6968291287,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8569,6 +10956,28 @@
     "data_source": "osm"
   },
   {
+    "name": "満天の湯",
+    "name_en": "",
+    "lat": 34.5621569,
+    "lng": 133.685431,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 6984174488,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5676969,
+    "lng": 134.1042033,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 7026412555,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉備真備",
     "name_en": "Kibinomakibi",
     "lat": 34.6267408,
@@ -8602,6 +11011,39 @@
     "data_source": "osm"
   },
   {
+    "name": "大石神社義士史料館",
+    "name_en": "Oishi Shrine Historical Museum",
+    "lat": 34.7488528,
+    "lng": 134.3884539,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 7221350615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Naoshima Public Bath I Love Yu",
+    "lat": 34.4574838,
+    "lng": 133.975527,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 7636216785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "K’s LABO",
+    "name_en": "",
+    "lat": 34.3964001,
+    "lng": 133.5371001,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 7759503585,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.3918325,
@@ -8609,6 +11051,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 7759822685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広兼邸",
+    "name_en": "",
+    "lat": 34.838986,
+    "lng": 133.4671805,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 7809804007,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8642,6 +11095,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 7931899798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3850048,
+    "lng": 134.1226905,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8086475078,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9372,6 +11836,61 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3933978,
+    "lng": 133.2613845,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8244858221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3822263,
+    "lng": 133.2925167,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8244858319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.376077,
+    "lng": 133.3036622,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8244858320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3716537,
+    "lng": 133.2846866,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8244858321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3649537,
+    "lng": 133.3603342,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8244858507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "佐用",
     "name_en": "Sayo",
     "lat": 35.0040655,
@@ -9390,6 +11909,17 @@
     "category": "station",
     "prefecture": "okayama",
     "osm_id": 8296338341,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4318067,
+    "lng": 133.7607338,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 8476088872,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9614,6 +12144,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7252049,
+    "lng": 134.2708431,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9234530894,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝北歴史民俗資料館",
+    "name_en": "",
+    "lat": 35.105421,
+    "lng": 134.1139458,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9289279501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "瓶井山 禅光寺 安住院 (Anjuin)",
     "name_en": "",
     "lat": 34.6631864,
@@ -9691,6 +12243,17 @@
     "data_source": "osm"
   },
   {
+    "name": "富田松山城址",
+    "name_en": "",
+    "lat": 34.7400926,
+    "lng": 134.1915009,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 9717097897,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "貴船神社",
     "name_en": "",
     "lat": 34.6729014,
@@ -9742,6 +12305,28 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 9876607182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "貝原歴史資料館",
+    "name_en": "",
+    "lat": 34.5943481,
+    "lng": 133.2634388,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9895318994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "武蔵資料館",
+    "name_en": "",
+    "lat": 35.0954095,
+    "lng": 134.326182,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9906971241,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9834,6 +12419,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯迫温泉;健康村",
+    "name_en": "",
+    "lat": 34.6976807,
+    "lng": 133.9658773,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 9914171537,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "素盞鳴神社",
     "name_en": "Susanoo shrine",
     "lat": 34.6948598,
@@ -9863,6 +12459,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 9914228360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "戸川家記念館",
+    "name_en": "",
+    "lat": 34.6042313,
+    "lng": 133.8272061,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9914228372,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9900,6 +12507,17 @@
     "data_source": "osm"
   },
   {
+    "name": "磯崎眠亀記念館",
+    "name_en": "",
+    "lat": 34.5777899,
+    "lng": 133.822586,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9914262628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "廣峯神社",
     "name_en": "",
     "lat": 34.5831567,
@@ -9918,6 +12536,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 9914275802,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "閑谷学校資料館",
+    "name_en": "",
+    "lat": 34.7969794,
+    "lng": 134.2182116,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 9916400408,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10131,6 +12760,105 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4379201,
+    "lng": 133.7915848,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9959519059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5848573,
+    "lng": 134.1010607,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9975913208,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5990629,
+    "lng": 134.1380856,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9975934213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.614091,
+    "lng": 134.1633319,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9975987212,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5851164,
+    "lng": 134.0790126,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9976000917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7283585,
+    "lng": 134.2695655,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9976109435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6841349,
+    "lng": 134.2231241,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9976142968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5164054,
+    "lng": 134.1630917,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9978821181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4891788,
+    "lng": 134.3458969,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9978854654,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宗道神社",
     "name_en": "",
     "lat": 35.0607237,
@@ -10138,6 +12866,127 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 9980933689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5149189,
+    "lng": 133.967134,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982577976,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.601583,
+    "lng": 134.0138071,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982577981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5963507,
+    "lng": 133.9544983,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982577983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5043876,
+    "lng": 133.964317,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982588941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4996838,
+    "lng": 133.9660336,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982588942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4958286,
+    "lng": 133.9662482,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9982588943,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4447,
+    "lng": 133.8133513,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 9983198938,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴田城跡",
+    "name_en": "Tsuruta Castle Ruins",
+    "lat": 34.9096422,
+    "lng": 133.8774426,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 9987581018,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.429071,
+    "lng": 133.820635,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 10029246985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.417756,
+    "lng": 134.0572417,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 10039868241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "醤の郷現代美術館",
+    "name_en": "Hishionogogendai Museum",
+    "lat": 34.474685,
+    "lng": 134.3179256,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 10047329439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11550,6 +14399,17 @@
     "data_source": "osm"
   },
   {
+    "name": "松永はきもの資料館",
+    "name_en": "",
+    "lat": 34.4507134,
+    "lng": 133.2605715,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 11449081966,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "忌部神社",
     "name_en": "",
     "lat": 34.7426737,
@@ -11634,6 +14494,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 11789472360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Herb craft Milos",
+    "name_en": "",
+    "lat": 34.4731221,
+    "lng": 134.2731474,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 11807030351,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11838,6 +14709,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.7476396,
+    "lng": 133.4716097,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 11943104949,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.717907,
     "lng": 133.4469586,
     "category": "shrine",
@@ -11957,6 +14839,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛行場灯台",
+    "name_en": "",
+    "lat": 34.593194,
+    "lng": 133.9323197,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 11998069738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三浦八幡神社",
     "name_en": "",
     "lat": 35.1433707,
@@ -11979,6 +14872,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛行場灯台",
+    "name_en": "",
+    "lat": 34.7621741,
+    "lng": 133.8557906,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 12123484126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若宮八幡宮",
     "name_en": "",
     "lat": 34.6517143,
@@ -11997,6 +14901,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 12163124899,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夢二郷土美術館 夢二生家記念館",
+    "name_en": "",
+    "lat": 34.6592417,
+    "lng": 134.1205382,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12163242927,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12254,6 +15169,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8134988,
+    "lng": 134.1444254,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 12208654993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡宮",
     "name_en": "",
     "lat": 34.6928375,
@@ -12364,6 +15290,72 @@
     "data_source": "osm"
   },
   {
+    "name": "下太鼓の丸跡",
+    "name_en": "The site of Shimodaiko no Maru",
+    "lat": 34.8051899,
+    "lng": 133.6211704,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12294491822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中太鼓櫓跡",
+    "name_en": "The site of Nakadaiko Yagura",
+    "lat": 34.8065973,
+    "lng": 133.6221435,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12294491823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "番所跡",
+    "name_en": "The site of BanshoBansho",
+    "lat": 34.8101579,
+    "lng": 133.6226847,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12306879278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "切通及び番所跡",
+    "name_en": "The site of Kiridōshi and Bansho",
+    "lat": 34.8147181,
+    "lng": 133.624551,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12307023081,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国指定史跡 備中松山城跡",
+    "name_en": "National Historical site: Bicchu-Matsuyama Castle",
+    "lat": 34.8136371,
+    "lng": 133.6241637,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12307023100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "備中松山城あせびの丸跡",
+    "name_en": "The site of Bicchu-Matsuyama Jo Asebi-no-maru",
+    "lat": 34.8025053,
+    "lng": 133.6193671,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 12308804054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八浜八幡宮",
     "name_en": "",
     "lat": 34.5527745,
@@ -12393,6 +15385,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 12487938271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田町温泉",
+    "name_en": "",
+    "lat": 34.6599644,
+    "lng": 133.924465,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 12495360697,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12531,6 +15534,50 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.7306719,
+    "lng": 133.9159805,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 12570593324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "animo museum 有森裕子資料館",
+    "name_en": "",
+    "lat": 34.7073201,
+    "lng": 133.9410199,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12570593374,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山県古代吉備文化財センター",
+    "name_en": "",
+    "lat": 34.6637693,
+    "lng": 133.8545218,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12588958981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山市埋蔵文化財センター",
+    "name_en": "",
+    "lat": 34.6458169,
+    "lng": 133.9382056,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12588958992,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3786113,
     "lng": 133.5441401,
     "category": "shrine",
@@ -12562,6 +15609,28 @@
     "data_source": "osm"
   },
   {
+    "name": "夢二生家記念館・少年山荘",
+    "name_en": "",
+    "lat": 34.6596804,
+    "lng": 134.119416,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12750136827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "UKIYO-E KURASHIKI",
+    "name_en": "",
+    "lat": 34.5965463,
+    "lng": 133.7732839,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 12779023901,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.2672781,
@@ -12569,6 +15638,28 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 12813265888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5004466,
+    "lng": 133.6901974,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 12845355054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5227264,
+    "lng": 133.6907705,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 12846337025,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12657,6 +15748,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 12861765369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.1901533,
+    "lng": 134.3281353,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 12966456607,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12771,6 +15873,17 @@
     "data_source": "osm"
   },
   {
+    "name": "木下大サーカス記念館",
+    "name_en": "",
+    "lat": 34.6565263,
+    "lng": 133.9289003,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13059033140,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "甚九郎稲荷神社と天神社",
     "name_en": "",
     "lat": 34.666328,
@@ -12778,6 +15891,83 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 13063327823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯原温泉 砂湯",
+    "name_en": "",
+    "lat": 35.2052549,
+    "lng": 133.732664,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 13070061168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯原温泉ミュージアム",
+    "name_en": "",
+    "lat": 35.2011732,
+    "lng": 133.7323776,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13070986443,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かしお温泉 最上荘",
+    "name_en": "",
+    "lat": 34.7554687,
+    "lng": 133.7997459,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 13073463261,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6700018,
+    "lng": 133.7704829,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 13073463262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きびじつるの里",
+    "name_en": "",
+    "lat": 34.6696822,
+    "lng": 133.7704699,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 13073463265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山映像ライブラリーセンター",
+    "name_en": "",
+    "lat": 34.6645771,
+    "lng": 133.9324027,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13091314081,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山・吉兆庵美術館",
+    "name_en": "",
+    "lat": 34.6613134,
+    "lng": 133.9194338,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13111942267,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12855,6 +16045,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 13124779178,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4546585,
+    "lng": 133.9051302,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 13135385024,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12958,6 +16159,17 @@
     "data_source": "osm"
   },
   {
+    "name": "Naoshima New Museum of Art",
+    "name_en": "Naoshima New Museum of Art",
+    "lat": 34.4579024,
+    "lng": 133.9987355,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13347352819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "戎社・一言主社",
     "name_en": "Ebisu Shrine, Hitokotonushi Shrine",
     "lat": 34.598257,
@@ -13053,6 +16265,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 13399175006,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まちづくり博物館",
+    "name_en": "",
+    "lat": 34.4972952,
+    "lng": 133.3632717,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13403821474,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13178,6 +16401,17 @@
     "data_source": "osm"
   },
   {
+    "name": "The Museum",
+    "name_en": "",
+    "lat": 34.5929036,
+    "lng": 133.4688837,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13411580452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6624914,
@@ -13185,6 +16419,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 13411773788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はいむるぶし",
+    "name_en": "",
+    "lat": 34.6098752,
+    "lng": 133.9436151,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 13412431544,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13365,6 +16610,61 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.411518,
+    "lng": 133.5182592,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 13676987511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3774967,
+    "lng": 133.5479406,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 13680846886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3962614,
+    "lng": 133.5347682,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 13685057044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Valley Gallery",
+    "name_en": "",
+    "lat": 34.4478989,
+    "lng": 133.9894345,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 13694665448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.390986,
+    "lng": 133.5270649,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 13695895726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第85番札所 八栗寺",
     "name_en": "85 Yakuri-ji",
     "lat": 34.359922,
@@ -13372,6 +16672,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 47174503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "せとしるべ（赤灯台）",
+    "name_en": "",
+    "lat": 34.3614841,
+    "lng": 134.0517663,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 59806555,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13387,6 +16698,50 @@
     "data_source": "osm"
   },
   {
+    "name": "大原美術館児島虎次郎記念館",
+    "name_en": "Ohara Museum of Art Kojima Torajiro Memorial Hall",
+    "lat": 34.5954533,
+    "lng": 133.7727268,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 173001757,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉紡記念館",
+    "name_en": "",
+    "lat": 34.5953911,
+    "lng": 133.7730448,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 173001759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山市環境学習センター「めだかの学校」",
+    "name_en": "",
+    "lat": 34.860579,
+    "lng": 133.9057068,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 183092298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡温泉;老人福祉センター",
+    "name_en": "",
+    "lat": 34.8617937,
+    "lng": 133.9065276,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 183503458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.4557382,
@@ -13398,6 +16753,72 @@
     "data_source": "osm"
   },
   {
+    "name": "村湯・療養場",
+    "name_en": "",
+    "lat": 34.9930052,
+    "lng": 134.1350759,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 216961054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "てつどう模型館レトロおもちゃ館",
+    "name_en": "",
+    "lat": 34.9946439,
+    "lng": 134.1384534,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 216961057,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Megi House",
+    "name_en": "",
+    "lat": 34.3898639,
+    "lng": 134.0522896,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 229290020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島県立歴史博物館",
+    "name_en": "",
+    "lat": 34.4897019,
+    "lng": 133.3589022,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 242778374,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂市立歴史博物館",
+    "name_en": "",
+    "lat": 34.7473539,
+    "lng": 134.3904956,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 248182823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "動物ふれあい村",
+    "name_en": "",
+    "lat": 34.7319391,
+    "lng": 134.4036558,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 254975907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉備津彦神社",
     "name_en": "Kibitsuhiko Shrine",
     "lat": 34.6765715,
@@ -13405,6 +16826,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 265888801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5367818,
+    "lng": 133.7692783,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 273280187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷市立自然史博物館",
+    "name_en": "",
+    "lat": 34.5955216,
+    "lng": 133.7686415,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 273290495,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷市立美術館",
+    "name_en": "",
+    "lat": 34.5946536,
+    "lng": 133.7689605,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 273291130,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13431,6 +16885,50 @@
     "data_source": "osm"
   },
   {
+    "name": "大原美術館 本館",
+    "name_en": "Ohara Museum of Art Main Building",
+    "lat": 34.5961327,
+    "lng": 133.7707152,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 276244456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山天文博物館",
+    "name_en": "Okayama Astronomical Museum",
+    "lat": 34.5764085,
+    "lng": 133.5954283,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 279698193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "笠岡市立カブトガニ博物館",
+    "name_en": "",
+    "lat": 34.4775745,
+    "lng": 133.5212791,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 279699435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川崎医科大学現代医学教育博物館",
+    "name_en": "",
+    "lat": 34.6333324,
+    "lng": 133.8113996,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 279710809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "作楽神社",
     "name_en": "Sakura Shrine",
     "lat": 35.0621402,
@@ -13449,6 +16947,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 295318413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉ゆずき",
+    "name_en": "",
+    "lat": 34.6607015,
+    "lng": 133.8828805,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 303792055,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13541,6 +17050,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6759411,
+    "lng": 133.9440404,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 314252210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6754849,
+    "lng": 133.9440116,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 314252213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "",
     "lat": 34.3905911,
@@ -13596,6 +17127,72 @@
     "data_source": "osm"
   },
   {
+    "name": "備中松山城",
+    "name_en": "Bitchū Matsuyama Castle",
+    "lat": 34.8086294,
+    "lng": 133.6221797,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323418326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三の丸",
+    "name_en": "San no Maru",
+    "lat": 34.8079868,
+    "lng": 133.6220449,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323418327,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本丸",
+    "name_en": "Hon Maru",
+    "lat": 34.8088942,
+    "lng": 133.622173,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323418329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天守",
+    "name_en": "Keep of Bitchu-Matsuyama Castle",
+    "lat": 34.809109,
+    "lng": 133.6223554,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323418330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二重櫓",
+    "name_en": "",
+    "lat": 34.8093601,
+    "lng": 133.6224627,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323418331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "史跡 備中松山城跡",
+    "name_en": "Historical site: Bicchu-Matsuyama Castle",
+    "lat": 34.8117287,
+    "lng": 133.6225544,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 323426356,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "野田八幡宮本殿",
     "name_en": "",
     "lat": 34.6537461,
@@ -13614,6 +17211,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 328492850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男木島灯台資料館",
+    "name_en": "Ogijima Lighthouse Museum",
+    "lat": 34.4334974,
+    "lng": 134.0608525,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 330454413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男木島灯台",
+    "name_en": "Ogishima Lighthouse",
+    "lat": 34.4336349,
+    "lng": 134.0607304,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 330454452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13640,6 +17259,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧中国銀行林野支店",
+    "name_en": "",
+    "lat": 35.0019892,
+    "lng": 134.1459638,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 331772960,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法眼寺",
     "name_en": "",
     "lat": 35.0008404,
@@ -13662,6 +17292,17 @@
     "data_source": "osm"
   },
   {
+    "name": "倉敷物語館",
+    "name_en": "Kurashiki Local History Museum",
+    "lat": 34.5972471,
+    "lng": 133.7700919,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 332084943,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観龍寺",
     "name_en": "Kanryu Ji",
     "lat": 34.5980296,
@@ -13669,6 +17310,39 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 332091392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星野仙一記念館",
+    "name_en": "",
+    "lat": 34.5946045,
+    "lng": 133.7709488,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 332091567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷民藝館",
+    "name_en": "Kurashiki Museum of Folkcraft",
+    "lat": 34.595491,
+    "lng": 133.7715039,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 332091575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桃太郎のからくり博物館",
+    "name_en": "",
+    "lat": 34.5947945,
+    "lng": 133.7722696,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 332091983,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13691,6 +17365,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 335906763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "母屋",
+    "name_en": "",
+    "lat": 35.2698439,
+    "lng": 134.2291197,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 355767079,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西河克己映画記念館",
+    "name_en": "",
+    "lat": 35.269697,
+    "lng": 134.2292645,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 355767081,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13728,6 +17424,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高梁市歴史美術館",
+    "name_en": "",
+    "lat": 34.7853339,
+    "lng": 133.6148248,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 358203564,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 34.6139483,
@@ -13735,6 +17442,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 359416284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "えびす湯",
+    "name_en": "",
+    "lat": 34.5998759,
+    "lng": 133.7703636,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 359740728,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いがらしゆみこ美術館",
+    "name_en": "",
+    "lat": 34.5955812,
+    "lng": 133.773933,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 359847749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "オルゴールミュゼ",
+    "name_en": "Music Box Museum",
+    "lat": 34.5950537,
+    "lng": 133.7729869,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 359865356,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13768,6 +17508,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 361818260,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "武家屋敷 旧折井家",
+    "name_en": "The Ori-i former samurai family house",
+    "lat": 34.7999141,
+    "lng": 133.6183357,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 361818274,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13816,6 +17567,39 @@
     "data_source": "osm"
   },
   {
+    "name": "岡山城",
+    "name_en": "Okayama Castle",
+    "lat": 34.6652026,
+    "lng": 133.9360453,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 363563168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "六の平櫓",
+    "name_en": "The site of Roku no Hirayagura",
+    "lat": 34.8088159,
+    "lng": 133.6220022,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 363841157,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "武家屋敷 旧埴原家",
+    "name_en": "The Haibara former samurai family house",
+    "lat": 34.7992012,
+    "lng": 133.6183575,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 365563803,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "阿智神社",
     "name_en": "Achi Shrine",
     "lat": 34.5975068,
@@ -13834,6 +17618,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 367998228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8630286,
+    "lng": 133.4707131,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 368079476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷アイビースクエア",
+    "name_en": "",
+    "lat": 34.595,
+    "lng": 133.7735922,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 368081841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大手隅櫓",
+    "name_en": "",
+    "lat": 34.7493991,
+    "lng": 134.3894773,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 378909312,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13867,6 +17684,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 387759402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山県立博物館",
+    "name_en": "Okayama Prefectural Museum",
+    "lat": 34.6684759,
+    "lng": 133.9338061,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 388229814,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13926,6 +17754,17 @@
     "data_source": "osm"
   },
   {
+    "name": "流しびなの館",
+    "name_en": "",
+    "lat": 35.3430922,
+    "lng": 134.2018986,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 389305173,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上市場神社",
     "name_en": "",
     "lat": 35.2668894,
@@ -13981,6 +17820,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5988479,
+    "lng": 133.3256713,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 398387195,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6028587,
+    "lng": 133.3090003,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 398497258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5800369,
+    "lng": 133.2924249,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 398550022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大畠神社",
     "name_en": "",
     "lat": 34.4710057,
@@ -13999,6 +17871,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 398874382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6201633,
+    "lng": 133.3689702,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 399076939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯郷鷺温泉館",
+    "name_en": "",
+    "lat": 34.9926925,
+    "lng": 134.1356442,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 399289791,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14025,6 +17919,72 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.2655293,
+    "lng": 134.2296366,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 401456071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "地中美術館",
+    "name_en": "Chichu Art Museum",
+    "lat": 34.4477838,
+    "lng": 133.9848804,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 401738807,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "李禹煥美術館",
+    "name_en": "Lee Ufan Museum",
+    "lat": 34.4490894,
+    "lng": 133.9886985,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 401738808,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "犬島精錬所美術館",
+    "name_en": "",
+    "lat": 34.5631219,
+    "lng": 134.106009,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 401746931,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳥取県立とっとり花回廊",
+    "name_en": "Tottori Flower Park",
+    "lat": 35.3479269,
+    "lng": 133.4250323,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 406678528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柵原鉱山資料館",
+    "name_en": "",
+    "lat": 34.9436134,
+    "lng": 134.0827436,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 407537557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 35.2707826,
@@ -14043,6 +18003,50 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 416010904,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡櫓",
+    "name_en": "Kagami Yagura",
+    "lat": 34.490364,
+    "lng": 133.3617296,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 421566341,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山城",
+    "name_en": "Fukuyama Castle",
+    "lat": 34.4910404,
+    "lng": 133.3611349,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 421566344,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "稲荷山健康センター",
+    "name_en": "",
+    "lat": 34.7054659,
+    "lng": 133.8318823,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 422114905,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "BIZEN中南米美術館",
+    "name_en": "BIZEN Latin American Museum of Art",
+    "lat": 34.7343989,
+    "lng": 134.2717289,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 427991905,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14153,6 +18157,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 428458963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和気町役場 歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.8193688,
+    "lng": 134.1754226,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 429989849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郷土芸能伝承館・獅子の館",
+    "name_en": "",
+    "lat": 34.8195843,
+    "lng": 134.1754485,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 429989851,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14344,6 +18370,28 @@
     "data_source": "osm"
   },
   {
+    "name": "中太鼓の丸跡",
+    "name_en": "The site of Nakadaiko no Maru",
+    "lat": 34.8064347,
+    "lng": 133.6221206,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 431597747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "笠岡市立竹喬美術館",
+    "name_en": "",
+    "lat": 34.4969506,
+    "lng": 133.5162419,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 440553565,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "創価学会笠岡会館",
     "name_en": "",
     "lat": 34.495883,
@@ -14410,6 +18458,160 @@
     "data_source": "osm"
   },
   {
+    "name": "帝釈峡PA (下り)",
+    "name_en": "",
+    "lat": 34.8933304,
+    "lng": 133.2543311,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443395576,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神郷PA (上り)",
+    "name_en": "Shingo PA",
+    "lat": 34.9950733,
+    "lng": 133.3938124,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443396516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神郷PA (下り)",
+    "name_en": "Shingo PA",
+    "lat": 34.9951016,
+    "lng": 133.3947377,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443396977,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真庭PA (上り)",
+    "name_en": "Maniwa PA",
+    "lat": 35.0051806,
+    "lng": 133.7278453,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443519856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真庭PA (下り)",
+    "name_en": "Maniwa PA",
+    "lat": 35.0093062,
+    "lng": 133.7300943,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443520396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美作追分PA (下り)",
+    "name_en": "Mimasaka-Oiwake PA",
+    "lat": 35.0559487,
+    "lng": 133.819516,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443528445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美作追分PA (上り)",
+    "name_en": "Mimasaka-Oiwake PA",
+    "lat": 35.0564405,
+    "lng": 133.8183332,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443528547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二宮PA (下り)",
+    "name_en": "Ninomiya PA",
+    "lat": 35.0640962,
+    "lng": 133.973456,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443528862,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二宮PA (上り)",
+    "name_en": "Ninomiya PA",
+    "lat": 35.064607,
+    "lng": 133.9738534,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443529019,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "楢原PA (下り)",
+    "name_en": "Narahara PA",
+    "lat": 35.0213294,
+    "lng": 134.195178,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443529883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "楢原PA (上り)",
+    "name_en": "Narahara PA",
+    "lat": 35.0223347,
+    "lng": 134.1939349,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443529979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上月PA (下り)",
+    "name_en": "Kozuki PA",
+    "lat": 35.0091837,
+    "lng": 134.3091721,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443530339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上月PA (上り)",
+    "name_en": "Kozuki PA",
+    "lat": 35.010661,
+    "lng": 134.306845,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 443530681,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6684934,
+    "lng": 133.9337272,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 443896325,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福王山 歓喜寺",
     "name_en": "",
     "lat": 35.2711479,
@@ -14432,6 +18634,50 @@
     "data_source": "osm"
   },
   {
+    "name": "上野PA (下り)",
+    "name_en": "Ueno PA",
+    "lat": 35.1030714,
+    "lng": 133.7818571,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 445058329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上野PA (上り)",
+    "name_en": "Ueno PA",
+    "lat": 35.1046157,
+    "lng": 133.7824784,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 445058863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "総社PA (下り)",
+    "name_en": "",
+    "lat": 34.6979437,
+    "lng": 133.7544079,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 445062839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "総社PA (上り)",
+    "name_en": "",
+    "lat": 34.6973766,
+    "lng": 133.7563228,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 445063073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金剛幢院 東光寺",
     "name_en": "",
     "lat": 35.3267989,
@@ -14450,6 +18696,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 449650783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和気町田原井堰資料館",
+    "name_en": "",
+    "lat": 34.8062323,
+    "lng": 134.127693,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 449836490,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14494,6 +18751,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 453871317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "篠坂PA (下り)",
+    "name_en": "Shinosaka P.A.",
+    "lat": 34.5358256,
+    "lng": 133.4578868,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 454606859,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "篠坂PA (上り)",
+    "name_en": "Shinosaka P.A.",
+    "lat": 34.5361946,
+    "lng": 133.45753,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 454606929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周匝茶臼山城",
+    "name_en": "",
+    "lat": 34.9241427,
+    "lng": 134.0924312,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 455096115,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14586,6 +18876,72 @@
     "data_source": "osm"
   },
   {
+    "name": "福石PA (下り)",
+    "name_en": "",
+    "lat": 34.780152,
+    "lng": 134.3033093,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460894507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福石PA (上り)",
+    "name_en": "",
+    "lat": 34.7811694,
+    "lng": 134.3009219,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460894508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸PA (上り)",
+    "name_en": "",
+    "lat": 34.7723851,
+    "lng": 134.0841617,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460894509,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸PA (下り)",
+    "name_en": "",
+    "lat": 34.7684445,
+    "lng": 134.0736542,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460894511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道口PA (下り)",
+    "name_en": "",
+    "lat": 34.566814,
+    "lng": 133.6437186,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460903693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道口PA (上り)",
+    "name_en": "",
+    "lat": 34.5678483,
+    "lng": 133.6440179,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 460903694,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.3209364,
@@ -14593,6 +18949,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 461636422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元気酵素風呂",
+    "name_en": "",
+    "lat": 34.4638757,
+    "lng": 133.8057361,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 461782299,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14747,6 +19114,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 477412203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくやま美術館",
+    "name_en": "",
+    "lat": 34.4909854,
+    "lng": 133.3590725,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 477483806,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15169,6 +19547,17 @@
     "data_source": "osm"
   },
   {
+    "name": "渋川動物公園",
+    "name_en": "",
+    "lat": 34.46826,
+    "lng": 133.8943869,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 494324832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "地蔵堂",
     "name_en": "",
     "lat": 34.607645,
@@ -15268,6 +19657,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高梁市郷土資料館",
+    "name_en": "",
+    "lat": 34.7946892,
+    "lng": 133.6178615,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 498329579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第五十一番大師堂",
     "name_en": "",
     "lat": 34.6023191,
@@ -15286,6 +19686,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 499431528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西大寺文化資料館",
+    "name_en": "",
+    "lat": 34.6542103,
+    "lng": 134.0355495,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 514078199,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15396,6 +19807,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 531679848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆうゆ",
+    "name_en": "",
+    "lat": 34.4487339,
+    "lng": 133.2515699,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 532714965,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15598,6 +20020,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桃太郎温泉;一湯館",
+    "name_en": "",
+    "lat": 34.7352193,
+    "lng": 133.8970147,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 552763332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍光院",
     "name_en": "",
     "lat": 34.8084115,
@@ -15653,6 +20086,28 @@
     "data_source": "osm"
   },
   {
+    "name": "湯免温泉",
+    "name_en": "",
+    "lat": 34.8874414,
+    "lng": 134.0585743,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 562110061,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽の里 えびす乃ゆ河辺店",
+    "name_en": "Yebisunoyu Kawanabe Shop",
+    "lat": 35.0618738,
+    "lng": 134.0415043,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 562141354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6000974,
@@ -15693,6 +20148,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 566225404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤磐市山陽郷土資料館",
+    "name_en": "",
+    "lat": 34.7560607,
+    "lng": 134.0200995,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 566839396,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15770,6 +20236,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 573021025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯本温泉館",
+    "name_en": "",
+    "lat": 35.2022285,
+    "lng": 133.7306797,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 574617411,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16137,6 +20614,17 @@
     "data_source": "osm"
   },
   {
+    "name": "瀬戸内温泉 たまの湯",
+    "name_en": "Setouchi Onsen Tamanoyu",
+    "lat": 34.4930128,
+    "lng": 133.9561814,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 601255014,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "恵比寿宮",
     "name_en": "",
     "lat": 34.6530844,
@@ -16243,6 +20731,17 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 606026139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Moforu Furusato History Centre",
+    "name_en": "",
+    "lat": 34.6460287,
+    "lng": 133.7040109,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 606049820,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16390,6 +20889,17 @@
     "data_source": "osm"
   },
   {
+    "name": "倉敷刀剣美術館",
+    "name_en": "",
+    "lat": 34.577548,
+    "lng": 133.8224096,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 609871857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.9440817,
@@ -16445,6 +20955,39 @@
     "data_source": "osm"
   },
   {
+    "name": "岩盤浴なごみsalasala",
+    "name_en": "",
+    "lat": 34.5671167,
+    "lng": 133.770521,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 615858867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大原美術館",
+    "name_en": "Ohara Museum of Art",
+    "lat": 34.5960177,
+    "lng": 133.7703141,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 616920786,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大原美術館 別館",
+    "name_en": "",
+    "lat": 34.5959858,
+    "lng": 133.7703262,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 616920804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西現寺",
     "name_en": "Saigenji Temple",
     "lat": 35.1087463,
@@ -16496,6 +21039,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 625202884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵のゆ",
+    "name_en": "",
+    "lat": 34.6100594,
+    "lng": 133.7789882,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 625343522,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16764,6 +21318,17 @@
     "data_source": "osm"
   },
   {
+    "name": "なぎビカリアミュージアム",
+    "name_en": "Nagi Vicarya Museum",
+    "lat": 35.1009698,
+    "lng": 134.1872254,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 633563771,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "惣八幡神社",
     "name_en": "",
     "lat": 35.072715,
@@ -16995,6 +21560,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.2498189,
+    "lng": 134.285823,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 647239369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "河邊神社",
     "name_en": "Kawanabe Shrine",
     "lat": 35.0569616,
@@ -17024,6 +21600,28 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 654001210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水谷公記念館",
+    "name_en": "",
+    "lat": 34.5432662,
+    "lng": 133.6719974,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 654001212,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みなと湯",
+    "name_en": "",
+    "lat": 34.5432879,
+    "lng": 133.6722291,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 654001217,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17226,6 +21824,17 @@
     "data_source": "osm"
   },
   {
+    "name": "後楽温泉 ほのかの湯",
+    "name_en": "",
+    "lat": 34.6407833,
+    "lng": 133.9240725,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 666009075,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福泉寺",
     "name_en": "",
     "lat": 34.3806406,
@@ -17336,6 +21945,17 @@
     "data_source": "osm"
   },
   {
+    "name": "若桜郷土文化の里",
+    "name_en": "",
+    "lat": 35.3459005,
+    "lng": 134.4034059,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 669787589,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇谷山 豊乗寺",
     "name_en": "",
     "lat": 35.2603381,
@@ -17343,6 +21963,39 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 669856352,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "兵庫県立西はりま天文台公園",
+    "name_en": "",
+    "lat": 35.0264058,
+    "lng": 134.3362205,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 670993661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.5847172,
+    "lng": 133.7739941,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 671239287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.0777278,
+    "lng": 133.6494864,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 672216039,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17376,6 +22029,105 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 675738774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ホテル瀬戸大橋;瀬戸大橋スパリゾート",
+    "name_en": "",
+    "lat": 34.4907519,
+    "lng": 133.7710527,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 675807621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山みやび温泉 大家族の湯",
+    "name_en": "",
+    "lat": 34.648015,
+    "lng": 133.8713435,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 675824145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぽかぽか温泉",
+    "name_en": "",
+    "lat": 34.6332022,
+    "lng": 133.9230502,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 675826679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "嵐の湯円山店",
+    "name_en": "",
+    "lat": 34.6551566,
+    "lng": 133.9712481,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 675828247,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まごころの湯",
+    "name_en": "",
+    "lat": 34.5199779,
+    "lng": 133.3850564,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 676429000,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー銭湯 ゆらら",
+    "name_en": "",
+    "lat": 34.4863468,
+    "lng": 133.3509959,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 676430462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー健康ランド 華のゆ",
+    "name_en": "",
+    "lat": 34.4686772,
+    "lng": 133.3685615,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 676431497,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "お湯処 美福",
+    "name_en": "",
+    "lat": 34.4697566,
+    "lng": 133.3909869,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 676431806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "井原市立田中美術館",
+    "name_en": "",
+    "lat": 34.5980076,
+    "lng": 133.463373,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 676630818,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17534,6 +22286,39 @@
     "data_source": "osm"
   },
   {
+    "name": "俄山;弘法大師温泉",
+    "name_en": "",
+    "lat": 34.5016713,
+    "lng": 133.3115868,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 689328991,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遙照山温泉",
+    "name_en": "",
+    "lat": 34.5722133,
+    "lng": 133.612032,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 689329937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サン・オリーブ",
+    "name_en": "",
+    "lat": 34.4733106,
+    "lng": 134.275109,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 690259346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉備津神社",
     "name_en": "",
     "lat": 34.6707449,
@@ -17607,6 +22392,28 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 693435465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福田歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.534153,
+    "lng": 133.761532,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 697589103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山市立動物園",
+    "name_en": "",
+    "lat": 34.5236825,
+    "lng": 133.279172,
+    "category": "zoo",
+    "prefecture": "okayama",
+    "osm_id": 698275273,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17743,6 +22550,17 @@
     "data_source": "osm"
   },
   {
+    "name": "奥津温泉花美人の湯",
+    "name_en": "",
+    "lat": 35.2218983,
+    "lng": 133.9199195,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 706384888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "艮神社",
     "name_en": "",
     "lat": 34.4273539,
@@ -17761,6 +22579,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 706548330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;ふれあい荘",
+    "name_en": "",
+    "lat": 34.8159755,
+    "lng": 133.7061704,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 709191474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 ツルの湯・嵐の湯",
+    "name_en": "",
+    "lat": 34.8247842,
+    "lng": 134.0536839,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 709209046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西の湯温泉",
+    "name_en": "",
+    "lat": 34.946095,
+    "lng": 134.1368092,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 709211677,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17985,6 +22836,28 @@
     "data_source": "osm"
   },
   {
+    "name": "玉島海洋資料館",
+    "name_en": "",
+    "lat": 34.5259752,
+    "lng": 133.6748885,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 727960474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Marukin Soy Sauce Factory",
+    "name_en": "Marukin Soy Sauce Factory",
+    "lat": 34.4670899,
+    "lng": 134.3193878,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 735146447,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大石見神社",
     "name_en": "",
     "lat": 35.1136869,
@@ -17992,6 +22865,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 736663228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.3041255,
+    "lng": 133.3250643,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 736667892,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18036,6 +22920,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 753617932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "林原美術館",
+    "name_en": "Hayashibara Art Museum",
+    "lat": 34.6636154,
+    "lng": 133.9333549,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 756070005,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18117,6 +23012,28 @@
     "data_source": "osm"
   },
   {
+    "name": "旧塩屋出店",
+    "name_en": "",
+    "lat": 35.2697586,
+    "lng": 134.229239,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 768631496,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石谷家住宅",
+    "name_en": "",
+    "lat": 35.2703181,
+    "lng": 134.2305742,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 768648805,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "素盞嗚神社",
     "name_en": "",
     "lat": 34.5526974,
@@ -18168,6 +23085,94 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 836744249,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広兼邸",
+    "name_en": "",
+    "lat": 34.8390458,
+    "lng": 133.4670507,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8533097,
+    "lng": 133.4686029,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8530522,
+    "lng": 133.4684527,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.853174,
+    "lng": 133.4685197,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776995,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8531104,
+    "lng": 133.4682853,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8529471,
+    "lng": 133.4681053,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8529505,
+    "lng": 133.4682614,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 836776998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸大橋温泉 やま幸",
+    "name_en": "",
+    "lat": 34.642092,
+    "lng": 133.8327468,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 846989379,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18326,6 +23331,17 @@
     "data_source": "osm"
   },
   {
+    "name": "妖怪美術館02",
+    "name_en": "",
+    "lat": 34.4851883,
+    "lng": 134.1857019,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 966167850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.4828101,
@@ -18388,6 +23404,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1049801246,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "のとろ温泉天空の湯",
+    "name_en": "",
+    "lat": 35.2010766,
+    "lng": 133.7966198,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 1057491501,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18711,6 +23738,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大角鼻灯台",
+    "name_en": "",
+    "lat": 34.4334685,
+    "lng": 134.3376205,
+    "category": "lighthouse",
+    "prefecture": "okayama",
+    "osm_id": 1099788948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6676947,
@@ -18757,6 +23795,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 35.3128577,
+    "lng": 133.4595389,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 1116491930,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 35.3292547,
     "lng": 133.43949,
     "category": "shrine",
@@ -18795,6 +23844,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1118015350,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きび美ミュージアム",
+    "name_en": "",
+    "lat": 34.5951972,
+    "lng": 133.7711813,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1119078017,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19008,6 +24068,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8670528,
+    "lng": 134.1106102,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 1160966181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "徳守神社",
     "name_en": "",
     "lat": 35.0602782,
@@ -19015,6 +24086,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1164607878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津山まなびの鉄道館",
+    "name_en": "",
+    "lat": 35.0536896,
+    "lng": 134.0003671,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1164799938,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19921,6 +25003,17 @@
     "data_source": "osm"
   },
   {
+    "name": "壺井栄文学館",
+    "name_en": "",
+    "lat": 34.4455219,
+    "lng": 134.2850739,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1220669338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "二十四の瞳天満宮",
     "name_en": "",
     "lat": 34.445157,
@@ -19976,6 +25069,17 @@
     "data_source": "osm"
   },
   {
+    "name": "奥津歴史資料館",
+    "name_en": "",
+    "lat": 35.2249958,
+    "lng": 133.9199387,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1223095221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長昌山 妙法寺",
     "name_en": "",
     "lat": 35.0602806,
@@ -19983,6 +25087,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 1226655228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "作州民芸館",
+    "name_en": "",
+    "lat": 35.0603554,
+    "lng": 133.9938602,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1226661552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穂城",
+    "name_en": "Akō Castle",
+    "lat": 34.7458249,
+    "lng": 134.3892783,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1230875373,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20218,6 +25344,17 @@
     "data_source": "osm"
   },
   {
+    "name": "江府町歴史民俗資料館",
+    "name_en": "",
+    "lat": 35.2820823,
+    "lng": 133.4862016,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1317563419,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.2833311,
@@ -20339,6 +25476,17 @@
     "data_source": "osm"
   },
   {
+    "name": "須恵古代館",
+    "name_en": "",
+    "lat": 34.6803361,
+    "lng": 134.1372581,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1321758755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.6492354,
@@ -20427,6 +25575,116 @@
     "data_source": "osm"
   },
   {
+    "name": "天守曲輪",
+    "name_en": "Tenshu Kuruwa",
+    "lat": 34.8090051,
+    "lng": 133.6224426,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1328866982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "後曲輪",
+    "name_en": "Ushiro Kuruwa",
+    "lat": 34.8094773,
+    "lng": 133.6226097,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1328866983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の手門脇曲輪",
+    "name_en": "Mizunote Mon Waki Kuruwa",
+    "lat": 34.8093852,
+    "lng": 133.6227068,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1328866984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相畑城戸跡",
+    "name_en": "The site of Aihata-no-ki ToAihata-no-ki To",
+    "lat": 34.8106854,
+    "lng": 133.6235863,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天神の丸跡",
+    "name_en": "The site of Tenjin-no-maru",
+    "lat": 34.8124269,
+    "lng": 133.6234419,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天神の丸跡",
+    "name_en": "The site of Tenjin-no-maru",
+    "lat": 34.8120099,
+    "lng": 133.6230698,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天神の丸跡",
+    "name_en": "The site of Tenjin-no-maru",
+    "lat": 34.8117194,
+    "lng": 133.6230083,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大松山城本丸跡",
+    "name_en": "The site of Ōmatsuyama-Jo Hon-maru",
+    "lat": 34.8138019,
+    "lng": 133.6234867,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151229,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大松山城二の丸跡",
+    "name_en": "The site of Ōmatsuyama-Jo Ni-no-maru",
+    "lat": 34.8143777,
+    "lng": 133.6228888,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151230,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大松山城三の丸跡",
+    "name_en": "The site of Ōmatsuyama-Jo San-no-maru",
+    "lat": 34.8150122,
+    "lng": 133.6220796,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 1330151231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒松神社",
     "name_en": "",
     "lat": 34.457615,
@@ -20493,6 +25751,50 @@
     "data_source": "osm"
   },
   {
+    "name": "福山市鞆の浦歴史民俗資料館",
+    "name_en": "Tomonoura Museum of History and Folklore",
+    "lat": 34.3842843,
+    "lng": 133.3817728,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1355604433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベネッセアートサイト直島",
+    "name_en": "Benesse House Museum",
+    "lat": 34.4452276,
+    "lng": 133.9906582,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1357191882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8506986,
+    "lng": 134.0707079,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 1357802817,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.850417,
+    "lng": 134.0717155,
+    "category": "rest_area",
+    "prefecture": "okayama",
+    "osm_id": 1357802818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三寶寺",
     "name_en": "",
     "lat": 34.4999724,
@@ -20526,6 +25828,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福山市しんいち歴史民俗博物館",
+    "name_en": "",
+    "lat": 34.5580231,
+    "lng": 133.2757384,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1370880511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.687162,
@@ -20544,6 +25857,17 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1374004174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しぶや美術館",
+    "name_en": "",
+    "lat": 34.4937076,
+    "lng": 133.3636772,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1382008391,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20726,6 +26050,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4550654,
+    "lng": 133.9053314,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1428895669,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 35.2395293,
     "lng": 133.2775317,
     "category": "temple",
@@ -20775,6 +26110,39 @@
     "category": "shrine",
     "prefecture": "okayama",
     "osm_id": 1457879859,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡山桃太郎温泉",
+    "name_en": "",
+    "lat": 34.7275555,
+    "lng": 133.9851536,
+    "category": "onsen",
+    "prefecture": "okayama",
+    "osm_id": 1463878308,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Naoshima Neew Museum of Art",
+    "name_en": "",
+    "lat": 34.4579541,
+    "lng": 133.9987053,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1465161307,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊島美術館",
+    "name_en": "Teshima Art Museum",
+    "lat": 34.4899484,
+    "lng": 134.0910861,
+    "category": "museum",
+    "prefecture": "okayama",
+    "osm_id": 1466139467,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20830,6 +26198,28 @@
     "category": "temple",
     "prefecture": "okayama",
     "osm_id": 1495458854,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五の平櫓",
+    "name_en": "",
+    "lat": 34.8087526,
+    "lng": 133.6221056,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 18221613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二の丸",
+    "name_en": "Ni no Maru",
+    "lat": 34.808563,
+    "lng": 133.6220344,
+    "category": "castle",
+    "prefecture": "okayama",
+    "osm_id": 18221614,
     "spot_type": "data_spot",
     "data_source": "osm"
   }

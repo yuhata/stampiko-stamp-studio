@@ -682,6 +682,655 @@
     "data_source": "osm"
   },
   {
+    "name": "しかのしま資料館",
+    "name_en": "Yasushima museum",
+    "lat": 33.6838433,
+    "lng": 130.2908039,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423754815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都国歴史博物館",
+    "name_en": "",
+    "lat": 33.536327,
+    "lng": 130.251445,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423756367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都民俗資料館",
+    "name_en": "",
+    "lat": 33.536327,
+    "lng": 130.251445,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423756368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都郷土美術館",
+    "name_en": "",
+    "lat": 33.560563,
+    "lng": 130.204713,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423756369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "志摩町歴史資料館",
+    "name_en": "",
+    "lat": 33.58302,
+    "lng": 130.186548,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423760811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡県立糸島高等学校郷土博物館",
+    "name_en": "",
+    "lat": 33.557416,
+    "lng": 130.210329,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423781544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シーボルト記念館",
+    "name_en": "Siebold Memorial Museum",
+    "lat": 32.755863,
+    "lng": 129.892228,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423797426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ハウステンボス美術館・博物館",
+    "name_en": "Palace Huis Ten Bosch",
+    "lat": 33.0795856,
+    "lng": 129.7835755,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423797459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀岡神社宝物館",
+    "name_en": "Kameoka Shrine Treasure Hall",
+    "lat": 33.3682382,
+    "lng": 129.5565275,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五島観光歴史資料館",
+    "name_en": "",
+    "lat": 32.693938,
+    "lng": 128.846937,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798273,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今右衛門古陶磁美術館",
+    "name_en": "",
+    "lat": 33.1878487,
+    "lng": 129.8961817,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798499,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里・鍋島ギャラリー",
+    "name_en": "",
+    "lat": 33.2718807,
+    "lng": 129.8762116,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798549,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里市歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.27971,
+    "lng": 129.878474,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798584,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐世保市世知原炭鉱資料館",
+    "name_en": "",
+    "lat": 33.255539,
+    "lng": 129.750124,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798960,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐世保市博物館島瀬美術センター",
+    "name_en": "Sasebo City Museum Shimanose Art Center",
+    "lat": 33.172722,
+    "lng": 129.720668,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423798969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀市文化財資料館",
+    "name_en": "",
+    "lat": 33.239353,
+    "lng": 130.28232,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423799749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立九州陶磁文化館",
+    "name_en": "",
+    "lat": 33.179011,
+    "lng": 129.880574,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423799812,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立名護屋城博物館",
+    "name_en": "Saga Prefectural Museum of Nagoya Castle",
+    "lat": 33.5276739,
+    "lng": 129.8702292,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423799816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "史跡「出島和蘭商館跡」",
+    "name_en": "Dejima Museum",
+    "lat": 32.74379,
+    "lng": 129.872176,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423800620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "唐津曳山展示場",
+    "name_en": "",
+    "lat": 33.4518676,
+    "lng": 129.9688981,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423801020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壱岐・原の辻展示館",
+    "name_en": "",
+    "lat": 33.763373,
+    "lng": 129.748618,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423801581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壱岐松永記念館",
+    "name_en": "",
+    "lat": 33.74507,
+    "lng": 129.75144,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423801590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壱岐郷土館",
+    "name_en": "",
+    "lat": 33.749048,
+    "lng": 129.687226,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423801658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多久市郷土資料館",
+    "name_en": "",
+    "lat": 33.271521,
+    "lng": 130.10109,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423801713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太良町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.0198446,
+    "lng": 130.1796999,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423802109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小城市立歴史資料館",
+    "name_en": "Ogi City Historical Museum",
+    "lat": 33.2885426,
+    "lng": 130.1984983,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423802427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小笠原記念館",
+    "name_en": "",
+    "lat": 33.449893,
+    "lng": 129.965843,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423802536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平戸市立里田原歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.358416,
+    "lng": 129.591187,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423804393,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平戸観光資料館",
+    "name_en": "",
+    "lat": 33.372683,
+    "lng": 129.556164,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423804397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徐福長寿館",
+    "name_en": "",
+    "lat": 33.329917,
+    "lng": 130.308151,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423804458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "最教寺霊宝館",
+    "name_en": "",
+    "lat": 33.363247,
+    "lng": 129.553202,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423805584,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田ポーセリンパーク",
+    "name_en": "",
+    "lat": 33.164637,
+    "lng": 129.908242,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423805631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.195076,
+    "lng": 129.91104,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423805646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有田町歴史民族資料館西館",
+    "name_en": "",
+    "lat": 33.2111295,
+    "lng": 129.848565,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423805650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東彼杵町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.035106,
+    "lng": 129.919956,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423806156,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松浦史料博物館",
+    "name_en": "Matsuura Historical Museum",
+    "lat": 33.3729597,
+    "lng": 129.5522704,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423806583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松浦市立福島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.365243,
+    "lng": 129.824706,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423806672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松浦市立鷹島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.436424,
+    "lng": 129.762361,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423806680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江北町郷土資料館",
+    "name_en": "",
+    "lat": 33.220439,
+    "lng": 130.157361,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423807188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河村美術館",
+    "name_en": "",
+    "lat": 33.453257,
+    "lng": 129.971706,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423807284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海上自衛隊佐世保史料館",
+    "name_en": "MSDF Museum",
+    "lat": 33.1738249,
+    "lng": 129.7135187,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423807391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海エネルギーパーク",
+    "name_en": "",
+    "lat": 33.51533,
+    "lng": 129.840365,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423809279,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "生月町博物館・島の館",
+    "name_en": "",
+    "lat": 33.355404,
+    "lng": 129.430941,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423809624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "祈りの丘絵本美術館",
+    "name_en": "Inori no Oka Art Book Museum",
+    "lat": 32.73522,
+    "lng": 129.869742,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423814216,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西海市大瀬戸歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.9327377,
+    "lng": 129.6441991,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423818362,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "諫早市郷土館",
+    "name_en": "",
+    "lat": 32.842887,
+    "lng": 130.04942,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423818805,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎バイオパーク",
+    "name_en": "Nagasaki Bio Park",
+    "lat": 32.988442,
+    "lng": 129.78648,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 1423820495,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎ペンギン水族館",
+    "name_en": "Nagasaki Penguin Aquarium",
+    "lat": 32.758177,
+    "lng": 129.946765,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 1423820502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎孔子廟中国歴代博物館 Confucian Shrine",
+    "name_en": "Koshi-byo & Historical Museum of China",
+    "lat": 32.735479,
+    "lng": 129.872683,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎市外海子ども博物館",
+    "name_en": "",
+    "lat": 32.84368,
+    "lng": 129.699606,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎市外海歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.842691,
+    "lng": 129.699718,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821372,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎市歴史民俗資料館",
+    "name_en": "",
+    "lat": 32.764013,
+    "lng": 129.868737,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821381,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎市科学館",
+    "name_en": "",
+    "lat": 32.778855,
+    "lng": 129.853488,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821556,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎市野口彌太郎記念美術館",
+    "name_en": "Nagasakishi Noguchiyataro Memorial Museum",
+    "lat": 32.738526,
+    "lng": 129.871522,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423821735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎県美術館",
+    "name_en": "Nagasaki Prefectural Art Museum",
+    "lat": 32.7417323,
+    "lng": 129.8704873,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423822086,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎純心大学博物館",
+    "name_en": "",
+    "lat": 32.798483,
+    "lng": 129.911423,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423822303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙ビードロ美術館",
+    "name_en": "",
+    "lat": 32.7384848,
+    "lng": 130.2613701,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423822950,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙市小浜歴史資料館",
+    "name_en": "",
+    "lat": 32.7260978,
+    "lng": 130.2070659,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423822962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿町町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.278316,
+    "lng": 129.593279,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1423824342,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄源寺",
     "name_en": "",
     "lat": 33.2051645,
@@ -748,6 +1397,28 @@
     "data_source": "osm"
   },
   {
+    "name": "西海国立公園 九十九島動植物園森きらら",
+    "name_en": "",
+    "lat": 33.1511908,
+    "lng": 129.6887117,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 1779101936,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "炎の博記念堂",
+    "name_en": "",
+    "lat": 33.1886498,
+    "lng": 129.8559914,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1786061145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八坂神社",
     "name_en": "",
     "lat": 33.2015012,
@@ -755,6 +1426,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1801289234,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大バエ灯台",
+    "name_en": "",
+    "lat": 33.4398032,
+    "lng": 129.4303798,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 1801645273,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1012,6 +1694,39 @@
     "data_source": "osm"
   },
   {
+    "name": "東郷平八郎書石碑",
+    "name_en": "Togo Heihachiro Stone Monument",
+    "lat": 33.5304234,
+    "lng": 129.8693085,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 2460168003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ちゃんぽんミュージアム",
+    "name_en": "Chanpon Museum",
+    "lat": 32.7363721,
+    "lng": 129.8697138,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 2503735320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "グラスロード1571",
+    "name_en": "Glass Road 1571",
+    "lat": 32.7350615,
+    "lng": 129.8700208,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 2503923838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明善寺",
     "name_en": "",
     "lat": 33.270453,
@@ -1089,6 +1804,17 @@
     "data_source": "osm"
   },
   {
+    "name": "柏崎灯台",
+    "name_en": "",
+    "lat": 32.7843134,
+    "lng": 128.6644777,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 2706658380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿家",
     "name_en": "",
     "lat": 33.4843844,
@@ -1122,6 +1848,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長崎バイオパーク",
+    "name_en": "",
+    "lat": 32.9881943,
+    "lng": 129.783301,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 2905890225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岬神社",
     "name_en": "",
     "lat": 33.555619,
@@ -1129,6 +1866,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 2910212502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "波戸岬灯台",
+    "name_en": "",
+    "lat": 33.5554833,
+    "lng": 129.8464199,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 2910212503,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1177,6 +1925,171 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1911039,
+    "lng": 129.2996283,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072091689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.195165,
+    "lng": 129.2920729,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072091707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1943199,
+    "lng": 129.2984081,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072106798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.739954,
+    "lng": 129.677305,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072745863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7424457,
+    "lng": 129.6832478,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072745869,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.803948,
+    "lng": 129.7620422,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072746892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8064646,
+    "lng": 129.7600476,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072746902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8074782,
+    "lng": 129.765567,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072746906,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8082584,
+    "lng": 129.75932,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 3072746907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上杉景勝陣跡",
+    "name_en": "",
+    "lat": 33.5419119,
+    "lng": 129.8540039,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 3298400760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九鬼守隆陣跡",
+    "name_en": "",
+    "lat": 33.5366395,
+    "lng": 129.8599513,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 3298400961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島津義弘陣跡",
+    "name_en": "",
+    "lat": 33.5481335,
+    "lng": 129.8492871,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 3298400962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徳川家康陣跡",
+    "name_en": "",
+    "lat": 33.5335309,
+    "lng": 129.8754909,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 3298400963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "生駒親正陣跡",
+    "name_en": "",
+    "lat": 33.5498768,
+    "lng": 129.855043,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 3298400964,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "軍艦島ミュージアム",
+    "name_en": "",
+    "lat": 32.5937682,
+    "lng": 129.7619427,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 3311184176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝琳院",
     "name_en": "",
     "lat": 33.2403412,
@@ -1210,6 +2123,17 @@
     "data_source": "osm"
   },
   {
+    "name": "有田陶磁美術館",
+    "name_en": "",
+    "lat": 33.1904701,
+    "lng": 129.8987623,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 3755776811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "陶山神社",
     "name_en": "",
     "lat": 33.1889412,
@@ -1228,6 +2152,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 3828906057,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀山社中資料館",
+    "name_en": "Kameyama Shachu Museum",
+    "lat": 32.7490842,
+    "lng": 129.8876599,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 3828906058,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1309,6 +2244,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯元の足湯",
+    "name_en": "",
+    "lat": 32.7422973,
+    "lng": 130.2608731,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 3830064288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大乗院 満明寺",
     "name_en": "",
     "lat": 32.7410777,
@@ -1316,6 +2262,39 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 3830064289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "指湯",
+    "name_en": "",
+    "lat": 32.7421281,
+    "lng": 130.2608973,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 3830069882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯広場",
+    "name_en": "Foot bath",
+    "lat": 32.7383624,
+    "lng": 130.2635417,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 3833604259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙新湯温泉館",
+    "name_en": "",
+    "lat": 32.7381153,
+    "lng": 130.2636003,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 3833604261,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1514,6 +2493,39 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 4295677688,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金田城",
+    "name_en": "Kaneda Castle",
+    "lat": 34.3001562,
+    "lng": 129.2753866,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 4301360441,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.741336,
+    "lng": 129.7887307,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4404246677,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小值賀町歷史民俗資料館",
+    "name_en": "",
+    "lat": 33.1891074,
+    "lng": 129.0584765,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4417481891,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1782,6 +2794,17 @@
     "data_source": "osm"
   },
   {
+    "name": "七釜鍾乳洞資料館",
+    "name_en": "",
+    "lat": 33.0224033,
+    "lng": 129.6616924,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4507485170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.1905974,
@@ -1903,6 +2926,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平戸オランダ商館",
+    "name_en": "Hirado Dutch Trading House",
+    "lat": 33.3728202,
+    "lng": 129.5574315,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4583422658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金比羅神社",
     "name_en": "",
     "lat": 33.3208865,
@@ -1937,12 +2971,100 @@
   },
   {
     "name": "名称不明",
+    "name_en": "Game Museum/ free with passport",
+    "lat": 33.082369,
+    "lng": 129.7854104,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4693016790,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Porcelain Museum free with passport",
+    "lat": 33.0813767,
+    "lng": 129.7853119,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4693036989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Museum of glass",
+    "lat": 33.0840276,
+    "lng": 129.7875416,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4693105390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Teddy Bear Kingdom",
+    "lat": 33.0888505,
+    "lng": 129.7905952,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4693105405,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
     "name_en": "Fuchi-jinja",
     "lat": 32.7582456,
     "lng": 129.8595806,
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 4693900091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Nagai Takashi Memorial Museum",
+    "lat": 32.7789038,
+    "lng": 129.8656436,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4693930592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Ko-shashin-shiryokan/ museum of old photographs",
+    "lat": 32.7352555,
+    "lng": 129.8731966,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4694031989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Maizo-shiryokan/ museum of unearthed artifacts",
+    "lat": 32.7352985,
+    "lng": 129.8732558,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 4694031990,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5860041,
+    "lng": 129.8604861,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4695518698,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1987,6 +3109,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 4695518702,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.6169879,
+    "lng": 129.8621316,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4697417982,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2112,6 +3245,17 @@
     "data_source": "osm"
   },
   {
+    "name": "夜灯鼻灯台",
+    "name_en": "",
+    "lat": 32.9568459,
+    "lng": 130.2245159,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4770835174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蛭子神社",
     "name_en": "",
     "lat": 32.7533779,
@@ -2141,6 +3285,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 4787585815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鷹ん巣灯台",
+    "name_en": "",
+    "lat": 32.7532102,
+    "lng": 129.006686,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4787585818,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2312,11 +3467,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4721286,
+    "lng": 129.9859348,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4930708839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4740863,
     "lng": 129.9881852,
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 4930708840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4686405,
+    "lng": 129.9746346,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4930748650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4701597,
+    "lng": 129.9732104,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 4930748651,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2328,6 +3516,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 4967453532,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "200yen Onsen",
+    "name_en": "",
+    "lat": 32.7418178,
+    "lng": 130.2592027,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 4996185426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "茜の湯 貸切風呂",
+    "name_en": "",
+    "lat": 32.7262637,
+    "lng": 130.2042067,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 4996513024,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2361,6 +3571,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 5167019108,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5658664,
+    "lng": 130.0531724,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5167047025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2443209,
+    "lng": 130.1056123,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5174757072,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2442,6 +3674,28 @@
     "data_source": "osm"
   },
   {
+    "name": "佐賀バルーンミュージアム",
+    "name_en": "",
+    "lat": 33.2524694,
+    "lng": 130.3003905,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 5211905043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "武雄温泉新館",
+    "name_en": "Takeo Onsen Shinkan",
+    "lat": 33.1965837,
+    "lng": 130.014294,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 5228408622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "恵比寿神社",
     "name_en": "",
     "lat": 33.6710455,
@@ -2449,6 +3703,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 5232580448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 ばってんの湯",
+    "name_en": "",
+    "lat": 33.0930039,
+    "lng": 129.7970774,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 5256788696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2497,6 +3762,17 @@
     "data_source": "osm"
   },
   {
+    "name": "Hasami Hot Spring 波佐見温泉",
+    "name_en": "",
+    "lat": 33.1150998,
+    "lng": 129.8690633,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 5305922625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満宮",
     "name_en": "",
     "lat": 33.1403505,
@@ -2526,6 +3802,39 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 5363658671,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5370976,
+    "lng": 128.7327996,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5388475981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊の川温泉郷",
+    "name_en": "",
+    "lat": 33.3656623,
+    "lng": 130.2405173,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 5406948197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古湯温泉郷",
+    "name_en": "",
+    "lat": 33.371769,
+    "lng": 130.2079794,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 5406948204,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2570,6 +3879,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 5435768937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沖ノ神瀬灯標",
+    "name_en": "",
+    "lat": 33.0639172,
+    "lng": 130.226024,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5436895313,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2959,6 +4279,17 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅大和",
+    "name_en": "",
+    "lat": 33.3392847,
+    "lng": 130.257687,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 5538286821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "延命院",
     "name_en": "",
     "lat": 33.2483975,
@@ -3256,6 +4587,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長崎港旭町防波堤灯台",
+    "name_en": "",
+    "lat": 32.7448696,
+    "lng": 129.8645638,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5628825164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "釛山恵美須神社",
     "name_en": "",
     "lat": 32.7435404,
@@ -3263,6 +4605,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 5629003457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の尾温泉",
+    "name_en": "",
+    "lat": 32.8025784,
+    "lng": 129.8591276,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 5629880529,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3949,6 +5302,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.861263,
+    "lng": 130.0355476,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5755983125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.866115,
+    "lng": 130.036135,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5756012007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "嶽宮神社",
     "name_en": "",
     "lat": 33.8658366,
@@ -3960,6 +5335,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Urakami Christian Museum",
+    "lat": 32.7754016,
+    "lng": 129.8657046,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 5812155554,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "5階のりば",
     "name_en": "",
     "lat": 32.7328312,
@@ -3967,6 +5353,17 @@
     "category": "station",
     "prefecture": "nagasaki",
     "osm_id": 5825876719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎伝統芸能館",
+    "name_en": "Nagasaki Traditional Performing Arts Exhibition",
+    "lat": 32.7337078,
+    "lng": 129.8685422,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 5825876956,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3989,6 +5386,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 5848354537,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2366673,
+    "lng": 130.1055862,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 5922693452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4044,6 +5452,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 5940176643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Nagasaki City Bekko Crafts Museum (The Former Nagasaki Customs Sagarimatsu Branch Office)",
+    "lat": 32.7367362,
+    "lng": 129.8696892,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 5942487690,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4851,6 +6270,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7552432,
+    "lng": 129.8721222,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 6380332808,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Sanno Shrine",
     "name_en": "",
     "lat": 32.7674001,
@@ -4858,6 +6288,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 6380332923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Twenty-Six Martyrs Museum",
+    "name_en": "",
+    "lat": 32.75451,
+    "lng": 129.8716288,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 6380332926,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4884,6 +6325,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.7057536,
+    "lng": 129.4628531,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 6435594004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "志々伎神社 上宮",
     "name_en": "",
     "lat": 33.1751882,
@@ -4902,6 +6354,358 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 6480348549,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呼子台場の湯",
+    "name_en": "",
+    "lat": 33.5471805,
+    "lng": 129.8917501,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6499803158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "峰温泉;ほたるの湯",
+    "name_en": "",
+    "lat": 34.4691238,
+    "lng": 129.3126866,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6499823790,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙ビードロ美術館;雲仙スパハウス",
+    "name_en": "",
+    "lat": 32.7383836,
+    "lng": 130.2613083,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6500389981,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙よか湯",
+    "name_en": "",
+    "lat": 32.7358096,
+    "lng": 130.260186,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6500411963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレッシュセンター;おばま",
+    "name_en": "",
+    "lat": 32.720855,
+    "lng": 130.2025812,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6501874525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "味処湯処;よしちょう",
+    "name_en": "",
+    "lat": 32.7257455,
+    "lng": 130.205298,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6501890848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海水温浴施設;高島いやしの湯",
+    "name_en": "",
+    "lat": 32.6583411,
+    "lng": 129.7552805,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6501955139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎伊王島;島風の湯",
+    "name_en": "",
+    "lat": 32.7084941,
+    "lng": 129.7738152,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6501977354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "稲佐山温泉;ふくの湯",
+    "name_en": "",
+    "lat": 32.7670019,
+    "lng": 129.8514178,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502115037,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆりの温泉",
+    "name_en": "",
+    "lat": 32.8097075,
+    "lng": 129.8484624,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502125012,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎温泉;喜道庵",
+    "name_en": "",
+    "lat": 32.8661269,
+    "lng": 129.8807507,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502135212,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベストパワーランド;御湯神指し",
+    "name_en": "",
+    "lat": 32.7642434,
+    "lng": 130.0112873,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502151997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいもり;月の丘温泉",
+    "name_en": "",
+    "lat": 32.7873746,
+    "lng": 130.0158903,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502172392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "のんのこ温水センター",
+    "name_en": "",
+    "lat": 32.8702894,
+    "lng": 130.0611144,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502180549,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小長井健康センター",
+    "name_en": "",
+    "lat": 32.9303397,
+    "lng": 130.1988213,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6502206670,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍神温泉;かやぜの湯",
+    "name_en": "",
+    "lat": 32.949984,
+    "lng": 129.9924923,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6503657742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平谷温泉;山吹の湯",
+    "name_en": "",
+    "lat": 33.0063386,
+    "lng": 130.0625248,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6503773370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千綿花房温泉",
+    "name_en": "",
+    "lat": 33.0203782,
+    "lng": 129.9529982,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6503805698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川棚大崎温泉;しおさいの湯",
+    "name_en": "",
+    "lat": 33.055746,
+    "lng": 129.8238069,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6503888684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はさみ温泉;湯治楼",
+    "name_en": "",
+    "lat": 33.1150287,
+    "lng": 129.8689912,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6504102782,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "頭部クリーンセンター;エコスパ佐世保",
+    "name_en": "",
+    "lat": 33.1437549,
+    "lng": 129.7777064,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6504149987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヌルヌル;有田温泉",
+    "name_en": "",
+    "lat": 33.1899715,
+    "lng": 129.860257,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505020378,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒髪の森温泉;天童の湯",
+    "name_en": "",
+    "lat": 33.2125899,
+    "lng": 129.9162188,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505033891,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里温泉;白磁乃湯",
+    "name_en": "",
+    "lat": 33.2601061,
+    "lng": 129.8893952,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505057139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿町温泉 やすらぎ館",
+    "name_en": "",
+    "lat": 33.3054285,
+    "lng": 129.619401,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505160144,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあい自然塾ひぜん",
+    "name_en": "",
+    "lat": 33.4054368,
+    "lng": 129.8546034,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505184512,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高串温泉;肥前町福祉センター",
+    "name_en": "",
+    "lat": 33.4223128,
+    "lng": 129.8325696,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505341486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海海上温泉;パレア",
+    "name_en": "",
+    "lat": 33.4714523,
+    "lng": 129.8495037,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505632525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡日帰りの旅;まむしの湯",
+    "name_en": "",
+    "lat": 33.4895375,
+    "lng": 130.0748847,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6505765696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳴神温泉;ななの湯",
+    "name_en": "",
+    "lat": 33.4426738,
+    "lng": 130.1201597,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6506017054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "妙法寺温泉;飛龍乃湯",
+    "name_en": "",
+    "lat": 33.3186591,
+    "lng": 130.0381609,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6515797399,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きゅうらぎ温泉;佐用姫の湯",
+    "name_en": "",
+    "lat": 33.3143801,
+    "lng": 130.0683396,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6515843740,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4946,6 +6750,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 6539179423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津和崎灯台",
+    "name_en": "",
+    "lat": 33.1617734,
+    "lng": 129.1122505,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 6544180542,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.935436,
+    "lng": 129.1149971,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 6544511240,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5159,6 +6985,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雲仙国埼灯台",
+    "name_en": "",
+    "lat": 32.6890522,
+    "lng": 130.1270281,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 6764134485,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5760691,
@@ -5247,6 +7084,28 @@
     "data_source": "osm"
   },
   {
+    "name": "別所浴場",
+    "name_en": "Bessho Bath House",
+    "lat": 32.7451228,
+    "lng": 130.2586953,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 6984882022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8625863,
+    "lng": 129.6900915,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7048412503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "玉泉寺",
     "name_en": "",
     "lat": 32.6364415,
@@ -5254,6 +7113,72 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 7048739288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.6047702,
+    "lng": 129.5528903,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7071970356,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1830405,
+    "lng": 128.8034256,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7071970672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2121722,
+    "lng": 129.0151618,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7072252481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1794414,
+    "lng": 129.0519212,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7074108010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1824145,
+    "lng": 129.06419,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7074108016,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2328455,
+    "lng": 129.1875634,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7074507488,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5291,6 +7216,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3310808,
+    "lng": 129.2051428,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7077684971,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "",
     "lat": 32.7386885,
@@ -5298,6 +7234,171 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 7090516068,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.5743754,
+    "lng": 128.7715775,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7106497082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6672516,
+    "lng": 128.6642236,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7107138542,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6701178,
+    "lng": 128.660927,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7107138547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7615507,
+    "lng": 128.6415905,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7107138578,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.746102,
+    "lng": 128.7015522,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7107138626,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7615713,
+    "lng": 128.7432234,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7108534304,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9995602,
+    "lng": 129.2236838,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7109352355,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.255417,
+    "lng": 129.134007,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7111623411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2578721,
+    "lng": 129.1317753,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7111623412,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.30276,
+    "lng": 129.1706496,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7112347639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3015459,
+    "lng": 129.1255767,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7112369605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4723592,
+    "lng": 129.4976192,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7115760333,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4716214,
+    "lng": 129.5211761,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7115760336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.51056,
+    "lng": 129.5563741,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7115760343,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3609207,
+    "lng": 129.40004,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7115869684,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5313,6 +7414,17 @@
     "data_source": "osm"
   },
   {
+    "name": "伊万里・有田焼伝統産業会館",
+    "name_en": "Imari-Arita Ware Traditional Crafts Center",
+    "lat": 33.2362425,
+    "lng": 129.8921391,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 7254755076,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Dake Shrine",
     "name_en": "",
     "lat": 33.2324549,
@@ -5320,6 +7432,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 7254755078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3176971,
+    "lng": 129.3017288,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7282205905,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5452,6 +7575,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 7741202832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1789752,
+    "lng": 129.3323421,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 7756839206,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6358,6 +8492,17 @@
     "data_source": "osm"
   },
   {
+    "name": "神集島港宮埼灯台",
+    "name_en": "",
+    "lat": 33.5379976,
+    "lng": 129.9647105,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8088235809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天満神社",
     "name_en": "",
     "lat": 33.7211167,
@@ -6380,6 +8525,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7281897,
+    "lng": 129.6487453,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 8152809717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "嬉野温泉",
     "name_en": "Ureshino-Onsen",
     "lat": 33.1066719,
@@ -6387,6 +8543,226 @@
     "category": "station",
     "prefecture": "nagasaki",
     "osm_id": 8168035527,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐世保城跡",
+    "name_en": "",
+    "lat": 33.1841162,
+    "lng": 129.7194405,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 8292083651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東名縄文館",
+    "name_en": "",
+    "lat": 33.2943596,
+    "lng": 130.3061154,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 8320922980,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2347357,
+    "lng": 129.0940359,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8330086804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2732423,
+    "lng": 129.1583513,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8330295203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2417261,
+    "lng": 129.1858634,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8330296945,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.045645,
+    "lng": 129.068107,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8330602970,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.019601,
+    "lng": 129.4330081,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8332391780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.990906,
+    "lng": 129.0398607,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8332553008,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0013677,
+    "lng": 129.1074711,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8332553025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9195914,
+    "lng": 128.9302576,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8333203677,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8208312,
+    "lng": 128.9145264,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8334319114,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8615942,
+    "lng": 128.8720952,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8334385334,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7500598,
+    "lng": 128.8814628,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8334385370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6812109,
+    "lng": 128.6343442,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8337023390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7963929,
+    "lng": 128.8091826,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8338453826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.704581,
+    "lng": 129.7164009,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8341159962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8430921,
+    "lng": 129.7716531,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8341159963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7533402,
+    "lng": 129.6446545,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8341159964,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7232566,
+    "lng": 129.6299279,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8341159967,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3176761,
+    "lng": 129.4116577,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8343730708,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6424,6 +8800,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7612402,
+    "lng": 130.0496694,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8444713591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.6845882,
+    "lng": 129.7801879,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8444713592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八天狗",
     "name_en": "",
     "lat": 32.7946513,
@@ -6431,6 +8829,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 8449085251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅しろいし",
+    "name_en": "",
+    "lat": 33.1771369,
+    "lng": 130.1956325,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 8489858656,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6943,6 +9352,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.438801,
+    "lng": 129.5473266,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8695594071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4294681,
+    "lng": 129.5152353,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8695594076,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4258675,
     "lng": 129.5132893,
     "category": "shrine",
@@ -6981,6 +9412,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 8805787444,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.5920368,
+    "lng": 129.750968,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 8805787466,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7161,6 +9603,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岸岳城跡",
+    "name_en": "Kishidake Castle Ruins",
+    "lat": 33.3567376,
+    "lng": 129.9785748,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 9049943487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒髪神社上宮",
     "name_en": "",
     "lat": 33.2133376,
@@ -7249,6 +9702,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1977496,
+    "lng": 130.2209794,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9422997225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小城",
     "name_en": "Ogi",
     "lat": 33.2856312,
@@ -7256,6 +9720,94 @@
     "category": "station",
     "prefecture": "nagasaki",
     "osm_id": 9524354389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.869184,
+    "lng": 129.6865319,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9623128636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8331424,
+    "lng": 129.6584317,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9623148611,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5935039,
+    "lng": 129.8989964,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625412718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5819599,
+    "lng": 129.910491,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625412764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5544372,
+    "lng": 129.8935059,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625537154,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5671269,
+    "lng": 129.8821467,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625537687,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5592954,
+    "lng": 129.9037693,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625537719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5644092,
+    "lng": 129.8963973,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9625537722,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7289,6 +9841,39 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 9632924813,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5639845,
+    "lng": 129.7627133,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9632924814,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5649232,
+    "lng": 129.7648913,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9632924815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4885617,
+    "lng": 129.7758535,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9643270324,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7502,6 +10087,28 @@
     "data_source": "osm"
   },
   {
+    "name": "中の茶屋・清水崑展示館",
+    "name_en": "",
+    "lat": 32.7398076,
+    "lng": 129.8802302,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 9820952490,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "常灯鼻",
+    "name_en": "",
+    "lat": 32.6966758,
+    "lng": 128.8485849,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 9858086733,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大村車両基地",
     "name_en": "Ōmura Rail Yard",
     "lat": 32.9553758,
@@ -7531,6 +10138,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 10269026556,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沖ノ瀬灯標",
+    "name_en": "",
+    "lat": 32.6113318,
+    "lng": 130.2371693,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10281553222,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7619,6 +10237,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 10316052357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南島原市アートビレッジ・シラキノ",
+    "name_en": "Minamishimabara-shi Art Village",
+    "lat": 32.6397082,
+    "lng": 130.2247354,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 10542950834,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7964,6 +10593,149 @@
     "data_source": "osm"
   },
   {
+    "name": "R Lt",
+    "name_en": "",
+    "lat": 33.1640222,
+    "lng": 129.6777595,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728388575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Y Lt",
+    "name_en": "",
+    "lat": 33.1878926,
+    "lng": 129.6459787,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "G Lt",
+    "name_en": "",
+    "lat": 33.185824,
+    "lng": 129.6463934,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相浦港第3号灯浮標 FI G 3s",
+    "name_en": "",
+    "lat": 33.1859978,
+    "lng": 129.6472103,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相浦港第4号灯浮標 FI R 3s",
+    "name_en": "",
+    "lat": 33.1855664,
+    "lng": 129.6482063,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Y Lt",
+    "name_en": "",
+    "lat": 33.1829594,
+    "lng": 129.6478665,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412051,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Y Lt",
+    "name_en": "",
+    "lat": 33.182726,
+    "lng": 129.6471193,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412052,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相浦港第1号防波堤灯台 FI(2) R 6s",
+    "name_en": "",
+    "lat": 33.1822513,
+    "lng": 129.6413278,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412060,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相浦港第1号灯浮標 FI(2) G 6s",
+    "name_en": "",
+    "lat": 33.1837536,
+    "lng": 129.6409738,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412061,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "G Lt",
+    "name_en": "",
+    "lat": 33.1813309,
+    "lng": 129.6425877,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Lt",
+    "name_en": "",
+    "lat": 33.1953552,
+    "lng": 129.6434028,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Lt",
+    "name_en": "",
+    "lat": 33.1956069,
+    "lng": 129.6442484,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412086,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Lt",
+    "name_en": "",
+    "lat": 33.195675,
+    "lng": 129.6448054,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 10728412087,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝善寺",
     "name_en": "",
     "lat": 33.5433217,
@@ -8015,6 +10787,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 10742640368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Ukakami Christian Museum",
+    "lat": 32.7754442,
+    "lng": 129.8656189,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 10752213605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梶峰城跡",
+    "name_en": "",
+    "lat": 33.2532638,
+    "lng": 130.0931454,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 10786992396,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8074,6 +10868,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小城市立中林梧竹記念館",
+    "name_en": "Ogi City Nakabayashi Gochiku Museum",
+    "lat": 33.2885485,
+    "lng": 130.1983084,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 11051474536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蔵宿",
     "name_en": "Zoushuku",
     "lat": 33.2020564,
@@ -8092,6 +10897,17 @@
     "category": "station",
     "prefecture": "nagasaki",
     "osm_id": 11068926852,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "嬉野市歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.1280008,
+    "lng": 130.0604627,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 11083936835,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8153,11 +10969,66 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.3394379,
+    "lng": 129.7926926,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11223035942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.5111532,
     "lng": 130.1598285,
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 11230826512,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3171864,
+    "lng": 129.8358437,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11286285413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "女瀬鼻灯台",
+    "name_en": "",
+    "lat": 33.528794,
+    "lng": 129.9570581,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11303008502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5246619,
+    "lng": 129.9590752,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11303008503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5377305,
+    "lng": 129.966993,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11303039533,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8169,6 +11040,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 11351572298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ミニ水族館",
+    "name_en": "",
+    "lat": 33.075873,
+    "lng": 130.14584,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 11385821799,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8202,6 +11084,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 11452246258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1936054,
+    "lng": 129.6208627,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 11453229609,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8312,6 +11205,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 11817712740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3647964,
+    "lng": 129.7419987,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 11875548970,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8558,6 +11462,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大平瀬灯台",
+    "name_en": "",
+    "lat": 33.1736794,
+    "lng": 129.6097778,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12062871978,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4510246,
@@ -8565,6 +11480,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 12097059303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4534765,
+    "lng": 129.9817862,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12111682333,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8587,6 +11513,72 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 12134735209,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "獅子ケ城跡",
+    "name_en": "",
+    "lat": 33.3116819,
+    "lng": 130.0416293,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 12148146793,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "殿様湯・家老湯",
+    "name_en": "",
+    "lat": 33.1962711,
+    "lng": 130.0142375,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 12193973721,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鷺乃湯",
+    "name_en": "",
+    "lat": 33.1967262,
+    "lng": 130.0145419,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 12193973738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柄崎亭",
+    "name_en": "",
+    "lat": 33.1963901,
+    "lng": 130.0141429,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 12193973739,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蓬莱湯",
+    "name_en": "",
+    "lat": 33.1961909,
+    "lng": 130.0144896,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 12193973740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "元湯",
+    "name_en": "",
+    "lat": 33.196302,
+    "lng": 130.0143769,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 12193973741,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8620,6 +11612,50 @@
     "category": "station",
     "prefecture": "nagasaki",
     "osm_id": 12248150948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5510418,
+    "lng": 129.8950817,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12271416571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5502225,
+    "lng": 129.8671049,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12271416572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.54667,
+    "lng": 129.8683753,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12271416573,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.557419,
+    "lng": 129.8918121,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12271417878,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8712,6 +11748,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ひがさす",
+    "name_en": "Higasasu",
+    "lat": 33.1750714,
+    "lng": 130.2701348,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 12652529142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.9040057,
@@ -8730,6 +11777,50 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 12738688605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高島港外防波堤灯台",
+    "name_en": "",
+    "lat": 33.1700388,
+    "lng": 129.5888349,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12741627316,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高島港北防波堤立標",
+    "name_en": "",
+    "lat": 33.1713733,
+    "lng": 129.5933323,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12741627317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牛ヶ首灯台",
+    "name_en": "",
+    "lat": 33.1608037,
+    "lng": 129.5815378,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 12741841849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "立石春美記念美術館",
+    "name_en": "Tateishi Harumi Memorial Art Museum",
+    "lat": 33.3298134,
+    "lng": 130.2687013,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 12802737407,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8778,6 +11869,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名護屋城跡",
+    "name_en": "Nagoya Castle Ruins",
+    "lat": 33.5270662,
+    "lng": 129.8759583,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 12871663877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小戸大神宮",
     "name_en": "Odo Daijingu Shrine",
     "lat": 33.5951029,
@@ -8785,6 +11887,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 12873075996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都菜彩休憩所",
+    "name_en": "",
+    "lat": 33.5559624,
+    "lng": 130.2279511,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 12880904201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀城",
+    "name_en": "Saga Castle",
+    "lat": 33.2453451,
+    "lng": 130.3028388,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 12902924455,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8932,6 +12056,50 @@
     "data_source": "osm"
   },
   {
+    "name": "シーボルトの足湯",
+    "name_en": "",
+    "lat": 33.096812,
+    "lng": 129.9850776,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 13153908934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0972308,
+    "lng": 129.9859163,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 13153908939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "志賀島休暇村 金印の湯",
+    "name_en": "",
+    "lat": 33.6828553,
+    "lng": 130.2904699,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 13175374426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4151821,
+    "lng": 129.7962396,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13180517288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.7292675,
@@ -8983,6 +12151,39 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 13354870533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8821178,
+    "lng": 129.5943348,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 13373331822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.877763,
+    "lng": 129.544086,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13380392912,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2996029,
+    "lng": 129.3925637,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13448305540,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9044,6 +12245,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.5655472,
+    "lng": 129.2883394,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13618065975,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6460138,
+    "lng": 129.3831003,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13634236947,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.6794425,
     "lng": 129.4735925,
     "category": "shrine",
@@ -9077,6 +12300,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.5517031,
+    "lng": 129.4680619,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 13671422181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.484497,
     "lng": 129.3947391,
     "category": "shrine",
@@ -9097,6 +12331,28 @@
     "data_source": "osm"
   },
   {
+    "name": "柿右衛門古陶磁参考館",
+    "name_en": "",
+    "lat": 33.1811079,
+    "lng": 129.8679039,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 172467543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原榮三郎美術館",
+    "name_en": "",
+    "lat": 33.1867034,
+    "lng": 129.8935257,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 173382777,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "粟島神社",
     "name_en": "",
     "lat": 33.1880662,
@@ -9108,6 +12364,17 @@
     "data_source": "osm"
   },
   {
+    "name": "有田陶磁美術館",
+    "name_en": "",
+    "lat": 33.1906901,
+    "lng": 129.8987211,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 174249402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "佐賀県護国神社",
     "name_en": "",
     "lat": 33.2527696,
@@ -9115,6 +12382,72 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 191876231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀大学美術館",
+    "name_en": "Saga University Art Museum",
+    "lat": 33.2444094,
+    "lng": 130.2922224,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 238676423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "軍艦島デジタルミュージアム",
+    "name_en": "Gunkanjima Digital Museum",
+    "lat": 32.7360412,
+    "lng": 129.8691354,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 242947332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大浦天主堂キリシタン博物館",
+    "name_en": "",
+    "lat": 32.7344301,
+    "lng": 129.8699115,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 243003169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧上海銀行長崎支店記念館",
+    "name_en": "The Former Hong Kong and Shanghai Bank Nagasaki Branch Museum",
+    "lat": 32.7363689,
+    "lng": 129.8691937,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 243004481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立博物館",
+    "name_en": "Saga Prefectural Museum",
+    "lat": 33.2449878,
+    "lng": 130.30055,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 249574451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7416829,
+    "lng": 129.870783,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 255540494,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9174,6 +12507,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐賀県立美術館",
+    "name_en": "Saga Prefectural Art Museum",
+    "lat": 33.2446676,
+    "lng": 130.3001641,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 332128489,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岡山神社",
     "name_en": "",
     "lat": 33.2888666,
@@ -9207,6 +12551,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧古賀銀行",
+    "name_en": "Former Koga Bank",
+    "lat": 33.254111,
+    "lng": 130.3066434,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 353543400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2556664,
@@ -9236,6 +12591,28 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 371481101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙お山の情報館",
+    "name_en": "",
+    "lat": 32.7392338,
+    "lng": 130.2620208,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 379887469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙新湯温泉館",
+    "name_en": "Unzen Fresh Water Onsen",
+    "lat": 32.737986,
+    "lng": 130.2639208,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 380011555,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9449,6 +12826,28 @@
     "data_source": "osm"
   },
   {
+    "name": "おうち温泉;天徳の湯",
+    "name_en": "",
+    "lat": 33.3474317,
+    "lng": 130.0009528,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 423415531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯多里ランドつしま",
+    "name_en": "",
+    "lat": 34.2842499,
+    "lng": 129.3191082,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 430361234,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Shinshoji",
     "name_en": "",
     "lat": 34.2701761,
@@ -9493,6 +12892,17 @@
     "data_source": "osm"
   },
   {
+    "name": "対馬野生生物保護センター",
+    "name_en": "Tsushima Wildlife Conservation Center",
+    "lat": 34.6437299,
+    "lng": 129.3229902,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 430993066,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天手長男神社",
     "name_en": "",
     "lat": 33.7640447,
@@ -9511,6 +12921,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 443023536,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木場PA (下り)",
+    "name_en": "Koba PA",
+    "lat": 32.9026295,
+    "lng": 129.9800662,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 443762099,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9548,6 +12969,17 @@
     "data_source": "osm"
   },
   {
+    "name": "西海市崎戸歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.0196834,
+    "lng": 129.5743336,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 460293754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "市杵島神社",
     "name_en": "",
     "lat": 32.9892368,
@@ -9581,6 +13013,17 @@
     "data_source": "osm"
   },
   {
+    "name": "清水山城",
+    "name_en": "Shimizuyama Castle",
+    "lat": 34.2076676,
+    "lng": 129.2854409,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 463778719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大歳神社",
     "name_en": "",
     "lat": 34.2082168,
@@ -9610,6 +13053,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 464515863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立宇宙科学館",
+    "name_en": "",
+    "lat": 33.179115,
+    "lng": 130.0354491,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 476235474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1792763,
+    "lng": 130.0354459,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 476235475,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9654,6 +13119,28 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 478960554,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡西PA (上り)",
+    "name_en": "Fukuoka-nishi PA",
+    "lat": 33.5695495,
+    "lng": 130.2930421,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 479542457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀バルーンミュージアム",
+    "name_en": "Saga Balloon Museum",
+    "lat": 33.2524172,
+    "lng": 130.3004116,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 480824452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9724,6 +13211,17 @@
     "data_source": "osm"
   },
   {
+    "name": "上対馬温泉;渚の湯",
+    "name_en": "",
+    "lat": 34.6700607,
+    "lng": 129.4840362,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 492256597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "比田勝金比羅神社",
     "name_en": "Hita Katsukanehira-jinja Shrine",
     "lat": 34.6554937,
@@ -9742,6 +13240,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 494797820,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧唐津銀行本店",
+    "name_en": "Former Karatsu Bank Head Office",
+    "lat": 33.4487116,
+    "lng": 129.971121,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 494802389,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9790,6 +13299,39 @@
     "data_source": "osm"
   },
   {
+    "name": "唐津城",
+    "name_en": "Karatsu Castle",
+    "lat": 33.4535131,
+    "lng": 129.9781934,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 500427895,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.627091,
+    "lng": 129.7376167,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 507180755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀県立佐賀城本丸歴史館",
+    "name_en": "Saga Prefectural Saga Castle History Museum",
+    "lat": 33.2453412,
+    "lng": 130.3027978,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 511628392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "太良嶽山　金泉寺",
     "name_en": "",
     "lat": 32.9736652,
@@ -9797,6 +13339,50 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 518149697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徴古館",
+    "name_en": "Nabeshima Chokokan Museum",
+    "lat": 33.2515933,
+    "lng": 130.3013628,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 528257590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほっとふっと105",
+    "name_en": "",
+    "lat": 32.7272293,
+    "lng": 130.2052334,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 529325432,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "肥前犬山城",
+    "name_en": "",
+    "lat": 33.1773564,
+    "lng": 130.074743,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 541293217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1773418,
+    "lng": 130.0747581,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 541293220,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9819,6 +13405,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 544258615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7535371,
+    "lng": 129.8818061,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 544258616,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳴神温泉ななのゆ",
+    "name_en": "Narukami Onsen Nananoyu",
+    "lat": 33.4428319,
+    "lng": 130.1202115,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 547790776,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9867,6 +13475,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浜崎祇園山囃子保存会館",
+    "name_en": "",
+    "lat": 33.4497334,
+    "lng": 130.0404273,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 560707734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "海童神社",
     "name_en": "",
     "lat": 33.1846978,
@@ -9911,6 +13530,17 @@
     "data_source": "osm"
   },
   {
+    "name": "さが水ものがたり館",
+    "name_en": "",
+    "lat": 33.3030106,
+    "lng": 130.2743119,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 561436147,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "沖髪大明神 祠",
     "name_en": "",
     "lat": 33.0639214,
@@ -9951,6 +13581,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 565756116,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2730868,
+    "lng": 130.3108274,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 566597160,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シーボルトの湯",
+    "name_en": "Siebold's Bath",
+    "lat": 33.0965665,
+    "lng": 129.9855805,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 568000739,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10065,6 +13717,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本庄の湯",
+    "name_en": "",
+    "lat": 33.2399745,
+    "lng": 130.3084418,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 572766236,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西中野天満宮",
     "name_en": "",
     "lat": 33.2695549,
@@ -10127,6 +13790,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 579407025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡田三郎助アトリエ",
+    "name_en": "Okada Saburosuke Atelier",
+    "lat": 33.2450937,
+    "lng": 130.301059,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 580105303,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10226,6 +13900,28 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 585409432,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平戸城",
+    "name_en": "Hirado Castle",
+    "lat": 33.3685599,
+    "lng": 129.5575484,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 586353581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多久市先覚者資料館",
+    "name_en": "",
+    "lat": 33.2570837,
+    "lng": 130.0882789,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 586672627,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10417,6 +14113,17 @@
     "data_source": "osm"
   },
   {
+    "name": "瀬詰崎灯台",
+    "name_en": "",
+    "lat": 32.5907443,
+    "lng": 130.1674101,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 593952646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2446282,
@@ -10494,6 +14201,17 @@
     "data_source": "osm"
   },
   {
+    "name": "口之津灯台",
+    "name_en": "",
+    "lat": 32.6017352,
+    "lng": 130.1973388,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 619948326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2494339,
@@ -10523,6 +14241,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 621942926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金石城東の櫓門",
+    "name_en": "",
+    "lat": 34.2034683,
+    "lng": 129.2870396,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 624149783,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10567,6 +14296,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 627300882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2186784,
+    "lng": 130.0892548,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 628726157,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10857,6 +14597,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1436608,
+    "lng": 130.3259464,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 644857181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "男女神社",
     "name_en": "",
     "lat": 33.3176571,
@@ -10974,6 +14725,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 651513934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "櫓台跡",
+    "name_en": "",
+    "lat": 32.6289571,
+    "lng": 130.2537997,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 651521340,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11231,6 +14993,28 @@
     "data_source": "osm"
   },
   {
+    "name": "熊の川温泉;ちどりの湯",
+    "name_en": "",
+    "lat": 33.3640256,
+    "lng": 130.2405707,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 674221680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯泉郷 温泉館;湯招花",
+    "name_en": "",
+    "lat": 33.3636253,
+    "lng": 130.24186,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 674221684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3734109,
@@ -11385,6 +15169,468 @@
     "data_source": "osm"
   },
   {
+    "name": "呼子台場の湯",
+    "name_en": "",
+    "lat": 33.547292,
+    "lng": 129.8919441,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692428631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "峰温泉;ほたるの湯",
+    "name_en": "",
+    "lat": 34.4691258,
+    "lng": 129.3124475,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692431081,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真珠の湯",
+    "name_en": "",
+    "lat": 34.2583251,
+    "lng": 129.3220144,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692432871,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すこやか温泉",
+    "name_en": "",
+    "lat": 33.811634,
+    "lng": 129.6849041,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692434165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壱岐湯ノ本温泉;山口温泉",
+    "name_en": "",
+    "lat": 33.8118377,
+    "lng": 129.6846125,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692434321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7444058,
+    "lng": 129.6952542,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692434693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みずほ温泉 千年の湯",
+    "name_en": "",
+    "lat": 32.8717214,
+    "lng": 130.237055,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692450856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙よか湯",
+    "name_en": "",
+    "lat": 32.7356776,
+    "lng": 130.2601767,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692454754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雲仙温泉 小地獄温泉館",
+    "name_en": "",
+    "lat": 32.7326,
+    "lng": 130.2631225,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692457379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレッシュセンター;おばま",
+    "name_en": "",
+    "lat": 32.7207975,
+    "lng": 130.2025235,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692569318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "味処湯処;よしちょう",
+    "name_en": "",
+    "lat": 32.725776,
+    "lng": 130.205306,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692570130,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海水温浴施設;高島いやしの湯",
+    "name_en": "",
+    "lat": 32.6583603,
+    "lng": 129.7552711,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692575874,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎伊王島;島風の湯",
+    "name_en": "",
+    "lat": 32.7084885,
+    "lng": 129.7738098,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692577406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "稲佐山温泉;ふくの湯",
+    "name_en": "",
+    "lat": 32.767126,
+    "lng": 129.8512568,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692592448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎温泉;喜道庵",
+    "name_en": "",
+    "lat": 32.866192,
+    "lng": 129.8807451,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692594110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベストパワーランド;御湯神指し",
+    "name_en": "",
+    "lat": 32.7642253,
+    "lng": 130.011294,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692596126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいもり;月の丘温泉",
+    "name_en": "",
+    "lat": 32.7874539,
+    "lng": 130.0158635,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692597105,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "のんのこ温水センター",
+    "name_en": "",
+    "lat": 32.8702733,
+    "lng": 130.0611319,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692598078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小長井健康センター",
+    "name_en": "",
+    "lat": 32.9303215,
+    "lng": 130.198918,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692598982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉＆ホットヨガ;諫早もとの湯",
+    "name_en": "",
+    "lat": 32.886638,
+    "lng": 130.0242497,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692732792,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サンスパおおむら 天然温泉;ゆの華",
+    "name_en": "",
+    "lat": 32.9213198,
+    "lng": 129.9375419,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692737504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍神温泉;かやぜの湯",
+    "name_en": "",
+    "lat": 32.9500059,
+    "lng": 129.9924768,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692740523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平谷温泉;山吹の湯",
+    "name_en": "",
+    "lat": 33.0063488,
+    "lng": 130.0625328,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692748780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千綿花房温泉",
+    "name_en": "",
+    "lat": 33.0204424,
+    "lng": 129.952962,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692751838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川棚大崎温泉;しおさいの湯",
+    "name_en": "",
+    "lat": 33.0558269,
+    "lng": 129.8239035,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692759979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄金と水素の湯;ハウステンボス天然温泉",
+    "name_en": "",
+    "lat": 33.0875353,
+    "lng": 129.7822279,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692770210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はさみ温泉 湯治楼",
+    "name_en": "",
+    "lat": 33.1150395,
+    "lng": 129.8689734,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692782635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "頭部クリーンセンター;エコスパ佐世保",
+    "name_en": "",
+    "lat": 33.1438213,
+    "lng": 129.7776877,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692787821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヌルヌル;有田温泉",
+    "name_en": "",
+    "lat": 33.1899839,
+    "lng": 129.860251,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692877082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒髪の森温泉;天童の湯",
+    "name_en": "",
+    "lat": 33.2126056,
+    "lng": 129.9162175,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692878883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白磁乃湯",
+    "name_en": "",
+    "lat": 33.2604293,
+    "lng": 129.8897325,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692881240,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美遊館",
+    "name_en": "",
+    "lat": 33.259658,
+    "lng": 129.8899547,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692881730,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿町温泉;やすらぎ館",
+    "name_en": "",
+    "lat": 33.3054218,
+    "lng": 129.6193781,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692892001,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高串温泉;肥前町福祉センター",
+    "name_en": "",
+    "lat": 33.4223865,
+    "lng": 129.8326085,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692912979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡山温泉茶屋",
+    "name_en": "",
+    "lat": 33.4368135,
+    "lng": 130.0173559,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692954272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野田の元湯",
+    "name_en": "",
+    "lat": 33.4299978,
+    "lng": 130.0510757,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692955865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野田の湯;やすらぎ荘",
+    "name_en": "",
+    "lat": 33.4295323,
+    "lng": 130.0507299,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692956358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡日帰りの旅;まむしの湯",
+    "name_en": "",
+    "lat": 33.4895407,
+    "lng": 130.0748936,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692965048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二丈温泉;きららの湯",
+    "name_en": "",
+    "lat": 33.5200217,
+    "lng": 130.139627,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692990753,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊都の湯どころ",
+    "name_en": "",
+    "lat": 33.5858775,
+    "lng": 130.2133202,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 692997467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくの湯",
+    "name_en": "",
+    "lat": 33.5693627,
+    "lng": 130.3288502,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 693002926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きゅうらぎ温泉;佐用姫の湯",
+    "name_en": "",
+    "lat": 33.31438,
+    "lng": 130.0683341,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 694003335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4438065,
@@ -11407,6 +15653,17 @@
     "data_source": "osm"
   },
   {
+    "name": "三瀬温泉;やまびこの湯",
+    "name_en": "",
+    "lat": 33.4218676,
+    "lng": 130.2758778,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 697748865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "深遠寺",
     "name_en": "",
     "lat": 33.1887115,
@@ -11414,6 +15671,28 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 699797281,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北方温泉 四季の里;七彩の湯",
+    "name_en": "",
+    "lat": 33.2272029,
+    "lng": 130.044158,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 699904395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4621692,
+    "lng": 130.2751157,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 700107773,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11429,6 +15708,17 @@
     "data_source": "osm"
   },
   {
+    "name": "野方遺跡住居跡展示館",
+    "name_en": "",
+    "lat": 33.5552515,
+    "lng": 130.3064367,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 701091502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "橋本八幡宮",
     "name_en": "",
     "lat": 33.5565421,
@@ -11436,6 +15726,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 704111948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玄海海中展望塔",
+    "name_en": "Genkai Undersea Observatory Tower",
+    "lat": 33.5559541,
+    "lng": 129.852299,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 704120699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "亀陽文庫能古博物館",
+    "name_en": "Nokonoshima Museum",
+    "lat": 33.614158,
+    "lng": 130.3080417,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 705651984,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11645,6 +15957,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 717184560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎原爆資料館",
+    "name_en": "Nagasaki Atomic Bomb Museum",
+    "lat": 32.7727523,
+    "lng": 129.8644719,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 718120975,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11904,11 +16227,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.2480651,
+    "lng": 130.308681,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 731260631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 32.6972145,
     "lng": 128.8415289,
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 732241061,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "堂崎天主堂",
+    "name_en": "",
+    "lat": 32.7558713,
+    "lng": 128.8372523,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 734662407,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11990,6 +16335,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鄭成功記念館",
+    "name_en": "",
+    "lat": 33.3310549,
+    "lng": 129.5204818,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 753606045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金毘羅神社",
     "name_en": "",
     "lat": 33.3308574,
@@ -11997,6 +16353,39 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 753606048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "祐徳博物館",
+    "name_en": "Yūtoku Museum",
+    "lat": 33.0739371,
+    "lng": 130.1097882,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 753618055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.104181,
+    "lng": 129.1685195,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 755066210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0843911,
+    "lng": 129.2138116,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 755093864,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12045,6 +16434,61 @@
     "data_source": "osm"
   },
   {
+    "name": "外海潜伏キリシタン文化資料館",
+    "name_en": "Sotome Senpuku Kirishitan Culture Museum",
+    "lat": 32.8391683,
+    "lng": 129.7150608,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 792742227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遠藤周作文学館",
+    "name_en": "Endo Shusaku Literary Museum",
+    "lat": 32.835915,
+    "lng": 129.7026934,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 793726074,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出津救助院（授産所）",
+    "name_en": "Shitsu Relief Institut",
+    "lat": 32.8435476,
+    "lng": 129.7008922,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 793726110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ド・ロ神父記念館（出津救助院いわし網工場）",
+    "name_en": "name=Memorial House for Father de Rotzthe Reverend Father ：Sardine-fishing net: Shitsu relief Institut Sardine-fishing net Workshop",
+    "lat": 32.8439243,
+    "lng": 129.7009162,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 793726175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出津救助院マカロニ工場",
+    "name_en": "Shitsu Relief Institut Macaroni Workshop",
+    "lat": 32.8436485,
+    "lng": 129.7012291,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 793726185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2194648,
@@ -12074,6 +16518,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 829344111,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆりの温泉",
+    "name_en": "",
+    "lat": 32.8096656,
+    "lng": 129.8484927,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 832757133,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12151,6 +16606,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 892127191,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1810154,
+    "lng": 129.7138687,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 892159881,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12276,6 +16742,17 @@
     "data_source": "osm"
   },
   {
+    "name": "須古城趾",
+    "name_en": "",
+    "lat": 33.1800491,
+    "lng": 130.1037126,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 902270816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社　弁財天",
     "name_en": "",
     "lat": 33.1713459,
@@ -12386,6 +16863,17 @@
     "data_source": "osm"
   },
   {
+    "name": "男島城趾",
+    "name_en": "",
+    "lat": 33.1807927,
+    "lng": 130.1123399,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 904128779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杵島神社",
     "name_en": "",
     "lat": 33.1805058,
@@ -12393,6 +16881,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 904128783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杵島城趾",
+    "name_en": "",
+    "lat": 33.1805466,
+    "lng": 130.0982188,
+    "category": "castle",
+    "prefecture": "nagasaki",
+    "osm_id": 904128784,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12419,6 +16918,17 @@
     "data_source": "osm"
   },
   {
+    "name": "伊王島灯台",
+    "name_en": "",
+    "lat": 32.7140523,
+    "lng": 129.7612314,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 908041591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "月玉神社",
     "name_en": "",
     "lat": 32.7580006,
@@ -12426,6 +16936,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 908570421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "セイルタワー",
+    "name_en": "",
+    "lat": 33.1738361,
+    "lng": 129.7135427,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 912279918,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12749,6 +17270,61 @@
     "data_source": "osm"
   },
   {
+    "name": "諫早市体育館",
+    "name_en": "",
+    "lat": 32.8443092,
+    "lng": 130.0496428,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 952874391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "諫早市 美術・歴史館",
+    "name_en": "",
+    "lat": 32.8438506,
+    "lng": 130.0500425,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 952874392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.881339,
+    "lng": 129.5933472,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 956223892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8823079,
+    "lng": 129.5981881,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 956223936,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.8891142,
+    "lng": 129.6036606,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 956224000,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5377246,
@@ -13009,6 +17585,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 991958991,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "陽光美術館",
+    "name_en": "",
+    "lat": 33.1849671,
+    "lng": 130.0143142,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 991959214,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13497,6 +18084,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福井洞窟ミュージアム",
+    "name_en": "",
+    "lat": 33.2697857,
+    "lng": 129.6886795,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1011090362,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2553587,
@@ -13647,6 +18245,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1022333632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "音浴博物館",
+    "name_en": "",
+    "lat": 32.9262222,
+    "lng": 129.7086232,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1022843713,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14168,6 +18777,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高後崎灯台",
+    "name_en": "",
+    "lat": 33.1023898,
+    "lng": 129.6661787,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 1046189858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.2264938,
@@ -14278,6 +18898,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大町温泉ひじり乃湯",
+    "name_en": "",
+    "lat": 33.2200991,
+    "lng": 130.0996156,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1052635382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "Fumyozan Koya Temple",
     "lat": 33.222601,
@@ -14340,6 +18971,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1062907618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴さくら",
+    "name_en": "",
+    "lat": 33.1927686,
+    "lng": 130.3148562,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1064365492,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14542,6 +19184,17 @@
     "data_source": "osm"
   },
   {
+    "name": "口之津歴史民俗資料館分館",
+    "name_en": "",
+    "lat": 32.6051688,
+    "lng": 130.1957759,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1122537506,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "静雲寺",
     "name_en": "",
     "lat": 32.6121655,
@@ -14564,6 +19217,17 @@
     "data_source": "osm"
   },
   {
+    "name": "加津佐道路公園",
+    "name_en": "",
+    "lat": 32.6358659,
+    "lng": 130.1378608,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 1122835648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5680396,
@@ -14575,6 +19239,17 @@
     "data_source": "osm"
   },
   {
+    "name": "西望記念館 西望生誕之家",
+    "name_en": "",
+    "lat": 32.6405442,
+    "lng": 130.2307186,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1126137651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "瀬高観音",
     "name_en": "",
     "lat": 32.6031418,
@@ -14582,6 +19257,28 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1127373627,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日野江の里 天守閣タワー広場",
+    "name_en": "",
+    "lat": 32.6541334,
+    "lng": 130.2611271,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 1127996040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.7295125,
+    "lng": 130.286454,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 1128018625,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14663,6 +19360,17 @@
     "data_source": "osm"
   },
   {
+    "name": "脇浜温泉浴場",
+    "name_en": "",
+    "lat": 32.7189496,
+    "lng": 130.2020804,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1132154324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小濱神社",
     "name_en": "",
     "lat": 32.7292936,
@@ -14670,6 +19378,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1132154346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市営 浜の湯",
+    "name_en": "",
+    "lat": 32.7311502,
+    "lng": 130.2069315,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1132374487,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14747,6 +19466,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1137605850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福岡西PA (下り)",
+    "name_en": "",
+    "lat": 33.5689058,
+    "lng": 130.2940823,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 1137974985,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14846,6 +19576,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1148836065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の里温泉共同浴場 だんきゅう風呂",
+    "name_en": "Yunosato Onsen Public Bath",
+    "lat": 32.7429551,
+    "lng": 130.2595955,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1149101360,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15015,6 +19756,17 @@
     "data_source": "osm"
   },
   {
+    "name": "展望広場",
+    "name_en": "",
+    "lat": 32.610717,
+    "lng": 130.226955,
+    "category": "rest_area",
+    "prefecture": "nagasaki",
+    "osm_id": 1150892328,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "通津山 眞乗寺",
     "name_en": "",
     "lat": 32.6110108,
@@ -15103,6 +19855,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雲仙市歴史資料館 南串山展示館",
+    "name_en": "",
+    "lat": 32.6834763,
+    "lng": 130.1669317,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1153393559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光永山 楽常寺",
     "name_en": "",
     "lat": 32.6839417,
@@ -15110,6 +19873,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1153393564,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九十九島水族館 海きらら",
+    "name_en": "",
+    "lat": 33.1611448,
+    "lng": 129.6790519,
+    "category": "zoo",
+    "prefecture": "nagasaki",
+    "osm_id": 1154324443,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15136,6 +19910,61 @@
     "data_source": "osm"
   },
   {
+    "name": "多久市資料館",
+    "name_en": "",
+    "lat": 33.2573186,
+    "lng": 130.0882162,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1159885636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "末盧館",
+    "name_en": "Matsuro-kan Museum",
+    "lat": 33.4485235,
+    "lng": 129.9578824,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1161314288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧高取家住宅",
+    "name_en": "Old Takatori Family Residence",
+    "lat": 33.4543234,
+    "lng": 129.9721959,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1161705831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧大島邸",
+    "name_en": "",
+    "lat": 33.4525515,
+    "lng": 129.9707677,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1161705837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "唐津市少年科学館",
+    "name_en": "",
+    "lat": 33.4613046,
+    "lng": 129.9627752,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1161705842,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鶴林寺",
     "name_en": "",
     "lat": 33.4393928,
@@ -15143,6 +19972,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1162965491,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料館",
+    "name_en": "Folk History Data House",
+    "lat": 33.4707305,
+    "lng": 129.9537255,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1166160172,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15220,6 +20060,17 @@
     "category": "temple",
     "prefecture": "nagasaki",
     "osm_id": 1185125699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村田英雄記念館",
+    "name_en": "",
+    "lat": 33.3494634,
+    "lng": 130.0137721,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1192607168,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15490,6 +20341,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5181157,
+    "lng": 129.8286521,
+    "category": "lighthouse",
+    "prefecture": "nagasaki",
+    "osm_id": 1215764047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.2736034,
     "lng": 129.833598,
     "category": "shrine",
@@ -15517,6 +20379,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1217755662,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊万里湾カブトガニの館",
+    "name_en": "",
+    "lat": 33.2938122,
+    "lng": 129.8534275,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1217755951,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15983,6 +20856,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ナガサキピースミュージアム",
+    "name_en": "",
+    "lat": 32.7362369,
+    "lng": 129.8681366,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1302150138,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.0820998,
@@ -16034,6 +20918,17 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1307990091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小戸の湯処　ヒナタの杜",
+    "name_en": "",
+    "lat": 33.592438,
+    "lng": 130.3170065,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1308277225,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16645,6 +21540,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 32.9754245,
+    "lng": 129.9440879,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1366051199,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 32.9795951,
     "lng": 129.9468496,
     "category": "temple",
@@ -16683,6 +21589,28 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1374472069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "龍登園",
+    "name_en": "Ryutoen",
+    "lat": 33.3272696,
+    "lng": 130.2702027,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1382819189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐賀大和温泉ホテルアマンディ",
+    "name_en": "Sagayamato Onsen Hotel Amandi",
+    "lat": 33.3215749,
+    "lng": 130.2712434,
+    "category": "onsen",
+    "prefecture": "nagasaki",
+    "osm_id": 1382819202,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17046,6 +21974,39 @@
     "category": "shrine",
     "prefecture": "nagasaki",
     "osm_id": 1455718748,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高島石炭資料館",
+    "name_en": "Takashima Coal Mine Museum",
+    "lat": 32.6576894,
+    "lng": 129.7554164,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1458220390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵の資料館",
+    "name_en": "",
+    "lat": 32.7388843,
+    "lng": 129.8766246,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1458255902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長崎歴史文化博物館",
+    "name_en": "Nagasaki Museum of History and Culture",
+    "lat": 32.7529422,
+    "lng": 129.8794725,
+    "category": "museum",
+    "prefecture": "nagasaki",
+    "osm_id": 1458263737,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

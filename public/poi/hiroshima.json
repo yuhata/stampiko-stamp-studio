@@ -1243,6 +1243,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2799352,
+    "lng": 132.7558962,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 399909338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西岩国",
     "name_en": "Nishi Iwakuni",
     "lat": 34.1627087,
@@ -1463,6 +1474,17 @@
     "data_source": "osm"
   },
   {
+    "name": "頼山陽史跡資料館",
+    "name_en": "Rai Sanyo Shiseki Museum",
+    "lat": 34.3913824,
+    "lng": 132.4572436,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1186812671,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "禿翁寺",
     "name_en": "",
     "lat": 34.4053801,
@@ -1474,6 +1496,61 @@
     "data_source": "osm"
   },
   {
+    "name": "高井神島灯台",
+    "name_en": "",
+    "lat": 34.1951976,
+    "lng": 133.2678365,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 1223939144,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0585335,
+    "lng": 133.0981573,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 1223939273,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ナガセ鼻灯台",
+    "name_en": "",
+    "lat": 34.1181303,
+    "lng": 132.9960891,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 1223939285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1182723,
+    "lng": 132.8925821,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 1223939294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国城 天守台跡",
+    "name_en": "Iwakuni Castle Former Tower",
+    "lat": 34.1757736,
+    "lng": 132.1741301,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 1306306158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "胡子神社",
     "name_en": "",
     "lat": 34.3928555,
@@ -1481,6 +1558,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 1365081602,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "現代美術館",
+    "name_en": "Hiroshima City Museum of Contemporary Art",
+    "lat": 34.386388,
+    "lng": 132.4733314,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1375543445,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1518,6 +1606,534 @@
     "data_source": "osm"
   },
   {
+    "name": "島根県立しまね海洋館（アクアス）",
+    "name_en": "Shimane Aquarium AQUAS",
+    "lat": 34.959579,
+    "lng": 132.144636,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 1423611688,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歯の歴史資料館",
+    "name_en": "",
+    "lat": 34.955239,
+    "lng": 132.134632,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423616436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜田市世界こども美術館創作活動館",
+    "name_en": "",
+    "lat": 34.8865448,
+    "lng": 132.0753454,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423616819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜田市郷土資料館",
+    "name_en": "",
+    "lat": 34.9003829,
+    "lng": 132.0954987,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423616826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "甘南備寺宝物館",
+    "name_en": "",
+    "lat": 34.955313,
+    "lng": 132.414202,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423617180,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石見安達美術館",
+    "name_en": "",
+    "lat": 34.9600119,
+    "lng": 132.1420118,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423618351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤穴八幡宮資料館",
+    "name_en": "",
+    "lat": 34.995181,
+    "lng": 132.712584,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423619380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おのみち歴史博物館",
+    "name_en": "",
+    "lat": 34.4097846,
+    "lng": 133.2049428,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423626575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくやま書道美術館",
+    "name_en": "",
+    "lat": 34.487915,
+    "lng": 133.358082,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423627115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ガラスの里",
+    "name_en": "Glass Village",
+    "lat": 34.54884,
+    "lng": 132.53858,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423627468,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三原市歴史民俗資料館",
+    "name_en": "Mihara city history of folk Museum",
+    "lat": 34.394788,
+    "lng": 133.07808,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423627996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三良坂平和美術館",
+    "name_en": "",
+    "lat": 34.762913,
+    "lng": 132.965686,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423628259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中川美術館",
+    "name_en": "",
+    "lat": 34.398052,
+    "lng": 133.368763,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423628369,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今井政之展示館",
+    "name_en": "",
+    "lat": 34.327588,
+    "lng": 132.931009,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423628443,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉橋歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.1021262,
+    "lng": 132.5128107,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423628551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北広島町図書館大朝郷土資料室",
+    "name_en": "",
+    "lat": 34.764308,
+    "lng": 132.491859,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423628815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "厳島神社宝物館",
+    "name_en": "Itsukushima Shrine Museum",
+    "lat": 34.2949054,
+    "lng": 132.3186393,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423629059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呉市立美術館",
+    "name_en": "",
+    "lat": 34.239958,
+    "lng": 132.563863,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423629849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "因島水軍城",
+    "name_en": "",
+    "lat": 34.327973,
+    "lng": 133.166409,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423630174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国際聚蔵館（歌舞藍）",
+    "name_en": "",
+    "lat": 34.487213,
+    "lng": 133.364242,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423630353,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大田庄歴史館",
+    "name_en": "",
+    "lat": 34.583838,
+    "lng": 133.059429,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423631129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安芸高田市吉田歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.6706559,
+    "lng": 132.7014919,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423631663,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮島水族館",
+    "name_en": "Miyajima Public Aquarium",
+    "lat": 34.2954755,
+    "lng": 132.3156513,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 1423631831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "尾道市因島史料館",
+    "name_en": "",
+    "lat": 34.327055,
+    "lng": 133.166524,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423632072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "尾道市瀬戸田歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.304422,
+    "lng": 133.08433,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423632146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島城",
+    "name_en": "Hiroshima Castle",
+    "lat": 34.4014943,
+    "lng": 132.459953,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 1423635794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヌマジ交通ミュージアム（広島市交通科学館｝",
+    "name_en": "Hiroshima City Transportation Museum",
+    "lat": 34.4708894,
+    "lng": 132.428619,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423636267,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市健康づくりセンター健康科学館",
+    "name_en": "",
+    "lat": 34.376302,
+    "lng": 132.457202,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423636288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市森林公園こんちゅう館",
+    "name_en": "",
+    "lat": 34.4413535,
+    "lng": 132.554059,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 1423636483,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市水道資料館",
+    "name_en": "",
+    "lat": 34.417615,
+    "lng": 132.467198,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423636502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江波山気象館",
+    "name_en": "HIroshima City Ebayama Museum of Meteorogy",
+    "lat": 34.3661986,
+    "lng": 132.4350056,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423636508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島県立みよし風土記の丘・広島県立歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.763457,
+    "lng": 132.899011,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄原市立比和町自然科学博物館",
+    "name_en": "",
+    "lat": 34.9831575,
+    "lng": 132.986126,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637879,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄原市総領郷土資料館",
+    "name_en": "",
+    "lat": 34.783437,
+    "lng": 133.075303,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637880,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中家具木工資料館",
+    "name_en": "",
+    "lat": 34.563497,
+    "lng": 133.263213,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.562214,
+    "lng": 133.229768,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中町歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.39591,
+    "lng": 132.508518,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637925,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "廿日市市宮島歴史民俗資料館",
+    "name_en": "Hatsukaichi Miyajima Museum of History and Folklore",
+    "lat": 34.295316,
+    "lng": 132.31747,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637972,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弥勒之里美術館",
+    "name_en": "",
+    "lat": 34.423319,
+    "lng": 133.310003,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423637997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛新美術館",
+    "name_en": "",
+    "lat": 34.40914,
+    "lng": 132.842419,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638077,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "教育参考館",
+    "name_en": "",
+    "lat": 34.247102,
+    "lng": 132.466818,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638111,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木江ふれあい郷土資料館（大崎島船の資料館）",
+    "name_en": "",
+    "lat": 34.21572,
+    "lng": 132.91694,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東広島市三永歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.393926,
+    "lng": 132.777919,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東広島市八本松歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.439443,
+    "lng": 132.693345,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638296,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東広島市立美術館",
+    "name_en": "",
+    "lat": 34.439689,
+    "lng": 132.693263,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "泉美術館",
+    "name_en": "",
+    "lat": 34.373356,
+    "lng": 132.399623,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浄土寺宝物館",
+    "name_en": "",
+    "lat": 34.411956,
+    "lng": 133.210128,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638566,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海の見える杜美術館",
+    "name_en": "Art Museum That Sees The Sea",
+    "lat": 34.326863,
+    "lng": 132.280645,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423638572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄心寺",
     "name_en": "",
     "lat": 34.2924072,
@@ -1525,6 +2141,237 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1423638677,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神石高原町立神石民俗資料館",
+    "name_en": "",
+    "lat": 34.8437305,
+    "lng": 133.2232726,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639276,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山市神辺歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.537236,
+    "lng": 133.387039,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山自動車時計博物館",
+    "name_en": "Fukuyama Auto & Clock Museum",
+    "lat": 34.497828,
+    "lng": 133.363143,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639410,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竹原市歴史民俗資料館",
+    "name_en": "Takehara Museum of Historical and Folk Materials",
+    "lat": 34.347532,
+    "lng": 132.910081,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639573,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筆の里工房",
+    "name_en": "",
+    "lat": 34.342881,
+    "lng": 132.575398,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639616,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美和郷土館",
+    "name_en": "",
+    "lat": 34.746842,
+    "lng": 132.360348,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423639654,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "耕三寺博物館・浄土苑",
+    "name_en": "",
+    "lat": 34.305348,
+    "lng": 133.0910227,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423647123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芸北民俗博物館",
+    "name_en": "",
+    "lat": 34.650209,
+    "lng": 132.167972,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423647166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菅茶山記念館",
+    "name_en": "",
+    "lat": 34.55735,
+    "lng": 133.389945,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423647181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蘭島閣美術館",
+    "name_en": "",
+    "lat": 34.188269,
+    "lng": 132.684042,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423647202,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長門の造船歴史館",
+    "name_en": "",
+    "lat": 34.09999,
+    "lng": 132.513521,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423647373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和木町歴史資料館",
+    "name_en": "",
+    "lat": 34.193168,
+    "lng": 132.221253,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423654583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国城",
+    "name_en": "",
+    "lat": 34.175249,
+    "lng": 132.17427,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423656100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国学校教育資料館",
+    "name_en": "",
+    "lat": 34.164151,
+    "lng": 132.184045,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423656103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乗禅寺宝物館",
+    "name_en": "",
+    "lat": 34.0718893,
+    "lng": 132.9590525,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423707363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治城",
+    "name_en": "Imabari Castle",
+    "lat": 34.0633765,
+    "lng": 133.0068513,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423730110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市上浦歴史民俗資料館（村上三島記念館）",
+    "name_en": "",
+    "lat": 34.2556423,
+    "lng": 133.0535947,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423730119,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村上水軍博物館",
+    "name_en": "Murakami Kaizoku Museum",
+    "lat": 34.1688899,
+    "lng": 133.0876143,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423730145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市河野美術館",
+    "name_en": "",
+    "lat": 34.062772,
+    "lng": 132.998931,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423730146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大西藤山歴史資料館",
+    "name_en": "",
+    "lat": 34.059988,
+    "lng": 132.929182,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423733464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛文華館",
+    "name_en": "",
+    "lat": 34.0643507,
+    "lng": 133.0051139,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1423737706,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1569,6 +2416,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1436212286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5754664,
+    "lng": 132.5696051,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 1441270450,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1694,6 +2552,28 @@
     "data_source": "osm"
   },
   {
+    "name": "広島大学総合博物館 本館",
+    "name_en": "Hiroshima Univ. Museum",
+    "lat": 34.4030329,
+    "lng": 132.7105206,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1909970011,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡山城跡",
+    "name_en": "Former Kagamiyama Castle",
+    "lat": 34.4040671,
+    "lng": 132.7278349,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 1909972053,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "棲真寺",
     "name_en": "",
     "lat": 34.459052,
@@ -1756,6 +2636,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 2418536397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中村憲吉旧居",
+    "name_en": "Kenkichi_Nakamura",
+    "lat": 34.4103194,
+    "lng": 133.1992893,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 2429578552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3890226,
+    "lng": 132.1042109,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 2491282136,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2860,6 +3762,28 @@
     "data_source": "osm"
   },
   {
+    "name": "俎石灯標",
+    "name_en": "Manaita Rock Light Mark",
+    "lat": 34.2511521,
+    "lng": 132.3600149,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2707543,
+    "lng": 132.3743433,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2733084,
@@ -2882,6 +3806,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2763949,
+    "lng": 132.4049969,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766729,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弥山神社",
     "name_en": "Misen Shrine",
     "lat": 34.2776693,
@@ -2900,6 +3835,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2787766732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2908841,
+    "lng": 132.361853,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766733,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3076,6 +4022,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 2787766754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3443879,
+    "lng": 132.4537209,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3453404,
+    "lng": 132.4560883,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2787766766,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4983,6 +5951,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0699596,
+    "lng": 132.5392044,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819874597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "信順寺",
     "name_en": "",
     "lat": 34.0716412,
@@ -5291,6 +6270,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1488731,
+    "lng": 132.4940744,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大窪寺",
     "name_en": "",
     "lat": 34.1517568,
@@ -5513,6 +6503,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.1753669,
+    "lng": 132.8003406,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.1753509,
     "lng": 132.7971063,
     "category": "temple",
@@ -5557,11 +6558,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.1767717,
+    "lng": 132.4820324,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.1769304,
     "lng": 132.8682998,
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819877854,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1770844,
+    "lng": 132.8692836,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877855,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5742,6 +6765,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1825904,
+    "lng": 132.8618447,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金比羅神社",
     "name_en": "",
     "lat": 34.1826087,
@@ -5832,6 +6866,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.1870949,
+    "lng": 132.8294591,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877881,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.1876511,
     "lng": 132.6934128,
     "category": "shrine",
@@ -5892,6 +6937,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819877887,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大下島灯台",
+    "name_en": "",
+    "lat": 34.1888634,
+    "lng": 132.9181087,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819877888,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6094,6 +7150,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.197318,
+    "lng": 132.7362507,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878107,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "貴船神社",
     "name_en": "",
     "lat": 34.1980201,
@@ -6112,6 +7179,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819878109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1992491,
+    "lng": 132.5367627,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878110,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6145,6 +7223,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 2819878113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2020017,
+    "lng": 132.4087628,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878114,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6321,6 +7410,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819878131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2152204,
+    "lng": 132.3948726,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878132,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7306,6 +8406,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.2578412,
+    "lng": 132.3813708,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.2584743,
     "lng": 132.9103527,
     "category": "shrine",
@@ -7344,6 +8455,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819878532,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2608305,
+    "lng": 132.4073048,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878533,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7449,6 +8571,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.2734851,
+    "lng": 132.915952,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.2748093,
     "lng": 132.9226307,
     "category": "shrine",
@@ -7498,6 +8631,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819878548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2771557,
+    "lng": 132.9408348,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878549,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7722,6 +8866,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2855474,
+    "lng": 132.474163,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊勢社",
     "name_en": "",
     "lat": 34.2863865,
@@ -7795,6 +8950,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 2819878579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2983465,
+    "lng": 132.4790968,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 2819878580,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12848,6 +14014,50 @@
     "data_source": "osm"
   },
   {
+    "name": "蜂ヶ峯総合公園キャンプ場",
+    "name_en": "",
+    "lat": 34.1908584,
+    "lng": 132.2201484,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 3038354633,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0744183,
+    "lng": 133.0059091,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3051342595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ウズ鼻灯台",
+    "name_en": "",
+    "lat": 34.1125211,
+    "lng": 132.9910984,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3051342596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3007792,
+    "lng": 133.2758321,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3051342601,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西方寺",
     "name_en": "Saiho-ji Temple",
     "lat": 34.3469701,
@@ -15565,6 +16775,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2989574,
+    "lng": 132.8751144,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996204,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大久野島灯台",
+    "name_en": "Ōkunoshima Lighthouse",
+    "lat": 34.3026568,
+    "lng": 132.9938368,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3049654,
+    "lng": 132.9986325,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996206,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "峠尾観音堂",
     "name_en": "",
     "lat": 34.3080685,
@@ -15831,6 +17074,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.3270869,
+    "lng": 132.9146885,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996232,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3274282,
+    "lng": 132.9199256,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3280185,
     "lng": 133.1077311,
     "category": "shrine",
@@ -15913,6 +17178,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 3408996241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3359025,
+    "lng": 132.9947597,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996242,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16412,6 +17688,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3597401,
+    "lng": 133.0849844,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "土居神社",
     "name_en": "",
     "lat": 34.3599675,
@@ -16441,6 +17728,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 3408996676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3642112,
+    "lng": 133.0994896,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3408996677,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17415,11 +18713,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.0707371,
+    "lng": 132.7107973,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3412041382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.0709692,
     "lng": 132.709099,
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 3412041383,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.177645,
+    "lng": 132.3476579,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3412041388,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1922429,
+    "lng": 132.3082008,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3412041389,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17442,6 +18773,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 3412041392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2902051,
+    "lng": 132.2843658,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3412041396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2940809,
+    "lng": 132.295247,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 3412041397,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20218,6 +21571,17 @@
     "data_source": "osm"
   },
   {
+    "name": "栗原温泉",
+    "name_en": "",
+    "lat": 34.4055308,
+    "lng": 133.1913224,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 3710323702,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三翁神社",
     "name_en": "Sanno Jinja Shrine",
     "lat": 34.2964235,
@@ -20258,6 +21622,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 3730184192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3640881,
+    "lng": 133.0682881,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 3933579820,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4735518,
+    "lng": 133.204081,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 3948091371,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20361,6 +21747,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.347071,
+    "lng": 132.3669885,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 4224950389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上御領八幡神社",
     "name_en": "",
     "lat": 34.49179,
@@ -20368,6 +21765,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 4252339641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧日本銀行広島支店資料室",
+    "name_en": "",
+    "lat": 34.3913787,
+    "lng": 132.4567287,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 4280116100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "袋町小学校 平和資料館",
+    "name_en": "Fukuromachi Elementary School Peace Museum",
+    "lat": 34.3915462,
+    "lng": 132.4582518,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 4280116101,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20390,6 +21809,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 4317581290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "だいご湯 Daigo Yu",
+    "name_en": "",
+    "lat": 34.4826696,
+    "lng": 133.3583068,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 4333891337,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20423,6 +21853,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 4518394736,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鞆の津ミュージアム",
+    "name_en": "",
+    "lat": 34.3858677,
+    "lng": 133.3820572,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 4570272285,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20467,6 +21908,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 4570272538,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "常夜灯",
+    "name_en": "Old Lighthouse",
+    "lat": 34.3824356,
+    "lng": 133.3807827,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 4570272540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いろは丸展示館",
+    "name_en": "",
+    "lat": 34.3826727,
+    "lng": 133.3807801,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 4570272542,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20570,6 +22033,28 @@
     "data_source": "osm"
   },
   {
+    "name": "高根灯台",
+    "name_en": "",
+    "lat": 34.333543,
+    "lng": 133.07681,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 4761499889,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "耕三寺博物館",
+    "name_en": "",
+    "lat": 34.304386,
+    "lng": 133.0903958,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 4790999242,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "四宮神社",
     "name_en": "Shinomiya Shrine",
     "lat": 34.2945319,
@@ -20599,6 +22084,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 4943283222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2851868,
+    "lng": 132.9233721,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 4975303833,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2685296,
+    "lng": 132.8833924,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 4979524068,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20638,6 +22145,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.192487,
+    "lng": 132.7620453,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 4982731706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.1524784,
     "lng": 133.0069363,
     "category": "temple",
@@ -20665,6 +22183,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 5001104418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中渡島灯台",
+    "name_en": "",
+    "lat": 34.1178923,
+    "lng": 133.0016803,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 5001121336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "来島洲ノ崎灯台",
+    "name_en": "",
+    "lat": 34.1216644,
+    "lng": 132.9926152,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 5001149886,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20775,6 +22315,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 5167381400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国しろへびの館",
+    "name_en": "",
+    "lat": 34.1708513,
+    "lng": 132.175617,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 5167456144,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21098,6 +22649,39 @@
     "data_source": "osm"
   },
   {
+    "name": "清風館",
+    "name_en": "",
+    "lat": 34.215105,
+    "lng": 132.9189679,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5472500514,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄金湯",
+    "name_en": "",
+    "lat": 34.0639043,
+    "lng": 133.0047594,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5472500516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "音戸温泉",
+    "name_en": "",
+    "lat": 34.3883967,
+    "lng": 132.4642575,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5474337345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.0153708,
@@ -21188,6 +22772,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.3606353,
+    "lng": 133.1254658,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 5669432889,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3610803,
     "lng": 133.1361437,
     "category": "shrine",
@@ -21204,6 +22799,17 @@
     "category": "station",
     "prefecture": "hiroshima",
     "osm_id": 5704627727,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "能島城跡",
+    "name_en": "",
+    "lat": 34.1829648,
+    "lng": 133.0809988,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 5714663324,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21230,6 +22836,17 @@
     "data_source": "osm"
   },
   {
+    "name": "潮湯（海水温浴施設）",
+    "name_en": "",
+    "lat": 34.2796297,
+    "lng": 133.2109339,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5841776205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高浜神社",
     "name_en": "",
     "lat": 34.2834823,
@@ -21248,6 +22865,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 5864929113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴Sapa",
+    "name_en": "",
+    "lat": 34.4260474,
+    "lng": 132.7411816,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5901299589,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条四日市歴史研究展示室",
+    "name_en": "",
+    "lat": 34.4299961,
+    "lng": 132.7454266,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 5903044783,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21296,6 +22935,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Honoyu",
+    "lat": 34.3644038,
+    "lng": 132.476683,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 5963270985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大歳神社",
     "name_en": "",
     "lat": 34.4797659,
@@ -21303,6 +22953,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 5982816183,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みわ375",
+    "name_en": "",
+    "lat": 34.6405061,
+    "lng": 132.8542308,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 6016869201,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21659,6 +23320,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8790406,
+    "lng": 132.0477734,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6153063998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正専寺",
     "name_en": "",
     "lat": 34.4821935,
@@ -21919,6 +23591,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 6157765685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8735739,
+    "lng": 132.0423778,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6157772265,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22440,6 +24123,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.9411174,
+    "lng": 132.1066353,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6163659356,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "南谷穀神社",
     "name_en": "",
     "lat": 34.2837246,
@@ -22770,6 +24464,17 @@
     "data_source": "osm"
   },
   {
+    "name": "広島逓信病院旧外来棟被爆資料室",
+    "name_en": "",
+    "lat": 34.4034644,
+    "lng": 132.4651447,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6167496979,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大登志神社",
     "name_en": "",
     "lat": 34.4725878,
@@ -22821,6 +24526,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 6168066986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三永歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.3949898,
+    "lng": 132.7773836,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6168069385,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23025,6 +24741,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.9761909,
+    "lng": 132.1523266,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6170344315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Kizuke no Yu",
+    "lat": 34.0626857,
+    "lng": 132.9926348,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6175068199,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 35.0085017,
     "lng": 132.2178894,
     "category": "shrine",
@@ -23111,6 +24849,28 @@
     "data_source": "osm"
   },
   {
+    "name": "芙美子記念館",
+    "name_en": "",
+    "lat": 34.4058191,
+    "lng": 133.1960136,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6207103256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山波とんど&こけしの館",
+    "name_en": "",
+    "lat": 34.4169647,
+    "lng": 133.2300585,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6207341944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観自在寺",
     "name_en": "",
     "lat": 34.4144532,
@@ -23144,6 +24904,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.0982734,
+    "lng": 132.338747,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6268919149,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 35.0959692,
+    "lng": 132.3390057,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6268919150,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栗原歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.4228925,
+    "lng": 133.1883783,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6278747546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神勝寺温泉昭和の湯",
+    "name_en": "",
+    "lat": 34.4206172,
+    "lng": 133.3029845,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6315903691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "ひまわり観音",
     "name_en": "",
     "lat": 34.3737882,
@@ -23162,6 +24966,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 6330253271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "満天の湯",
+    "name_en": "",
+    "lat": 34.5230288,
+    "lng": 132.5111288,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6333444287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;コロナの湯福山店",
+    "name_en": "",
+    "lat": 34.4659253,
+    "lng": 133.4069735,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6334528457,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23353,6 +25179,17 @@
     "data_source": "osm"
   },
   {
+    "name": "甘崎城跡",
+    "name_en": "",
+    "lat": 34.2447063,
+    "lng": 133.0564863,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 6405001207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社",
     "name_en": "",
     "lat": 34.2804442,
@@ -23375,6 +25212,61 @@
     "data_source": "osm"
   },
   {
+    "name": "上津井温泉;森の銀座",
+    "name_en": "",
+    "lat": 35.0072268,
+    "lng": 132.3045987,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6464737380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内オーシャンスパ;汐音",
+    "name_en": "",
+    "lat": 34.1961612,
+    "lng": 132.5435507,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6466541641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桂浜温泉館",
+    "name_en": "",
+    "lat": 34.1019866,
+    "lng": 132.5124166,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6466547572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大浜埼灯台記念館（旧大浜崎通航潮流信号所）",
+    "name_en": "",
+    "lat": 34.3576993,
+    "lng": 133.173083,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6502636711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大浜埼燈台",
+    "name_en": "",
+    "lat": 34.3578854,
+    "lng": 133.1734093,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6502636712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "霊山寺 1番札所",
     "name_en": "",
     "lat": 34.3570009,
@@ -23382,6 +25274,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 6502636716,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山大学マリンバイオセンター 水族館",
+    "name_en": "",
+    "lat": 34.3491351,
+    "lng": 133.174901,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 6502651040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下小丸子島灯台",
+    "name_en": "",
+    "lat": 34.2177791,
+    "lng": 133.056852,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6564741387,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23404,6 +25318,61 @@
     "category": "station",
     "prefecture": "hiroshima",
     "osm_id": 6624627173,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3891972,
+    "lng": 132.1044192,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 6660427435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶏小島灯台",
+    "name_en": "",
+    "lat": 34.1920704,
+    "lng": 133.0809969,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6718565680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ハワイ移民資料館 仁保島村",
+    "name_en": "",
+    "lat": 34.3680402,
+    "lng": 132.4972165,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 6808030941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3789799,
+    "lng": 133.3826548,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6813217860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3755995,
+    "lng": 133.382298,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6813242059,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23441,6 +25410,28 @@
     "data_source": "osm"
   },
   {
+    "name": "伯方港東防波堤灯台",
+    "name_en": "",
+    "lat": 34.2054809,
+    "lng": 133.1219679,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 6982128551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カヤトマリ鼻灯台",
+    "name_en": "",
+    "lat": 34.1929828,
+    "lng": 133.0301958,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7036708986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高龍寺",
     "name_en": "",
     "lat": 34.1294807,
@@ -23448,6 +25439,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 7042184474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2669972,
+    "lng": 133.0447372,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7090629390,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23514,6 +25516,17 @@
     "category": "station",
     "prefecture": "hiroshima",
     "osm_id": 7276273488,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マツダミュージアム",
+    "name_en": "Mazda Museum",
+    "lat": 34.3779297,
+    "lng": 132.5038369,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 7414801683,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23628,6 +25641,94 @@
     "data_source": "osm"
   },
   {
+    "name": "枝越港新北防波堤灯台",
+    "name_en": "",
+    "lat": 34.2055801,
+    "lng": 133.0718938,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7875285198,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "有津港矢崎防波堤灯台",
+    "name_en": "",
+    "lat": 34.2000252,
+    "lng": 133.091808,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7875285206,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伯方港一文字防波堤灯台",
+    "name_en": "",
+    "lat": 34.2053571,
+    "lng": 133.1303829,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7875285213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮窪港東防波堤灯台",
+    "name_en": "",
+    "lat": 34.1716257,
+    "lng": 133.0825357,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7875285232,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2381297,
+    "lng": 133.0981197,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7876526638,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉海港津倉防波堤灯台",
+    "name_en": "",
+    "lat": 34.1560288,
+    "lng": 133.0336456,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7880694872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜神島灯台",
+    "name_en": "",
+    "lat": 34.104355,
+    "lng": 133.0275605,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7888235274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小浦崎灯台",
+    "name_en": "",
+    "lat": 34.1187141,
+    "lng": 132.9893283,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7931652070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "圓光寺",
     "name_en": "",
     "lat": 34.9850778,
@@ -23639,6 +25740,17 @@
     "data_source": "osm"
   },
   {
+    "name": "アゴノ鼻灯台",
+    "name_en": "",
+    "lat": 34.1825227,
+    "lng": 132.932318,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7946091915,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "横川",
     "name_en": "Yokogawa",
     "lat": 34.4104178,
@@ -23646,6 +25758,61 @@
     "category": "station",
     "prefecture": "hiroshima",
     "osm_id": 7948577995,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3148033,
+    "lng": 132.8191076,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 7995045197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2794471,
+    "lng": 133.1439431,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8001055167,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.341239,
+    "lng": 133.0960729,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8016346213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3416362,
+    "lng": 133.1368653,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8016346344,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2928406,
+    "lng": 133.1718029,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8034875991,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24255,6 +26422,72 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3996746,
+    "lng": 133.2467312,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3933978,
+    "lng": 133.2613845,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3822263,
+    "lng": 133.2925167,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.376077,
+    "lng": 133.3036622,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3716537,
+    "lng": 133.2846866,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3649537,
+    "lng": 133.3603342,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8244858507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "萩森神社",
     "name_en": "",
     "lat": 34.0532942,
@@ -24262,6 +26495,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 8285662724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本町温泉",
+    "name_en": "",
+    "lat": 34.0733773,
+    "lng": 132.9989921,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 8289886846,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24284,6 +26528,61 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 8295905828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯉池湯",
+    "name_en": "",
+    "lat": 34.0534377,
+    "lng": 132.9898193,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 8296072674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝来温泉",
+    "name_en": "",
+    "lat": 34.0630655,
+    "lng": 132.9961527,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 8396825483,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2580205,
+    "lng": 133.126811,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8399962817,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2446677,
+    "lng": 133.1500583,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8419233274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2431989,
+    "lng": 133.1469604,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 8419233276,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24350,6 +26649,17 @@
     "category": "station",
     "prefecture": "hiroshima",
     "osm_id": 8562132365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土橋溫泉",
+    "name_en": "",
+    "lat": 34.3936475,
+    "lng": 132.44675,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 8604842818,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24574,6 +26884,61 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3899724,
+    "lng": 132.3037654,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 9218504417,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3558693,
+    "lng": 132.4148049,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 9241549059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3565043,
+    "lng": 132.4134021,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 9241549060,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北大路魯山人美術館",
+    "name_en": "",
+    "lat": 34.2950136,
+    "lng": 132.3174304,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 9557383514,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島芸術センター",
+    "name_en": "",
+    "lat": 34.3693033,
+    "lng": 132.4429178,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 9557935716,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "南光山 専念寺",
     "name_en": "",
     "lat": 34.3467147,
@@ -24706,6 +27071,28 @@
     "data_source": "osm"
   },
   {
+    "name": "貝原歴史資料館",
+    "name_en": "",
+    "lat": 34.5943481,
+    "lng": 133.2634388,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 9895318994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "帝釈峡まほろばの里時悠館",
+    "name_en": "",
+    "lat": 34.8652745,
+    "lng": 133.203442,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 9930114978,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "御建神社",
     "name_en": "",
     "lat": 34.4330537,
@@ -24794,6 +27181,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ナニワサウナ",
+    "name_en": "",
+    "lat": 34.066605,
+    "lng": 132.9940609,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 10556681595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "手水舎",
     "name_en": "",
     "lat": 34.0630426,
@@ -24812,6 +27210,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 10608549575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0649457,
+    "lng": 133.0203476,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 10633766647,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24889,6 +27298,39 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 11194064279,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤ビル温泉",
+    "name_en": "",
+    "lat": 34.2456013,
+    "lng": 132.5633848,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 11279571401,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松永はきもの資料館",
+    "name_en": "",
+    "lat": 34.4507134,
+    "lng": 133.2605715,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 11449081966,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "SPA SOLANI大和温泉",
+    "name_en": "",
+    "lat": 34.2442401,
+    "lng": 132.5570557,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 11469029673,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25014,6 +27456,17 @@
     "data_source": "osm"
   },
   {
+    "name": "吉田郡山城",
+    "name_en": "Yoshida-Kōriyama Castle",
+    "lat": 34.6736204,
+    "lng": 132.7095652,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 11872224337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三島大明神広島分詞",
     "name_en": "",
     "lat": 34.4066432,
@@ -25135,6 +27588,61 @@
     "data_source": "osm"
   },
   {
+    "name": "町並み保存センター（菊伝）",
+    "name_en": "",
+    "lat": 34.1797539,
+    "lng": 132.8658411,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12088367299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊能忠敬測量絵図館",
+    "name_en": "",
+    "lat": 34.1799166,
+    "lng": 132.865945,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12088388088,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江戸みなとまち展示館",
+    "name_en": "",
+    "lat": 34.179897,
+    "lng": 132.8672724,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12088441679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御手洗昭和館",
+    "name_en": "",
+    "lat": 34.1795759,
+    "lng": 132.8672819,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12088442241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Yugakai Onsen",
+    "lat": 35.0966305,
+    "lng": 132.569606,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 12111232606,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "観音神社",
     "name_en": "",
     "lat": 34.3743004,
@@ -25142,6 +27650,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 12128958305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島サッカーミュージアム",
+    "name_en": "",
+    "lat": 34.40121,
+    "lng": 132.4547298,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12259090152,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25278,6 +27797,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本川小学校平和資料館",
+    "name_en": "",
+    "lat": 34.3962188,
+    "lng": 132.4508591,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12946707224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "住吉神社",
     "name_en": "",
     "lat": 34.8090496,
@@ -25285,6 +27815,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 12982918168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "辻村寿三郎人形館",
+    "name_en": "",
+    "lat": 34.8109942,
+    "lng": 132.8479132,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 12982918198,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25410,6 +27951,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Excia",
+    "name_en": "",
+    "lat": 34.3953024,
+    "lng": 132.4551523,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 13395611381,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まちづくり博物館",
+    "name_en": "",
+    "lat": 34.4972952,
+    "lng": 133.3632717,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 13403821474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉備津彦神社",
     "name_en": "",
     "lat": 34.407729,
@@ -25487,6 +28050,61 @@
     "data_source": "osm"
   },
   {
+    "name": "尾道灯台",
+    "name_en": "",
+    "lat": 34.4017796,
+    "lng": 133.1954237,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 13542761020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市郷土資料館サテライト",
+    "name_en": "Hiroshima City Museum of History and Traditional Satellite",
+    "lat": 34.3962386,
+    "lng": 132.4741275,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 13633805521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マツダミュージアム",
+    "name_en": "",
+    "lat": 34.3608118,
+    "lng": 132.4830773,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 13653675277,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島もとまち水族館",
+    "name_en": "",
+    "lat": 34.396668,
+    "lng": 132.4569727,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 13658412370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ラムネ銀泉",
+    "name_en": "",
+    "lat": 35.0811675,
+    "lng": 132.7930795,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 13698326942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.0892081,
@@ -25494,6 +28112,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 13698520697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "呉市海事歴史科学館",
+    "name_en": "Yamato Museum",
+    "lat": 34.2411747,
+    "lng": 132.5558684,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 34575789,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25509,6 +28138,72 @@
     "data_source": "osm"
   },
   {
+    "name": "広島平和記念資料館東館",
+    "name_en": "Hiroshima Peace Memorial Museum East Building",
+    "lat": 34.3915478,
+    "lng": 132.4530975,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 60867022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島平和記念資料館本館",
+    "name_en": "Hiroshima Peace Memorial Museum Main Building",
+    "lat": 34.3918119,
+    "lng": 132.4521016,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 60867023,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島県立美術館",
+    "name_en": "Hiroshima Prefectural Art Museum",
+    "lat": 34.3999749,
+    "lng": 132.4662025,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 69827597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "泉美術館",
+    "name_en": "",
+    "lat": 34.3735439,
+    "lng": 132.3995159,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 95048388,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "5-Daysこども文化科学館",
+    "name_en": "Hiroshima Children's Museum",
+    "lat": 34.3985434,
+    "lng": 132.4537126,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 106048292,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アジアンリゾート・スパ;シーレ",
+    "name_en": "",
+    "lat": 34.3396789,
+    "lng": 132.508776,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 108402830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岩神神社",
     "name_en": "Iwagami Shrine",
     "lat": 34.3257251,
@@ -25516,6 +28211,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 109698132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たけはら美術館",
+    "name_en": "",
+    "lat": 34.3412617,
+    "lng": 132.905322,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 110165108,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25549,6 +28255,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 120147667,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇品天然温泉;ほの湯",
+    "name_en": "",
+    "lat": 34.3652949,
+    "lng": 132.4743124,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 120854666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市郷土資料館",
+    "name_en": "Hiroshima City Museum of History and Traditional Crafts",
+    "lat": 34.3660572,
+    "lng": 132.4618502,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 121980863,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25597,6 +28325,28 @@
     "data_source": "osm"
   },
   {
+    "name": "体育館",
+    "name_en": "Honkawa Elementary School gymnasium",
+    "lat": 34.3959178,
+    "lng": 132.4505997,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 130371527,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸乃湯",
+    "name_en": "",
+    "lat": 34.3806749,
+    "lng": 132.4400658,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 132310155,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宮内天王社",
     "name_en": "",
     "lat": 34.3467799,
@@ -25615,6 +28365,39 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 139334137,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市水産振興センター",
+    "name_en": "",
+    "lat": 34.3622631,
+    "lng": 132.380667,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 140500517,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "半べえ温泉",
+    "name_en": "",
+    "lat": 34.3755078,
+    "lng": 132.4886669,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 141300489,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー銭湯;ゆ～ぽっぽ",
+    "name_en": "",
+    "lat": 34.4567919,
+    "lng": 132.492789,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 144864128,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25659,6 +28442,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 167187719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海上自衛隊呉史料館",
+    "name_en": "JMSDF Kure Museum",
+    "lat": 34.242219,
+    "lng": 132.5553635,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 170619754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市安佐動物公園",
+    "name_en": "Hiroshima City Asa Zoological Park",
+    "lat": 34.4981137,
+    "lng": 132.440247,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 171597175,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25883,6 +28688,61 @@
     "data_source": "osm"
   },
   {
+    "name": "広島市森林公園こんちゅう館",
+    "name_en": "",
+    "lat": 34.441507,
+    "lng": 132.5542521,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 204802125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市森林公園こんちゅう館",
+    "name_en": "",
+    "lat": 34.441351,
+    "lng": 132.5540778,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 204802172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市森林公園こんちゅう館",
+    "name_en": "",
+    "lat": 34.4414693,
+    "lng": 132.5540044,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 204802184,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市森林公園こんちゅう館",
+    "name_en": "",
+    "lat": 34.4413008,
+    "lng": 132.5542282,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 204802185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.9600322,
+    "lng": 132.142053,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 219618352,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常慶寺",
     "name_en": "",
     "lat": 34.5790918,
@@ -25894,6 +28754,39 @@
     "data_source": "osm"
   },
   {
+    "name": "ところミュージアム大三島",
+    "name_en": "Tokoro Museum Omishima",
+    "lat": 34.2151026,
+    "lng": 132.9519808,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 235377720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふかわの湯",
+    "name_en": "",
+    "lat": 34.460359,
+    "lng": 132.5624279,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 241635818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島県立歴史博物館",
+    "name_en": "",
+    "lat": 34.4897019,
+    "lng": 133.3589022,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 242778374,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "千暁寺",
     "name_en": "",
     "lat": 34.3561189,
@@ -25901,6 +28794,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 264052578,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安芸の湯",
+    "name_en": "",
+    "lat": 34.4039111,
+    "lng": 132.5148538,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 264394520,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25993,6 +28897,39 @@
     "data_source": "osm"
   },
   {
+    "name": "尾道城",
+    "name_en": "",
+    "lat": 34.4073507,
+    "lng": 133.1936164,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 307662557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サル山",
+    "name_en": "",
+    "lat": 34.4103786,
+    "lng": 133.1950369,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 307857380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おのみち歴史博物館",
+    "name_en": "",
+    "lat": 34.4097754,
+    "lng": 133.2049586,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 308165442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "二股神社",
     "name_en": "",
     "lat": 34.4940489,
@@ -26066,6 +29003,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 322649314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "和木美術館",
+    "name_en": "",
+    "lat": 34.2029075,
+    "lng": 132.2200845,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 324704739,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26213,6 +29161,17 @@
     "data_source": "osm"
   },
   {
+    "name": "寿湯",
+    "name_en": "",
+    "lat": 34.2850211,
+    "lng": 133.1794127,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 334799419,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大山神社（自転車神社）",
     "name_en": "Oyama Shrine (Bicycle Shrine)",
     "lat": 34.2938751,
@@ -26301,6 +29260,28 @@
     "data_source": "osm"
   },
   {
+    "name": "呉市入船山記念館",
+    "name_en": "",
+    "lat": 34.2404205,
+    "lng": 132.563934,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 364442837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2996894,
+    "lng": 133.1962513,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 364856049,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "恵美須神社",
     "name_en": "",
     "lat": 34.3783869,
@@ -26330,6 +29311,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 366527948,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筒賀PA (下り)",
+    "name_en": "",
+    "lat": 34.5617347,
+    "lng": 132.2540662,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 370867308,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26444,6 +29436,17 @@
     "data_source": "osm"
   },
   {
+    "name": "廿日市市郷土資料室",
+    "name_en": "",
+    "lat": 34.350817,
+    "lng": 132.3331086,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 391871216,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2935376,
@@ -26451,6 +29454,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 393536113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "霊宝館",
+    "name_en": "Treasure Hall",
+    "lat": 34.2922654,
+    "lng": 132.3189112,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 395019844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉宮浜;べにまんさくの湯",
+    "name_en": "",
+    "lat": 34.2708987,
+    "lng": 132.2549263,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 395269590,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26499,6 +29524,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5988479,
+    "lng": 133.3256713,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 398387195,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6028587,
+    "lng": 133.3090003,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 398497258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5800369,
+    "lng": 133.2924249,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 398550022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大畠神社",
     "name_en": "",
     "lat": 34.4710057,
@@ -26517,6 +29575,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 398874382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.6201633,
+    "lng": 133.3689702,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 399076939,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26576,6 +29645,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩国徴古館",
+    "name_en": "",
+    "lat": 34.1709688,
+    "lng": 132.1771653,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 408281178,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杉薬師（瑠璃山医王寺）",
     "name_en": "",
     "lat": 34.5153672,
@@ -26583,6 +29663,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 411883777,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡櫓",
+    "name_en": "Kagami Yagura",
+    "lat": 34.490364,
+    "lng": 133.3617296,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 421566341,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山城",
+    "name_en": "Fukuyama Castle",
+    "lat": 34.4910404,
+    "lng": 133.3611349,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 421566344,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26605,6 +29707,50 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 425911871,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "柏原美術館",
+    "name_en": "Kashiwabara Museum",
+    "lat": 34.1713632,
+    "lng": 132.1748386,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 436641220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Iwakuni Castle",
+    "name_en": "Iwakuni Castle",
+    "lat": 34.1752324,
+    "lng": 132.1742329,
+    "category": "castle",
+    "prefecture": "hiroshima",
+    "osm_id": 436641226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国石人形ミニ資料館",
+    "name_en": "",
+    "lat": 34.1687201,
+    "lng": 132.1777905,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 436681109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉川史料館",
+    "name_en": "Kikkawa Historical Museum",
+    "lat": 34.1704543,
+    "lng": 132.1777098,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 436681116,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26653,6 +29799,204 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅ゆめランド布野",
+    "name_en": "",
+    "lat": 34.8557851,
+    "lng": 132.7967824,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 442981738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅 赤来高原",
+    "name_en": "",
+    "lat": 34.9986142,
+    "lng": 132.7138848,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 442982336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅頓原",
+    "name_en": "",
+    "lat": 35.0895523,
+    "lng": 132.7856554,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 442983118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "筒賀PA (上り)",
+    "name_en": "",
+    "lat": 34.5621342,
+    "lng": 132.2539025,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443384872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本郷PA (下り)",
+    "name_en": "",
+    "lat": 34.6953591,
+    "lng": 132.6004641,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443386830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本郷PA (上り)",
+    "name_en": "",
+    "lat": 34.7164147,
+    "lng": 132.6382511,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443388034,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江の川PA (下り)",
+    "name_en": "",
+    "lat": 34.7594838,
+    "lng": 132.7845502,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443388756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江の川PA (上り)",
+    "name_en": "",
+    "lat": 34.7702586,
+    "lng": 132.8125069,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443389776,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本村PA (上り)",
+    "name_en": "",
+    "lat": 34.8552436,
+    "lng": 133.0984513,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443392365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本村PA (下り)",
+    "name_en": "",
+    "lat": 34.861989,
+    "lng": 133.1042074,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443393305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "帝釈峡PA (上り)",
+    "name_en": "",
+    "lat": 34.8949051,
+    "lng": 133.2452262,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443394962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "帝釈峡PA (下り)",
+    "name_en": "",
+    "lat": 34.8933304,
+    "lng": 133.2543311,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443395576,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神郷PA (上り)",
+    "name_en": "Shingo PA",
+    "lat": 34.9950733,
+    "lng": 133.3938124,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443396516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神郷PA (下り)",
+    "name_en": "Shingo PA",
+    "lat": 34.9951016,
+    "lng": 133.3947377,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 443396977,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寒曳山PA (下り)",
+    "name_en": "Kanbikiyama PA",
+    "lat": 34.7794516,
+    "lng": 132.4552231,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 445045067,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寒曳山PA (上り)",
+    "name_en": "Kanbikiyama PA",
+    "lat": 34.7804496,
+    "lng": 132.4550561,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 445045239,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金城PA (下り)",
+    "name_en": "",
+    "lat": 34.8825567,
+    "lng": 132.1925633,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 445045794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金城PA (上り)",
+    "name_en": "",
+    "lat": 34.8832861,
+    "lng": 132.1926493,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 445047594,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.3154165,
@@ -26697,6 +30041,116 @@
     "data_source": "osm"
   },
   {
+    "name": "八幡PA (下り)",
+    "name_en": "Yahata P.A.",
+    "lat": 34.4734174,
+    "lng": 133.0998576,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454610853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡PA (上り)",
+    "name_en": "Yahata P.A.",
+    "lat": 34.4745671,
+    "lng": 133.0967195,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454610910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高坂PA (下り)",
+    "name_en": "Takasaka P.A.",
+    "lat": 34.4699632,
+    "lng": 133.0118468,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454614561,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高坂PA (上り)",
+    "name_en": "Takasaka P.A.",
+    "lat": 34.4695983,
+    "lng": 133.0099186,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454614896,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥屋PA (上り)",
+    "name_en": "",
+    "lat": 34.4569221,
+    "lng": 132.6226982,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454642240,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥屋PA (下り)",
+    "name_en": "",
+    "lat": 34.4559911,
+    "lng": 132.6224175,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454642714,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼田PA (下り)",
+    "name_en": "Numata P.A.",
+    "lat": 34.4633518,
+    "lng": 132.4231594,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454648470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼田PA (上り)",
+    "name_en": "Numata P.A.",
+    "lat": 34.4641791,
+    "lng": 132.4227089,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454649535,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (下り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.0995499,
+    "lng": 132.1021831,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454669632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (上り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.100122,
+    "lng": 132.1017634,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 454670076,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "幸神社",
     "name_en": "Sai-no-kami Shrine",
     "lat": 34.4368326,
@@ -26730,6 +30184,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本因坊秀策記念館",
+    "name_en": "",
+    "lat": 34.3280909,
+    "lng": 133.1839096,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 457995972,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "耕三寺",
     "name_en": "Kousanji Temple",
     "lat": 34.3039622,
@@ -26737,6 +30202,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 461850131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふくやま美術館",
+    "name_en": "",
+    "lat": 34.4909854,
+    "lng": 133.3590725,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 477483806,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26781,6 +30257,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 482796317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広島市森林公園",
+    "name_en": "",
+    "lat": 34.4322471,
+    "lng": 132.5539718,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 483374964,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平山郁夫美術館",
+    "name_en": "Hirayama Ikuo Museum of Art",
+    "lat": 34.305719,
+    "lng": 133.0904479,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 483993709,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27060,6 +30558,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3054287,
+    "lng": 133.0912685,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 486490077,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3054224,
+    "lng": 133.0910563,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 486490082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高根厳島神社",
     "name_en": "",
     "lat": 34.3120098,
@@ -27082,6 +30602,17 @@
     "data_source": "osm"
   },
   {
+    "name": "毒ガス資料館",
+    "name_en": "Poison Gas Museum",
+    "lat": 34.3058895,
+    "lng": 132.9941834,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 508699824,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.3830069,
@@ -27100,6 +30631,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 532714514,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆうゆ",
+    "name_en": "",
+    "lat": 34.4487339,
+    "lng": 133.2515699,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 532714965,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27192,6 +30734,17 @@
     "data_source": "osm"
   },
   {
+    "name": "酒井酒造美術館・五橋文庫",
+    "name_en": "",
+    "lat": 34.169424,
+    "lng": 132.1777341,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 549148319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.4430172,
@@ -27243,6 +30796,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 559733729,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥出雲鉄の彫刻美術館",
+    "name_en": "",
+    "lat": 35.0968271,
+    "lng": 133.1281927,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 566058697,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27908,6 +31472,17 @@
   },
   {
     "name": "名称不明",
+    "name_en": "Shimojima Tsushinshi Museum",
+    "lat": 34.1870992,
+    "lng": 132.683788,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 608694174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
     "name_en": "",
     "lat": 34.2304214,
     "lng": 132.8469678,
@@ -27925,6 +31500,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 608979176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桂浜温泉館",
+    "name_en": "",
+    "lat": 34.1019556,
+    "lng": 132.5124148,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 609620560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉橋歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.102141,
+    "lng": 132.5127983,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 609620567,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28079,6 +31676,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 610512899,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "昭和温泉郷 湯楽里",
+    "name_en": "",
+    "lat": 34.2364172,
+    "lng": 132.6133979,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 610895051,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー銭湯;雲母の里",
+    "name_en": "",
+    "lat": 34.333012,
+    "lng": 132.6480427,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 614468472,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28358,6 +31977,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ふるさと館",
+    "name_en": "",
+    "lat": 34.3797288,
+    "lng": 132.5498245,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 654496983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.8864203,
+    "lng": 132.0754251,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 654714549,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "下山稲荷神社",
     "name_en": "",
     "lat": 34.9049803,
@@ -28523,6 +32164,39 @@
     "data_source": "osm"
   },
   {
+    "name": "石見畳ヶ浦資料館",
+    "name_en": "",
+    "lat": 34.9395599,
+    "lng": 132.1092771,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 658169486,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "尾道平原温泉ぽっぽの湯",
+    "name_en": "Poppo no yu",
+    "lat": 34.4100774,
+    "lng": 133.1790913,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 658640046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "養老温泉本館",
+    "name_en": "",
+    "lat": 34.4491936,
+    "lng": 133.1986409,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 658819951,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "櫛色神社",
     "name_en": "",
     "lat": 34.9511049,
@@ -28677,6 +32351,17 @@
     "data_source": "osm"
   },
   {
+    "name": "江津市郷土資料館",
+    "name_en": "",
+    "lat": 35.0098601,
+    "lng": 132.2214394,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 660877032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大島天満宮",
     "name_en": "",
     "lat": 34.8777547,
@@ -28787,6 +32472,28 @@
     "data_source": "osm"
   },
   {
+    "name": "旅館浦島うら湯",
+    "name_en": "",
+    "lat": 34.4483572,
+    "lng": 133.1991752,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 671031623,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今津PA (上り)",
+    "name_en": "",
+    "lat": 34.4595062,
+    "lng": 133.2492352,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 674427639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師寺",
     "name_en": "",
     "lat": 34.37388,
@@ -28842,6 +32549,72 @@
     "data_source": "osm"
   },
   {
+    "name": "五日市天然温泉;ゆらゆら",
+    "name_en": "",
+    "lat": 34.3974255,
+    "lng": 132.369238,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676287835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;ホットカモ",
+    "name_en": "",
+    "lat": 34.4137931,
+    "lng": 132.752805,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676306125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まごころの湯",
+    "name_en": "",
+    "lat": 34.5199779,
+    "lng": 133.3850564,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676429000,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー銭湯 ゆらら",
+    "name_en": "",
+    "lat": 34.4863468,
+    "lng": 133.3509959,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676430462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー健康ランド 華のゆ",
+    "name_en": "",
+    "lat": 34.4686772,
+    "lng": 133.3685615,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676431497,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "お湯処 美福",
+    "name_en": "",
+    "lat": 34.4697566,
+    "lng": 133.3909869,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 676431806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "須屋浦神社",
     "name_en": "Suyaura Shrine",
     "lat": 34.2556021,
@@ -28864,6 +32637,17 @@
     "data_source": "osm"
   },
   {
+    "name": "尾道市立美術館",
+    "name_en": "Onomichi City Museum of Art",
+    "lat": 34.4099515,
+    "lng": 133.1956928,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 679798418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福善寺",
     "name_en": "Fukuzenji Temple",
     "lat": 34.4122326,
@@ -28871,6 +32655,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 680503907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレパークきんたの里",
+    "name_en": "",
+    "lat": 34.8625171,
+    "lng": 132.1616028,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 683364719,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28904,6 +32699,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 683633768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯屋温泉元湯館",
+    "name_en": "",
+    "lat": 34.8585273,
+    "lng": 132.1670392,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 683648230,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28959,6 +32765,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 687688987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜田市金城民俗資料館",
+    "name_en": "",
+    "lat": 34.7781905,
+    "lng": 132.1977605,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 687689218,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29051,6 +32868,28 @@
     "data_source": "osm"
   },
   {
+    "name": "小浜温泉;才市の湯",
+    "name_en": "",
+    "lat": 35.0922613,
+    "lng": 132.3470951,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 689146988,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上津井温泉;森の銀座",
+    "name_en": "",
+    "lat": 35.0072414,
+    "lng": 132.3046427,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 689149121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.8856466,
@@ -29080,6 +32919,39 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 689317301,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内オーシャンスパ;汐音",
+    "name_en": "",
+    "lat": 34.1962033,
+    "lng": 132.5436123,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 689322861,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新原田温泉;ゆうじんの湯",
+    "name_en": "",
+    "lat": 34.4953132,
+    "lng": 133.2075871,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 689327183,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "俄山;弘法大師温泉",
+    "name_en": "",
+    "lat": 34.5016713,
+    "lng": 133.3115868,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 689328991,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29139,6 +33011,17 @@
     "data_source": "osm"
   },
   {
+    "name": "今井美術館",
+    "name_en": "",
+    "lat": 34.9546257,
+    "lng": 132.3349653,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 691006955,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小田八幡宮",
     "name_en": "",
     "lat": 34.945408,
@@ -29183,6 +33066,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福山市立動物園",
+    "name_en": "",
+    "lat": 34.5236825,
+    "lng": 133.279172,
+    "category": "zoo",
+    "prefecture": "hiroshima",
+    "osm_id": 698275273,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "極楽寺",
     "name_en": "",
     "lat": 34.2377296,
@@ -29216,6 +33110,28 @@
     "data_source": "osm"
   },
   {
+    "name": "しまなみ温泉;喜助の湯",
+    "name_en": "",
+    "lat": 34.0629385,
+    "lng": 132.992459,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 699356400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;かみとくの湯",
+    "name_en": "",
+    "lat": 34.0397771,
+    "lng": 133.0120276,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 699375326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大山祇神社",
     "name_en": "Oyama Gion Shrine",
     "lat": 34.2481099,
@@ -29223,6 +33139,50 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 699380682,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大三島海事博物館",
+    "name_en": "Omishima Maritime Museum",
+    "lat": 34.2478044,
+    "lng": 133.0043589,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 699380695,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大山祇神社宝物館",
+    "name_en": "Oyamazumi-Jinja Shrine Treasury Museum",
+    "lat": 34.2474578,
+    "lng": 133.0044481,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 699380696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "紫陽殿",
+    "name_en": "",
+    "lat": 34.2473333,
+    "lng": 133.0047971,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 699380697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マーレ・グラッシア大三島",
+    "name_en": "Mare Gracia Omishima",
+    "lat": 34.2416571,
+    "lng": 132.9938724,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 699404887,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29256,6 +33216,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 699488559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2134355,
+    "lng": 132.9504076,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 699488564,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市伊東豊雄建築ミュージアム",
+    "name_en": "Toyo Ito Museum of Architecture, Imabari",
+    "lat": 34.2139306,
+    "lng": 132.9503775,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 699488565,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29458,6 +33440,17 @@
     "data_source": "osm"
   },
   {
+    "name": "温泉津温泉;薬師湯",
+    "name_en": "",
+    "lat": 35.0963553,
+    "lng": 132.349511,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708504873,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正向寺",
     "name_en": "",
     "lat": 34.3675696,
@@ -29502,6 +33495,105 @@
     "data_source": "osm"
   },
   {
+    "name": "元湯;小瀬川温泉",
+    "name_en": "",
+    "lat": 34.3840403,
+    "lng": 132.1347416,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708797056,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿賀ふれあいセンター",
+    "name_en": "",
+    "lat": 34.2794872,
+    "lng": 132.0693816,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708799773,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の山温泉館",
+    "name_en": "",
+    "lat": 34.4969666,
+    "lng": 132.2831223,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708897045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クアハウス湯の山",
+    "name_en": "",
+    "lat": 34.4968637,
+    "lng": 132.2842958,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708902231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大衆演劇;せら温泉",
+    "name_en": "",
+    "lat": 34.5840226,
+    "lng": 133.0601588,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708979107,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香遊温泉;せら香遊ランド",
+    "name_en": "",
+    "lat": 34.6185852,
+    "lng": 133.0049144,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708984175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たかみや湯の森",
+    "name_en": "",
+    "lat": 34.7515983,
+    "lng": 132.6942062,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 708989181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅豊平どんぐり村;龍頭の湯",
+    "name_en": "",
+    "lat": 34.647075,
+    "lng": 132.4451467,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 709059168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯谷温泉;弥山荘",
+    "name_en": "",
+    "lat": 35.0080517,
+    "lng": 132.4476972,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 709092001,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2031415,
@@ -29509,6 +33601,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 714741251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.208036,
+    "lng": 133.1196951,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 716045221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2081805,
+    "lng": 133.1196002,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 716045222,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29685,6 +33799,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 737542530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三原市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.3947788,
+    "lng": 133.0780323,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 738898147,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29942,6 +34067,28 @@
     "data_source": "osm"
   },
   {
+    "name": "岩戸屋",
+    "name_en": "",
+    "lat": 34.7223185,
+    "lng": 132.6285995,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 782710176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "君田温泉森の泉",
+    "name_en": "",
+    "lat": 34.8987188,
+    "lng": 132.8492883,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 783208723,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "空鞘稲生神社",
     "name_en": "",
     "lat": 34.3994108,
@@ -29953,6 +34100,17 @@
     "data_source": "osm"
   },
   {
+    "name": "おのみち映画資料館",
+    "name_en": "",
+    "lat": 34.4095651,
+    "lng": 133.2053258,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 792891944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.8823077,
@@ -29960,6 +34118,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 795948455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本食研食文化博物館",
+    "name_en": "",
+    "lat": 34.047934,
+    "lng": 133.0291166,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 806315864,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30455,6 +34624,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 881749281,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0639065,
+    "lng": 133.0047579,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 881967438,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30976,6 +35156,17 @@
     "data_source": "osm"
   },
   {
+    "name": "しらさぎ温泉",
+    "name_en": "",
+    "lat": 34.0526767,
+    "lng": 132.9974257,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 894293898,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2307631,
@@ -30994,6 +35185,28 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 898054406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日招き広場",
+    "name_en": "",
+    "lat": 34.1988174,
+    "lng": 132.5358506,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 899710030,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1985025,
+    "lng": 132.535962,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 899710031,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31236,6 +35449,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 905881835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上島町岩城郷土館(旧島本陣三浦邸)",
+    "name_en": "",
+    "lat": 34.2460478,
+    "lng": 133.1491705,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 906673806,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31625,6 +35849,39 @@
     "data_source": "osm"
   },
   {
+    "name": "アートギャラリーミヤウチ",
+    "name_en": "",
+    "lat": 34.3425763,
+    "lng": 132.3027601,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1037708052,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "YHRPミュージアム",
+    "name_en": "",
+    "lat": 34.3796718,
+    "lng": 132.4772128,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1037708760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はつかいち美術ギャラリー",
+    "name_en": "",
+    "lat": 34.3483105,
+    "lng": 132.331633,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1037717363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三光院",
     "name_en": "",
     "lat": 34.3392522,
@@ -31836,11 +36093,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.1584693,
+    "lng": 132.179994,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1069977637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4963334,
     "lng": 133.372205,
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1087870809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅たけはら",
+    "name_en": "",
+    "lat": 34.3438535,
+    "lng": 132.912263,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 1117343021,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -32149,6 +36428,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1177793168,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇品灯台",
+    "name_en": "",
+    "lat": 34.3404504,
+    "lng": 132.4627301,
+    "category": "lighthouse",
+    "prefecture": "hiroshima",
+    "osm_id": 1181919443,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -32468,6 +36758,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 1236322735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5622137,
+    "lng": 133.2297487,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1236433006,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33011,6 +37312,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福山市鞆の浦歴史民俗資料館",
+    "name_en": "Tomonoura Museum of History and Folklore",
+    "lat": 34.3842843,
+    "lng": 133.3817728,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1355604433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 35.033141,
@@ -33231,6 +37543,39 @@
     "data_source": "osm"
   },
   {
+    "name": "塩屋天然温泉 ほの湯 楽々園",
+    "name_en": "",
+    "lat": 34.3611739,
+    "lng": 132.35399,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1369417529,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "タイムズカー",
+    "name_en": "Times Car",
+    "lat": 34.3608811,
+    "lng": 132.3502327,
+    "category": "rest_area",
+    "prefecture": "hiroshima",
+    "osm_id": 1370300426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福山市しんいち歴史民俗博物館",
+    "name_en": "",
+    "lat": 34.5580231,
+    "lng": 133.2757384,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1370880511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社",
     "name_en": "",
     "lat": 34.4795186,
@@ -33271,6 +37616,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 1376919600,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "邑南町郷土館",
+    "name_en": "",
+    "lat": 34.8506294,
+    "lng": 132.5196466,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1378873991,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33436,6 +37792,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1381591096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しぶや美術館",
+    "name_en": "",
+    "lat": 34.4937076,
+    "lng": 133.3636772,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1382008391,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33704,6 +38071,28 @@
     "data_source": "osm"
   },
   {
+    "name": "広島市国民宿舎湯来ロッジ",
+    "name_en": "",
+    "lat": 34.4735126,
+    "lng": 132.2399477,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1432539888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河鹿荘",
+    "name_en": "",
+    "lat": 34.4770436,
+    "lng": 132.2415692,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1432539961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正円寺",
     "name_en": "",
     "lat": 34.476033,
@@ -33711,6 +38100,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1433652312,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "誠の桧湯",
+    "name_en": "",
+    "lat": 34.4758514,
+    "lng": 132.2417344,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1433652314,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33748,6 +38148,17 @@
     "data_source": "osm"
   },
   {
+    "name": "MOU 尾道市立大学美術館",
+    "name_en": "",
+    "lat": 34.4115463,
+    "lng": 133.2090993,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1442759355,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三島神社",
     "name_en": "",
     "lat": 34.5800955,
@@ -33755,6 +38166,17 @@
     "category": "shrine",
     "prefecture": "hiroshima",
     "osm_id": 1442940896,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "月ヶ瀬温泉",
+    "name_en": "",
+    "lat": 34.6091552,
+    "lng": 132.321147,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1442943730,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33781,6 +38203,17 @@
     "data_source": "osm"
   },
   {
+    "name": "木炭自動車とレトロ車の館",
+    "name_en": "",
+    "lat": 34.6105711,
+    "lng": 132.3226201,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1442945944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "玉林寺",
     "name_en": "",
     "lat": 34.4209787,
@@ -33799,6 +38232,28 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1443192642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3274199,
+    "lng": 133.1369909,
+    "category": "onsen",
+    "prefecture": "hiroshima",
+    "osm_id": 1443228198,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "根っこミュージアム",
+    "name_en": "",
+    "lat": 34.3281164,
+    "lng": 133.137735,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1443228205,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33920,6 +38375,17 @@
     "category": "temple",
     "prefecture": "hiroshima",
     "osm_id": 1467856946,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3929878,
+    "lng": 132.4533121,
+    "category": "museum",
+    "prefecture": "hiroshima",
+    "osm_id": 1467859588,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

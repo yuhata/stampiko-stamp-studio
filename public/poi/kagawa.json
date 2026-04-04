@@ -33,6 +33,17 @@
     "data_source": "osm"
   },
   {
+    "name": "銚子渓自然動物園 お猿の国",
+    "name_en": "Choshi-Kei Monkey Park",
+    "lat": 34.5153878,
+    "lng": 134.242635,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 261020205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝生院 54",
     "name_en": "Hoshoin Temple 54",
     "lat": 34.4932721,
@@ -418,6 +429,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3611119,
+    "lng": 134.0552136,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 742454518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 34.1230063,
@@ -447,6 +469,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 771116717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "直島銭湯 (Naoshima Bath)",
+    "name_en": "Naoshima Bath",
+    "lat": 34.4579858,
+    "lng": 133.9751323,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 892741840,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -629,6 +662,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.3667129,
+    "lng": 134.0610976,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1034841734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3604278,
+    "lng": 134.0588573,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1034841844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3395248,
     "lng": 134.0549711,
     "category": "shrine",
@@ -645,6 +700,94 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1047293559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "紫雲出山遺跡館",
+    "name_en": "",
+    "lat": 34.2437731,
+    "lng": 133.596252,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1099877845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀城",
+    "name_en": "Marugame Castle",
+    "lat": 34.2860216,
+    "lng": 133.8001009,
+    "category": "castle",
+    "prefecture": "kagawa",
+    "osm_id": 1179835155,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4567905,
+    "lng": 133.9704925,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1223939065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Ogre's Light House",
+    "name_en": "",
+    "lat": 34.3882363,
+    "lng": 134.0530371,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1223939082,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Red Light House",
+    "name_en": "",
+    "lat": 34.3884336,
+    "lng": 134.0512257,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1223939083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3800116,
+    "lng": 134.0380401,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1223939084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "六島灯台",
+    "name_en": "",
+    "lat": 34.3000442,
+    "lng": 133.5337641,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1223939142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "イサム・ノグチ庭園美術館 (Isamu Noguchi Garden Museum)",
+    "name_en": "",
+    "lat": 34.3549874,
+    "lng": 134.1250669,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1308488435,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -678,6 +821,347 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1396608737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五流博物館",
+    "name_en": "",
+    "lat": 34.537296,
+    "lng": 133.818832,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423608561,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉敷埋蔵文化財センター",
+    "name_en": "",
+    "lat": 34.536722,
+    "lng": 133.7692211,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423608822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市立玉野海洋博物館",
+    "name_en": "",
+    "lat": 34.454952,
+    "lng": 133.905395,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 1423614642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "笠岡市立郷土館",
+    "name_en": "",
+    "lat": 34.5047305,
+    "lng": 133.4969041,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423618849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荻野美術館",
+    "name_en": "",
+    "lat": 34.437989,
+    "lng": 133.802366,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423619154,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野崎家塩業歴史館",
+    "name_en": "",
+    "lat": 34.4721998,
+    "lng": 133.8028143,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423619614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鴨方郷土資料館",
+    "name_en": "",
+    "lat": 34.5322442,
+    "lng": 133.5821265,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423619914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上板町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.131945,
+    "lng": 134.395903,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423653864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美馬郷土博物館",
+    "name_en": "",
+    "lat": 34.051795,
+    "lng": 134.060055,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423660704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿波和三盆糖資料館",
+    "name_en": "",
+    "lat": 34.131656,
+    "lng": 134.396198,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423661428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿波市立土成郷土歴史館",
+    "name_en": "",
+    "lat": 34.1149741,
+    "lng": 134.3401271,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423661435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿波市立市場歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.094273,
+    "lng": 134.284953,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423661437,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀市猪熊弦一郎現代美術館",
+    "name_en": "Marugame Genichiro-Inokuma Museum of Contemporary Art",
+    "lat": 34.2912754,
+    "lng": 133.7923195,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423707261,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀市立資料館",
+    "name_en": "",
+    "lat": 34.285742,
+    "lng": 133.7983297,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423707275,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂出市民美術館",
+    "name_en": "",
+    "lat": 34.314462,
+    "lng": 133.849194,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423732672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天体望遠鏡博物館",
+    "name_en": "",
+    "lat": 34.186015,
+    "lng": 134.170962,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423735558,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平賀源内先生遺品館",
+    "name_en": "",
+    "lat": 34.3240972,
+    "lng": 134.1686415,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423737315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東かがわ市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.218642,
+    "lng": 134.394365,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423738692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "正覚院（山寺）宝物館",
+    "name_en": "",
+    "lat": 34.388384,
+    "lng": 133.772372,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423739987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬戸内海歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.378347,
+    "lng": 133.931263,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423740501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "與田寺宝物館",
+    "name_en": "",
+    "lat": 34.241513,
+    "lng": 134.321807,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423743446,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "観音寺市ちょうさ会館",
+    "name_en": "",
+    "lat": 34.084542,
+    "lng": 133.644106,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423744038,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊浜郷土資料館",
+    "name_en": "",
+    "lat": 34.0842683,
+    "lng": 133.6437499,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423744269,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鎌田共済会郷土博物館",
+    "name_en": "",
+    "lat": 34.3133234,
+    "lng": 133.852038,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423744633,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香川県文化会館",
+    "name_en": "",
+    "lat": 34.341808,
+    "lng": 134.045004,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423745172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香川県立ミュージアム",
+    "name_en": "The Kagawa Museum",
+    "lat": 34.349722,
+    "lng": 134.05329,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423745215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香川県立東山魁夷せとうち美術館 (Higashiyama Kaii Seouchi Art Museum)",
+    "name_en": "Higashiyama Kaii Seouchi Art Museum",
+    "lat": 34.349462,
+    "lng": 133.824143,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423745264,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "香川県自然科学館",
+    "name_en": "",
+    "lat": 34.3777673,
+    "lng": 133.9280333,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423745274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松市歴史資料館",
+    "name_en": "Takamatsu Historical Archive",
+    "lat": 34.3440309,
+    "lng": 134.0344437,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423746357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松市立塩江美術館",
+    "name_en": "",
+    "lat": 34.175602,
+    "lng": 134.081274,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1423746523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松市鬼ヶ島おにの館",
+    "name_en": "Onigashima Oninoyakata Museum",
+    "lat": 34.3893786,
+    "lng": 134.0521595,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1527616378,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -770,6 +1254,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高松城",
+    "name_en": "Takamatsu Castle",
+    "lat": 34.350028,
+    "lng": 134.050386,
+    "category": "castle",
+    "prefecture": "kagawa",
+    "osm_id": 2381052708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西之堂",
     "name_en": "",
     "lat": 34.1292334,
@@ -777,6 +1272,39 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 2399946658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊吹島民俗資料館",
+    "name_en": "",
+    "lat": 34.1283399,
+    "lng": 133.5373709,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 2399956335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊島横尾館",
+    "name_en": "Yokoo House",
+    "lat": 34.4869088,
+    "lng": 134.0596607,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 2401280882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ANDO MUSEUM",
+    "name_en": "Ando Museum",
+    "lat": 34.4594028,
+    "lng": 133.997021,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 2401898964,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -843,6 +1371,28 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 2781512707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "プラネタリウム＆科学館 Planetarium",
+    "name_en": "",
+    "lat": 34.5356906,
+    "lng": 133.7690389,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 2808919360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "心臓音のアーカイブ (Les Archives du Cœur)",
+    "name_en": "Les Archives du Cœur",
+    "lat": 34.4878754,
+    "lng": 134.1031091,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 2916091602,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1837,6 +2387,116 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5441935,
+    "lng": 134.3483937,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3043588068,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3254463,
+    "lng": 133.6631812,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342602,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3738332,
+    "lng": 133.8518228,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.382384,
+    "lng": 133.823685,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3834618,
+    "lng": 133.8242293,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342606,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4154598,
+    "lng": 134.2358527,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4797315,
+    "lng": 134.0213673,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342609,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4897694,
+    "lng": 134.0596246,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342611,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4908926,
+    "lng": 134.0971836,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5478712,
+    "lng": 134.2830752,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3051342613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "恵比寿神社",
     "name_en": "",
     "lat": 34.387247,
@@ -1927,6 +2587,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4889313,
+    "lng": 133.9835232,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 3965264090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4538397,
     "lng": 133.9768016,
     "category": "shrine",
@@ -1971,11 +2642,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4685373,
+    "lng": 133.9586698,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4041431688,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4689044,
     "lng": 133.9749026,
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4041432189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.480451,
+    "lng": 133.9721936,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4041432190,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1998,6 +2691,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4041514581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5124177,
+    "lng": 134.0158009,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4041518908,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2037,11 +2741,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.4446905,
+    "lng": 133.9653824,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4385273818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4472032,
+    "lng": 133.9691683,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4385273827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4537004,
     "lng": 133.9994129,
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4385273863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4736587,
+    "lng": 133.9478836,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4385273872,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2064,6 +2801,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4395768006,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竹橋美術館",
+    "name_en": "",
+    "lat": 34.4971759,
+    "lng": 133.516316,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 4409360690,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2108,6 +2856,61 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4504433958,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1238426,
+    "lng": 133.6316912,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4504434587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.124557,
+    "lng": 133.6309407,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4504434588,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1232336,
+    "lng": 133.6292992,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4504477789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.123943,
+    "lng": 133.532001,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4504477814,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1334247,
+    "lng": 133.5356166,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4504477835,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2290,6 +3093,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.3082821,
+    "lng": 133.6822016,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4506359347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3126798,
     "lng": 133.6799941,
     "category": "temple",
@@ -2306,6 +3120,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4506359375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3013415,
+    "lng": 133.6218827,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4506371505,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2389,6 +3214,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.3572269,
+    "lng": 133.5795243,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4508552559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.3606866,
     "lng": 133.5814314,
     "category": "shrine",
@@ -2405,6 +3241,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4508552587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3095622,
+    "lng": 133.5379251,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4508638529,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2552,6 +3399,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4215294,
+    "lng": 133.4957192,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4509516054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4163785,
+    "lng": 133.5141889,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4509516055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4318719,
+    "lng": 133.5031016,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4510124644,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "寺社",
     "name_en": "",
     "lat": 34.433134,
@@ -2695,6 +3575,17 @@
     "data_source": "osm"
   },
   {
+    "name": "讃岐三埼灯台",
+    "name_en": "",
+    "lat": 34.2618501,
+    "lng": 133.5579104,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4553399851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Takami Hachiman Shrine",
     "name_en": "",
     "lat": 34.3068203,
@@ -2750,6 +3641,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3438411,
+    "lng": 133.5082025,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 4603698674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四国村ギャラリー",
+    "name_en": "Shikoku Mura Gallery",
+    "lat": 34.3455646,
+    "lng": 134.1088369,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 4627926289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "池戸八幡神社",
     "name_en": "",
     "lat": 34.2870374,
@@ -2757,6 +3670,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 4731381314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベッセルおおうちの湯",
+    "name_en": "Vessel Ōuchinoyu",
+    "lat": 34.2748276,
+    "lng": 134.2978026,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 4789974154,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3300,6 +4224,28 @@
     "data_source": "osm"
   },
   {
+    "name": "（株）ベティスミス 総務部",
+    "name_en": "Betty Smith",
+    "lat": 34.4767757,
+    "lng": 133.8228891,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 4937648022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "I love Yu 直島銭湯「I♥湯」",
+    "name_en": "",
+    "lat": 34.458355,
+    "lng": 133.9750194,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 4943270321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.3583303,
@@ -3454,6 +4400,17 @@
     "data_source": "osm"
   },
   {
+    "name": "いとよリ温泉",
+    "name_en": "",
+    "lat": 34.3461866,
+    "lng": 134.0375207,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 5276492024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "須賀神社",
     "name_en": "",
     "lat": 34.0696201,
@@ -3520,6 +4477,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2967293,
+    "lng": 134.2522374,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 5543835366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "劒来神社",
     "name_en": "",
     "lat": 34.2377349,
@@ -3571,6 +4539,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 5661009322,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5306189,
+    "lng": 134.1619679,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 5661068382,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3630,6 +4609,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Tobias Rehberger",
+    "lat": 34.4874364,
+    "lng": 134.0588667,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 5835707788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岩津八幡神社",
     "name_en": "",
     "lat": 34.066621,
@@ -3637,6 +4627,28 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 5931175489,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0814569,
+    "lng": 133.6305928,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 5940159201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国立公園;城山温泉",
+    "name_en": "",
+    "lat": 34.3054618,
+    "lng": 133.900205,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6043831888,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3780,6 +4792,193 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 6393783185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Busshozan Onsen",
+    "name_en": "",
+    "lat": 34.2818783,
+    "lng": 134.0491342,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6468094985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "オリーブ温泉 満点の湯",
+    "name_en": "",
+    "lat": 34.4762962,
+    "lng": 134.1789433,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6475946966,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "翼山温泉",
+    "name_en": "",
+    "lat": 34.2171264,
+    "lng": 134.3939466,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480094707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春日温泉",
+    "name_en": "",
+    "lat": 34.2812772,
+    "lng": 134.2244431,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480312722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡本荘;椿温泉",
+    "name_en": "",
+    "lat": 34.2662329,
+    "lng": 133.9947634,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480492676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅;香南楽湯",
+    "name_en": "",
+    "lat": 34.2395423,
+    "lng": 134.0071752,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480514839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "綾川町社会福祉センター;もみじ温泉",
+    "name_en": "",
+    "lat": 34.2184254,
+    "lng": 133.9519727,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480535290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はくちょう温泉",
+    "name_en": "",
+    "lat": 34.2715037,
+    "lng": 133.9508242,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480550879,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あやうた温泉;湯舟道",
+    "name_en": "",
+    "lat": 34.2137545,
+    "lng": 133.8861297,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480586517,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいパークみの;大師の湯",
+    "name_en": "",
+    "lat": 34.2261204,
+    "lng": 133.7226941,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480703612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "讃岐路野天風呂 湯屋;琴弾廻廊",
+    "name_en": "",
+    "lat": 34.1302179,
+    "lng": 133.6386403,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480726238,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萩の湯",
+    "name_en": "",
+    "lat": 34.0837244,
+    "lng": 133.658868,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480736327,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たからだの里;環の湯",
+    "name_en": "",
+    "lat": 34.1082423,
+    "lng": 133.796173,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480744879,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鴨島温泉;鴨の湯",
+    "name_en": "",
+    "lat": 34.0630317,
+    "lng": 134.3615357,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480814794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御所の郷",
+    "name_en": "",
+    "lat": 34.1238311,
+    "lng": 134.3536632,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6480823864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三好市 ふれあい紅葉センター　紅葉温泉",
+    "name_en": "",
+    "lat": 34.0579145,
+    "lng": 133.9881476,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6481110169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エピアみかど",
+    "name_en": "",
+    "lat": 34.0950977,
+    "lng": 134.0077974,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 6481126773,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4147,6 +5346,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ワコーミュージアム",
+    "name_en": "",
+    "lat": 34.4982565,
+    "lng": 133.5136461,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 6968291287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天神社",
     "name_en": "",
     "lat": 34.5152762,
@@ -4323,6 +5533,17 @@
     "data_source": "osm"
   },
   {
+    "name": "上桜城跡",
+    "name_en": "",
+    "lat": 34.0535867,
+    "lng": 134.3206965,
+    "category": "castle",
+    "prefecture": "kagawa",
+    "osm_id": 7165213888,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "讃岐輪楽オートバイ神社",
     "name_en": "",
     "lat": 34.2999444,
@@ -4385,6 +5606,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 7206384717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2841603,
+    "lng": 134.2774547,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 7215445915,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4473,6 +5705,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 7525850582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2504489,
+    "lng": 133.5760093,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 7527682348,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4654,12 +5897,45 @@
   },
   {
     "name": "名称不明",
+    "name_en": "Naoshima Public Bath I Love Yu",
+    "lat": 34.4574838,
+    "lng": 133.975527,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 7636216785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松平家物語歴史館",
+    "name_en": "Takamatsu Heike Monogatari History Museum",
+    "lat": 34.3491693,
+    "lng": 134.0679947,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 7694408802,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
     "name_en": "",
     "lat": 34.26796,
     "lng": 133.6795641,
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 7704087704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "K’s LABO",
+    "name_en": "",
+    "lat": 34.3964001,
+    "lng": 133.5371001,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 7759503585,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4990,6 +6266,17 @@
     "category": "station",
     "prefecture": "kagawa",
     "osm_id": 8071445897,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3850048,
+    "lng": 134.1226905,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 8086475078,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5500,6 +6787,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4318067,
+    "lng": 133.7607338,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 8476088872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー銭湯あかね温泉",
+    "name_en": "",
+    "lat": 34.3505547,
+    "lng": 134.0236545,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 8490985332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "良縁社",
     "name_en": "",
     "lat": 34.302873,
@@ -5885,6 +7194,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平尾篤勇美術館",
+    "name_en": "",
+    "lat": 34.3474838,
+    "lng": 134.051703,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 9520699416,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 34.0518467,
@@ -6204,6 +7524,127 @@
     "data_source": "osm"
   },
   {
+    "name": "香川大学博物館",
+    "name_en": "",
+    "lat": 34.343472,
+    "lng": 134.0382589,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 9950690258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4379201,
+    "lng": 133.7915848,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9959519059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5164054,
+    "lng": 134.1630917,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9978821181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4891788,
+    "lng": 134.3458969,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9978854654,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5149189,
+    "lng": 133.967134,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9982577976,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5043876,
+    "lng": 133.964317,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9982588941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4996838,
+    "lng": 133.9660336,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9982588942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4958286,
+    "lng": 133.9662482,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9982588943,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4447,
+    "lng": 133.8133513,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 9983198938,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.429071,
+    "lng": 133.820635,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 10029246985,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.417756,
+    "lng": 134.0572417,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 10039868241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "加茂神社",
     "name_en": "",
     "lat": 34.1241958,
@@ -6211,6 +7652,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 10046189363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "醤の郷現代美術館",
+    "name_en": "Hishionogogendai Museum",
+    "lat": 34.474685,
+    "lng": 134.3179256,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 10047329439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6248,6 +7700,17 @@
     "data_source": "osm"
   },
   {
+    "name": "善通寺市美術館",
+    "name_en": "",
+    "lat": 34.2287489,
+    "lng": 133.7864976,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 10218196226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇閇神社",
     "name_en": "",
     "lat": 34.2221334,
@@ -6266,6 +7729,28 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 10287734736,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カプセルサウナFirst Inn",
+    "name_en": "",
+    "lat": 34.3478111,
+    "lng": 134.0555349,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 10287734738,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "左甚五郎美術館",
+    "name_en": "",
+    "lat": 34.347857,
+    "lng": 134.0515155,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 10296210482,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6325,6 +7810,17 @@
     "data_source": "osm"
   },
   {
+    "name": "漆芸研究所",
+    "name_en": "",
+    "lat": 34.3419211,
+    "lng": 134.0450211,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 10312138967,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.3342416,
@@ -6332,6 +7828,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 10316609124,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多度津港内港東防波堤灯台",
+    "name_en": "",
+    "lat": 34.2758859,
+    "lng": 133.7417101,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 10572706609,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6468,6 +7975,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高松ぽかぽか温泉",
+    "name_en": "",
+    "lat": 34.2924292,
+    "lng": 134.0586027,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 10864273085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝宮",
     "name_en": "Takinomiya",
     "lat": 34.2482745,
@@ -6512,6 +8030,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ACTことひら",
+    "name_en": "",
+    "lat": 34.1890097,
+    "lng": 133.8220529,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 10951142706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯元八千代",
+    "name_en": "",
+    "lat": 34.1885659,
+    "lng": 133.8187433,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 10951142745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2909497,
@@ -6519,6 +8059,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 10963253015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀港昭和町防波堤灯台",
+    "name_en": "",
+    "lat": 34.3048897,
+    "lng": 133.7684577,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 11061363757,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6541,6 +8092,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 11266920747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "円山応挙の絵画",
+    "name_en": "Paintings by Maruyama Okyo",
+    "lat": 34.1839855,
+    "lng": 133.811573,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 11327961801,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6589,6 +8151,17 @@
     "data_source": "osm"
   },
   {
+    "name": "さぬき市へんろ資料館（おへんろ交流サロン）",
+    "name_en": "Sanuki City Henro Museum (Ohenro Exchange Salon)",
+    "lat": 34.2216826,
+    "lng": 134.1741969,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 11534179569,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大師堂",
     "name_en": "",
     "lat": 34.3644384,
@@ -6607,6 +8180,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 11578023295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Herb craft Milos",
+    "name_en": "",
+    "lat": 34.4731221,
+    "lng": 134.2731474,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 11807030351,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6754,6 +8338,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛行場灯台",
+    "name_en": "",
+    "lat": 34.2189668,
+    "lng": 134.0153476,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 12343240893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石清水八幡宮",
     "name_en": "",
     "lat": 34.311854,
@@ -6831,6 +8426,17 @@
     "data_source": "osm"
   },
   {
+    "name": "乃木館",
+    "name_en": "",
+    "lat": 34.2200667,
+    "lng": 133.7821781,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 12642142296,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大山祇神社",
     "name_en": "",
     "lat": 34.1835324,
@@ -6877,11 +8483,77 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.5004466,
+    "lng": 133.6901974,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 12845355054,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5227264,
+    "lng": 133.6907705,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 12846337025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3247538,
+    "lng": 133.8219389,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 12860949160,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "景子ちゃんの接待所",
+    "name_en": "Keiko-chan no ossetai jiyo",
+    "lat": 34.3326308,
+    "lng": 133.9502324,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 12960328068,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.0771157,
     "lng": 133.89966,
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 13064879294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夏子休憩所",
+    "name_en": "",
+    "lat": 34.1354381,
+    "lng": 134.1579624,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 13073626745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4546585,
+    "lng": 133.9051302,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 13135385024,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6915,6 +8587,17 @@
     "category": "station",
     "prefecture": "kagawa",
     "osm_id": 13283078128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Naoshima New Museum of Art",
+    "name_en": "Naoshima New Museum of Art",
+    "lat": 34.4579024,
+    "lng": 133.9987355,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 13347352819,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7040,6 +8723,61 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.411518,
+    "lng": 133.5182592,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 13676987511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3774967,
+    "lng": 133.5479406,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 13680846886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.3962614,
+    "lng": 133.5347682,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 13685057044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Valley Gallery",
+    "name_en": "",
+    "lat": 34.4478989,
+    "lng": 133.9894345,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 13694665448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.390986,
+    "lng": 133.5270649,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 13695895726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "乳保神社",
     "name_en": "",
     "lat": 34.0995719,
@@ -7102,6 +8840,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 56201574,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "せとしるべ（赤灯台）",
+    "name_en": "",
+    "lat": 34.3614841,
+    "lng": 134.0517663,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 59806555,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7194,6 +8943,17 @@
     "data_source": "osm"
   },
   {
+    "name": "讃岐民芸館",
+    "name_en": "Sanuki Folk Art Museum",
+    "lat": 34.3301443,
+    "lng": 134.0449987,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 129037959,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金刀比羅宮",
     "name_en": "Kotohira Shrine",
     "lat": 34.1840227,
@@ -7238,6 +8998,61 @@
     "data_source": "osm"
   },
   {
+    "name": "石の民俗資料館",
+    "name_en": "",
+    "lat": 34.3526746,
+    "lng": 134.1340259,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 188019448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀美術館",
+    "name_en": "Marugame Museum",
+    "lat": 34.2855181,
+    "lng": 133.7693564,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 192657689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Megi House",
+    "name_en": "",
+    "lat": 34.3898639,
+    "lng": 134.0522896,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 229290020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.5367818,
+    "lng": 133.7692783,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 273280187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "笠岡市立カブトガニ博物館",
+    "name_en": "",
+    "lat": 34.4775745,
+    "lng": 133.5212791,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 279699435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本照寺",
     "name_en": "",
     "lat": 34.2896979,
@@ -7256,6 +9071,50 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 300592936,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鴨島温泉;鴨の湯",
+    "name_en": "",
+    "lat": 34.0630796,
+    "lng": 134.3615244,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 311488869,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "阿波土柱の湯",
+    "name_en": "",
+    "lat": 34.0940671,
+    "lng": 134.2117481,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 312008000,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御所の郷",
+    "name_en": "",
+    "lat": 34.1238455,
+    "lng": 134.3536642,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 312010876,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三好市 ふれあい紅葉センター　紅葉温泉",
+    "name_en": "",
+    "lat": 34.0578986,
+    "lng": 133.9881529,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 312152837,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7337,6 +9196,39 @@
     "data_source": "osm"
   },
   {
+    "name": "男木島灯台資料館",
+    "name_en": "Ogijima Lighthouse Museum",
+    "lat": 34.4334974,
+    "lng": 134.0608525,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 330454413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男木島灯台",
+    "name_en": "Ogishima Lighthouse",
+    "lat": 34.4336349,
+    "lng": 134.0607304,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 330454452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松市美術館",
+    "name_en": "Takamatsu City Museum of Art",
+    "lat": 34.3440546,
+    "lng": 134.0492279,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 331774182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "王子神社",
     "name_en": "",
     "lat": 34.0872579,
@@ -7344,6 +9236,50 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 354012720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "癒しの里 さらい",
+    "name_en": "",
+    "lat": 34.321961,
+    "lng": 133.8452976,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 380196484,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "地中美術館",
+    "name_en": "Chichu Art Museum",
+    "lat": 34.4477838,
+    "lng": 133.9848804,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 401738807,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "李禹煥美術館",
+    "name_en": "Lee Ufan Museum",
+    "lat": 34.4490894,
+    "lng": 133.9886985,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 401738808,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春日なごみの湯;湯楽温泉",
+    "name_en": "",
+    "lat": 34.337307,
+    "lng": 134.0844272,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 407955391,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7366,6 +9302,28 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 422803840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "屋島寺宝物館",
+    "name_en": "Yashima Temple Museum",
+    "lat": 34.3577663,
+    "lng": 134.1010316,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 422803841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新屋島水族館",
+    "name_en": "New Yashima Aquarium",
+    "lat": 34.3581028,
+    "lng": 134.0996958,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 422803846,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7458,6 +9416,17 @@
     "data_source": "osm"
   },
   {
+    "name": "笠岡市立竹喬美術館",
+    "name_en": "",
+    "lat": 34.4969506,
+    "lng": 133.5162419,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 440553565,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "創価学会笠岡会館",
     "name_en": "",
     "lat": 34.495883,
@@ -7465,6 +9434,50 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 442057104,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高瀬PA (下り)",
+    "name_en": "Takase Parking Area",
+    "lat": 34.1806425,
+    "lng": 133.7349665,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 443598992,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高瀬PA (上り)",
+    "name_en": "Takase Parking Area",
+    "lat": 34.1813409,
+    "lng": 133.7339786,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 443599465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中湖PA (上り)",
+    "name_en": "",
+    "lat": 34.2743675,
+    "lng": 133.92213,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 443600836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "府中湖PA (下り)",
+    "name_en": "",
+    "lat": 34.2734339,
+    "lng": 133.9225043,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 443602398,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7568,6 +9581,17 @@
     "data_source": "osm"
   },
   {
+    "name": "元気酵素風呂",
+    "name_en": "",
+    "lat": 34.4638757,
+    "lng": 133.8057361,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 461782299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明神社",
     "name_en": "",
     "lat": 34.4624298,
@@ -7590,6 +9614,17 @@
     "data_source": "osm"
   },
   {
+    "name": "渋川動物公園",
+    "name_en": "",
+    "lat": 34.46826,
+    "lng": 133.8943869,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 494324832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇夫階神社",
     "name_en": "",
     "lat": 34.3081615,
@@ -7601,6 +9636,17 @@
     "data_source": "osm"
   },
   {
+    "name": "粟島海洋記念館",
+    "name_en": "",
+    "lat": 34.2684934,
+    "lng": 133.6317634,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 531452300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙音院",
     "name_en": "",
     "lat": 34.3030951,
@@ -7608,6 +9654,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 532430583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仲村城址",
+    "name_en": "",
+    "lat": 34.237446,
+    "lng": 133.770812,
+    "category": "castle",
+    "prefecture": "kagawa",
+    "osm_id": 538148233,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7942,6 +9999,17 @@
     "data_source": "osm"
   },
   {
+    "name": "うたづ海ホタル",
+    "name_en": "",
+    "lat": 34.3134855,
+    "lng": 133.8078604,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 561468605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹽竈神社",
     "name_en": "",
     "lat": 34.5206144,
@@ -7997,6 +10065,17 @@
     "data_source": "osm"
   },
   {
+    "name": "四国健康村",
+    "name_en": "",
+    "lat": 34.3137519,
+    "lng": 133.8112872,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 566008474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "",
     "lat": 34.2627619,
@@ -8004,6 +10083,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 566010464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金陵の郷",
+    "name_en": "",
+    "lat": 34.1878224,
+    "lng": 133.818558,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 566013323,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8063,6 +10153,28 @@
     "data_source": "osm"
   },
   {
+    "name": "岩盤浴;丸亀天照の癒",
+    "name_en": "",
+    "lat": 34.2777435,
+    "lng": 133.7992625,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 568202013,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;あ・くあ",
+    "name_en": "",
+    "lat": 34.250255,
+    "lng": 133.8252266,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 568234703,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "神風神社",
     "name_en": "",
     "lat": 34.0788651,
@@ -8092,6 +10204,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 574949220,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸亀ぽかぽか温泉",
+    "name_en": "",
+    "lat": 34.2746207,
+    "lng": 133.7995803,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 574957450,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8279,6 +10402,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 582922741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おおのはら 萩の湯",
+    "name_en": "",
+    "lat": 34.0836901,
+    "lng": 133.6587064,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 583419715,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8580,6 +10714,17 @@
     "data_source": "osm"
   },
   {
+    "name": "瀬戸内温泉 たまの湯",
+    "name_en": "Setouchi Onsen Tamanoyu",
+    "lat": 34.4930128,
+    "lng": 133.9561814,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 601255014,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "日本第一熊野神社",
     "name_en": "",
     "lat": 34.5400293,
@@ -8646,6 +10791,17 @@
     "data_source": "osm"
   },
   {
+    "name": "讃岐路野天風呂 湯屋;琴弾廻廊",
+    "name_en": "",
+    "lat": 34.1302,
+    "lng": 133.6385366,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 614679787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白鳥神社",
     "name_en": "",
     "lat": 34.2460784,
@@ -8653,6 +10809,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 621132488,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たかせ天然温泉",
+    "name_en": "",
+    "lat": 34.1947738,
+    "lng": 133.7299982,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 621241860,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8734,6 +10901,17 @@
     "data_source": "osm"
   },
   {
+    "name": "三豊市詫間町民俗資料館・考古館",
+    "name_en": "",
+    "lat": 34.2203124,
+    "lng": 133.6748189,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 624778408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "波打八幡神社",
     "name_en": "",
     "lat": 34.219491,
@@ -8741,6 +10919,39 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 624778413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然いやだに温泉;大師の湯",
+    "name_en": "",
+    "lat": 34.2260834,
+    "lng": 133.7226419,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 624778418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "たからだの里;環の湯",
+    "name_en": "",
+    "lat": 34.1082699,
+    "lng": 133.7961801,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 624778426,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊浜郷土資料館",
+    "name_en": "",
+    "lat": 34.0842606,
+    "lng": 133.6437674,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 624963944,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8884,6 +11095,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 626083839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.085012,
+    "lng": 133.6864896,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 626692063,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9053,6 +11275,28 @@
     "data_source": "osm"
   },
   {
+    "name": "水谷公記念館",
+    "name_en": "",
+    "lat": 34.5432662,
+    "lng": 133.6719974,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 654001212,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みなと湯",
+    "name_en": "",
+    "lat": 34.5432879,
+    "lng": 133.6722291,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 654001217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "琴弾八幡宮 本殿",
     "name_en": "",
     "lat": 34.1329443,
@@ -9214,6 +11458,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 655281713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共楽湯",
+    "name_en": "",
+    "lat": 34.1266372,
+    "lng": 133.6502375,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 655666472,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9933,6 +12188,17 @@
     "data_source": "osm"
   },
   {
+    "name": "四国水族館",
+    "name_en": "Shikoku Aquarium",
+    "lat": 34.3123221,
+    "lng": 133.8078314,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 670470323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松之森天神社",
     "name_en": "",
     "lat": 34.1202421,
@@ -10252,6 +12518,61 @@
     "data_source": "osm"
   },
   {
+    "name": "高松ぽかぽか温泉",
+    "name_en": "",
+    "lat": 34.3078624,
+    "lng": 134.0550267,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 675729474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松クレーターの湯;天然温泉きらら",
+    "name_en": "",
+    "lat": 34.2883814,
+    "lng": 134.0306468,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 675739343,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由良里の湯",
+    "name_en": "",
+    "lat": 34.2839993,
+    "lng": 134.095954,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 675739645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かざし温泉",
+    "name_en": "",
+    "lat": 34.267411,
+    "lng": 133.9750006,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 675740495,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ホテル瀬戸大橋;瀬戸大橋スパリゾート",
+    "name_en": "",
+    "lat": 34.4907519,
+    "lng": 133.7710527,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 675807621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍王宮",
     "name_en": "",
     "lat": 34.2219901,
@@ -10285,6 +12606,116 @@
     "data_source": "osm"
   },
   {
+    "name": "サン・オリーブ",
+    "name_en": "",
+    "lat": 34.4733106,
+    "lng": 134.275109,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690259346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "翼山温泉",
+    "name_en": "",
+    "lat": 34.2171413,
+    "lng": 134.3940152,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690658117,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クアタラソ;さぬき津田",
+    "name_en": "",
+    "lat": 34.2836336,
+    "lng": 134.2598579,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690661132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆーとぴあみろく温泉",
+    "name_en": "",
+    "lat": 34.255677,
+    "lng": 134.2429952,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690663297,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春日温泉",
+    "name_en": "",
+    "lat": 34.2813514,
+    "lng": 134.2243212,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690681320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仏生山温泉;天平湯",
+    "name_en": "",
+    "lat": 34.2817675,
+    "lng": 134.04929,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690684703,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岡本荘;椿温泉",
+    "name_en": "",
+    "lat": 34.26631,
+    "lng": 133.9948874,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690692044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "綾川町社会福祉センター;もみじ温泉",
+    "name_en": "",
+    "lat": 34.2184359,
+    "lng": 133.9519969,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690694924,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はくちょう温泉",
+    "name_en": "",
+    "lat": 34.2714894,
+    "lng": 133.9508206,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690696256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あやうた温泉;湯舟道",
+    "name_en": "",
+    "lat": 34.2137915,
+    "lng": 133.8861649,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 690699743,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "素盞鳴神社",
     "name_en": "",
     "lat": 34.5586924,
@@ -10292,6 +12723,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 690965679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福田歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.534153,
+    "lng": 133.761532,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 697589103,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10336,6 +12778,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 700171530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高松城陳列館",
+    "name_en": "",
+    "lat": 34.3499406,
+    "lng": 134.0518513,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 702074402,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10494,6 +12947,17 @@
     "data_source": "osm"
   },
   {
+    "name": "玉島海洋資料館",
+    "name_en": "",
+    "lat": 34.5259752,
+    "lng": 133.6748885,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 727960474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.1844064,
@@ -10501,6 +12965,39 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 729717132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金刀比羅宮博物館",
+    "name_en": "Kotohira Shrine Museum",
+    "lat": 34.1845338,
+    "lng": 133.813192,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 729750825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高橋由一館",
+    "name_en": "Takahashi Yuichi Museum",
+    "lat": 34.1841639,
+    "lng": 133.8122973,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 729750827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Marukin Soy Sauce Factory",
+    "name_en": "Marukin Soy Sauce Factory",
+    "lat": 34.4670899,
+    "lng": 134.3193878,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 735146447,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10545,6 +13042,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 759345821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2658486,
+    "lng": 134.2917347,
+    "category": "rest_area",
+    "prefecture": "kagawa",
+    "osm_id": 759377415,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10604,6 +13112,17 @@
     "data_source": "osm"
   },
   {
+    "name": "引田灯台",
+    "name_en": "",
+    "lat": 34.2345213,
+    "lng": 134.4114204,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 772148343,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第83番札所 一宮寺",
     "name_en": "83 Ichinomiya-ji",
     "lat": 34.2863835,
@@ -10644,6 +13163,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 772896854,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神野郷土館",
+    "name_en": "",
+    "lat": 34.2847169,
+    "lng": 134.245697,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 773794470,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10714,6 +13244,17 @@
     "data_source": "osm"
   },
   {
+    "name": "吉野湯",
+    "name_en": "Yoshino Yu",
+    "lat": 34.3468911,
+    "lng": 134.0567238,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 798878413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝成寺",
     "name_en": "",
     "lat": 34.3468627,
@@ -10732,6 +13273,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 800478961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "左甚五郎美術館(閉館中)",
+    "name_en": "",
+    "lat": 34.3478787,
+    "lng": 134.0515852,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 801008428,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10897,6 +13449,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 825759311,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しろとり動物園",
+    "name_en": "Shirotori Zoo",
+    "lat": 34.2495163,
+    "lng": 134.3840694,
+    "category": "zoo",
+    "prefecture": "kagawa",
+    "osm_id": 827844157,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11330,6 +13893,17 @@
     "data_source": "osm"
   },
   {
+    "name": "讃岐国分寺跡資料館",
+    "name_en": "",
+    "lat": 34.3028292,
+    "lng": 133.9468083,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 902180889,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長明寺",
     "name_en": "",
     "lat": 34.2952922,
@@ -11337,6 +13911,28 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 903997717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さぬき市歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.255198,
+    "lng": 134.2409594,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 906948281,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧恵利家住宅",
+    "name_en": "",
+    "lat": 34.2558605,
+    "lng": 134.2406227,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 906948285,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11550,6 +14146,17 @@
     "data_source": "osm"
   },
   {
+    "name": "海岸寺宝物館",
+    "name_en": "",
+    "lat": 34.2557312,
+    "lng": 133.727174,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 963678359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "屏風ヶ浦海岸寺 奥の院",
     "name_en": "",
     "lat": 34.2539395,
@@ -11568,6 +14175,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 965661821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "妖怪美術館02",
+    "name_en": "",
+    "lat": 34.4851883,
+    "lng": 134.1857019,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 966167850,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11660,6 +14278,28 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土館",
+    "name_en": "",
+    "lat": 34.2861502,
+    "lng": 134.2534253,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 992466785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さぬき市産業資料館",
+    "name_en": "",
+    "lat": 34.2977279,
+    "lng": 134.2475496,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 996210980,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "粟島伊勢神宮",
     "name_en": "",
     "lat": 34.2710041,
@@ -11667,6 +14307,28 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 998752033,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2777539,
+    "lng": 134.2402891,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1002886418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2778638,
+    "lng": 134.2401026,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1002886419,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11726,6 +14388,17 @@
     "data_source": "osm"
   },
   {
+    "name": "速水史朗アトリエ",
+    "name_en": "",
+    "lat": 34.2583425,
+    "lng": 133.7362442,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1015391698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙楽寺",
     "name_en": "Morakuji",
     "lat": 34.3181125,
@@ -11755,6 +14428,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1017415398,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2881995,
+    "lng": 134.2510396,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1026917316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11915,6 +14599,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.2748964,
+    "lng": 134.2977035,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 1080573094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.4752256,
     "lng": 134.2841856,
     "category": "temple",
@@ -12008,6 +14703,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 1098429441,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大角鼻灯台",
+    "name_en": "",
+    "lat": 34.4334685,
+    "lng": 134.3376205,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1099788948,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12386,6 +15092,17 @@
     "data_source": "osm"
   },
   {
+    "name": "丸亀平井美術館",
+    "name_en": "",
+    "lat": 34.301319,
+    "lng": 133.8052309,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1127515332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "神石神社",
     "name_en": "",
     "lat": 34.3095954,
@@ -12628,6 +15345,17 @@
     "data_source": "osm"
   },
   {
+    "name": "海の科学館",
+    "name_en": "Kotohira Marine Museum",
+    "lat": 34.1863271,
+    "lng": 133.8178295,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1160847109,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "えびす神社",
     "name_en": "",
     "lat": 34.3516754,
@@ -12668,6 +15396,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 1165909589,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹽竈記念館",
+    "name_en": "",
+    "lat": 34.31816,
+    "lng": 133.8345724,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1165909590,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12734,6 +15473,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1169222377,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "少林寺拳法発祥の地記念館",
+    "name_en": "",
+    "lat": 34.2719994,
+    "lng": 133.7500969,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1169282726,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13442,6 +16192,17 @@
     "data_source": "osm"
   },
   {
+    "name": "壺井栄文学館",
+    "name_en": "",
+    "lat": 34.4455219,
+    "lng": 134.2850739,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1220669338,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "二十四の瞳天満宮",
     "name_en": "",
     "lat": 34.445157,
@@ -13585,6 +16346,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2618441,
+    "lng": 133.5579124,
+    "category": "lighthouse",
+    "prefecture": "kagawa",
+    "osm_id": 1236220170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "柏木神社",
     "name_en": "",
     "lat": 34.1235354,
@@ -13647,6 +16419,17 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 1246791577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "灸まん美術館",
+    "name_en": "",
+    "lat": 34.1995898,
+    "lng": 133.8116862,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1250754777,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13724,6 +16507,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1266221150,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.2267468,
+    "lng": 133.7783334,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 1266392019,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13915,6 +16709,17 @@
     "data_source": "osm"
   },
   {
+    "name": "自然生態展示館",
+    "name_en": "",
+    "lat": 34.1617815,
+    "lng": 133.8911779,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1314166926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福の宮神社",
     "name_en": "",
     "lat": 34.3070802,
@@ -13992,6 +16797,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ベネッセアートサイト直島",
+    "name_en": "Benesse House Museum",
+    "lat": 34.4452276,
+    "lng": 133.9906582,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1357191882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "智光院の湯",
+    "name_en": "",
+    "lat": 34.1874437,
+    "lng": 133.8187248,
+    "category": "onsen",
+    "prefecture": "kagawa",
+    "osm_id": 1371041621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.2024947,
@@ -13999,6 +16826,17 @@
     "category": "temple",
     "prefecture": "kagawa",
     "osm_id": 1408257517,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.4550654,
+    "lng": 133.9053314,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1428895669,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14021,6 +16859,28 @@
     "category": "shrine",
     "prefecture": "kagawa",
     "osm_id": 1457057969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Naoshima Neew Museum of Art",
+    "name_en": "",
+    "lat": 34.4579541,
+    "lng": 133.9987053,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1465161307,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊島美術館",
+    "name_en": "Teshima Art Museum",
+    "lat": 34.4899484,
+    "lng": 134.0910861,
+    "category": "museum",
+    "prefecture": "kagawa",
+    "osm_id": 1466139467,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

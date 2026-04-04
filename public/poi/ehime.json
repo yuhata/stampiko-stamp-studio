@@ -506,6 +506,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5040961,
+    "lng": 133.5581136,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 564443271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第50番札所 繁多寺 (Hanta-ji)",
     "name_en": "Hantaji Temple (Temple 50)",
     "lat": 33.827983,
@@ -524,6 +535,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 608402737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山城",
+    "name_en": "Matsuyama Castle",
+    "lat": 33.845651,
+    "lng": 132.7657463,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 611661255,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -605,6 +627,28 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴御崎灯台",
+    "name_en": "Tsurumisaki Lighthouse",
+    "lat": 32.9325046,
+    "lng": 132.0828014,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 929170638,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7970867,
+    "lng": 132.8401186,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 1025003132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "第32番札所 禅師峰寺(Zenjibu-ji)",
     "name_en": "32 Zenjibu-ji",
     "lat": 33.5267092,
@@ -649,6 +693,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0585335,
+    "lng": 133.0981573,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1223939273,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ナガセ鼻灯台",
+    "name_en": "",
+    "lat": 34.1181303,
+    "lng": 132.9960891,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1223939285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1182723,
+    "lng": 132.8925821,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1223939294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八島灯台",
+    "name_en": "",
+    "lat": 33.7136377,
+    "lng": 132.1341096,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1223939418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上母神社",
     "name_en": "",
     "lat": 33.4525933,
@@ -671,6 +759,798 @@
     "data_source": "osm"
   },
   {
+    "name": "倉橋歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.1021262,
+    "lng": 132.5128107,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423628551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長門の造船歴史館",
+    "name_en": "",
+    "lat": 34.09999,
+    "lng": 132.513521,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423647373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周防大島文化交流センター",
+    "name_en": "",
+    "lat": 33.9080855,
+    "lng": 132.355242,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423654557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周防大島町久賀歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.944937,
+    "lng": 132.272673,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423654558,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "周防大島町立なぎさ水族館",
+    "name_en": "",
+    "lat": 33.951268,
+    "lng": 132.437912,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 1423654565,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "商家博物館・むろやの園",
+    "name_en": "",
+    "lat": 33.968457,
+    "lng": 132.109186,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423654595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大島歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.951079,
+    "lng": 132.183977,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423654739,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国学校教育資料館",
+    "name_en": "",
+    "lat": 34.164151,
+    "lng": 132.184045,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423656103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平生町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.939715,
+    "lng": 132.068991,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423657559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平生町民具館",
+    "name_en": "",
+    "lat": 33.939715,
+    "lng": 132.068991,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423657560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本ハワイ移民資料館",
+    "name_en": "",
+    "lat": 33.921282,
+    "lng": 132.20014,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423658336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "月性展示館",
+    "name_en": "",
+    "lat": 33.957589,
+    "lng": 132.14654,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423658396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由宇歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.017637,
+    "lng": 132.217098,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423659885,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ミウラート・ヴィレッジ（三浦美術館）",
+    "name_en": "",
+    "lat": 33.898554,
+    "lng": 132.753643,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423706540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上黒岩岩陰遺跡考古館",
+    "name_en": "",
+    "lat": 33.6178272,
+    "lng": 132.9603091,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423707002,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万美術館",
+    "name_en": "",
+    "lat": 33.662004,
+    "lng": 132.906867,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423707323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万高原ふるさと旅行村内久万町立山村歴史館",
+    "name_en": "",
+    "lat": 33.672986,
+    "lng": 132.937985,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423707325,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乗松巖記念館「エスパス２１」",
+    "name_en": "",
+    "lat": 33.833246,
+    "lng": 132.780479,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423707362,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乗禅寺宝物館",
+    "name_en": "",
+    "lat": 34.0718893,
+    "lng": 132.9590525,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423707363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五十崎凧博物館",
+    "name_en": "",
+    "lat": 33.539742,
+    "lng": 132.656661,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423729711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五十崎歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.544166,
+    "lng": 132.656871,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423729724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治城",
+    "name_en": "Imabari Castle",
+    "lat": 34.0633765,
+    "lng": 133.0068513,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市朝倉ふるさと美術古墳館",
+    "name_en": "",
+    "lat": 33.99976,
+    "lng": 133.007538,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村上水軍博物館",
+    "name_en": "Murakami Kaizoku Museum",
+    "lat": 34.1688899,
+    "lng": 133.0876143,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市河野美術館",
+    "name_en": "",
+    "lat": 34.062772,
+    "lng": 132.998931,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市玉川近代美術館（徳生記念館）",
+    "name_en": "",
+    "lat": 34.0220106,
+    "lng": 132.9445575,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730152,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今治市菊間町かわら館",
+    "name_en": "",
+    "lat": 34.0321903,
+    "lng": 132.8410351,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730166,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊方町町見郷土館",
+    "name_en": "",
+    "lat": 33.46935,
+    "lng": 132.294561,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730497,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐川町立青山文庫",
+    "name_en": "",
+    "lat": 33.4977846,
+    "lng": 133.2887416,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡浜市民ギャラリー・郷土資料室",
+    "name_en": "",
+    "lat": 33.4582779,
+    "lng": 132.4255882,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423730847,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "別子銅山記念館",
+    "name_en": "Besshi Copper Mine Memorial Museum",
+    "lat": 33.92131,
+    "lng": 133.3093248,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423731025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北条鹿島博物展示館",
+    "name_en": "",
+    "lat": 33.9740926,
+    "lng": 132.766197,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423731201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十市立郷土資料館",
+    "name_en": "",
+    "lat": 32.9969402,
+    "lng": 132.930622,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423731922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土佐山内家宝物資料館",
+    "name_en": "",
+    "lat": 33.5553684,
+    "lng": 133.5312644,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423732303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲市河辺歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.5109546,
+    "lng": 132.7951415,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733302,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲市立博物館",
+    "name_en": "",
+    "lat": 33.5137327,
+    "lng": 132.546179,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大西藤山歴史資料館",
+    "name_en": "",
+    "lat": 34.059988,
+    "lng": 132.929182,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和先哲記念館",
+    "name_en": "",
+    "lat": 33.362861,
+    "lng": 132.515465,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和島市立歴史資料館",
+    "name_en": "",
+    "lat": 33.226452,
+    "lng": 132.554664,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.364209,
+    "lng": 132.513604,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和民具館",
+    "name_en": "",
+    "lat": 33.363916,
+    "lng": 132.513942,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733858,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和米博物館",
+    "name_en": "",
+    "lat": 33.368208,
+    "lng": 132.512223,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423733874,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宿毛市立宿毛歴史館",
+    "name_en": "",
+    "lat": 32.938777,
+    "lng": 132.730371,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423734251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄薬師堂",
+    "name_en": "",
+    "lat": 33.974574,
+    "lng": 132.804607,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423737357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛文華館",
+    "name_en": "",
+    "lat": 34.0643507,
+    "lng": 133.0051139,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423737706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛民芸館",
+    "name_en": "",
+    "lat": 33.919786,
+    "lng": 133.1795902,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423737710,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県歴史文化博物館",
+    "name_en": "",
+    "lat": 33.363945,
+    "lng": 132.518216,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423737734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "春野町立郷土資料館",
+    "name_en": "",
+    "lat": 33.4997193,
+    "lng": 133.4885182,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423738402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山城",
+    "name_en": "",
+    "lat": 33.8455983,
+    "lng": 132.7659376,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北条ふるさと館",
+    "name_en": "",
+    "lat": 33.958673,
+    "lng": 132.78024,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山市立中島歴史民俗資料館懐古館",
+    "name_en": "",
+    "lat": 33.973359,
+    "lng": 132.594528,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739405,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山市立子規記念博物館",
+    "name_en": "Shiki Memorial Museum",
+    "lat": 33.849701,
+    "lng": 132.787045,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "梅山古陶資料館",
+    "name_en": "",
+    "lat": 33.729903,
+    "lng": 132.786681,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "檮原町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.391313,
+    "lng": 132.927127,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423739942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯築城資料館",
+    "name_en": "Yuzuji-jo Museum",
+    "lat": 33.848147,
+    "lng": 132.785669,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423740447,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "肱川風の博物館・歌麿館",
+    "name_en": "",
+    "lat": 33.447215,
+    "lng": 132.693317,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芝不器男記念館",
+    "name_en": "",
+    "lat": 33.227147,
+    "lng": 132.708182,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "虹の森公園四万十川学習センターおさかな館",
+    "name_en": "",
+    "lat": 33.2293438,
+    "lng": 132.7104239,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 1423743648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西予市明浜歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.313489,
+    "lng": 132.4426,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西予市立ギャラリーしろかわ",
+    "name_en": "",
+    "lat": 33.379411,
+    "lng": 132.751639,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西予市立城川歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.380208,
+    "lng": 132.751546,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条市こどもの国",
+    "name_en": "",
+    "lat": 33.922853,
+    "lng": 133.180692,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条市立東予郷土館",
+    "name_en": "",
+    "lat": 33.927685,
+    "lng": 133.081704,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条市立西条郷土博物館",
+    "name_en": "",
+    "lat": 33.919617,
+    "lng": 133.179638,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条市考古歴史館",
+    "name_en": "",
+    "lat": 33.8995683,
+    "lng": 133.197458,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423743878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "観音寺市ちょうさ会館",
+    "name_en": "",
+    "lat": 34.084542,
+    "lng": 133.644106,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423744038,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豊浜郷土資料館",
+    "name_en": "",
+    "lat": 34.0842683,
+    "lng": 133.6437499,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423744269,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "開明学校",
+    "name_en": "",
+    "lat": 33.36446,
+    "lng": 132.513825,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423744734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立龍馬の生まれたまち記念館",
+    "name_en": "",
+    "lat": 33.556407,
+    "lng": 133.524589,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423747784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県懐徳館",
+    "name_en": "",
+    "lat": 33.5606603,
+    "lng": 133.531502,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423748051,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.5960448,
+    "lng": 133.6234897,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423748112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼北町歴史民俗資料館",
+    "name_en": "",
+    "lat": 33.335175,
+    "lng": 132.798039,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1423748456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5643095,
@@ -689,6 +1569,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1626243415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海洋堂ホビー館四万十",
+    "name_en": "Kayodo Hobby Museum",
+    "lat": 33.1530096,
+    "lng": 133.0449105,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1746665094,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -748,6 +1639,17 @@
     "data_source": "osm"
   },
   {
+    "name": "庚申庵",
+    "name_en": "",
+    "lat": 33.843634,
+    "lng": 132.754876,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 2305741706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄土宗 大林寺",
     "name_en": "",
     "lat": 33.84522,
@@ -755,6 +1657,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 2305791301,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一草庵",
+    "name_en": "Issōan",
+    "lat": 33.853954,
+    "lng": 132.771832,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 2306291341,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -876,6 +1789,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 2399946658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊吹島民俗資料館",
+    "name_en": "",
+    "lat": 34.1283399,
+    "lng": 133.5373709,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 2399956335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯築城",
+    "name_en": "Yuzuki  Castle",
+    "lat": 33.8480881,
+    "lng": 132.7867746,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 2460130038,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1041,6 +1976,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 2819874596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0699596,
+    "lng": 132.5392044,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 2819874597,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1349,6 +2295,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 2819877825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1488731,
+    "lng": 132.4940744,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 2819877826,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2651,6 +3608,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0744183,
+    "lng": 133.0059091,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3051342595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ウズ鼻灯台",
+    "name_en": "",
+    "lat": 34.1125211,
+    "lng": 132.9910984,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3051342596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "海津見神社 (龍王宮)",
     "name_en": "",
     "lat": 33.4955971,
@@ -2662,6 +3641,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9536765,
+    "lng": 132.474016,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3074371593,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クダコ島",
+    "name_en": "Kudako Sima",
+    "lat": 33.9691392,
+    "lng": 132.5640468,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3074371595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由宇温泉",
+    "name_en": "",
+    "lat": 34.0299731,
+    "lng": 132.1658505,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 3186060461,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "中組地蔵堂",
     "name_en": "Nakagumi Jizodo Temple",
     "lat": 33.8330725,
@@ -2669,6 +3681,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 3234622384,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7649141,
+    "lng": 132.2544592,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041007,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2702,6 +3725,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 3412041010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7816717,
+    "lng": 132.2589054,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041012,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2752,6 +3786,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.8479314,
+    "lng": 132.1824253,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.850965,
     "lng": 132.3646555,
     "category": "temple",
@@ -2779,6 +3824,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3412041025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8591991,
+    "lng": 132.3605559,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041026,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2950,6 +4006,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.8856055,
+    "lng": 132.3326319,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.8857186,
     "lng": 132.3307301,
     "category": "shrine",
@@ -3043,6 +4110,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 3412041052,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8996124,
+    "lng": 132.2828169,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041053,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3434,6 +4512,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.931509,
+    "lng": 132.4353676,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.9336389,
     "lng": 132.4357091,
     "category": "shrine",
@@ -3588,6 +4677,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.9450281,
+    "lng": 132.4403696,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041316,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.9451503,
     "lng": 132.1658871,
     "category": "shrine",
@@ -3676,11 +4776,66 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.9495057,
+    "lng": 132.2652954,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041327,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.9535059,
     "lng": 132.2128906,
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3412041330,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9540427,
+    "lng": 132.1772019,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9545232,
+    "lng": 132.1836183,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041332,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.955713,
+    "lng": 132.2829803,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041334,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9562304,
+    "lng": 132.1749474,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041336,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3725,6 +4880,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3412041341,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9615451,
+    "lng": 132.3479241,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041342,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9693106,
+    "lng": 132.5796001,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041344,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3808,11 +4985,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 34.0213073,
+    "lng": 132.4224429,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041362,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0289594,
+    "lng": 132.5548525,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 34.0353279,
     "lng": 132.3855375,
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3412041368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0707371,
+    "lng": 132.7107973,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3412041382,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4257,6 +5467,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9706347,
+    "lng": 132.1010924,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3928430411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宗安寺",
     "name_en": "",
     "lat": 33.5713181,
@@ -4264,6 +5485,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 3946233340,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4432612,
+    "lng": 133.4569824,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3950127800,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4292,11 +5524,33 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4440978,
+    "lng": 133.4548868,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3954003290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4456333,
     "lng": 133.43695,
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3954003372,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白ノ鼻燈台",
+    "name_en": "",
+    "lat": 33.4304222,
+    "lng": 133.4618491,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3957029655,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4312,6 +5566,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5009906,
+    "lng": 133.5831189,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3968913333,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若宮八幡宮",
     "name_en": "",
     "lat": 33.494949,
@@ -4319,6 +5584,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 3968917096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知灯台",
+    "name_en": "",
+    "lat": 33.4961593,
+    "lng": 133.572982,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 3968917098,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4374,6 +5650,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 4073548511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8732796,
+    "lng": 133.4710836,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4080906120,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4510,6 +5797,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石城の里三国志城",
+    "name_en": "",
+    "lat": 33.9917942,
+    "lng": 132.024856,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4360862691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石城神社",
     "name_en": "",
     "lat": 33.9874424,
@@ -4517,6 +5815,39 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 4360872791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海来館",
+    "name_en": "",
+    "lat": 33.8305388,
+    "lng": 132.1124419,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4373971893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8453836,
+    "lng": 132.532342,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4375291398,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星野哲郎記念館",
+    "name_en": "",
+    "lat": 33.9077543,
+    "lng": 132.3546004,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4406284409,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4631,6 +5962,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9452837,
+    "lng": 132.457999,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4499197712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝宮神社",
     "name_en": "",
     "lat": 34.1348084,
@@ -4638,6 +5980,61 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 4504433958,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1238426,
+    "lng": 133.6316912,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4504434587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.124557,
+    "lng": 133.6309407,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4504434588,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1232336,
+    "lng": 133.6292992,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4504477789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.123943,
+    "lng": 133.532001,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4504477814,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1334247,
+    "lng": 133.5356166,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4504477835,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4660,6 +6057,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 4504477886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛大学ミュージアム",
+    "name_en": "",
+    "lat": 33.8499023,
+    "lng": 132.7714711,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4523600452,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4831,6 +6239,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.7298875,
+    "lng": 132.1428355,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4729050251,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.7522707,
     "lng": 132.1462929,
     "category": "shrine",
@@ -4869,6 +6288,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 4729050276,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0237887,
+    "lng": 132.4216922,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4761805901,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4930,6 +6360,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.9011676,
+    "lng": 132.034653,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4859781020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.876945,
     "lng": 132.0647326,
     "category": "temple",
@@ -4968,6 +6409,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 4864161707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7357898,
+    "lng": 132.4771759,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4864161712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "釣島灯台",
+    "name_en": "",
+    "lat": 33.8930081,
+    "lng": 132.6387548,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 4874307507,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5027,6 +6490,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宇和文化会館",
+    "name_en": "",
+    "lat": 33.361599,
+    "lng": 132.5118487,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4957749321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "素鷲神社",
     "name_en": "",
     "lat": 33.8007357,
@@ -5060,6 +6534,17 @@
     "data_source": "osm"
   },
   {
+    "name": "民芸伊予かすり会館",
+    "name_en": "",
+    "lat": 33.8566882,
+    "lng": 132.7437328,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 4987455021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 34.1524784,
@@ -5089,6 +6574,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 5001104418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中渡島灯台",
+    "name_en": "",
+    "lat": 34.1178923,
+    "lng": 133.0016803,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 5001121336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "来島洲ノ崎灯台",
+    "name_en": "",
+    "lat": 34.1216644,
+    "lng": 132.9926152,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 5001149886,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5166,6 +6673,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 5089656735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Kochi Yosakoi Info exchange center",
+    "lat": 33.5599764,
+    "lng": 133.5448927,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 5099545222,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5276,6 +6794,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 5343910559,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "朝倉城址",
+    "name_en": "",
+    "lat": 33.5492768,
+    "lng": 133.4800237,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 5348708708,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5808,6 +7337,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浦戸城跡",
+    "name_en": "",
+    "lat": 33.4978995,
+    "lng": 133.5724847,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 5379614951,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金刀比羅宮",
     "name_en": "",
     "lat": 33.5478056,
@@ -5815,6 +7355,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 5380097105,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坊ちゃん列車ミュージアム",
+    "name_en": "",
+    "lat": 33.8355777,
+    "lng": 132.7641605,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 5388280722,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6006,6 +7557,17 @@
     "data_source": "osm"
   },
   {
+    "name": "黄金湯",
+    "name_en": "",
+    "lat": 34.0639043,
+    "lng": 133.0047594,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 5472500516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "梅原八幡宮",
     "name_en": "",
     "lat": 33.5542287,
@@ -6046,6 +7608,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 5487723535,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "行川城址",
+    "name_en": "",
+    "lat": 33.5849531,
+    "lng": 133.4591702,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 5488047073,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6281,6 +7854,17 @@
     "data_source": "osm"
   },
   {
+    "name": "周防大島町立陸奥記念館",
+    "name_en": "",
+    "lat": 33.9506337,
+    "lng": 132.4375258,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 5585712103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊吹八幡神社",
     "name_en": "",
     "lat": 34.1284126,
@@ -6391,6 +7975,39 @@
     "data_source": "osm"
   },
   {
+    "name": "ぎやまんガラス美術館",
+    "name_en": "Giyaman Glass Museum",
+    "lat": 33.8546568,
+    "lng": 132.7854991,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 5635161098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1134081,
+    "lng": 132.0276725,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 5677576696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9675699,
+    "lng": 132.0721556,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 5679142543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 32.9639367,
@@ -6413,6 +8030,17 @@
     "data_source": "osm"
   },
   {
+    "name": "垣生城跡",
+    "name_en": "Habu-jo Castle Ruins",
+    "lat": 33.8364387,
+    "lng": 132.7148907,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 5701073691,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "一之宮神社",
     "name_en": "",
     "lat": 33.5180497,
@@ -6431,6 +8059,50 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 5804125023,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.6984182,
+    "lng": 132.8758089,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 5927935186,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0814569,
+    "lng": 133.6305928,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 5940159201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡文化ステーションRIO",
+    "name_en": "Kagami onsen",
+    "lat": 33.602655,
+    "lng": 133.4738029,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 5957384387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Sansuien onsen",
+    "lat": 33.5561037,
+    "lng": 133.5340312,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 5957384388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6530,6 +8202,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 5977080134,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "別子温泉～天空の湯～",
+    "name_en": "",
+    "lat": 33.9011173,
+    "lng": 133.309332,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6026617980,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6794,6 +8477,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 6156897285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Kizuke no Yu",
+    "lat": 34.0626857,
+    "lng": 132.9926348,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6175068199,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7161,6 +8855,116 @@
     "data_source": "osm"
   },
   {
+    "name": "桂浜温泉館",
+    "name_en": "",
+    "lat": 34.1019866,
+    "lng": 132.5124166,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6466547572,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ファミリー温泉;湯川",
+    "name_en": "",
+    "lat": 33.582679,
+    "lng": 133.5135795,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6478043112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅 土佐和紙工芸村;くらうどクアハウス",
+    "name_en": "",
+    "lat": 33.5736149,
+    "lng": 133.3662826,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6478135975,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑田山温泉",
+    "name_en": "",
+    "lat": 33.4312495,
+    "lng": 133.2800586,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6478672853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津島やすらぎの里",
+    "name_en": "",
+    "lat": 33.139696,
+    "lng": 132.520381,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6479541833,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森の国 ぽっぽ温泉",
+    "name_en": "",
+    "lat": 33.2283963,
+    "lng": 132.7084336,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6479581996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "游の里温泉;ユートピア宇和",
+    "name_en": "",
+    "lat": 33.358453,
+    "lng": 132.6171246,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6479594254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "讃岐路野天風呂 湯屋;琴弾廻廊",
+    "name_en": "",
+    "lat": 34.1302179,
+    "lng": 133.6386403,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6480726238,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふもと温泉;友愛館",
+    "name_en": "",
+    "lat": 33.7147208,
+    "lng": 132.9496981,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6481798135,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9204887,
+    "lng": 133.0782105,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6518601586,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "土佐神社離宮",
     "name_en": "",
     "lat": 33.5498033,
@@ -7168,6 +8972,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 6564392287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊予の湯治場;喜助の湯",
+    "name_en": "",
+    "lat": 33.841041,
+    "lng": 132.7528122,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6566820445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アウトドアヴィレッジ本山;れいほくの湯（座標誤差あり）",
+    "name_en": "",
+    "lat": 33.7586643,
+    "lng": 133.5942945,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 6570465597,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7898,6 +9724,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3849165,
+    "lng": 133.2832766,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 6853394171,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝厳寺",
     "name_en": "Hogonji Temple",
     "lat": 33.8516618,
@@ -8591,6 +10428,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2755573,
+    "lng": 132.4761274,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7207345539,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "行山神社",
     "name_en": "",
     "lat": 33.3338631,
@@ -8866,6 +10714,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0033471,
+    "lng": 133.533478,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7400165428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0059137,
+    "lng": 133.5360523,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7400165435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "",
     "lat": 33.2832313,
@@ -8895,6 +10765,17 @@
     "category": "station",
     "prefecture": "ehime",
     "osm_id": 7733520880,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花見山城",
+    "name_en": "",
+    "lat": 33.9000114,
+    "lng": 132.7526711,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 7746301473,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9647,6 +11528,50 @@
     "data_source": "osm"
   },
   {
+    "name": "吉海港津倉防波堤灯台",
+    "name_en": "",
+    "lat": 34.1560288,
+    "lng": 133.0336456,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7880694872,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜神島灯台",
+    "name_en": "",
+    "lat": 34.104355,
+    "lng": 133.0275605,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7888235274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条市 食の創造館",
+    "name_en": "",
+    "lat": 33.9296119,
+    "lng": 133.0859141,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 7926374787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小浦崎灯台",
+    "name_en": "",
+    "lat": 34.1187141,
+    "lng": 132.9893283,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 7931652070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大元神社",
     "name_en": "",
     "lat": 33.5857829,
@@ -9852,6 +11777,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 8071499345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山崎鼻灯台",
+    "name_en": "",
+    "lat": 33.382386,
+    "lng": 133.2905098,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 8076682317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3835157,
+    "lng": 133.2894252,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 8076682318,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10164,6 +12111,17 @@
     "data_source": "osm"
   },
   {
+    "name": "歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.0207711,
+    "lng": 132.9999198,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 8253421089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三島神社",
     "name_en": "",
     "lat": 34.0193874,
@@ -10171,6 +12129,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 8253565963,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0351375,
+    "lng": 133.0391316,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 8253592570,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10197,6 +12166,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本町温泉",
+    "name_en": "",
+    "lat": 34.0733773,
+    "lng": 132.9989921,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 8289886846,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "毘沙門天",
     "name_en": "",
     "lat": 34.0565625,
@@ -10219,6 +12199,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鯉池湯",
+    "name_en": "",
+    "lat": 34.0534377,
+    "lng": 132.9898193,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 8296072674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石清水八幡神社",
     "name_en": "",
     "lat": 34.031362,
@@ -10237,6 +12228,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 8300556404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "せせらぎ交流館",
+    "name_en": "",
+    "lat": 33.9847381,
+    "lng": 132.9404299,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 8321442525,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10791,6 +12793,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宝来温泉",
+    "name_en": "",
+    "lat": 34.0630655,
+    "lng": 132.9961527,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 8396825483,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山の神様",
     "name_en": "",
     "lat": 33.4387182,
@@ -11073,6 +13086,193 @@
     "category": "station",
     "prefecture": "ehime",
     "osm_id": 9002659764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0338225,
+    "lng": 133.0533278,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044202375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0100479,
+    "lng": 133.0126856,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044202823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.011407,
+    "lng": 133.0113928,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044203030,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.0115009,
+    "lng": 133.0168471,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044203035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.2795412,
+    "lng": 133.248018,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044519522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3749811,
+    "lng": 133.2885227,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044585689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9188748,
+    "lng": 132.5004756,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9044638923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1276568,
+    "lng": 132.4961049,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9061446775,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8674723,
+    "lng": 132.7074747,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9130492956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.8680147,
+    "lng": 132.6986535,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9130493071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9740585,
+    "lng": 132.5134194,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9132388544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9355354,
+    "lng": 132.6073923,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9132388800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9747044,
+    "lng": 132.6866857,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9138574878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.972651,
+    "lng": 132.6336985,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9138574913,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9534814,
+    "lng": 132.1378987,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9148544345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9519141,
+    "lng": 132.1379591,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9148544359,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9514824,
+    "lng": 132.1344169,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9148544360,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11502,6 +13702,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 9855514607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4479593,
+    "lng": 133.4500893,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 9873909027,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11979,6 +14190,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ナニワサウナ",
+    "name_en": "",
+    "lat": 34.066605,
+    "lng": 132.9940609,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 10556681595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "住吉大明神",
     "name_en": "",
     "lat": 33.4297494,
@@ -12188,6 +14410,105 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9746917,
+    "lng": 133.2474336,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633663828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9737885,
+    "lng": 133.2369482,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633663829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港垣生埼灯台",
+    "name_en": "",
+    "lat": 33.9940048,
+    "lng": 133.3207986,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633663830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9550139,
+    "lng": 133.1120835,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633766625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9569251,
+    "lng": 133.1108191,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633766634,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0649457,
+    "lng": 133.0203476,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633766647,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9739173,
+    "lng": 133.514087,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633869245,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0234989,
+    "lng": 133.5723697,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633869274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.028178,
+    "lng": 133.5709018,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 10633869288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "御茶屋観音堂",
     "name_en": "",
     "lat": 33.9494133,
@@ -12371,6 +14692,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 10673975133,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜市美術館",
+    "name_en": "",
+    "lat": 33.9495413,
+    "lng": 133.2952464,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 10675926464,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12650,6 +14982,50 @@
     "data_source": "osm"
   },
   {
+    "name": "海洋堂かっぱ館",
+    "name_en": "Kayodo Kappa Museum",
+    "lat": 33.1625581,
+    "lng": 133.0380991,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 10814207005,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Sora-no-sanpomichi",
+    "lat": 33.851673,
+    "lng": 132.7867497,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 10836417472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後放生園足湯",
+    "name_en": "",
+    "lat": 33.8506767,
+    "lng": 132.7855305,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 10836417476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛道後足湯カフェ 坊っちゃん",
+    "name_en": "Ashiyu Cafe Botchan Dogo Ehime",
+    "lat": 33.8523241,
+    "lng": 132.7860396,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 10836417487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "波賀部神社",
     "name_en": "",
     "lat": 33.7968249,
@@ -12870,6 +15246,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5693358,
+    "lng": 133.5483969,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 11085357319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "保福寺",
     "name_en": "",
     "lat": 33.1665116,
@@ -12877,6 +15264,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 11234083282,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八日市護国町並保存センター",
+    "name_en": "Yokaichi/Gokoku Townscape Preservation Center",
+    "lat": 33.5588628,
+    "lng": 132.6545916,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 11331559438,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12892,6 +15290,17 @@
     "data_source": "osm"
   },
   {
+    "name": "内子歴史民俗資料館・商いと暮らし博物館",
+    "name_en": "Museum of Historical Commerce and Life",
+    "lat": 33.5522277,
+    "lng": 132.6526236,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 11331800857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3864972,
@@ -12899,6 +15308,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 11370723164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4373896,
+    "lng": 133.4325202,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 11374684769,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13053,6 +15473,39 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 11893708808,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港多喜浜西防波堤灯台",
+    "name_en": "",
+    "lat": 33.9930195,
+    "lng": 133.3339503,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 11901818355,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港多喜浜東防波堤灯台",
+    "name_en": "",
+    "lat": 33.9924527,
+    "lng": 133.3360838,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 11901818356,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港沢津沖防波堤西灯台",
+    "name_en": "",
+    "lat": 33.9856728,
+    "lng": 133.291166,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 11901818357,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13372,6 +15825,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 12029596902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和島市立伊達博物館",
+    "name_en": "",
+    "lat": 33.2159805,
+    "lng": 132.562659,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 12035283135,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14137,6 +16601,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.2311988,
+    "lng": 132.8468983,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 12252928307,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.2181952,
     "lng": 132.8493713,
     "category": "shrine",
@@ -14806,6 +17281,17 @@
     "data_source": "osm"
   },
   {
+    "name": "城山郷土館",
+    "name_en": "",
+    "lat": 33.2206068,
+    "lng": 132.5643054,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 12386244637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "一宮神社",
     "name_en": "",
     "lat": 33.1530743,
@@ -14813,6 +17299,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 12387514342,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "能登崎灯台",
+    "name_en": "",
+    "lat": 33.1558226,
+    "lng": 132.4242545,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12389387719,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14830,11 +17327,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.2257962,
+    "lng": 132.5502295,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12409245460,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牛鬼館",
+    "name_en": "",
+    "lat": 33.2220512,
+    "lng": 132.5579225,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 12409245499,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.1986362,
     "lng": 132.5426741,
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 12424848499,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "頭崎灯台",
+    "name_en": "",
+    "lat": 33.9264434,
+    "lng": 132.7019926,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12428707869,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14846,6 +17376,39 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 12459065423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9660399,
+    "lng": 132.6971841,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12561082524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9514123,
+    "lng": 132.6750129,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12561082535,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7774797,
+    "lng": 132.3930377,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12561082544,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14927,6 +17490,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.3886808,
+    "lng": 132.1195915,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 12709591091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高野寺",
     "name_en": "",
     "lat": 33.5582014,
@@ -14934,6 +17508,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 12725573699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Matsuyama Castle",
+    "name_en": "",
+    "lat": 33.844972,
+    "lng": 132.7659941,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 12827570072,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15125,6 +17710,17 @@
     "data_source": "osm"
   },
   {
+    "name": "阿多田交流館",
+    "name_en": "",
+    "lat": 33.9131243,
+    "lng": 132.0563515,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 12998453295,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白鳥神社",
     "name_en": "",
     "lat": 33.8967924,
@@ -15220,6 +17816,39 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 13168672528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9295081,
+    "lng": 132.9622768,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 13172298801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5704602,
+    "lng": 132.7062637,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 13174830601,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.7210496,
+    "lng": 132.84744,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 13176324701,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15323,6 +17952,17 @@
     "data_source": "osm"
   },
   {
+    "name": "わんぱーくこうちアニマルランド",
+    "name_en": "",
+    "lat": 33.5418909,
+    "lng": 133.5572667,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 120075392,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "出雲大社　土佐分祠",
     "name_en": "",
     "lat": 33.5568812,
@@ -15345,6 +17985,171 @@
     "data_source": "osm"
   },
   {
+    "name": "高知城",
+    "name_en": "Kōchi Castle",
+    "lat": 33.5606904,
+    "lng": 133.5314388,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 126495756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "子規堂",
+    "name_en": "",
+    "lat": 33.8345802,
+    "lng": 132.7634068,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 204405278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県美術館",
+    "name_en": "Museum of Art, Ehime",
+    "lat": 33.8405543,
+    "lng": 132.7621234,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 204405280,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県美術館 南館",
+    "name_en": "",
+    "lat": 33.8401364,
+    "lng": 132.7620639,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 204405282,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9288954,
+    "lng": 133.0218185,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 206994203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9289157,
+    "lng": 133.021577,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 206994205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四国鉄道文化館(北館)",
+    "name_en": "Shikoku Railway Cultural Center(North Wing)",
+    "lat": 33.9128868,
+    "lng": 133.1883577,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 209018022,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "十河信二記念館",
+    "name_en": "Shinji Sogo Memorial Museum",
+    "lat": 33.9127167,
+    "lng": 133.1880094,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 209018056,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松山市考古館",
+    "name_en": "",
+    "lat": 33.8396888,
+    "lng": 132.7353721,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 213510838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フライブルク城",
+    "name_en": "",
+    "lat": 33.8443732,
+    "lng": 132.7410165,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 213563390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "文化財情報館",
+    "name_en": "",
+    "lat": 33.8396321,
+    "lng": 132.7339613,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 214453463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂の上の雲ミュージアム",
+    "name_en": "Saka no Ue no Kumo Museum",
+    "lat": 33.8418018,
+    "lng": 132.7691966,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 216404934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古川温泉;湯楽",
+    "name_en": "",
+    "lat": 33.8088793,
+    "lng": 132.7580756,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 231297989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後温泉本館",
+    "name_en": "Dōgo Onsen",
+    "lat": 33.8520666,
+    "lng": 132.7864045,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 235751036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大洲城",
+    "name_en": "Ozu Castle",
+    "lat": 33.5095479,
+    "lng": 132.5411347,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 244039533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三鈴神社",
     "name_en": "",
     "lat": 33.5560608,
@@ -15356,6 +18161,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知県立坂本龍馬記念館",
+    "name_en": "Sakamoto Ryoma Memorial museum",
+    "lat": 33.4963711,
+    "lng": 133.5719179,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 250513019,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若一王子宮",
     "name_en": "",
     "lat": 33.5606551,
@@ -15363,6 +18179,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 272245115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふるさと交流館;さくらの湯",
+    "name_en": "",
+    "lat": 33.8031004,
+    "lng": 132.9145225,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 290527431,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15433,6 +18260,61 @@
     "data_source": "osm"
   },
   {
+    "name": "媛彦温泉",
+    "name_en": "",
+    "lat": 33.8274119,
+    "lng": 132.8009694,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 340383211,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星乃岡温泉",
+    "name_en": "",
+    "lat": 33.8178423,
+    "lng": 132.7864735,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 340383390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "見奈良天然温泉;利楽",
+    "name_en": "",
+    "lat": 33.7907045,
+    "lng": 132.8787657,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 340535881,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東道後のそらともり",
+    "name_en": "",
+    "lat": 33.8186056,
+    "lng": 132.8048066,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 343102421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東道後温泉;久米之癒",
+    "name_en": "",
+    "lat": 33.8140463,
+    "lng": 132.8030619,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 343102892,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "和霊神社",
     "name_en": "Warei Shrine",
     "lat": 33.2299352,
@@ -15499,6 +18381,17 @@
     "data_source": "osm"
   },
   {
+    "name": "クアハウス今治",
+    "name_en": "",
+    "lat": 33.9940865,
+    "lng": 133.0533374,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 378061657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "遍照院",
     "name_en": "",
     "lat": 34.0334102,
@@ -15506,6 +18399,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 379044213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎ふるさと館",
+    "name_en": "",
+    "lat": 33.498986,
+    "lng": 133.2866754,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 388378996,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15576,6 +18480,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐川地質館",
+    "name_en": "",
+    "lat": 33.4997141,
+    "lng": 133.3021979,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 388701476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五所神社",
     "name_en": "",
     "lat": 33.5049407,
@@ -15605,6 +18520,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 388909575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横倉山自然の森博物館",
+    "name_en": "",
+    "lat": 33.535419,
+    "lng": 133.2420371,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 388909576,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15655,11 +18581,77 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4160724,
+    "lng": 133.4255172,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 392484864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.4070683,
+    "lng": 133.3878137,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 392484865,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.5426929,
     "lng": 133.5070447,
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 394400494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いの町紙の博物館",
+    "name_en": "",
+    "lat": 33.5478405,
+    "lng": 133.4232768,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 394661396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "Treasure Hall",
+    "lat": 33.5464213,
+    "lng": 133.5776592,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 397666685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎記念館展示館",
+    "name_en": "Makino Tomitaro Memorial Museum Exhibition Hall",
+    "lat": 33.5491423,
+    "lng": 133.5812309,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 397666708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "牧野富太郎記念館本館",
+    "name_en": "Makino Tomitaro Memorial Museum Main Building",
+    "lat": 33.5490842,
+    "lng": 133.5788257,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 397666709,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15671,6 +18663,61 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 408073581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かわのえ高原ふるさと館",
+    "name_en": "",
+    "lat": 34.0097638,
+    "lng": 133.5799712,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 409824602,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "紙のまち資料館",
+    "name_en": "Kaminomachi Papercity Museum",
+    "lat": 34.0079718,
+    "lng": 133.5735162,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 410047631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川之江城天守閣",
+    "name_en": "",
+    "lat": 34.0130162,
+    "lng": 133.5675475,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 410680285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川之江城櫓門",
+    "name_en": "",
+    "lat": 34.0134382,
+    "lng": 133.5676612,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 410680396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川之江城涼櫓",
+    "name_en": "",
+    "lat": 34.0138983,
+    "lng": 133.5677218,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 410680442,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15697,6 +18744,17 @@
     "data_source": "osm"
   },
   {
+    "name": "住友の森エコシステム フォレスターハウス",
+    "name_en": "",
+    "lat": 33.8367754,
+    "lng": 133.3275132,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 412618386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.5055736,
@@ -15704,6 +18762,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 413950517,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東平歴史資料館",
+    "name_en": "",
+    "lat": 33.87661,
+    "lng": 133.3142936,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 414414059,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15726,6 +18795,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 416625787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田布施郷土館",
+    "name_en": "",
+    "lat": 33.9558072,
+    "lng": 132.0438676,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 425343734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩国石人形ミニ資料館",
+    "name_en": "",
+    "lat": 34.1687201,
+    "lng": 132.1777905,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 436681109,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15763,6 +18854,116 @@
     "data_source": "osm"
   },
   {
+    "name": "内子PA (下り)",
+    "name_en": "",
+    "lat": 33.5665861,
+    "lng": 132.6674906,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443580577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内子PA (上り)",
+    "name_en": "",
+    "lat": 33.5684478,
+    "lng": 132.6672412,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443580926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桜三里PA (上り)",
+    "name_en": "",
+    "lat": 33.8034263,
+    "lng": 132.9390707,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443585119,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "椿交流館;椿温泉こまつ",
+    "name_en": "",
+    "lat": 33.8831689,
+    "lng": 133.1085268,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 443587702,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "入野PA (上り)",
+    "name_en": "",
+    "lat": 33.949087,
+    "lng": 133.4227682,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443591400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "入野PA (下り)",
+    "name_en": "",
+    "lat": 33.9487013,
+    "lng": 133.4243464,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443592046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上分PA (下り)",
+    "name_en": "Kamibun Parking Area",
+    "lat": 33.9836523,
+    "lng": 133.5871309,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443593972,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上分PA (上り)",
+    "name_en": "Kamibun Parking Area",
+    "lat": 33.9845248,
+    "lng": 133.5873607,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 443594670,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天山トロン温泉",
+    "name_en": "",
+    "lat": 33.8239374,
+    "lng": 132.7817321,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 443714705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "Treasure Hall",
+    "lat": 33.8475159,
+    "lng": 132.7975102,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 444272233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大明神社",
     "name_en": "",
     "lat": 33.9551498,
@@ -15770,6 +18971,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 444670024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "馬立PA (上り)",
+    "name_en": "",
+    "lat": 33.911134,
+    "lng": 133.6301555,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 445157377,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "星乃岡温泉;千湯館",
+    "name_en": "",
+    "lat": 33.8169745,
+    "lng": 132.7860883,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 445479530,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15785,6 +19008,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆらり内海",
+    "name_en": "",
+    "lat": 33.0401981,
+    "lng": 132.4881672,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 453018271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 34.1283487,
@@ -15792,6 +19026,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 453757097,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (下り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.0995499,
+    "lng": 132.1021831,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 454669632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玖珂PA (上り)",
+    "name_en": "Kuga P.A.",
+    "lat": 34.100122,
+    "lng": 132.1017634,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 454670076,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15829,6 +19085,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知城歴史博物館",
+    "name_en": "Kōchi Castle Museum of History",
+    "lat": 33.5601131,
+    "lng": 133.5341119,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 500621920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "潮江天満宮",
     "name_en": "",
     "lat": 33.5535139,
@@ -15840,6 +19107,28 @@
     "data_source": "osm"
   },
   {
+    "name": "町家資料館",
+    "name_en": "Machiya Townhouse Museum",
+    "lat": 33.5545033,
+    "lng": 132.6532917,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 504741433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "萬翠荘",
+    "name_en": "Bansuiso",
+    "lat": 33.8424515,
+    "lng": 132.7681819,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 505266693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "Hachiman Shrine",
     "lat": 33.5526092,
@@ -15847,6 +19136,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 531191126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木蝋資料館",
+    "name_en": "Wax Museum",
+    "lat": 33.557158,
+    "lng": 132.6538731,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 532890461,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15873,6 +19173,17 @@
     "data_source": "osm"
   },
   {
+    "name": "酒井酒造美術館・五橋文庫",
+    "name_en": "",
+    "lat": 34.169424,
+    "lng": 132.1777341,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 549148319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常栄神社",
     "name_en": "",
     "lat": 32.9872468,
@@ -15880,6 +19191,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 549283428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十川学遊館",
+    "name_en": "Shimanto River Gakuyuu Hall",
+    "lat": 32.9894818,
+    "lng": 132.9152513,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 549286487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜市広瀬歴史記念館",
+    "name_en": "",
+    "lat": 33.918914,
+    "lng": 133.2857508,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 549868623,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16133,6 +19466,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 555851791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土佐ぽかぽか温泉",
+    "name_en": "",
+    "lat": 33.5410509,
+    "lng": 133.5121129,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 555864750,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16678,6 +20022,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.4966162,
+    "lng": 133.5715214,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 573204142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.4943459,
     "lng": 133.5660497,
     "category": "shrine",
@@ -16830,6 +20185,50 @@
     "data_source": "osm"
   },
   {
+    "name": "浜口雄幸生家",
+    "name_en": "",
+    "lat": 33.5383531,
+    "lng": 133.5883464,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 579499096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜口雄幸生家記念館",
+    "name_en": "",
+    "lat": 33.5384214,
+    "lng": 133.5881879,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 579499098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5383687,
+    "lng": 133.5881872,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 579499099,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5430394,
+    "lng": 133.5503597,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 582776511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.6001979,
@@ -16940,6 +20339,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知みらい科学館",
+    "name_en": "",
+    "lat": 33.5609347,
+    "lng": 133.537052,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 589137557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岡三所神社",
     "name_en": "",
     "lat": 33.5798961,
@@ -16995,6 +20405,28 @@
     "data_source": "osm"
   },
   {
+    "name": "桂浜温泉館",
+    "name_en": "",
+    "lat": 34.1019556,
+    "lng": 132.5124148,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 609620560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "倉橋歴史民俗資料館",
+    "name_en": "",
+    "lat": 34.102141,
+    "lng": 132.5127983,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 609620567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4669624,
@@ -17013,6 +20445,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 613616182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "讃岐路野天風呂 湯屋;琴弾廻廊",
+    "name_en": "",
+    "lat": 34.1302,
+    "lng": 133.6385366,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 614679787,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17079,6 +20522,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 617336560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "少彦名温泉 大洲 臥龍の湯",
+    "name_en": "",
+    "lat": 33.5032665,
+    "lng": 132.5495873,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 617479509,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17446,6 +20900,17 @@
     "data_source": "osm"
   },
   {
+    "name": "豊浜郷土資料館",
+    "name_en": "",
+    "lat": 34.0842606,
+    "lng": 133.6437674,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 624963944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙昌寺",
     "name_en": "",
     "lat": 33.918951,
@@ -17508,6 +20973,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 630070785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "錦鯉とつつじの公園 りんりんパークー",
+    "name_en": "",
+    "lat": 33.8759316,
+    "lng": 133.0643007,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 631599114,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の里小町温泉;しこくや",
+    "name_en": "",
+    "lat": 33.876156,
+    "lng": 133.0646594,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 631599341,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17655,6 +21142,39 @@
     "data_source": "osm"
   },
   {
+    "name": "高知ぽかぽか温泉",
+    "name_en": "",
+    "lat": 33.5747428,
+    "lng": 133.5587778,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 636169148,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5432126,
+    "lng": 133.5502378,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 644750357,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知市立自由民権記念館",
+    "name_en": "",
+    "lat": 33.5431307,
+    "lng": 133.5503068,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 644750358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.4677069,
@@ -17728,6 +21248,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 654750297,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あかがねミュージアム",
+    "name_en": "",
+    "lat": 33.9493835,
+    "lng": 133.2951275,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 654843283,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17963,6 +21494,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高知県立坂本龍馬記念館",
+    "name_en": "",
+    "lat": 33.4964345,
+    "lng": 133.5717677,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 671741432,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石戸八幡神社",
     "name_en": "",
     "lat": 33.9709044,
@@ -17970,6 +21512,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 673597452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東予温泉;いやしのリゾート",
+    "name_en": "",
+    "lat": 33.9225552,
+    "lng": 133.080014,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 676620939,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18117,6 +21670,380 @@
     "data_source": "osm"
   },
   {
+    "name": "柳井スイミングスクール;健康余田温泉",
+    "name_en": "",
+    "lat": 33.9625493,
+    "lng": 132.0720692,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 689314825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上関海峡温泉;鳩子の湯",
+    "name_en": "",
+    "lat": 33.8326835,
+    "lng": 132.117104,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 689317211,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜崎温泉ちどり;潮風の湯",
+    "name_en": "",
+    "lat": 33.8931339,
+    "lng": 132.2901241,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 689318057,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竜崎温泉ちどり　潮風の湯",
+    "name_en": "",
+    "lat": 33.8933939,
+    "lng": 132.2904206,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 689318153,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "片添ケ浜温泉;遊湯ランド",
+    "name_en": "",
+    "lat": 33.8972764,
+    "lng": 132.3604006,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 689319282,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ファミリー温泉;湯川",
+    "name_en": "",
+    "lat": 33.5827158,
+    "lng": 133.5135821,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690485749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鏡文化ステーションRIO",
+    "name_en": "",
+    "lat": 33.6027301,
+    "lng": 133.4738047,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690490701,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然の湯;吾北むささび温泉",
+    "name_en": "",
+    "lat": 33.6267717,
+    "lng": 133.3001666,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690497249,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑田山温泉",
+    "name_en": "",
+    "lat": 33.4312869,
+    "lng": 133.2801081,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690526205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四万十温泉;平和な湯",
+    "name_en": "",
+    "lat": 32.984356,
+    "lng": 132.953598,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690527403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一本松温泉あけぼの荘",
+    "name_en": "",
+    "lat": 32.9679036,
+    "lng": 132.6583544,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690532724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛南町一本松郷土資料館",
+    "name_en": "",
+    "lat": 32.9677232,
+    "lng": 132.6577606,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 690593044,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "祓川温泉",
+    "name_en": "",
+    "lat": 33.0832328,
+    "lng": 132.6544098,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690594335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三間町老人憩の家",
+    "name_en": "",
+    "lat": 33.2842891,
+    "lng": 132.6656547,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690598993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛治ふるさと館",
+    "name_en": "",
+    "lat": 33.3037988,
+    "lng": 132.6915106,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 690599548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝泉坊温泉",
+    "name_en": "",
+    "lat": 33.3649139,
+    "lng": 132.7916656,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690600252,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クアテルメ宝泉坊",
+    "name_en": "",
+    "lat": 33.3647548,
+    "lng": 132.7920009,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690600253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はま湯",
+    "name_en": "",
+    "lat": 33.3131516,
+    "lng": 132.4437573,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690605548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡浜黒湯温泉 みなと湯",
+    "name_en": "",
+    "lat": 33.463177,
+    "lng": 132.4227686,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690606216,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊方町健康交流施設;亀ヶ池温泉",
+    "name_en": "",
+    "lat": 33.4651765,
+    "lng": 132.281033,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690606564,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長浜なぎさの湯",
+    "name_en": "",
+    "lat": 33.6154899,
+    "lng": 132.4791523,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690654727,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふもと温泉;友愛館",
+    "name_en": "",
+    "lat": 33.7147484,
+    "lng": 132.9496937,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 690831881,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高知県立美術館",
+    "name_en": "",
+    "lat": 33.5612341,
+    "lng": 133.5733503,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 695573884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後さや温泉;ゆらら 家族の湯",
+    "name_en": "",
+    "lat": 33.8305954,
+    "lng": 132.7244759,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699304464,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道後さや温泉;ゆらら",
+    "name_en": "",
+    "lat": 33.8314598,
+    "lng": 132.7244156,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699304575,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久万の台温泉",
+    "name_en": "",
+    "lat": 33.8568619,
+    "lng": 132.7443951,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699306131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "谷町リゾート;ゆとりあ温泉",
+    "name_en": "",
+    "lat": 33.8784404,
+    "lng": 132.7523647,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699306768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南道後温泉;ていれぎの湯",
+    "name_en": "",
+    "lat": 33.7805151,
+    "lng": 132.8184026,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699344910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しまなみ温泉;喜助の湯",
+    "name_en": "",
+    "lat": 34.0629385,
+    "lng": 132.992459,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699356400,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;かみとくの湯",
+    "name_en": "",
+    "lat": 34.0397771,
+    "lng": 133.0120276,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699375326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西条天然温泉;ひうちの湯",
+    "name_en": "",
+    "lat": 33.933172,
+    "lng": 133.1994385,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699378257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯ノ浦温泉;四季の湯 ビア工房",
+    "name_en": "",
+    "lat": 33.9952491,
+    "lng": 133.0547916,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699641186,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道前渓温泉",
+    "name_en": "",
+    "lat": 33.855522,
+    "lng": 133.0117297,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699652272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜温泉;パナス",
+    "name_en": "",
+    "lat": 33.9218172,
+    "lng": 133.2938276,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 699672322,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大宝寺",
     "name_en": "",
     "lat": 33.8417,
@@ -18194,6 +22121,17 @@
     "data_source": "osm"
   },
   {
+    "name": "かわうそ学習館",
+    "name_en": "",
+    "lat": 33.4455702,
+    "lng": 133.2049486,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 709707546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "河内神社",
     "name_en": "",
     "lat": 33.6349264,
@@ -18256,6 +22194,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 712503241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "津野町郷土資料館",
+    "name_en": "",
+    "lat": 33.4464979,
+    "lng": 133.1988645,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 712967677,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18399,6 +22348,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 731892271,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "椿の湯",
+    "name_en": "Tsubaki-no-yu",
+    "lat": 33.8523899,
+    "lng": 132.7849913,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 732001496,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18590,6 +22550,17 @@
     "data_source": "osm"
   },
   {
+    "name": "四国中央市文化財郷土資料収蔵館",
+    "name_en": "",
+    "lat": 34.009645,
+    "lng": 133.5801955,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 772016516,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石鎚神社不動尊",
     "name_en": "",
     "lat": 33.599046,
@@ -18722,6 +22693,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ギャラリー 闘変木と偏竹林",
+    "name_en": "",
+    "lat": 33.2883355,
+    "lng": 132.6041487,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 806005843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高市神社",
     "name_en": "",
     "lat": 34.0242124,
@@ -18740,6 +22722,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 806287663,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日本食研食文化博物館",
+    "name_en": "",
+    "lat": 34.047934,
+    "lng": 133.0291166,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 806315864,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18773,6 +22766,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 806418518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "朝倉ふるさと美術古墳館",
+    "name_en": "",
+    "lat": 33.9995679,
+    "lng": 133.0077398,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 806695308,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18839,6 +22843,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 810449081,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "タオル美術館",
+    "name_en": "",
+    "lat": 33.9696093,
+    "lng": 133.0333368,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 813332979,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18997,6 +23012,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高茂埼灯台",
+    "name_en": "",
+    "lat": 32.9068803,
+    "lng": 132.4762963,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 866672274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "真光寺",
     "name_en": "",
     "lat": 34.039187,
@@ -19103,6 +23129,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 881820987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.0639065,
+    "lng": 133.0047579,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 881967438,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19800,6 +23837,17 @@
     "data_source": "osm"
   },
   {
+    "name": "しらさぎ温泉",
+    "name_en": "",
+    "lat": 34.0526767,
+    "lng": 132.9974257,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 894293898,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯神社",
     "name_en": "",
     "lat": 33.9824133,
@@ -20108,6 +24156,17 @@
     "data_source": "osm"
   },
   {
+    "name": "四国鉄道文化館(南館)",
+    "name_en": "Shikoku Railway Cultural Center(South Wing)",
+    "lat": 33.9123213,
+    "lng": 133.1889347,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 914802647,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鶴御崎神社",
     "name_en": "Turumisaki Shrine",
     "lat": 32.9447434,
@@ -20126,6 +24185,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 921111649,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の子海事資料館",
+    "name_en": "",
+    "lat": 32.943452,
+    "lng": 132.0752587,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 921117320,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20159,6 +24229,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 967275821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カルスト学習館",
+    "name_en": "",
+    "lat": 33.4766134,
+    "lng": 133.00355,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 969301389,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20207,6 +24288,17 @@
     "data_source": "osm"
   },
   {
+    "name": "吉村虎太郎邸",
+    "name_en": "",
+    "lat": 33.4115363,
+    "lng": 133.0229336,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 977874713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "将監神社",
     "name_en": "",
     "lat": 33.4180987,
@@ -20214,6 +24306,61 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 978422866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1366108,
+    "lng": 132.4941356,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 979452797,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1360265,
+    "lng": 132.4945766,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 979452798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆういんぐ四万十",
+    "name_en": "",
+    "lat": 33.2295088,
+    "lng": 133.1471274,
+    "category": "rest_area",
+    "prefecture": "ehime",
+    "osm_id": 979575101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 32.9433839,
+    "lng": 132.0753369,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 987702159,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "渡り鳥館",
+    "name_en": "",
+    "lat": 32.9432242,
+    "lng": 132.0753259,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 987702160,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20273,6 +24420,28 @@
     "data_source": "osm"
   },
   {
+    "name": "広見町老人保養センター清水荘",
+    "name_en": "",
+    "lat": 33.3033926,
+    "lng": 132.691439,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1023281614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "畦地梅太郎記念美術館",
+    "name_en": "",
+    "lat": 33.2864776,
+    "lng": 132.5961072,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1041934146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "沖の堂",
     "name_en": "",
     "lat": 33.3700856,
@@ -20313,6 +24482,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1053942396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南レク馬瀬山公園こども動物園",
+    "name_en": "NANREKU Baseyama Park Petting Zoo",
+    "lat": 32.9505225,
+    "lng": 132.5522421,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 1057593618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南レク馬瀬山公園 紫電改展示館",
+    "name_en": "NANREKU Baseyama Park SHIDEN-KAI (N1K2-J) Exhibition Hall",
+    "lat": 32.9502219,
+    "lng": 132.5491412,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1057602041,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20405,6 +24596,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桂浜水族館",
+    "name_en": "",
+    "lat": 33.4972538,
+    "lng": 133.573752,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 1061555847,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.7034526,
@@ -20460,6 +24662,17 @@
     "data_source": "osm"
   },
   {
+    "name": "土佐望月温泉 姫若子の湯",
+    "name_en": "",
+    "lat": 33.5640285,
+    "lng": 133.5681357,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1065790642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.3057583,
@@ -20504,6 +24717,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.1546128,
+    "lng": 133.218913,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1068304578,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石土神社",
     "name_en": "",
     "lat": 33.5381924,
@@ -20522,6 +24746,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 1069004204,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 34.1584693,
+    "lng": 132.179994,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1069977637,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20852,6 +25087,17 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 1128252012,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山崎鼻灯台",
+    "name_en": "",
+    "lat": 33.3823874,
+    "lng": 133.2905093,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1128252013,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21219,6 +25465,17 @@
     "data_source": "osm"
   },
   {
+    "name": "愛媛県立とべ動物園",
+    "name_en": "Tobe Zoological Park of Ehime Prefecture.",
+    "lat": 33.7623941,
+    "lng": 132.792952,
+    "category": "zoo",
+    "prefecture": "ehime",
+    "osm_id": 1136475818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "五十石茶堂",
     "name_en": "",
     "lat": 33.4338526,
@@ -21303,6 +25560,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1138089960,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港西防波堤灯台",
+    "name_en": "",
+    "lat": 33.9805357,
+    "lng": 133.2620935,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1141560408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新居浜港東防波堤灯台",
+    "name_en": "",
+    "lat": 33.9805895,
+    "lng": 133.2654642,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1141560409,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21395,6 +25674,17 @@
     "data_source": "osm"
   },
   {
+    "name": "白ノ鼻燈台",
+    "name_en": "",
+    "lat": 33.4304225,
+    "lng": 133.4618508,
+    "category": "lighthouse",
+    "prefecture": "ehime",
+    "osm_id": 1147381779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "慶正寺",
     "name_en": "",
     "lat": 33.9572293,
@@ -21402,6 +25692,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1148003260,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛媛県総合科学博物館",
+    "name_en": "",
+    "lat": 33.9101558,
+    "lng": 133.2447642,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1149399118,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21804,6 +26105,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 33.5074227,
+    "lng": 133.4951512,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1189829729,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5075321,
+    "lng": 133.4952705,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1189829730,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 33.2317794,
     "lng": 133.2467714,
     "category": "shrine",
@@ -21886,6 +26209,28 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1212561395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5066271,
+    "lng": 132.5471632,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1221406978,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.5065213,
+    "lng": 132.5469708,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1221406982,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22715,6 +27060,17 @@
     "data_source": "osm"
   },
   {
+    "name": "飛鳥乃湯",
+    "name_en": "Asuka-no-yu",
+    "lat": 33.8523428,
+    "lng": 132.7846732,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1291330158,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "深谷神社",
     "name_en": "",
     "lat": 33.9176978,
@@ -22825,6 +27181,17 @@
     "data_source": "osm"
   },
   {
+    "name": "面河山岳博物館",
+    "name_en": "",
+    "lat": 33.7151509,
+    "lng": 133.0932136,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1317528578,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 33.254245,
@@ -22854,6 +27221,28 @@
     "category": "shrine",
     "prefecture": "ehime",
     "osm_id": 1329359059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "井関邦三郎記念館",
+    "name_en": "",
+    "lat": 33.2862472,
+    "lng": 132.5961422,
+    "category": "museum",
+    "prefecture": "ehime",
+    "osm_id": 1330413364,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宇和島城",
+    "name_en": "Uwajima Castle",
+    "lat": 33.219932,
+    "lng": 132.5646266,
+    "category": "castle",
+    "prefecture": "ehime",
+    "osm_id": 1339048111,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22920,6 +27309,17 @@
     "category": "temple",
     "prefecture": "ehime",
     "osm_id": 1385607360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 33.9647121,
+    "lng": 132.2327774,
+    "category": "onsen",
+    "prefecture": "ehime",
+    "osm_id": 1385818868,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
