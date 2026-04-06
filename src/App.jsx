@@ -4,6 +4,7 @@ import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
 import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
+import FirebaseSync from './components/FirebaseSync'
 import './App.css'
 
 const TABS = [
@@ -12,6 +13,7 @@ const TABS = [
   { id: 'batch', label: 'バッチ生成' },
   { id: 'nglog', label: 'NG学習ログ' },
   { id: 'rules', label: 'エリアルール' },
+  { id: 'firebase', label: '🔥 Firebase' },
 ]
 
 function App() {
@@ -127,6 +129,9 @@ function App() {
       )}
       {activeTab === 'rules' && (
         <AreaRules stamps={stamps} areas={areas} />
+      )}
+      {activeTab === 'firebase' && (
+        <FirebaseSync stamps={stamps} />
       )}
     </div>
   )
