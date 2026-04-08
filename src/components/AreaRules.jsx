@@ -19,6 +19,72 @@ const DEFAULT_AREAS = {
     style: '円形・ダイナミック',
     description: '茶〜緑のコントラスト。エネルギッシュな街を表現。',
   },
+  akihabara: {
+    label: '秋葉原エリア',
+    palette: ['#2B618F', '#FF6B35', '#E0E0E0'],
+    style: '円形・エレクトリック',
+    description: '青×オレンジの電気街カラー。サブカルチャーの聖地。',
+  },
+  ueno: {
+    label: '上野エリア',
+    palette: ['#5B8930', '#8F8667', '#9E3D3F'],
+    style: '円形・自然×文化',
+    description: '緑と茶の自然色。公園と美術館の文化エリア。',
+  },
+  harajuku: {
+    label: '原宿エリア',
+    palette: ['#E87BA1', '#A8D8EA', '#FFD700'],
+    style: '円形・ポップ',
+    description: 'パステルピンク×水色。カワイイ文化の発信地。',
+  },
+  roppongi: {
+    label: '六本木エリア',
+    palette: ['#1A1A2E', '#C0A36E', '#745399'],
+    style: '円形・ラグジュアリー',
+    description: '黒×金×紫の夜景カラー。アートと夜の街。',
+  },
+  ginza: {
+    label: '銀座エリア',
+    palette: ['#C0A36E', '#2A2A40', '#8F8667'],
+    style: '円形・エレガント',
+    description: '金×ダークグレー。銀座の品格と老舗の重厚感。',
+  },
+  nihonbashi: {
+    label: '日本橋エリア',
+    palette: ['#6C6A6C', '#9E3D3F', '#2B618F'],
+    style: '円形・江戸モダン',
+    description: '鈍色×蘇芳。五街道の起点、江戸の商業中心地。',
+  },
+  tsukiji: {
+    label: '築地エリア',
+    palette: ['#2B618F', '#B4866B', '#769164'],
+    style: '円形・市場風',
+    description: '海の青×茶。築地の活気と食文化。',
+  },
+  ikebukuro: {
+    label: '池袋エリア',
+    palette: ['#FF6B35', '#2B4B6F', '#6C6A6C'],
+    style: '円形・都会ミックス',
+    description: 'オレンジ×紺。東西の顔を持つターミナル。',
+  },
+  ryogoku: {
+    label: '両国エリア',
+    palette: ['#9E3D3F', '#6C6A6C', '#8F8667'],
+    style: '円形・力強い',
+    description: '蘇芳×鈍色。相撲と江戸文化の聖地。',
+  },
+  skytree: {
+    label: '東京スカイツリー周辺',
+    palette: ['#2B4B6F', '#A8D8EA', '#E0E0E0'],
+    style: '円形・スカイライン',
+    description: '紺×水色×白。空に向かう塔と下町の融合。',
+  },
+  tokyotower: {
+    label: '東京タワー周辺',
+    palette: ['#FF6B35', '#9E3D3F', '#FFD700'],
+    style: '円形・トワイライト',
+    description: 'オレンジ×赤×金。東京のシンボル、夕焼けの塔。',
+  },
 }
 
 const DEFAULT_CRITERIA = [
