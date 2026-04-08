@@ -8,17 +8,17 @@ import AdminPanel from './components/AdminPanel'
 import './App.css'
 
 const TABS = [
-  { id: 'map', label: 'マップ' },
-  { id: 'gallery', label: 'ギャラリー' },
   { id: 'batch', label: 'バッチ生成' },
-  { id: 'nglog', label: 'NG学習ログ' },
+  { id: 'gallery', label: 'ギャラリー' },
+  { id: 'map', label: 'マップ' },
   { id: 'rules', label: 'エリアルール' },
+  { id: 'nglog', label: 'NG学習ログ' },
 ]
 
 function App() {
   const [stamps, setStamps] = useState([])
   const [ngReasons, setNgReasons] = useState([])
-  const [activeTab, setActiveTab] = useState('map')
+  const [activeTab, setActiveTab] = useState('batch')
   const [filterArea, setFilterArea] = useState('all')
   const [filterStatus, setFilterStatus] = useState('all')
   const [focusSpotId, setFocusSpotId] = useState(null)
