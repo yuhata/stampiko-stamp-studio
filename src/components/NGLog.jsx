@@ -22,6 +22,19 @@ const CATEGORY_COLORS = {
   other: '#888899',
 }
 
+// NG理由 → プロンプト追加ルールのマッピング
+const NG_TO_PROMPT_RULES = {
+  'テキスト混入': 'CRITICAL: Absolutely NO text, letters, kanji, kana, numbers, dates, or labels ANYWHERE in the image.',
+  '構図が偏っている': 'Center the main subject. Ensure balanced composition with breathing space on all sides.',
+  '色が規格外': 'Use ONLY the specified palette colors. Do NOT introduce any colors outside the palette.',
+  '透過品質が悪い': 'The area OUTSIDE the stamp circle must be PURE WHITE (#FFFFFF) with zero texture or grain.',
+  'インクテクスチャ不足': 'Add visible rubber-stamp ink texture: slight unevenness, gentle ink bleed at edges, subtle pressure variation.',
+  'デジタル感が強い': 'Avoid clean digital look. Emulate traditional woodblock/rubber stamp printing with organic imperfections.',
+  'ランドマーク不明瞭': 'The landmark must be clearly recognizable as a distinct silhouette. Avoid abstract or generic shapes.',
+  '詰め込みすぎ': 'Keep the design simple. Maximum 3 visual elements inside the stamp circle. Wide spacing between elements.',
+  '写実的すぎる': 'Use FLAT graphic shapes only. NO gradients, NO 3D effects, NO photorealism, NO shading.',
+}
+
 export default function NGLog({ ngReasons, setNgReasons, stamps }) {
   const [filterCategory, setFilterCategory] = useState('all')
 
@@ -50,6 +63,46 @@ export default function NGLog({ ngReasons, setNgReasons, stamps }) {
       const sample = ngReasons.find(r => r.reason === reason)
       return { reason, count: reasonCounts[reason], promptHint: sample?.promptHint || '' }
     })
+
+  const [applied, setApplied] = useState(false)
+
+  // NGログからプロンプトを自動改善
+  const handleLearnAndApply = () => {
+    const currentPrompt = localStorage.getItem('lbs-stamp-studio-prompt') || ''
+
+    // 2回以上出現したNG理由に対応するルールを収集
+    const rulesToAdd = []
+    sortedReasons.forEach(([reason, count]) => {
+      if (count < 2) return
+      // NG_TO_PROMPT_RULESから一致するルールを探す
+      for (const [ngKey, rule] of Object.entries(NG_TO_PROMPT_RULES)) {
+        if (reason.includes(ngKey) || ngKey.includes(reason)) {
+          if (!currentPrompt.includes(rule)) {
+            rulesToAdd.push(rule)
+          }
+        }
+      }
+      // promptHintがある場合も追加
+      const sample = ngReasons.find(r => r.reason === reason)
+      if (sample?.promptHint && !currentPrompt.includes(sample.promptHint)) {
+        rulesToAdd.push(sample.promptHint)
+      }
+    })
+
+    if (rulesToAdd.length === 0) {
+      alert('追加できるルールがありません（既に適用済み、または対応するルールがありません）')
+      return
+    }
+
+    // プロンプトの末尾にルールブロックを追加
+    const rulesBlock = `\n\n=== LEARNED RULES (from NG log) ===\n${rulesToAdd.map(r => `- ${r}`).join('\n')}`
+    const newPrompt = currentPrompt + rulesBlock
+    localStorage.setItem('lbs-stamp-studio-prompt', newPrompt)
+
+    setApplied(true)
+    setTimeout(() => setApplied(false), 3000)
+    alert(`✅ ${rulesToAdd.length}件のルールをプロンプトに追加しました。\nバッチ生成タブで確認できます。`)
+  }
 
   const handleClearLog = () => {
     if (confirm('NG学習ログを全てクリアしますか？')) {
@@ -90,10 +143,27 @@ export default function NGLog({ ngReasons, setNgReasons, stamps }) {
         ))}
       </div>
 
-      {/* プロンプト改善提案 */}
+      {/* プロンプト改善提案 + 自動学習ボタン */}
       {promptSuggestions.length > 0 && (
         <div className="ng-prompt-suggestions">
-          <h3>プロンプト改善提案</h3>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+            <h3 style={{ margin: 0 }}>プロンプト改善提案</h3>
+            <button
+              onClick={handleLearnAndApply}
+              style={{
+                background: applied ? '#4caf50' : 'var(--accent)',
+                color: 'white',
+                border: 'none',
+                borderRadius: 6,
+                padding: '8px 16px',
+                fontSize: 13,
+                fontWeight: 700,
+                cursor: 'pointer',
+              }}
+            >
+              {applied ? '✅ 適用済み' : '🧠 学習してプロンプトを改善'}
+            </button>
+          </div>
           <p className="ng-prompt-desc">2回以上発生しているNG理由に基づく改善ヒント:</p>
           {promptSuggestions.map(({ reason, count, promptHint }) => (
             <div key={reason} className="ng-suggestion-row">

@@ -126,7 +126,7 @@ export default function FirebaseSync({ stamps }) {
               { label: 'ユーザー', value: stats.users, color: '#FF6B35' },
             ].map(({ label, value, color }) => (
               <div key={label} style={{ background: 'var(--bg)', borderRadius: '8px', padding: '12px 16px', minWidth: '100px', textAlign: 'center' }}>
-                <div style={{ fontSize: '24px', fontWeight: 700, color }}>{value.toLocaleString()}</div>
+                <div style={{ fontSize: '24px', fontWeight: 700, color }}>{(value ?? 0).toLocaleString()}</div>
                 <div style={{ fontSize: '11px', color: 'var(--text-muted)' }}>{label}</div>
               </div>
             ))}

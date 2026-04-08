@@ -4,7 +4,7 @@ import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
 import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
-import FirebaseSync from './components/FirebaseSync'
+import AdminPanel from './components/AdminPanel'
 import './App.css'
 
 const TABS = [
@@ -13,7 +13,6 @@ const TABS = [
   { id: 'batch', label: 'バッチ生成' },
   { id: 'nglog', label: 'NG学習ログ' },
   { id: 'rules', label: 'エリアルール' },
-  { id: 'firebase', label: '🔥 Firebase' },
 ]
 
 function App() {
@@ -23,6 +22,7 @@ function App() {
   const [filterArea, setFilterArea] = useState('all')
   const [filterStatus, setFilterStatus] = useState('all')
   const [focusSpotId, setFocusSpotId] = useState(null)
+  const [showAdmin, setShowAdmin] = useState(false)
 
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'stamps/manifest.json')
@@ -35,9 +35,7 @@ function App() {
   }, [])
 
   useEffect(() => {
-    if (ngReasons.length > 0) {
-      localStorage.setItem('lbs-stamp-studio-ng-log', JSON.stringify(ngReasons))
-    }
+    localStorage.setItem('lbs-stamp-studio-ng-log', JSON.stringify(ngReasons))
   }, [ngReasons])
 
   const updateStamp = (id, updates) => {
@@ -48,7 +46,6 @@ function App() {
     setNgReasons(prev => [...prev, { ...reason, id: Date.now(), createdAt: new Date().toISOString() }])
   }
 
-  // マップからスポットを選択 → ギャラリーにジャンプ
   const handleSelectSpot = (spotId) => {
     setFocusSpotId(spotId)
     const spot = stamps.find(s => s.spotId === spotId)
@@ -79,6 +76,17 @@ function App() {
           <span className="stat" data-type="rejected">{stats.rejected} 却下</span>
           <span className="stat" data-type="needs_edit">{stats.needsEdit} 要修正</span>
           <span className="stat" data-type="draft">{stats.draft} 未レビュー</span>
+          <button
+            onClick={() => setShowAdmin(true)}
+            style={{
+              background: 'none', border: '1px solid #555', borderRadius: 6,
+              color: '#888', padding: '4px 10px', fontSize: 14, cursor: 'pointer',
+              marginLeft: 8,
+            }}
+            title="管理者設定"
+          >
+            ⚙️
+          </button>
         </div>
       </header>
 
@@ -100,25 +108,15 @@ function App() {
       </nav>
 
       {activeTab === 'map' && (
-        <MapView
-          stamps={stamps}
-          updateStamp={updateStamp}
-          onSelectSpot={handleSelectSpot}
-        />
+        <MapView stamps={stamps} updateStamp={updateStamp} onSelectSpot={handleSelectSpot} />
       )}
       {activeTab === 'gallery' && (
         <StampGallery
-          stamps={stamps}
-          areas={areas}
-          filterArea={filterArea}
-          setFilterArea={setFilterArea}
-          filterStatus={filterStatus}
-          setFilterStatus={setFilterStatus}
-          updateStamp={updateStamp}
-          addNgReason={addNgReason}
-          ngReasons={ngReasons}
-          focusSpotId={focusSpotId}
-          clearFocusSpot={() => setFocusSpotId(null)}
+          stamps={stamps} areas={areas}
+          filterArea={filterArea} setFilterArea={setFilterArea}
+          filterStatus={filterStatus} setFilterStatus={setFilterStatus}
+          updateStamp={updateStamp} addNgReason={addNgReason} ngReasons={ngReasons}
+          focusSpotId={focusSpotId} clearFocusSpot={() => setFocusSpotId(null)}
         />
       )}
       {activeTab === 'batch' && (
@@ -130,8 +128,10 @@ function App() {
       {activeTab === 'rules' && (
         <AreaRules stamps={stamps} areas={areas} />
       )}
-      {activeTab === 'firebase' && (
-        <FirebaseSync stamps={stamps} />
+
+      {/* 管理者パネル（モーダル） */}
+      {showAdmin && (
+        <AdminPanel stamps={stamps} onClose={() => setShowAdmin(false)} />
       )}
     </div>
   )

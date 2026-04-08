@@ -27,6 +27,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [count, setCount] = useState(4)
   const [generating, setGenerating] = useState(false)
   const [generatedImages, setGeneratedImages] = useState([])
+  const [addedToGallery, setAddedToGallery] = useState(false)
 
   const DEFAULT_PROMPT = `Japanese rubber stamp design for a location-based stamp collection app.
 Category: Location Stamp
@@ -53,13 +54,22 @@ Colors appear as absorbed ink, slightly muted. DO NOT use white inside.
 Flat graphic shapes, Showa-era retro. NO gradients, NO 3D, NO photorealism.
 Image size: 1024x1024 pixels.`
 
-  const [promptTemplate, setPromptTemplate] = useState(DEFAULT_PROMPT)
+  const [promptTemplate, setPromptTemplate] = useState(() =>
+    localStorage.getItem('lbs-stamp-studio-prompt') || DEFAULT_PROMPT
+  )
+
+  // プロンプト変更時にlocalStorageに保存
+  const updatePrompt = (val) => {
+    setPromptTemplate(val)
+    localStorage.setItem('lbs-stamp-studio-prompt', val)
+  }
 
   const handleGenerate = async () => {
     if (!spotName.trim()) return
 
     setGenerating(true)
     setGeneratedImages([])
+    setAddedToGallery(false)
 
     const prompt = promptTemplate
       .replace(/\{SPOT_NAME\}/g, spotName)
@@ -159,7 +169,7 @@ Image size: 1024x1024 pixels.`
         <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
           変数: {'{SPOT_NAME}'} → スポット名 / {'{PALETTE}'} → パレット
         </div>
-        <textarea rows={10} style={{ fontSize: 12, lineHeight: 1.5 }} value={promptTemplate} onChange={e => setPromptTemplate(e.target.value)} />
+        <textarea rows={10} style={{ fontSize: 12, lineHeight: 1.5 }} value={promptTemplate} onChange={e => updatePrompt(e.target.value)} />
       </div>
 
       <button className="generate-btn" disabled={!spotName.trim() || generating} onClick={handleGenerate}>
@@ -169,9 +179,44 @@ Image size: 1024x1024 pixels.`
       {/* 生成結果 */}
       {generatedImages.length > 0 && (
         <div style={{ marginTop: 20 }}>
-          <label style={{ fontSize: 13, color: 'var(--text-muted)', display: 'block', marginBottom: 8 }}>
-            生成結果 ({generatedImages.filter(g => g.dataUrl).length}/{count})
-          </label>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+            <label style={{ fontSize: 13, color: 'var(--text-muted)' }}>
+              生成結果 ({generatedImages.filter(g => g.dataUrl).length}/{count})
+            </label>
+            {!addedToGallery && generatedImages.some(g => g.dataUrl) && (
+              <button
+                onClick={() => {
+                  const newStamps = generatedImages
+                    .filter(g => g.dataUrl)
+                    .map((g, i) => ({
+                      id: `gen_${Date.now()}_${i}`,
+                      spotId: spotName.replace(/\s+/g, '_').toLowerCase(),
+                      spotName,
+                      area,
+                      lat: parseFloat(lat) || 0,
+                      lng: parseFloat(lng) || 0,
+                      variant: i,
+                      path: null,
+                      dataUrl: g.dataUrl,
+                      status: 'draft',
+                      designerNote: '',
+                      ngTags: [],
+                    }))
+                  setStamps(prev => [...prev, ...newStamps])
+                  setAddedToGallery(true)
+                }}
+                style={{
+                  background: 'var(--accent)', color: 'white', border: 'none',
+                  borderRadius: 6, padding: '8px 16px', fontWeight: 700, fontSize: 13, cursor: 'pointer',
+                }}
+              >
+                📋 ギャラリーに追加 ({generatedImages.filter(g => g.dataUrl).length}件)
+              </button>
+            )}
+            {addedToGallery && (
+              <span style={{ color: '#4caf50', fontSize: 13, fontWeight: 700 }}>✅ ギャラリーに追加済み</span>
+            )}
+          </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))', gap: 12 }}>
             {generatedImages.map(img => (
               <div key={img.id} style={{ background: 'var(--bg)', borderRadius: 8, padding: 8, textAlign: 'center' }}>

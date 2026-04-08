@@ -16,9 +16,9 @@ const AREA_COLORS = {
 }
 
 const CATEGORY_ICONS = {
-  shrine: { emoji: '⛩', color: '#E65100' },
-  temple: { emoji: '🏛', color: '#4E342E' },
-  station: { emoji: '🚉', color: '#1565C0' },
+  shrine: { emoji: '⛩', color: '#888' },
+  temple: { emoji: '🏛', color: '#888' },
+  station: { emoji: '🚉', color: '#888' },
 }
 
 const LAYER_OPTIONS = [
@@ -171,7 +171,7 @@ export default function MapView({ stamps, updateStamp, onSelectSpot }) {
         })}
 
         {/* データスポット（神社・寺院・駅） */}
-        {dataPOIs.filter(p => visibleLayers.includes(p.category)).map(poi => {
+        {dataPOIs.filter(p => visibleLayers.includes(p.category) && p.lat != null && p.lng != null).map(poi => {
           const icon = createDataSpotIcon(poi.category)
           const catLabel = { shrine: '神社', temple: '寺院', station: '駅' }[poi.category]
           return (

@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 
 const AREA_LABELS = {
   asakusa: '浅草',
@@ -33,6 +33,15 @@ export default function StampGallery({
   focusSpotId, clearFocusSpot,
 }) {
   const [selected, setSelected] = useState(null)
+  const focusRef = useRef(null)
+
+  // マップからのスポット選択時にスクロール
+  useEffect(() => {
+    if (focusSpotId && focusRef.current) {
+      focusRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      clearFocusSpot()
+    }
+  }, [focusSpotId, clearFocusSpot])
 
   const filtered = stamps.filter(s => {
     if (filterArea !== 'all' && s.area !== filterArea) return false
@@ -88,12 +97,13 @@ export default function StampGallery({
             </div>
             <div className="stamp-grid">
               {group.stamps.map(stamp => (
-                <StampCard
-                  key={stamp.id}
-                  stamp={stamp}
-                  onClick={() => setSelected(stamp)}
-                  updateStamp={updateStamp}
-                />
+                <div key={stamp.id} ref={stamp.spotId === focusSpotId ? focusRef : null}>
+                  <StampCard
+                    stamp={stamp}
+                    onClick={() => setSelected(stamp)}
+                    updateStamp={updateStamp}
+                  />
+                </div>
               ))}
             </div>
           </div>
@@ -121,7 +131,7 @@ function StampCard({ stamp, onClick, updateStamp }) {
   return (
     <div className="stamp-card" data-status={stamp.status} onClick={onClick}>
       <div className="stamp-image-wrapper">
-        <img src={`${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} loading="lazy" />
+        <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} loading="lazy" />
         <span className="status-badge" data-status={stamp.status}>
           {stamp.status === 'approved' ? '承認' :
            stamp.status === 'rejected' ? '却下' :
@@ -198,7 +208,7 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons }) {
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal" onClick={e => e.stopPropagation()}>
         <div className="modal-image">
-          <img src={`${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} />
+          <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} />
         </div>
         <div className="modal-body">
           <h3>{stamp.spotName} — 候補 {stamp.variant + 1}</h3>
