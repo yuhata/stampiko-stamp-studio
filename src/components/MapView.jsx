@@ -65,7 +65,7 @@ function createDataSpotIcon(category) {
 
 export default function MapView({ stamps, updateStamp, onSelectSpot }) {
   const [dataPOIs, setDataPOIs] = useState([])
-  const [visibleLayers, setVisibleLayers] = useState(['landmarks', 'shrine', 'station'])
+  const [visibleLayers, setVisibleLayers] = useState(['landmarks'])
 
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'stamps/pilot_pois.json')
