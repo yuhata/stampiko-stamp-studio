@@ -31,9 +31,26 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [mood, setMood] = useState('')
   const [colorCount, setColorCount] = useState('')
   const [elements, setElements] = useState([])
+  const [refImage, setRefImage] = useState(null) // { base64, mimeType, preview }
   const [generating, setGenerating] = useState(false)
   const [generatedImages, setGeneratedImages] = useState([])
   const [addedToGallery, setAddedToGallery] = useState(false)
+
+  const handleRefImageUpload = (e) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+    if (file.size > 5 * 1024 * 1024) { alert('5MB以下の画像を選択してください'); return }
+    const reader = new FileReader()
+    reader.onload = () => {
+      const dataUrl = reader.result
+      // data:image/jpeg;base64,xxxx → base64部分とmimeTypeを分離
+      const [header, base64] = dataUrl.split(',')
+      const mimeType = header.match(/:(.*?);/)?.[1] || 'image/jpeg'
+      setRefImage({ base64, mimeType, preview: dataUrl })
+    }
+    reader.readAsDataURL(file)
+    e.target.value = ''
+  }
 
   const [promptTemplate, setPromptTemplate] = useState(() =>
     localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
@@ -81,10 +98,14 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
       .replace(/\{PALETTE\}/g, palette.join(', '))
 
     try {
+      const body = { prompt, count }
+      if (refImage) {
+        body.referenceImage = { base64: refImage.base64, mimeType: refImage.mimeType }
+      }
       const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ prompt, count }),
+        body: JSON.stringify(body),
       })
       const data = await res.json()
 
@@ -201,6 +222,38 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
             </button>
           ))}
         </div>
+      </div>
+
+      <div className="form-group">
+        <label>参考写真（任意）</label>
+        <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
+          ランドマークの写真をアップロードすると、シルエットの参考にして生成します
+        </div>
+        {refImage ? (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <img src={refImage.preview} alt="参考写真"
+              style={{ width: 80, height: 80, objectFit: 'cover', borderRadius: 8, border: '1px solid var(--border)' }} />
+            <div>
+              <button className="filter-btn" onClick={() => setRefImage(null)}
+                style={{ color: 'var(--accent-red)', borderColor: 'var(--accent-red)' }}>
+                削除
+              </button>
+            </div>
+          </div>
+        ) : (
+          <label style={{
+            display: 'inline-block', padding: '8px 16px',
+            border: '1px dashed var(--border)', borderRadius: 8,
+            color: 'var(--text-muted)', fontSize: 13, cursor: 'pointer',
+            transition: 'all 0.2s',
+          }}
+            onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--accent)'; e.currentTarget.style.color = 'var(--text)' }}
+            onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border)'; e.currentTarget.style.color = 'var(--text-muted)' }}
+          >
+            写真をアップロード...
+            <input type="file" accept="image/*" style={{ display: 'none' }} onChange={handleRefImageUpload} />
+          </label>
+        )}
       </div>
 
       <div className="form-group">
