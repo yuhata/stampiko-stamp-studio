@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 
@@ -63,7 +63,19 @@ function createDataSpotIcon(category) {
   })
 }
 
-export default function MapView({ stamps, updateStamp, onSelectSpot }) {
+// マップフォーカス用コンポーネント
+function MapFocus({ lat, lng, onDone }) {
+  const map = useMap()
+  useEffect(() => {
+    if (lat && lng) {
+      map.flyTo([lat, lng], 16, { duration: 1 })
+      if (onDone) onDone()
+    }
+  }, [lat, lng, map, onDone])
+  return null
+}
+
+export default function MapView({ stamps, updateStamp, onSelectSpot, focusSpotId, clearFocusSpot }) {
   const [dataPOIs, setDataPOIs] = useState([])
   const [visibleLayers, setVisibleLayers] = useState(['landmarks'])
 
@@ -136,6 +148,12 @@ export default function MapView({ stamps, updateStamp, onSelectSpot }) {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>'
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
         />
+
+        {/* ギャラリーからのフォーカス */}
+        {focusSpotId && (() => {
+          const target = landmarkSpots.find(s => s.spotId === focusSpotId)
+          return target ? <MapFocus lat={target.lat} lng={target.lng} onDone={clearFocusSpot} /> : null
+        })()}
 
         {/* ランドマークスポット */}
         {visibleLayers.includes('landmarks') && landmarkSpots.map(spot => {

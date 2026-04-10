@@ -7,6 +7,31 @@ const STYLES = [
   { value: 'freeform', label: 'フリーフォーム' },
 ]
 
+const MOOD_OPTIONS = [
+  { value: '', label: '指定なし' },
+  { value: 'simple', label: 'シンプル', prompt: 'Minimalist design with clean lines and few details.' },
+  { value: 'modern', label: 'モダン', prompt: 'Modern, stylish design with geometric shapes and bold lines.' },
+  { value: 'traditional', label: '伝統的', prompt: 'Traditional Japanese woodblock print style with classic motifs.' },
+  { value: 'cute', label: 'かわいい', prompt: 'Cute, friendly design with soft rounded shapes.' },
+  { value: 'elegant', label: 'エレガント', prompt: 'Refined, elegant design with delicate linework and sophistication.' },
+]
+
+const COLOR_COUNT_OPTIONS = [
+  { value: '', label: '指定なし（2〜4色）' },
+  { value: 'mono', label: '単色', prompt: 'Use ONLY 1 ink color from the palette. Monochrome stamp.' },
+  { value: '2color', label: '2色', prompt: 'Use exactly 2 ink colors from the palette.' },
+  { value: '3color', label: '3色', prompt: 'Use exactly 3 ink colors from the palette.' },
+]
+
+const ELEMENT_OPTIONS = [
+  { value: 'building', label: '建物' },
+  { value: 'landscape', label: '風景' },
+  { value: 'animal', label: '動物' },
+  { value: 'person', label: '人' },
+  { value: 'food', label: '食べ物' },
+  { value: 'nature', label: '自然' },
+]
+
 const PRESET_PALETTES = [
   { name: '蘇芳（神社）', colors: ['#9E3D3F', '#6B3A3A'] },
   { name: '鶸茶（寺院）', colors: ['#8F8667', '#6B6347'] },
@@ -26,6 +51,9 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [palette, setPalette] = useState(['#9E3D3F', '#6B3A3A'])
   const [style, setStyle] = useState('circular')
   const [count, setCount] = useState(4)
+  const [mood, setMood] = useState('')
+  const [colorCount, setColorCount] = useState('')
+  const [elements, setElements] = useState([])
   const [generating, setGenerating] = useState(false)
   const [generatedImages, setGeneratedImages] = useState([])
   const [addedToGallery, setAddedToGallery] = useState(false)
@@ -69,7 +97,21 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
     setGeneratedImages([])
     setAddedToGallery(false)
 
-    const prompt = promptTemplate
+    // デザインオプションをプロンプトに追加
+    const optionLines = []
+    const moodOption = MOOD_OPTIONS.find(m => m.value === mood)
+    if (moodOption?.prompt) optionLines.push(moodOption.prompt)
+    const colorOption = COLOR_COUNT_OPTIONS.find(c => c.value === colorCount)
+    if (colorOption?.prompt) optionLines.push(colorOption.prompt)
+    if (elements.length > 0) {
+      const labels = elements.map(e => ELEMENT_OPTIONS.find(o => o.value === e)?.label || e)
+      optionLines.push(`Include these visual elements: ${labels.join(', ')}.`)
+    }
+    const optionBlock = optionLines.length > 0
+      ? `\n\n=== DESIGN OPTIONS ===\n${optionLines.join('\n')}`
+      : ''
+
+    const prompt = (promptTemplate + optionBlock)
       .replace(/\{SPOT_NAME\}/g, spotName)
       .replace(/\{PALETTE\}/g, palette.join(', '))
 
@@ -152,6 +194,45 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
                 ))}
                 <span>{p.name}</span>
               </span>
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="form-group">
+        <label>雰囲気</label>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+          {MOOD_OPTIONS.map(m => (
+            <button key={m.value} className={`filter-btn ${mood === m.value ? 'active' : ''}`}
+              onClick={() => setMood(m.value)}>
+              {m.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="form-group">
+        <label>色数</label>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+          {COLOR_COUNT_OPTIONS.map(c => (
+            <button key={c.value} className={`filter-btn ${colorCount === c.value ? 'active' : ''}`}
+              onClick={() => setColorCount(c.value)}>
+              {c.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="form-group">
+        <label>構成要素（複数選択可）</label>
+        <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+          {ELEMENT_OPTIONS.map(el => (
+            <button key={el.value}
+              className={`filter-btn ${elements.includes(el.value) ? 'active' : ''}`}
+              onClick={() => setElements(prev =>
+                prev.includes(el.value) ? prev.filter(e => e !== el.value) : [...prev, el.value]
+              )}>
+              {el.label}
             </button>
           ))}
         </div>

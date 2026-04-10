@@ -5,11 +5,14 @@ Category: Location Stamp
 
 === BACKGROUND (CRITICAL) ===
 The background outside the stamp circle MUST be PURE WHITE (#FFFFFF).
-NO texture, NO grain, NO off-white outside the circle.
+NO texture, NO grain, NO off-white, NO shadow outside the circle.
+The white area must be completely clean and uniform for easy transparency masking.
 
-=== STAMP FORMAT ===
-CIRCULAR ink stamp, fills ~90% canvas height. Pure white background outside.
-NO rectangular frames. NOT a postage stamp.
+=== STAMP FORMAT (FIXED SIZE — DO NOT DEVIATE) ===
+CIRCULAR ink stamp. The circle diameter MUST be EXACTLY 88–92% of the canvas height.
+The circle MUST be centered both horizontally and vertically on the canvas.
+The stamp circle MUST have a visible ink border/outline ring (2–4% of diameter thickness).
+NO rectangular frames. NOT a postage stamp. Every generated stamp must have the same circle size.
 
 === INSIDE THE STAMP ===
 Street View perspective of {SPOT_NAME}. Landmark silhouette fills ~45–55% of the circle.

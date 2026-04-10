@@ -152,7 +152,8 @@ function App() {
       </nav>
 
       {activeTab === 'map' && (
-        <MapView stamps={stamps} updateStamp={updateStamp} onSelectSpot={handleSelectSpot} />
+        <MapView stamps={stamps} updateStamp={updateStamp} onSelectSpot={handleSelectSpot}
+          focusSpotId={focusSpotId} clearFocusSpot={() => setFocusSpotId(null)} />
       )}
       {activeTab === 'gallery' && (
         <StampGallery
@@ -161,6 +162,10 @@ function App() {
           filterStatus={filterStatus} setFilterStatus={setFilterStatus}
           updateStamp={updateStamp} addNgReason={addNgReason} ngReasons={ngReasons}
           focusSpotId={focusSpotId} clearFocusSpot={() => setFocusSpotId(null)}
+          onShowOnMap={(spotId) => {
+            setFocusSpotId(spotId)
+            setActiveTab('map')
+          }}
         />
       )}
       {activeTab === 'batch' && (

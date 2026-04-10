@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 
 const AREA_LABELS = {
   asakusa: '浅草',
@@ -42,6 +42,7 @@ export default function StampGallery({
   filterStatus, setFilterStatus, updateStamp,
   addNgReason, ngReasons,
   focusSpotId, clearFocusSpot,
+  onShowOnMap,
 }) {
   const [selected, setSelected] = useState(null)
   const focusRef = useRef(null)
@@ -130,6 +131,7 @@ export default function StampGallery({
           }}
           addNgReason={addNgReason}
           ngReasons={ngReasons}
+          onShowOnMap={onShowOnMap}
         />
       )}
     </div>
@@ -163,7 +165,7 @@ function StampCard({ stamp, onClick, updateStamp }) {
   )
 }
 
-function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons }) {
+function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onShowOnMap }) {
   const [note, setNote] = useState(stamp.designerNote || '')
   const [selectedTags, setSelectedTags] = useState(stamp.ngTags || [])
   const [customReason, setCustomReason] = useState('')
@@ -226,6 +228,20 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons }) {
             エリア: {AREA_LABELS[stamp.area] || stamp.area} / ステータス: {stamp.status}
           </p>
 
+          {/* マップで確認ボタン */}
+          {onShowOnMap && stamp.lat && stamp.lng && (
+            <button
+              onClick={() => { onShowOnMap(stamp.spotId); onClose() }}
+              style={{
+                marginTop: 8, padding: '6px 12px', background: 'none',
+                border: '1px solid var(--accent-blue)', borderRadius: 6,
+                color: 'var(--accent-blue)', fontSize: 12, cursor: 'pointer',
+              }}
+            >
+              マップで位置を確認
+            </button>
+          )}
+
           {/* NG理由タグ選択 */}
           <div style={{ marginTop: 14 }}>
             <label style={{ fontSize: 12, color: 'var(--text-muted)', display: 'block', marginBottom: 6 }}>
@@ -283,6 +299,35 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons }) {
             <button className="action-btn reject" onClick={handleReject}>
               却下{selectedTags.length > 0 ? ` (${selectedTags.length})` : ''}
             </button>
+          </div>
+
+          {/* 画像上書きアップロード */}
+          <div style={{ marginTop: 12 }}>
+            <label
+              style={{
+                display: 'inline-block', padding: '6px 12px',
+                border: '1px dashed var(--border)', borderRadius: 6,
+                color: 'var(--text-muted)', fontSize: 12, cursor: 'pointer',
+                transition: 'all 0.2s',
+              }}
+              onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--accent)'; e.currentTarget.style.color = 'var(--text)' }}
+              onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border)'; e.currentTarget.style.color = 'var(--text-muted)' }}
+            >
+              画像を差し替え...
+              <input type="file" accept="image/*" style={{ display: 'none' }}
+                onChange={e => {
+                  const file = e.target.files?.[0]
+                  if (!file) return
+                  if (file.size > 5 * 1024 * 1024) { alert('5MB以下の画像を選択してください'); return }
+                  const reader = new FileReader()
+                  reader.onload = () => {
+                    updateStamp(stamp.id, { dataUrl: reader.result, path: null })
+                  }
+                  reader.readAsDataURL(file)
+                  e.target.value = ''
+                }}
+              />
+            </label>
           </div>
 
           {/* 過去のNG履歴 */}

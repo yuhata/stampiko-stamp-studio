@@ -108,26 +108,27 @@ body {
   padding: 5px 10px;
   border: 1px solid var(--border);
   border-radius: 8px;
-  background: var(--surface);
-  color: var(--text);
-  font-size: 12px;
+  background: var(--bg-card);
+  color: #fff;
+  font-size: 13px;
   cursor: pointer;
   outline: none;
 }
 .filter-select:focus { border-color: var(--accent); }
+.filter-select option { background: var(--bg-card); color: #fff; }
 
 .filter-btn {
   padding: 4px 12px;
   border: 1px solid var(--border);
   border-radius: 14px;
   background: none;
-  color: var(--text-muted);
+  color: var(--text);
   font-size: 12px;
   cursor: pointer;
   transition: all 0.2s;
 }
 
-.filter-btn:hover { border-color: var(--accent); color: var(--text); }
+.filter-btn:hover { border-color: var(--accent); color: #fff; }
 .filter-btn.active {
   background: var(--accent);
   border-color: var(--accent);
