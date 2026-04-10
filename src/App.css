@@ -577,3 +577,82 @@ body {
 .popup-type-badge.shrine { background: #E65100; }
 .popup-type-badge.temple { background: #4E342E; }
 .popup-type-badge.station { background: #1565C0; }
+
+/* === UGC Queue === */
+.ugc-queue { min-height: calc(100vh - 100px); }
+
+.ugc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  padding: 16px 24px;
+}
+
+.ugc-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.ugc-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.ugc-card[data-status="approved"] { border-color: var(--accent-green); }
+.ugc-card[data-status="rejected"] { border-color: var(--accent-red); opacity: 0.6; }
+
+.ugc-card-image {
+  position: relative;
+  width: 100%;
+  height: 160px;
+  background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.ugc-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ugc-card-info { padding: 12px; flex: 1; }
+
+.ugc-card-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.ugc-card-meta {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.ugc-card-desc {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 6px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ugc-card-stamp {
+  padding: 8px 12px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ugc-card-stamp img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}

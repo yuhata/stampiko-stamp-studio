@@ -4,6 +4,7 @@ import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
 import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
+import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
 import { collection, getDocs, query, where } from 'firebase/firestore'
 import { db } from './config/firebase'
@@ -15,6 +16,7 @@ const TABS = [
   { id: 'map', label: 'マップ' },
   { id: 'rules', label: 'エリアルール' },
   { id: 'nglog', label: 'NG学習ログ' },
+  { id: 'ugc', label: 'UGC承認' },
 ]
 
 function App() {
@@ -169,6 +171,9 @@ function App() {
       )}
       {activeTab === 'rules' && (
         <AreaRules stamps={stamps} areas={areas} />
+      )}
+      {activeTab === 'ugc' && (
+        <UGCQueue />
       )}
 
       {/* 管理者パネル（モーダル） */}
