@@ -58,7 +58,7 @@ function App() {
             lng: s.location?.longitude || 0,
             variant: 0,
             path: null,
-            dataUrl: s.thumbnail_url || null,
+            dataUrl: s.thumbnail_url ? `${s.thumbnail_url}&bust=${Date.now()}` : null,
             status: s.thumbnail_url ? 'draft' : 'pending',
             designerNote: '',
             ngTags: [],
