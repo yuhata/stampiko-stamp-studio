@@ -179,9 +179,10 @@ body {
 }
 
 .stamp-image-wrapper img {
-  width: 85%;
-  height: 85%;
-  object-fit: contain;
+  width: 88%;
+  height: 88%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .status-badge {
@@ -450,9 +451,10 @@ body {
 }
 
 .modal-image img {
-  width: 80%;
-  height: 80%;
-  object-fit: contain;
+  width: 88%;
+  height: 88%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 .modal-body {
