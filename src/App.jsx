@@ -7,7 +7,7 @@ import NGLog from './components/NGLog'
 import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
 import { collection, getDocs, query, where } from 'firebase/firestore'
-import { db } from './config/firebase'
+import { db, authReady } from './config/firebase'
 import './App.css'
 
 const TABS = [
@@ -30,6 +30,9 @@ function App() {
 
   useEffect(() => {
     const loadStamps = async () => {
+      // 0. 認証完了を待つ（Firestoreセキュリティルール対応）
+      await authReady
+
       // 1. manifest.json（既存の静的スタンプ）
       let manifestStamps = []
       try {

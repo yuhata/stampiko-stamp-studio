@@ -1,6 +1,7 @@
 import { initializeApp } from 'firebase/app'
 import { getFirestore, collection, doc, setDoc, getDocs, query, where, writeBatch, serverTimestamp, GeoPoint } from 'firebase/firestore'
 import { getStorage, ref, uploadBytes, getDownloadURL } from 'firebase/storage'
+import { getAuth, signInAnonymously, onAuthStateChanged } from 'firebase/auth'
 
 const firebaseConfig = {
   apiKey: "AIzaSyDcYEpjKmI_ygA-fvRTrmIZwoy1jDhYzz0",
@@ -14,6 +15,23 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig)
 const db = getFirestore(app)
 const storage = getStorage(app)
+const auth = getAuth(app)
+
+// Firestoreセキュリティルールが認証必須のため、匿名認証でアクセス
+const authReady = new Promise((resolve) => {
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      resolve(user)
+    } else {
+      signInAnonymously(auth).then(cred => resolve(cred.user)).catch(err => {
+        console.warn('[Firebase] Anonymous auth failed:', err.message)
+        resolve(null)
+      })
+    }
+  })
+})
+
+export { authReady }
 
 /**
  * スタンプをFirestoreに公開
