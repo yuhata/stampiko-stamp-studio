@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import StampGallery from './components/StampGallery'
 import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
@@ -8,7 +8,10 @@ import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
 import { collection, getDocs, query, where } from 'firebase/firestore'
 import { db, authReady } from './config/firebase'
-import { pullSettingsFromFirestore, loadStampOverrides, saveStampOverride } from './config/studioStorage'
+import {
+  pullSettingsFromFirestore, loadStampOverrides, saveStampOverride,
+  loadCustomStamps, saveCustomStamps, loadNgReasons, saveNgReasons,
+} from './config/studioStorage'
 import './App.css'
 
 const TABS = [
@@ -81,18 +84,37 @@ function App() {
       // stampOverrides をマージ（差し替え画像/位置/メモ等を復元）
       const overrides = loadStampOverrides()
       const withOverrides = merged.map(s => overrides[s.id] ? { ...s, ...overrides[s.id] } : s)
-      setStamps(withOverrides)
+
+      // customStamps（バッチ生成・バリエーション生成）を末尾に追加
+      const customStamps = loadCustomStamps()
+      const existingIds = new Set(withOverrides.map(s => s.id))
+      const newCustom = customStamps.filter(s => !existingIds.has(s.id))
+      const withCustom = [...withOverrides, ...newCustom]
+      setStamps(withCustom)
+      // 初期ロード完了後に永続化を有効化
+      stampsLoaded.current = true
     }
 
     loadStamps()
 
-    const saved = localStorage.getItem('lbs-stamp-studio-ng-log')
-    if (saved) setNgReasons(JSON.parse(saved))
+    const savedNg = loadNgReasons()
+    if (savedNg.length > 0) setNgReasons(savedNg)
   }, [])
 
+  // 初回ロード前のwriteを避けるためのフラグ
+  const ngLoaded = useRef(false)
   useEffect(() => {
-    localStorage.setItem('lbs-stamp-studio-ng-log', JSON.stringify(ngReasons))
+    if (!ngLoaded.current) { ngLoaded.current = true; return }
+    saveNgReasons(ngReasons)
   }, [ngReasons])
+
+  // customStamps（source: 'custom'）のみ抽出して永続化
+  const stampsLoaded = useRef(false)
+  useEffect(() => {
+    if (!stampsLoaded.current) return
+    const custom = stamps.filter(s => s.source === 'custom')
+    saveCustomStamps(custom)
+  }, [stamps])
 
   const updateStamp = (id, updates) => {
     setStamps(prev => prev.map(s => s.id === id ? { ...s, ...updates } : s))
@@ -123,7 +145,6 @@ function App() {
     total: stamps.length,
     approved: stamps.filter(s => s.status === 'approved').length,
     rejected: stamps.filter(s => s.status === 'rejected').length,
-    needsEdit: stamps.filter(s => s.status === 'needs_edit').length,
     draft: stamps.filter(s => s.status === 'draft').length,
   }
 
@@ -138,7 +159,6 @@ function App() {
           <span className="stat" data-type="total">{stats.total} 件</span>
           <span className="stat" data-type="approved">{stats.approved} 承認</span>
           <span className="stat" data-type="rejected">{stats.rejected} 却下</span>
-          <span className="stat" data-type="needs_edit">{stats.needsEdit} 要修正</span>
           <span className="stat" data-type="draft">{stats.draft} 未レビュー</span>
           <button
             onClick={() => setShowAdmin(true)}

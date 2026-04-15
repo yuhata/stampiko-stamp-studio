@@ -4,6 +4,7 @@ import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 
 import { AREA_LABELS, AREA_COLORS } from '../config/areas'
+import { resolveLocationInput } from '../utils/location'
 
 const CATEGORY_ICONS = {
   shrine: { emoji: '⛩', color: '#888' },
@@ -65,44 +66,21 @@ function MapFocus({ lat, lng, onDone }) {
   return null
 }
 
-// 住所文字列から緯度経度を取得（OSM Nominatim）
-async function geocodeAddress(address) {
-  const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&q=${encodeURIComponent(address)}`
-  const res = await fetch(url, { headers: { 'Accept-Language': 'ja' } })
-  if (!res.ok) throw new Error(`Nominatim ${res.status}`)
-  const data = await res.json()
-  if (!data || data.length === 0) throw new Error('該当する住所が見つかりませんでした')
-  return { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon), display: data[0].display_name }
-}
-
 export default function MapView({ stamps, updateStamp, setStamps, onSelectSpot, focusSpotId, clearFocusSpot }) {
   const handleEditLocation = async (spotId, spotName) => {
     const input = prompt(
       `「${spotName}」の位置を修正\n\n住所、または "緯度,経度" を入力してください\n例: 東京都台東区浅草2-3-1\n例: 35.7148,139.7967`
     )
     if (!input || !input.trim()) return
-    const trimmed = input.trim()
-    let newLat, newLng
-    const coordMatch = trimmed.match(/^(-?\d+\.?\d*)\s*,\s*(-?\d+\.?\d*)$/)
-    if (coordMatch) {
-      newLat = parseFloat(coordMatch[1])
-      newLng = parseFloat(coordMatch[2])
-    } else {
-      try {
-        const geo = await geocodeAddress(trimmed)
-        if (!confirm(`検索結果:\n${geo.display}\n\n(${geo.lat.toFixed(5)}, ${geo.lng.toFixed(5)})\n\nこの位置に更新しますか？`)) return
-        newLat = geo.lat
-        newLng = geo.lng
-      } catch (err) {
-        alert(`位置取得エラー: ${err.message}`)
-        return
-      }
+    try {
+      const result = await resolveLocationInput(input, {
+        confirmFn: (geo) => confirm(`検索結果:\n${geo.display}\n\n(${geo.lat.toFixed(5)}, ${geo.lng.toFixed(5)})\n\nこの位置に更新しますか？`),
+      })
+      if (!result) return
+      setStamps(prev => prev.map(s => s.spotId === spotId ? { ...s, lat: result.lat, lng: result.lng } : s))
+    } catch (err) {
+      alert(`位置取得エラー: ${err.message}`)
     }
-    if (!isFinite(newLat) || !isFinite(newLng)) {
-      alert('無効な座標です')
-      return
-    }
-    setStamps(prev => prev.map(s => s.spotId === spotId ? { ...s, lat: newLat, lng: newLng } : s))
   }
 
   const [dataPOIs, setDataPOIs] = useState([])

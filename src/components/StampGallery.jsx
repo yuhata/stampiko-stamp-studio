@@ -1,17 +1,12 @@
 import { useState, useEffect, useRef } from 'react'
-import {
-  DEFAULT_PROMPT, STORAGE_KEYS, API_URL,
-  MOOD_OPTIONS, COLOR_COUNT_OPTIONS,
-  buildDesignOptionsBlock,
-} from '../config/promptDefaults'
 import { AREA_LABELS, CANONICAL_AREAS } from '../config/areas'
+import BatchForm from './BatchForm'
 
 const STATUS_OPTIONS = [
   { value: 'all', label: '全て' },
   { value: 'draft', label: '未レビュー' },
   { value: 'approved', label: '承認済み' },
   { value: 'rejected', label: '却下' },
-  { value: 'needs_edit', label: '要修正' },
 ]
 
 // よくあるNG理由のプリセット（蓄積されたログから自動追加も可能）
@@ -34,6 +29,7 @@ export default function StampGallery({
   onShowOnMap,
 }) {
   const [selected, setSelected] = useState(null)
+  const [batchSpot, setBatchSpot] = useState(null) // 既存スポットへの追加生成モーダル
   const focusRef = useRef(null)
 
   // マップからのスポット選択時にスクロール
@@ -85,6 +81,19 @@ export default function StampGallery({
               onClick={() => setFilterStatus(o.value)}
             >{o.label}</button>
           ))}
+          <button
+            onClick={() => {
+              const rejectedCount = stamps.filter(s => s.status === 'rejected').length
+              if (rejectedCount === 0) { alert('却下済みスタンプはありません'); return }
+              if (!confirm(`却下済みスタンプ${rejectedCount}件をすべて削除します。よろしいですか？`)) return
+              setStamps(prev => prev.filter(s => s.status !== 'rejected'))
+            }}
+            className="filter-btn"
+            style={{ marginLeft: 8, color: 'var(--accent-red)', borderColor: 'var(--accent-red)' }}
+            title="却下済みスタンプを一括削除"
+          >
+            🗑 却下を一括削除
+          </button>
         </div>
       </div>
 
@@ -99,13 +108,34 @@ export default function StampGallery({
                 {AREA_LABELS[group.area] || group.area}
               </span>
               <button
+                title="このスポットに新しいスタンプを生成する"
+                onClick={() => {
+                  const ref = group.stamps[0]
+                  setBatchSpot({
+                    spotId,
+                    spotName: group.spotName,
+                    area: group.area,
+                    lat: ref?.lat || 0,
+                    lng: ref?.lng || 0,
+                  })
+                }}
+                style={{
+                  marginLeft: 'auto', background: 'none',
+                  border: '1px solid var(--accent)', borderRadius: 4,
+                  color: 'var(--accent)', fontSize: 11, padding: '2px 8px',
+                  cursor: 'pointer',
+                }}
+              >
+                ＋ スタンプ追加生成
+              </button>
+              <button
                 title="このスポットを削除（ローカル状態のみ）"
                 onClick={() => {
                   if (!confirm(`スポット「${group.spotName}」と、紐づく${group.stamps.length}件のスタンプを削除します。よろしいですか？`)) return
                   setStamps(prev => prev.filter(s => s.spotId !== spotId))
                 }}
                 style={{
-                  marginLeft: 'auto', background: 'none',
+                  background: 'none',
                   border: '1px solid var(--accent-red)', borderRadius: 4,
                   color: 'var(--accent-red)', fontSize: 11, padding: '2px 8px',
                   cursor: 'pointer',
@@ -129,9 +159,36 @@ export default function StampGallery({
         ))
       )}
 
+      {batchSpot && (
+        <div className="modal-overlay" onClick={() => setBatchSpot(null)}>
+          <div
+            className="modal"
+            onClick={e => e.stopPropagation()}
+            style={{ maxWidth: 720, width: '90%', maxHeight: '90vh', overflowY: 'auto' }}
+          >
+            <div className="modal-body">
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+                <h3 style={{ margin: 0 }}>スタンプ追加生成 — {batchSpot.spotName}</h3>
+                <button onClick={() => setBatchSpot(null)} style={{
+                  background: 'none', border: 'none', color: '#888', fontSize: 18, cursor: 'pointer',
+                }}>✕</button>
+              </div>
+              <BatchForm
+                stamps={stamps}
+                setStamps={setStamps}
+                ngReasons={ngReasons}
+                lockedSpot={batchSpot}
+                onClose={() => setBatchSpot(null)}
+              />
+            </div>
+          </div>
+        </div>
+      )}
+
       {selected && (
         <StampModal
           stamp={selected}
+          stamps={stamps}
           onClose={() => setSelected(null)}
           updateStamp={(id, updates) => {
             updateStamp(id, updates)
@@ -155,8 +212,7 @@ function StampCard({ stamp, onClick, updateStamp }) {
         <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} loading="lazy" />
         <span className="status-badge" data-status={stamp.status}>
           {stamp.status === 'approved' ? '承認' :
-           stamp.status === 'rejected' ? '却下' :
-           stamp.status === 'needs_edit' ? '要修正' : '未レビュー'}
+           stamp.status === 'rejected' ? '却下' : '未レビュー'}
         </span>
         {ngCount > 0 && (
           <span className="ng-count-badge">{ngCount} NG</span>
@@ -167,70 +223,17 @@ function StampCard({ stamp, onClick, updateStamp }) {
       </div>
       <div className="stamp-actions" onClick={e => e.stopPropagation()}>
         <button className="action-btn approve" onClick={() => updateStamp(stamp.id, { status: 'approved' })}>承認</button>
-        <button className="action-btn edit" onClick={() => updateStamp(stamp.id, { status: 'needs_edit' })}>要修正</button>
         <button className="action-btn reject" onClick={() => updateStamp(stamp.id, { status: 'rejected' })}>却下</button>
       </div>
     </div>
   )
 }
 
-function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onShowOnMap, setStamps }) {
+function StampModal({ stamp, stamps, onClose, updateStamp, addNgReason, ngReasons, onShowOnMap, setStamps }) {
   const [note, setNote] = useState(stamp.designerNote || '')
   const [selectedTags, setSelectedTags] = useState(stamp.ngTags || [])
   const [customReason, setCustomReason] = useState('')
-
-  // バリエーション生成
   const [showVariation, setShowVariation] = useState(false)
-  const [varMood, setVarMood] = useState('')
-  const [varColorCount, setVarColorCount] = useState('')
-  const [varGenerating, setVarGenerating] = useState(false)
-  const [varResults, setVarResults] = useState([])
-
-  const handleGenerateVariation = async () => {
-    setVarGenerating(true)
-    setVarResults([])
-    const basePrompt = localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
-    const optionBlock = buildDesignOptionsBlock({ mood: varMood, colorCount: varColorCount, elements: [] })
-    const prompt = (basePrompt + optionBlock)
-      .replace(/\{SPOT_NAME\}/g, stamp.spotName)
-      .replace(/\{PALETTE\}/g, '') // パレット情報がスタンプにない場合はAI任せ
-    try {
-      const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ prompt, count: 2 }),
-      })
-      const data = await res.json()
-      if (!res.ok) throw new Error(data.error || 'API error')
-      const results = (data.results || []).filter(r => r.base64).map((r, i) => ({
-        id: `var_${Date.now()}_${i}`,
-        dataUrl: `data:${r.mimeType || 'image/png'};base64,${r.base64}`,
-      }))
-      setVarResults(results)
-    } catch (err) {
-      alert(`生成エラー: ${err.message}`)
-    } finally {
-      setVarGenerating(false)
-    }
-  }
-
-  const addVariationToGallery = (varItem) => {
-    const newStamp = {
-      id: varItem.id,
-      spotId: stamp.spotId,
-      spotName: stamp.spotName,
-      area: stamp.area,
-      lat: stamp.lat || 0,
-      lng: stamp.lng || 0,
-      variant: Date.now(),
-      path: null,
-      dataUrl: varItem.dataUrl,
-      status: 'draft',
-      designerNote: '',
-      ngTags: [],
-    }
-    setStamps(prev => [...prev, newStamp])
-  }
 
   const toggleTag = (label) => {
     const next = selectedTags.includes(label)
@@ -258,29 +261,16 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onSho
     updateStamp(stamp.id, { status: 'rejected', designerNote: note, ngTags: selectedTags })
   }
 
-  const handleNeedsEdit = () => {
-    const reasons = selectedTags.length > 0 ? selectedTags : (customReason ? [customReason] : [])
-    reasons.forEach(reason => {
-      const preset = NG_PRESETS.find(p => p.label === reason)
-      addNgReason({
-        stampId: stamp.id,
-        spotName: stamp.spotName,
-        area: stamp.area,
-        reason,
-        category: preset?.category || 'other',
-        promptHint: preset?.promptHint || '',
-        customNote: note,
-      })
-    })
-    updateStamp(stamp.id, { status: 'needs_edit', designerNote: note, ngTags: selectedTags })
-  }
-
   // このスタンプの過去NG履歴
   const stampHistory = ngReasons.filter(r => r.stampId === stamp.id)
 
   return (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal" onClick={e => e.stopPropagation()}>
+      <div
+        className="modal"
+        onClick={e => e.stopPropagation()}
+        style={{ maxHeight: '90vh', overflowY: 'auto' }}
+      >
         <div className="modal-image">
           <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} />
         </div>
@@ -355,9 +345,6 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onSho
             <button className="action-btn approve" onClick={() => {
               updateStamp(stamp.id, { status: 'approved', designerNote: note })
             }}>承認</button>
-            <button className="action-btn edit" onClick={handleNeedsEdit}>
-              要修正{selectedTags.length > 0 ? ` (${selectedTags.length})` : ''}
-            </button>
             <button className="action-btn reject" onClick={handleReject}>
               却下{selectedTags.length > 0 ? ` (${selectedTags.length})` : ''}
             </button>
@@ -378,64 +365,18 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onSho
 
             {showVariation && (
               <div style={{ marginTop: 10, padding: 12, background: 'var(--bg)', borderRadius: 8 }}>
-                <div style={{ marginBottom: 8 }}>
-                  <label style={{ fontSize: 11, color: 'var(--text-muted)', display: 'block', marginBottom: 4 }}>雰囲気:</label>
-                  <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
-                    {MOOD_OPTIONS.map(m => (
-                      <button key={m.value}
-                        className={`filter-btn ${varMood === m.value ? 'active' : ''}`}
-                        style={{ fontSize: 11, padding: '2px 8px' }}
-                        onClick={() => setVarMood(m.value)}>
-                        {m.label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-                <div style={{ marginBottom: 8 }}>
-                  <label style={{ fontSize: 11, color: 'var(--text-muted)', display: 'block', marginBottom: 4 }}>色数:</label>
-                  <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
-                    {COLOR_COUNT_OPTIONS.map(c => (
-                      <button key={c.value}
-                        className={`filter-btn ${varColorCount === c.value ? 'active' : ''}`}
-                        style={{ fontSize: 11, padding: '2px 8px' }}
-                        onClick={() => setVarColorCount(c.value)}>
-                        {c.label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-                <button
-                  onClick={handleGenerateVariation}
-                  disabled={varGenerating}
-                  style={{
-                    width: '100%', padding: '8px', background: 'var(--accent)',
-                    border: 'none', borderRadius: 6, color: '#fff',
-                    fontSize: 12, fontWeight: 700, cursor: 'pointer',
-                    opacity: varGenerating ? 0.5 : 1,
+                <BatchForm
+                  stamps={stamps}
+                  setStamps={setStamps}
+                  ngReasons={ngReasons}
+                  lockedSpot={{
+                    spotId: stamp.spotId,
+                    spotName: stamp.spotName,
+                    area: stamp.area,
+                    lat: stamp.lat || 0,
+                    lng: stamp.lng || 0,
                   }}
-                >
-                  {varGenerating ? '生成中...' : '2候補を生成'}
-                </button>
-
-                {varResults.length > 0 && (
-                  <div style={{ display: 'flex', gap: 8, marginTop: 10 }}>
-                    {varResults.map(v => (
-                      <div key={v.id} style={{ flex: 1, textAlign: 'center' }}>
-                        <img src={v.dataUrl} alt="" style={{ width: '100%', borderRadius: 6 }} />
-                        <button
-                          onClick={() => addVariationToGallery(v)}
-                          style={{
-                            marginTop: 4, padding: '4px 8px', background: 'none',
-                            border: '1px solid var(--accent-green)', borderRadius: 4,
-                            color: 'var(--accent-green)', fontSize: 10, cursor: 'pointer',
-                          }}
-                        >
-                          ギャラリーに追加
-                        </button>
-                      </div>
-                    ))}
-                  </div>
-                )}
+                />
               </div>
             )}
           </div>

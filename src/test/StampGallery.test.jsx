@@ -68,7 +68,6 @@ describe('StampGallery - フィルタリング', () => {
     expect(labels).toContain('未レビュー')
     expect(labels).toContain('承認済み')
     expect(labels).toContain('却下')
-    expect(labels).toContain('要修正')
   })
 
   it('ステータスフィルタをクリックするとコールバックが呼ばれる', () => {
@@ -122,12 +121,11 @@ describe('StampGallery - スタンプカード', () => {
     expect(defaultProps.updateStamp).toHaveBeenCalledWith('stamp_1', { status: 'rejected' })
   })
 
-  it('要修正ボタンでupdateStampが呼ばれる', () => {
+  it('要修正ボタンは表示されない（needs_edit廃止）', () => {
     const stamps = [makeStamp()]
     render(<StampGallery {...defaultProps} stamps={stamps} />)
     const editBtn = document.querySelector('.stamp-actions .action-btn.edit')
-    fireEvent.click(editBtn)
-    expect(defaultProps.updateStamp).toHaveBeenCalledWith('stamp_1', { status: 'needs_edit' })
+    expect(editBtn).toBeNull()
   })
 })
 
@@ -172,21 +170,16 @@ describe('StampGallery - モーダル', () => {
     expect(screen.getByText('バリエーション生成')).toBeInTheDocument()
   })
 
-  it('バリエーション生成パネルの展開・閉じる', () => {
+  it('バリエーション生成パネルの展開（BatchForm埋め込み）', () => {
     const stamps = [makeStamp()]
     render(<StampGallery {...defaultProps} stamps={stamps} />)
     fireEvent.click(document.querySelector('.stamp-card'))
-    // 展開
     const varBtn = screen.getByText('バリエーション生成')
     fireEvent.click(varBtn)
-    expect(screen.getByText('2候補を生成')).toBeInTheDocument()
-    expect(screen.getByText('雰囲気:')).toBeInTheDocument()
-    // 閉じる（ボタンテキストが「閉じる」に変わっている）
-    // 「閉じる」はモーダル下部にもあるため、バリエーションボタン（テキストが変化）をクリック
-    const closeVarBtns = screen.getAllByText('閉じる')
-    // バリエーション側の閉じるボタンはモーダル閉じるボタンより前にある
-    fireEvent.click(closeVarBtns[0])
-    expect(screen.queryByText('2候補を生成')).not.toBeInTheDocument()
+    // BatchFormが埋め込まれ、lockedSpotヘッダーが表示される
+    expect(screen.getByText(/既存スポット/)).toBeInTheDocument()
+    // 候補生成ボタンが表示される
+    expect(screen.getByText(/候補を生成/)).toBeInTheDocument()
   })
 
   it('モーダルに「画像を差し替え...」ボタンが表示される', () => {

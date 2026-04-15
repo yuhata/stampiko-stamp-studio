@@ -25,6 +25,8 @@ const LS_KEYS = {
   areas: 'lbs-stamp-studio-areas',
   criteria: 'lbs-stamp-studio-criteria',
   overrides: 'lbs-stamp-studio-stamp-overrides',
+  customStamps: 'lbs-stamp-studio-custom-stamps',
+  ngReasons: 'lbs-stamp-studio-ng-log',
 }
 
 // ---------- localStorage helpers ----------
@@ -71,6 +73,12 @@ export function pullSettingsFromFirestore() {
       }
       if (data.stampOverrides && typeof data.stampOverrides === 'object') {
         lsWrite(LS_KEYS.overrides, data.stampOverrides)
+      }
+      if (Array.isArray(data.customStamps)) {
+        lsWrite(LS_KEYS.customStamps, data.customStamps)
+      }
+      if (Array.isArray(data.ngReasons)) {
+        lsWrite(LS_KEYS.ngReasons, data.ngReasons)
       }
       return { source: 'firestore', updatedAt: data.updatedAt || null }
     } catch (err) {
@@ -138,6 +146,45 @@ export function saveStampOverride(stampId, partial) {
   current[stampId] = { ...(current[stampId] || {}), ...partial }
   lsWrite(LS_KEYS.overrides, current)
   pushSettingsToFirestore({ stampOverrides: current })
+}
+
+// ---------- 公開API: customStamps ----------
+// バッチ生成・バリエーション生成で新規作成したスタンプ（manifest/Firestoreに無い）
+// 注意: dataUrl(base64) を含むため Firestore 1MB 上限近くで打ち切る
+
+const CUSTOM_STAMPS_MAX_BYTES = 900_000 // 安全マージン
+
+export function loadCustomStamps() {
+  return lsRead(LS_KEYS.customStamps, [])
+}
+
+export function saveCustomStamps(customStamps) {
+  // 新しい順に詰めて、JSONサイズが上限を超える分は古いものから捨てる
+  const sorted = [...customStamps].sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0))
+  const trimmed = []
+  let bytes = 0
+  for (const s of sorted) {
+    const size = JSON.stringify(s).length
+    if (bytes + size > CUSTOM_STAMPS_MAX_BYTES) break
+    trimmed.push(s)
+    bytes += size
+  }
+  if (trimmed.length < sorted.length) {
+    console.warn(`[studioStorage] customStamps: ${sorted.length - trimmed.length}件をサイズ上限のため未同期`)
+  }
+  lsWrite(LS_KEYS.customStamps, customStamps)
+  pushSettingsToFirestore({ customStamps: trimmed })
+}
+
+// ---------- 公開API: ngReasons ----------
+
+export function loadNgReasons() {
+  return lsRead(LS_KEYS.ngReasons, [])
+}
+
+export function saveNgReasons(ngReasons) {
+  lsWrite(LS_KEYS.ngReasons, ngReasons)
+  pushSettingsToFirestore({ ngReasons })
 }
 
 export function deleteStampOverride(stampId) {

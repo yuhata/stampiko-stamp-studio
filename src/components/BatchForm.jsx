@@ -6,6 +6,7 @@ import {
 } from '../config/promptDefaults'
 import { CANONICAL_AREAS, DEFAULT_AREA_CONFIG, AREA_COLORS } from '../config/areas'
 import { cropToCircle } from '../utils/imageProcess'
+import { resolveLocationInput } from '../utils/location'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
@@ -30,12 +31,17 @@ function getAreaPalette(areaId) {
   return [AREA_COLORS[areaId] || '#333333']
 }
 
-export default function BatchForm({ stamps, setStamps, ngReasons }) {
-  const [spotName, setSpotName] = useState('')
+export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, onClose }) {
+  const [spotName, setSpotName] = useState(lockedSpot?.spotName || '')
   const [spotHint, setSpotHint] = useState('')
-  const [lat, setLat] = useState('')
-  const [lng, setLng] = useState('')
-  const [area, setArea] = useState('asakusa')
+  const [locationInput, setLocationInput] = useState('')
+  const [resolvedLatLng, setResolvedLatLng] = useState(
+    lockedSpot && (lockedSpot.lat || lockedSpot.lng)
+      ? { lat: lockedSpot.lat, lng: lockedSpot.lng }
+      : null
+  )
+  const [resolvingLocation, setResolvingLocation] = useState(false)
+  const [area, setArea] = useState(lockedSpot?.area || 'asakusa')
   const palette = useMemo(() => getAreaPalette(area), [area])
   const [style, setStyle] = useState('circular')
   const [count, setCount] = useState(4)
@@ -158,17 +164,33 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
     }
   }
 
+  const isLocked = !!lockedSpot
+
   return (
     <div className="batch-form">
-      <div className="form-group">
-        <label>スポット名</label>
-        <input
-          type="text"
-          placeholder="例: 雷門、渋谷スクランブル交差点"
-          value={spotName}
-          onChange={e => setSpotName(e.target.value)}
-        />
-      </div>
+      {isLocked && (
+        <div style={{
+          padding: '10px 12px', marginBottom: 12,
+          background: 'var(--bg)', borderRadius: 8, fontSize: 13,
+          border: '1px solid var(--accent)', color: 'var(--text)',
+        }}>
+          📌 既存スポット <strong>{lockedSpot.spotName}</strong> にスタンプを追加生成します
+          <span style={{ color: 'var(--text-muted)', fontSize: 11, marginLeft: 8 }}>
+            （位置情報・スポット名は引き継がれます）
+          </span>
+        </div>
+      )}
+      {!isLocked && (
+        <div className="form-group">
+          <label>スポット名</label>
+          <input
+            type="text"
+            placeholder="例: 雷門、渋谷スクランブル交差点"
+            value={spotName}
+            onChange={e => setSpotName(e.target.value)}
+          />
+        </div>
+      )}
 
       <div className="form-group">
         <label>補足テキスト（任意）</label>
@@ -184,22 +206,60 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
         />
       </div>
 
-      <div className="form-group">
-        <label>エリア</label>
-        <select value={area} onChange={e => setArea(e.target.value)}>
-          {CANONICAL_AREAS.map(a => (
-            <option key={a.id} value={a.id}>{a.name}</option>
-          ))}
-        </select>
-      </div>
-
-      <div className="form-group">
-        <label>位置情報（緯度・経度）</label>
-        <div style={{ display: 'flex', gap: 8 }}>
-          <input type="number" step="0.0001" placeholder="緯度" value={lat} onChange={e => setLat(e.target.value)} style={{ flex: 1 }} />
-          <input type="number" step="0.0001" placeholder="経度" value={lng} onChange={e => setLng(e.target.value)} style={{ flex: 1 }} />
+      {!isLocked && (
+        <div className="form-group">
+          <label>エリア</label>
+          <select value={area} onChange={e => setArea(e.target.value)}>
+            {CANONICAL_AREAS.map(a => (
+              <option key={a.id} value={a.id}>{a.name}</option>
+            ))}
+          </select>
         </div>
+      )}
+
+      {!isLocked && (
+      <div className="form-group">
+        <label>位置情報</label>
+        <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
+          住所、または「緯度,経度」（カンマ区切り、Google Mapsからのコピペ可）
+        </div>
+        <div style={{ display: 'flex', gap: 8 }}>
+          <input
+            type="text"
+            placeholder="例: 東京都台東区浅草2-3-1 / 35.7148,139.7967"
+            value={locationInput}
+            onChange={e => { setLocationInput(e.target.value); setResolvedLatLng(null) }}
+            style={{ flex: 1 }}
+          />
+          <button
+            type="button"
+            disabled={!locationInput.trim() || resolvingLocation}
+            className="filter-btn"
+            onClick={async () => {
+              setResolvingLocation(true)
+              try {
+                const result = await resolveLocationInput(locationInput, {
+                  confirmFn: (geo) => confirm(`検索結果:\n${geo.display}\n\n(${geo.lat.toFixed(5)}, ${geo.lng.toFixed(5)})\n\nこの位置で確定しますか？`),
+                })
+                if (result) setResolvedLatLng(result)
+              } catch (err) {
+                alert(`位置取得エラー: ${err.message}`)
+              } finally {
+                setResolvingLocation(false)
+              }
+            }}
+          >
+            {resolvingLocation ? '解決中...' : '位置を確定'}
+          </button>
+        </div>
+        {resolvedLatLng && (
+          <div style={{ marginTop: 6, fontSize: 11, color: 'var(--accent-green, #4caf50)' }}>
+            ✓ {resolvedLatLng.lat.toFixed(5)}, {resolvedLatLng.lng.toFixed(5)}
+            {resolvedLatLng.display ? ` — ${resolvedLatLng.display}` : ''}
+          </div>
+        )}
       </div>
+      )}
 
       <div className="form-group">
         <label>構図スタイル</label>
@@ -325,20 +385,23 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
                     .filter(g => g.dataUrl)
                     .map((g, i) => ({
                       id: `gen_${Date.now()}_${i}`,
-                      spotId: spotName.replace(/\s+/g, '_').toLowerCase(),
+                      spotId: lockedSpot?.spotId || spotName.replace(/\s+/g, '_').toLowerCase(),
                       spotName,
                       area,
-                      lat: parseFloat(lat) || 0,
-                      lng: parseFloat(lng) || 0,
+                      lat: lockedSpot?.lat || resolvedLatLng?.lat || 0,
+                      lng: lockedSpot?.lng || resolvedLatLng?.lng || 0,
                       variant: i,
                       path: null,
                       dataUrl: g.dataUrl,
                       status: 'draft',
                       designerNote: '',
                       ngTags: [],
+                      source: 'custom',
+                      createdAt: Date.now(),
                     }))
                   setStamps(prev => [...prev, ...newStamps])
                   setAddedToGallery(true)
+                  if (onClose) setTimeout(onClose, 500)
                 }}
                 style={{
                   background: 'var(--accent)', color: 'white', border: 'none',
