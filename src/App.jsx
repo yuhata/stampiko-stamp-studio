@@ -90,7 +90,13 @@ function App() {
       const existingIds = new Set(withOverrides.map(s => s.id))
       const newCustom = customStamps.filter(s => !existingIds.has(s.id))
       const withCustom = [...withOverrides, ...newCustom]
-      setStamps(withCustom)
+      // ロード完了前にユーザーが追加した custom stamps があれば保持する
+      // （loadStamps が async なため、手動追加とロード完了の race で消えるのを防ぐ）
+      setStamps(prev => {
+        const loadedIds = new Set(withCustom.map(s => s.id))
+        const inflightCustom = prev.filter(s => s.source === 'custom' && !loadedIds.has(s.id))
+        return [...withCustom, ...inflightCustom]
+      })
       // 初期ロード完了後に永続化を有効化
       stampsLoaded.current = true
     }
