@@ -12,12 +12,14 @@
 
 import { doc, getDoc, setDoc, serverTimestamp } from 'firebase/firestore'
 import { getFirestore } from 'firebase/firestore'
+import { getStorage, ref as storageRef, uploadString, getDownloadURL } from 'firebase/storage'
 import { initializeApp, getApps } from 'firebase/app'
 import { authReady } from './firebase'
 
 // firebase.js で初期化済みのappを再利用
 const app = getApps()[0] || initializeApp({}) // fallback never reached in practice
 const fdb = getFirestore(app)
+const fst = getStorage(app)
 
 const SETTINGS_DOC = doc(fdb, 'studio_settings', 'global')
 
@@ -150,30 +152,83 @@ export function saveStampOverride(stampId, partial) {
 
 // ---------- 公開API: customStamps ----------
 // バッチ生成・バリエーション生成で新規作成したスタンプ（manifest/Firestoreに無い）
-// 注意: dataUrl(base64) を含むため Firestore 1MB 上限近くで打ち切る
-
-const CUSTOM_STAMPS_MAX_BYTES = 900_000 // 安全マージン
+// 画像本体(base64)は Firebase Storage `studio_custom_stamps/{id}.png` にアップロードし、
+// Firestore には URL のみ保存することで 1MB ドキュメント上限を回避する。
 
 export function loadCustomStamps() {
   return lsRead(LS_KEYS.customStamps, [])
 }
 
-export function saveCustomStamps(customStamps) {
-  // 新しい順に詰めて、JSONサイズが上限を超える分は古いものから捨てる
-  const sorted = [...customStamps].sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0))
-  const trimmed = []
-  let bytes = 0
-  for (const s of sorted) {
-    const size = JSON.stringify(s).length
-    if (bytes + size > CUSTOM_STAMPS_MAX_BYTES) break
-    trimmed.push(s)
-    bytes += size
-  }
-  if (trimmed.length < sorted.length) {
-    console.warn(`[studioStorage] customStamps: ${sorted.length - trimmed.length}件をサイズ上限のため未同期`)
-  }
+// data:image/png;base64,XXXX を Storage にアップロードして公開URLを返す
+async function uploadDataUrlToStorage(stampId, dataUrl) {
+  const ref = storageRef(fst, `studio_custom_stamps/${stampId}.png`)
+  // uploadString は data URL を直接受け付ける ('data_url' フォーマット)
+  await uploadString(ref, dataUrl, 'data_url')
+  return await getDownloadURL(ref)
+}
+
+// アップロード進行中の Promise を stampId ごとにキャッシュして二重アップロードを防ぐ
+const uploadInflight = new Map()
+// アップロード完了済みの stampId → imageUrl をセッション内でキャッシュ。
+// React state が dataUrl を保持し続けても再アップロードしないようにする
+const uploadedUrls = new Map()
+
+/**
+ * customStamps の各エントリについて、`dataUrl` が base64 ならStorageへ移行して
+ * `imageUrl` に置き換えた配列を Firestore へ保存。
+ * - localStorage には base64 を含むフル状態を保存（オフライン即時表示用）
+ * - Firestore には imageUrl のみ保存（軽量・無制限）
+ */
+export async function saveCustomStamps(customStamps) {
+  // localStorage は即時に書き込み（dataUrl も含めて持つ）
   lsWrite(LS_KEYS.customStamps, customStamps)
-  pushSettingsToFirestore({ customStamps: trimmed })
+
+  // Firestore 用にアップロードしてURLに置き換える
+  const lite = await Promise.all(customStamps.map(async (s) => {
+    if (s.imageUrl) {
+      uploadedUrls.set(s.id, s.imageUrl)
+      return stripDataUrl(s)
+    }
+    if (uploadedUrls.has(s.id)) {
+      // セッション内で既にアップロード済み
+      return stripDataUrl({ ...s, imageUrl: uploadedUrls.get(s.id) })
+    }
+    if (s.dataUrl?.startsWith('data:')) {
+      try {
+        let p = uploadInflight.get(s.id)
+        if (!p) {
+          p = uploadDataUrlToStorage(s.id, s.dataUrl)
+          uploadInflight.set(s.id, p)
+        }
+        const url = await p
+        uploadInflight.delete(s.id)
+        uploadedUrls.set(s.id, url)
+        // localStorage 側のエントリも imageUrl で更新（次回ロードからアップロード不要）
+        patchLocalCustomStamp(s.id, { imageUrl: url, dataUrl: null })
+        return stripDataUrl({ ...s, imageUrl: url })
+      } catch (err) {
+        uploadInflight.delete(s.id)
+        console.warn(`[studioStorage] upload failed for ${s.id}:`, err.message)
+        return null
+      }
+    }
+    return stripDataUrl(s)
+  }))
+
+  const sanitized = lite.filter(Boolean)
+  pushSettingsToFirestore({ customStamps: sanitized })
+}
+
+function stripDataUrl(stamp) {
+  // Firestore に dataUrl(base64) を載せない
+  const { dataUrl: _drop, ...rest } = stamp
+  return rest
+}
+
+function patchLocalCustomStamp(stampId, patch) {
+  const current = loadCustomStamps()
+  const next = current.map(s => s.id === stampId ? { ...s, ...patch } : s)
+  lsWrite(LS_KEYS.customStamps, next)
 }
 
 // ---------- 公開API: ngReasons ----------

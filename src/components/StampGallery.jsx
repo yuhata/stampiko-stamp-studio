@@ -209,7 +209,7 @@ function StampCard({ stamp, onClick, updateStamp }) {
   return (
     <div className="stamp-card" data-status={stamp.status} onClick={onClick}>
       <div className="stamp-image-wrapper">
-        <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} loading="lazy" />
+        <img src={stamp.imageUrl || stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} loading="lazy" />
         <span className="status-badge" data-status={stamp.status}>
           {stamp.status === 'approved' ? '承認' :
            stamp.status === 'rejected' ? '却下' : '未レビュー'}
@@ -272,7 +272,7 @@ function StampModal({ stamp, stamps, onClose, updateStamp, addNgReason, ngReason
         style={{ maxHeight: '90vh', overflowY: 'auto' }}
       >
         <div className="modal-image">
-          <img src={stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} />
+          <img src={stamp.imageUrl || stamp.dataUrl || `${import.meta.env.BASE_URL}${stamp.path}`} alt={stamp.spotName} />
         </div>
         <div className="modal-body">
           <h3>{stamp.spotName} — 候補 {stamp.variant + 1}</h3>
