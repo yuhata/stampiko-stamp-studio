@@ -1,74 +1,48 @@
-# Stampiko (LBS Stamp Collection)
+# Stamp Studio (LBS Stamp Studio)
+Stampikoのスタンプを生成・管理する管理ツール。
 
-## ⚠️ Security Rules (MUST READ FIRST)
+## ⚠️ Security Rules
 - GEMINI_API_KEY, FIREBASE_* をフロントエンドに露出させない（VITE_接頭辞のみクライアント許可）
-- Firestoreルールで認証チェック必須（allow read/write: if true は公開データのみ例外）
-- ユーザー入力は必ずサニタイズしてからFirestoreに保存
-- Firebase Storage: ファイルサイズ・MIME type を制限
-- APIエンドポイントにレート制限（特に /api/generate-stamp, /api/auto-generate-spot）
 - Gemini APIプロンプトにユーザー入力を直接結合しない（プロンプトインジェクション防止）
+- Firebase Storage: ファイルサイズ・MIME type を制限
 
-## Code Conventions (非標準ルール)
-- Firestore: snake_case for collections, camelCase for fields
-- Timestamps: serverTimestamp() on write, toDate() on read
-- GPS: always Haversine before AI verify
+## Code Conventions
 - Images: always removeWhiteBackground() before Storage upload
-- Rank: always call checkRankUp() after stamp acquisition
 - Template stamps: SVG/Canvas composition, NO Gemini API
 - Spot types: 'landmark' | 'data_spot' | 'generic'
 
-## Architecture
-- Two-Layer: Landmark (60 curated) + Data Spot (154K+ from OSM, 9 categories)
-- Frontend: Vite + React + Leaflet
-- API: Express.js + Vercel (GPS verify, Gemini, Firebase)
-- Backend: Vite + React (admin)
-- DB: Firebase (Firestore + Storage + Auth)
-- AI: Gemini 2.5 Flash Image (stamp gen), Gemini 2.0 Flash (photo verify)
-
 ## Specs
 Notionがマスター。specs/は同期コピー。仕様書にない機能は追加禁止。
-- specs/requirements.md — サービス全体設計
-- specs/design.md — UI・画面設計書
-- specs/implementation.md — 実装仕様書
-- specs/stamp-designs.md — スタンプデザイン
-- specs/quality-management.md — 品質管理フロー
-- specs/branding.md — ブランディングガイド
-
 更新: `node scripts/export-specs-from-notion.mjs`
 
 ## Task Guidelines
 - 1タスク7〜10関数以内。1PR1機能。
 - 既存コードを読んで理解してから実装。
 - Firestoreの新フィールドは既存データ互換のデフォルト値を設定。
-- テストなしのコードをmainにマージしない。
 
-### セッション分離ルール
-コンテキスト汚染を防ぐため、タスク種別ごとにセッションを分ける:
-- UI実装とAPI実装は別セッション
-- 実装とデバッグは別セッション
-- 全仕様書を一度に渡さない。該当Sprint+該当画面のspecsのみ参照
+## ⚠️ Data Integrity Rules（2026-04-17 事故教訓）
+Firestoreの配列全量上書きでデザイナーの作業データ400件超が消失した。二度と起こさないための絶対ルール:
 
-### モデル使い分け
-- ルーティン実装（CRUD, UI調整）→ Sonnet / Flash
-- 設計判断・リファクタ → Opus
-- ドキュメント生成・定型作業 → Haiku / Flash
+### 設計原則
+- **Firestoreの配列フィールドでデータベースを再現しない**。ユーザーが作成するデータは必ず個別ドキュメント（1件1doc）方式にする
+- **`setDoc` で配列を丸ごと上書きする設計は禁止**。`arrayUnion` / `arrayRemove` か個別ドキュメントを使う
+- **エラー時にデータを捨てない**。`return null` + `filter(Boolean)` は「失敗=消失」パターン。失敗してもメタデータは残すこと
+- **非同期ロード完了前の `setState` 上書きに注意**。functional update (`prev => ...`) で既存データを保持する
 
-### フェーズゲートレビュー
-Sprint境界でレビュー。Sprint内は基本ノータッチ。
-- Sprint完了 → テスト項目を実行 → PR → レビュー → マージ
-- Sprint途中でのレビュー依頼は原則なし（ブロッカーのみ例外）
+### テスト義務
+- 永続化・データ同期の変更は、**実Firebase環境でのスモークテストを必ず通してからデプロイ**する
+- 最低限の検証項目:
+  1. ライフサイクル: N件保存 → セッション切替（別ブラウザコンテキスト）→ N件復元
+  2. 冪等性: リロード3回で件数不変
+  3. 障害耐性: upload失敗時にデータが消えないこと
+- スモークスクリプト: `scripts/smoke-storage-upload.mjs`, `scripts/smoke-data-integrity.mjs`
+- Vitest + Build OK だけで「テスト済み」と報告しない
 
-### PR毎セキュリティチェック
-- [ ] 環境変数がクライアントコードに含まれていないか
-- [ ] Firestoreルールで適切なauthチェックがあるか
-- [ ] 外部入力のバリデーションがあるか
-- [ ] エラーメッセージに内部情報が含まれていないか
-- [ ] 新APIエンドポイントにレート制限があるか
-
-## Environment Variables
-- GEMINI_API_KEY / FIREBASE_* (API) / VITE_FIREBASE_* (Frontend)
+### 現行アーキテクチャ
+- customStamps: `studio_custom_stamps/{stampId}` 個別ドキュメント（2026-04-17移行済）
+- 画像: Firebase Storage `studio_custom_stamps/{stampId}.png`
+- 設定（areaConfig/criteria/stampOverrides/ngReasons）: `studio_settings/global`（配列だが頻度低・件数少のため許容）
 
 ## Testing
 - Tokyo Tower (35.6586, 139.7454), 洗足池 (35.5727, 139.7108)
-- GPS: 100m default, 200m for stations. Welcome stamp: spotId='welcome'
-- Dev GPS: Chrome DevTools → Sensors → Location
+- GPS: 100m default, 200m for stations
