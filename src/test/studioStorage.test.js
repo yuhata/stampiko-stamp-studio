@@ -5,6 +5,8 @@ const uploadStringMock = vi.fn()
 const getDownloadURLMock = vi.fn()
 const setDocMock = vi.fn()
 const getDocMock = vi.fn()
+const deleteDocMock = vi.fn()
+const getDocsMock = vi.fn()
 
 vi.mock('firebase/storage', () => ({
   getStorage: () => ({}),
@@ -16,8 +18,11 @@ vi.mock('firebase/storage', () => ({
 vi.mock('firebase/firestore', () => ({
   getFirestore: () => ({}),
   doc: (_db, col, id) => ({ col, id }),
+  collection: (_db, name) => ({ name }),
   getDoc: (...args) => getDocMock(...args),
+  getDocs: (...args) => getDocsMock(...args),
   setDoc: (...args) => setDocMock(...args),
+  deleteDoc: (...args) => deleteDocMock(...args),
   serverTimestamp: () => 'SERVER_TS',
 }))
 
@@ -46,6 +51,8 @@ beforeEach(() => {
   getDownloadURLMock.mockReset()
   setDocMock.mockReset()
   getDocMock.mockReset()
+  deleteDocMock.mockReset()
+  getDocsMock.mockReset()
 })
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms))
@@ -63,43 +70,40 @@ const makeCustom = (overrides = {}) => ({
   ...overrides,
 })
 
-describe('studioStorage.saveCustomStamps - Storage 移行', () => {
-  it('dataUrl(base64) を持つスタンプを Storage にアップロードして imageUrl に置換する', async () => {
+describe('studioStorage.saveCustomStamps - 個別ドキュメント方式', () => {
+  it('dataUrl(base64) を持つスタンプを Storage にアップロードする', async () => {
     uploadStringMock.mockResolvedValue({ ref: {} })
     getDownloadURLMock.mockResolvedValue('https://fakestorage/abc.png')
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
     await saveCustomStamps([makeCustom()])
 
     expect(uploadStringMock).toHaveBeenCalledTimes(1)
-    const callArgs = uploadStringMock.mock.calls[0]
-    expect(callArgs[0]).toEqual({ path: 'studio_custom_stamps/gen_1.png' })
-    expect(callArgs[1]).toBe('data:image/png;base64,STUB')
-    expect(callArgs[2]).toBe('data_url')
+    expect(uploadStringMock.mock.calls[0][2]).toBe('data_url')
     expect(getDownloadURLMock).toHaveBeenCalledTimes(1)
   })
 
-  it('Firestore へ送るペイロードに base64 dataUrl が含まれない', async () => {
+  it('個別ドキュメントとして setDoc が呼ばれ、dataUrl は含まれない', async () => {
     uploadStringMock.mockResolvedValue({})
     getDownloadURLMock.mockResolvedValue('https://fakestorage/abc.png')
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
-    await saveCustomStamps([makeCustom()])
+    await saveCustomStamps([makeCustom({ id: 'gen_doc_test' })])
 
-    // pushSettingsToFirestore は 600ms デバウンスなので待機
-    await sleep(700)
-
-    expect(setDocMock).toHaveBeenCalled()
-    const payload = setDocMock.mock.calls[0][1]
-    expect(payload.customStamps).toBeDefined()
-    expect(payload.customStamps[0].dataUrl).toBeUndefined()
-    expect(payload.customStamps[0].imageUrl).toBe('https://fakestorage/abc.png')
-    expect(payload.customStamps[0].id).toBe('gen_1')
+    const stampCalls = setDocMock.mock.calls.filter(c => c[0]?.col === 'studio_custom_stamps')
+    expect(stampCalls.length).toBeGreaterThanOrEqual(1)
+    const call = stampCalls.find(c => c[0].id === 'gen_doc_test')
+    expect(call).toBeTruthy()
+    const payload = call[1]
+    expect(payload.dataUrl).toBeUndefined()
+    expect(payload.imageUrl).toBe('https://fakestorage/abc.png')
+    expect(payload.source).toBe('custom')
   })
 
   it('既に imageUrl を持つスタンプは再アップロードしない', async () => {
-    uploadStringMock.mockResolvedValue({})
-    getDownloadURLMock.mockResolvedValue('https://fakestorage/new.png')
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
     await saveCustomStamps([makeCustom({ id: 'gen_skip', imageUrl: 'https://fakestorage/existing.png', dataUrl: null })])
@@ -110,19 +114,20 @@ describe('studioStorage.saveCustomStamps - Storage 移行', () => {
   it('同一セッションで同じ stampId を2回保存してもアップロードは1回だけ', async () => {
     uploadStringMock.mockResolvedValue({})
     getDownloadURLMock.mockResolvedValue('https://fakestorage/once.png')
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
     const stamp = makeCustom({ id: 'gen_dedupe' })
     await saveCustomStamps([stamp])
-    // 2回目は React state がまだ dataUrl を持っているケースを再現
     await saveCustomStamps([stamp])
 
     expect(uploadStringMock).toHaveBeenCalledTimes(1)
   })
 
-  it('複数スタンプを並列でアップロードする', async () => {
+  it('複数スタンプがそれぞれ個別ドキュメントとして保存される', async () => {
     uploadStringMock.mockResolvedValue({})
     getDownloadURLMock.mockImplementation(() => Promise.resolve('https://fakestorage/x.png'))
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
     await saveCustomStamps([
@@ -131,41 +136,50 @@ describe('studioStorage.saveCustomStamps - Storage 移行', () => {
       makeCustom({ id: 'gen_c' }),
     ])
 
-    expect(uploadStringMock).toHaveBeenCalledTimes(3)
-    const paths = uploadStringMock.mock.calls.map(c => c[0].path).sort()
-    expect(paths).toEqual([
-      'studio_custom_stamps/gen_a.png',
-      'studio_custom_stamps/gen_b.png',
-      'studio_custom_stamps/gen_c.png',
-    ])
+    // 3件の個別setDoc
+    const stampDocs = setDocMock.mock.calls.filter(c => c[0]?.col === 'studio_custom_stamps')
+    expect(stampDocs.length).toBe(3)
+    const ids = stampDocs.map(c => c[0].id).sort()
+    expect(ids).toEqual(['gen_a', 'gen_b', 'gen_c'])
   })
 
-  it('Storage アップロード失敗時は Firestore ペイロードから除外する', async () => {
+  it('Storage アップロード失敗でもメタデータドキュメントは保存される', async () => {
     uploadStringMock.mockRejectedValue(new Error('storage permission denied'))
-    getDownloadURLMock.mockResolvedValue(null)
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
     await saveCustomStamps([makeCustom({ id: 'gen_fail' })])
 
-    await sleep(700)
-
-    // setDoc は呼ばれるが customStamps は空配列
-    expect(setDocMock).toHaveBeenCalled()
-    const payload = setDocMock.mock.calls[0][1]
-    expect(payload.customStamps).toEqual([])
+    // メタデータは保存される（imageUrl無しでもドキュメントは残る）
+    const stampDocs = setDocMock.mock.calls.filter(c => c[0]?.col === 'studio_custom_stamps')
+    expect(stampDocs.length).toBe(1)
+    expect(stampDocs[0][0].id).toBe('gen_fail')
   })
 
-  it('localStorage には常に最新の状態（dataUrl 含む）を即時保存', async () => {
+  it('localStorage には常に最新の状態を即時保存', async () => {
     uploadStringMock.mockResolvedValue({})
     getDownloadURLMock.mockResolvedValue('https://fakestorage/local.png')
+    setDocMock.mockResolvedValue()
 
     const { saveCustomStamps } = await import('../config/studioStorage')
-    const stamp = makeCustom({ id: 'gen_ls' })
-    await saveCustomStamps([stamp])
+    await saveCustomStamps([makeCustom({ id: 'gen_ls' })])
 
     const stored = JSON.parse(lsStore['lbs-stamp-studio-custom-stamps'])
     expect(stored).toHaveLength(1)
-    // アップロード完了後、localStorage 側も imageUrl で更新される
     expect(stored[0].imageUrl).toBe('https://fakestorage/local.png')
+  })
+
+  it('削除されたスタンプは deleteDoc される', async () => {
+    uploadStringMock.mockResolvedValue({})
+    getDownloadURLMock.mockResolvedValue('https://fakestorage/del.png')
+    setDocMock.mockResolvedValue()
+    deleteDocMock.mockResolvedValue()
+
+    const { saveCustomStamps, deleteCustomStamp } = await import('../config/studioStorage')
+    // deleteCustomStamp で直接削除
+    await deleteCustomStamp('gen_to_delete')
+
+    expect(deleteDocMock).toHaveBeenCalledTimes(1)
+    expect(deleteDocMock.mock.calls[0][0].id).toBe('gen_to_delete')
   })
 })

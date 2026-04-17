@@ -10,7 +10,7 @@ import { collection, getDocs, query, where } from 'firebase/firestore'
 import { db, authReady } from './config/firebase'
 import {
   pullSettingsFromFirestore, loadStampOverrides, saveStampOverride,
-  loadCustomStamps, saveCustomStamps, loadNgReasons, saveNgReasons,
+  pullCustomStampsFromFirestore, saveCustomStamps, loadNgReasons, saveNgReasons,
 } from './config/studioStorage'
 import './App.css'
 
@@ -85,8 +85,8 @@ function App() {
       const overrides = loadStampOverrides()
       const withOverrides = merged.map(s => overrides[s.id] ? { ...s, ...overrides[s.id] } : s)
 
-      // customStamps（バッチ生成・バリエーション生成）を末尾に追加
-      const customStamps = loadCustomStamps()
+      // customStamps — Firestoreの個別ドキュメントから読み込み
+      const customStamps = await pullCustomStampsFromFirestore()
       const existingIds = new Set(withOverrides.map(s => s.id))
       const newCustom = customStamps.filter(s => !existingIds.has(s.id))
       const withCustom = [...withOverrides, ...newCustom]

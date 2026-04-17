@@ -15,7 +15,7 @@ import fs from 'fs'
 import os from 'os'
 import path from 'path'
 
-const DEV_URL = process.env.SMOKE_URL || 'http://localhost:5177/stampiko-stamp-studio/#studio'
+const DEV_URL = process.env.SMOKE_URL || 'http://localhost:5199/stampiko-stamp-studio/#studio'
 const PROJECT = 'stampiko-e8be8'
 const TINY_PNG = 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=='
 
@@ -46,15 +46,12 @@ async function fetchSettingsDoc(token) {
   return r.json()
 }
 
-// 検証前に既存 customStamps を消しておく（テスト独立性）
-async function resetCustomStamps(token) {
-  const url = `https://firestore.googleapis.com/v1/projects/${PROJECT}/databases/(default)/documents/studio_settings/global?updateMask.fieldPaths=customStamps`
-  const r = await fetch(url, {
-    method: 'PATCH',
-    headers: { Authorization: 'Bearer ' + token, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ fields: { customStamps: { arrayValue: { values: [] } } } }),
-  })
-  if (!r.ok) throw new Error(`Firestore PATCH ${r.status}: ${await r.text()}`)
+// 個別ドキュメントを検証
+async function verifyStampDoc(token, stampId) {
+  const url = `https://firestore.googleapis.com/v1/projects/${PROJECT}/databases/(default)/documents/studio_custom_stamps/${stampId}`
+  const r = await fetch(url, { headers: { Authorization: 'Bearer ' + token } })
+  if (!r.ok) return null
+  return r.json()
 }
 
 async function main() {
@@ -62,9 +59,6 @@ async function main() {
 
   const token = await getAccessToken()
   log('Firebase OAuth token refreshed')
-
-  await resetCustomStamps(token)
-  ok('Firestore studio_settings/global.customStamps をリセット')
 
   const browser = await chromium.launch({ headless: true })
   const ctx = await browser.newContext()
@@ -112,10 +106,10 @@ async function main() {
   ok('ページロード')
 
   // localStorage クリア（前回のセッションの dataUrl を残さない）
+  await page.waitForTimeout(2000)
   await page.evaluate(() => {
     localStorage.removeItem('lbs-stamp-studio-custom-stamps')
   })
-  await page.reload()
 
   // バッチ生成タブに移動
   await page.getByRole('button', { name: 'バッチ生成' }).click()
@@ -130,8 +124,20 @@ async function main() {
   await page.getByRole('button', { name: /ギャラリーに追加/ }).click()
   ok('ギャラリーに追加クリック')
 
-  // Storage アップロードと Firestore push (600ms debounce) の両方を待つ
-  await page.waitForTimeout(3000)
+  // Storage アップロードと個別ドキュメント書き込みを待つ
+  await page.waitForTimeout(5000)
+
+  // localStorage の状態を確認
+  const lsState = await page.evaluate(() => {
+    const d = JSON.parse(localStorage.getItem('lbs-stamp-studio-custom-stamps') || '[]')
+    return d.filter(s => s.spotName === 'スモークテストスポット').map(s => ({
+      id: s.id,
+      hasDataUrl: !!s.dataUrl,
+      hasImageUrl: !!s.imageUrl,
+      source: s.source,
+    }))
+  })
+  log('localStorage state:', JSON.stringify(lsState))
 
   // Storage upload リクエストが発生したか
   if (storageUploads.length === 0) {
@@ -152,34 +158,37 @@ async function main() {
   }
   ok('致命的 console error なし')
 
-  // Firestore を直接確認（最大10秒ポーリング）
-  let doc, customStampsField
+  // Firestore を個別ドキュメントで直接確認
+  // スモーク用スタンプの ID を取得（localStorage から）
+  const stampIds = await page.evaluate(() => {
+    const d = JSON.parse(localStorage.getItem('lbs-stamp-studio-custom-stamps') || '[]')
+    return d.filter(s => s.spotName === 'スモークテストスポット').map(s => s.id)
+  })
+  if (stampIds.length === 0) fail('localStorage にスモーク用スタンプが見つからない')
+  ok(`localStorage にスモーク用スタンプ ${stampIds.length} 件`)
+
+  // Firestoreの個別ドキュメントを確認（最大10秒ポーリング）
+  let stampDoc = null
   for (let i = 0; i < 10; i++) {
-    doc = await fetchSettingsDoc(token)
-    customStampsField = doc.fields?.customStamps?.arrayValue?.values || []
-    if (customStampsField.length > 0) break
+    stampDoc = await verifyStampDoc(token, stampIds[0])
+    if (stampDoc?.fields) break
     await new Promise(r => setTimeout(r, 1000))
   }
-  if (customStampsField.length === 0) {
-    log('--- Firestore doc state ---')
-    log(JSON.stringify(doc, null, 2).substring(0, 1500))
-    fail('Firestore studio_settings.customStamps が空（10秒ポーリング後）')
+  if (!stampDoc?.fields) {
+    fail(`個別ドキュメント studio_custom_stamps/${stampIds[0]} が見つからない（10秒ポーリング後）`)
   }
-  ok(`Firestore に customStamps ${customStampsField.length} 件保存済み`)
+  ok(`個別ドキュメント ${stampIds[0]} がFirestoreに存在`)
 
-  const first = customStampsField[0].mapValue.fields
-  if (!first.imageUrl?.stringValue) {
-    fail('customStamps[0].imageUrl が無い')
+  const fields = stampDoc.fields
+  if (!fields.imageUrl?.stringValue?.includes('firebasestorage')) {
+    fail(`imageUrl が Storage URL でない: ${JSON.stringify(fields.imageUrl)}`)
   }
-  if (!first.imageUrl.stringValue.includes('firebasestorage')) {
-    fail(`imageUrl が Storage URL でない: ${first.imageUrl.stringValue}`)
-  }
-  ok(`customStamps[0].imageUrl = ${first.imageUrl.stringValue.substring(0, 80)}...`)
+  ok(`imageUrl = ${fields.imageUrl.stringValue.substring(0, 80)}...`)
 
-  if (first.dataUrl) {
-    fail(`customStamps[0] に dataUrl が残っている (Firestore 1MB 上限のリスク)`)
+  if (fields.dataUrl) {
+    fail('個別ドキュメントに dataUrl が残っている')
   }
-  ok('customStamps[0] に dataUrl が含まれない')
+  ok('個別ドキュメントに dataUrl が含まれない')
 
   // 別ブラウザコンテキストで開いて画像が表示されるか確認
   log('別ブラウザコンテキストで再ロード...')

@@ -3,14 +3,13 @@
 //
 // 構造:
 //   Firestore: studio_settings/global { areaConfig, criteria, stampOverrides }
-//   - areaConfig: { [areaId]: { label, palette[], style, description } }
-//   - criteria:   [ { id, criteria, ok, ng } ]
-//   - stampOverrides: { [stampId]: { dataUrl, status, designerNote, ngTags, lat, lng } }
+//   Firestore: studio_custom_stamps/{stampId} — カスタムスタンプ（個別ドキュメント）
+//   Storage:   studio_custom_stamps/{stampId}.png — 画像本体
 //
-// 注意: stampOverrides の dataUrl はサイズが大きく、Firestore 1MBドキュメント上限に注意。
-// 本実装では「数十件までの上書き」を想定。本格的にはStorageへ移行する。
+// カスタムスタンプは個別ドキュメント方式。配列の全量上書きによるデータ消失を防ぐ。
+// 追加=setDoc、削除=deleteDoc、読み込み=getDocs。部分失敗が全体に波及しない。
 
-import { doc, getDoc, setDoc, serverTimestamp } from 'firebase/firestore'
+import { doc, getDoc, setDoc, deleteDoc, serverTimestamp, collection, getDocs } from 'firebase/firestore'
 import { getFirestore } from 'firebase/firestore'
 import { getStorage, ref as storageRef, uploadString, getDownloadURL } from 'firebase/storage'
 import { initializeApp, getApps } from 'firebase/app'
@@ -76,9 +75,7 @@ export function pullSettingsFromFirestore() {
       if (data.stampOverrides && typeof data.stampOverrides === 'object') {
         lsWrite(LS_KEYS.overrides, data.stampOverrides)
       }
-      if (Array.isArray(data.customStamps)) {
-        lsWrite(LS_KEYS.customStamps, data.customStamps)
-      }
+      // customStamps は個別ドキュメント方式に移行済み。旧配列は無視する
       if (Array.isArray(data.ngReasons)) {
         lsWrite(LS_KEYS.ngReasons, data.ngReasons)
       }
@@ -152,83 +149,127 @@ export function saveStampOverride(stampId, partial) {
 
 // ---------- 公開API: customStamps ----------
 // バッチ生成・バリエーション生成で新規作成したスタンプ（manifest/Firestoreに無い）
-// 画像本体(base64)は Firebase Storage `studio_custom_stamps/{id}.png` にアップロードし、
-// Firestore には URL のみ保存することで 1MB ドキュメント上限を回避する。
+// 個別ドキュメント方式: studio_custom_stamps/{stampId} に1スタンプ1ドキュメント
+// 画像本体: Firebase Storage studio_custom_stamps/{stampId}.png
+
+const CUSTOM_STAMPS_COL = collection(fdb, 'studio_custom_stamps')
 
 export function loadCustomStamps() {
   return lsRead(LS_KEYS.customStamps, [])
 }
 
+/**
+ * Firestoreから全カスタムスタンプを読み込み、localStorageに同期
+ */
+export async function pullCustomStampsFromFirestore() {
+  try {
+    await authReady
+    const snap = await getDocs(CUSTOM_STAMPS_COL)
+    const stamps = snap.docs.map(d => ({ id: d.id, ...d.data() }))
+    lsWrite(LS_KEYS.customStamps, stamps)
+    // 読み込んだスタンプは既にFirestoreに存在するのでsavedとしてマーク
+    stamps.forEach(s => {
+      savedStampIds.add(s.id)
+      if (s.imageUrl) uploadedImageIds.add(s.id)
+    })
+    return stamps
+  } catch (err) {
+    console.warn('[studioStorage] pullCustomStamps failed:', err.message)
+    return loadCustomStamps()
+  }
+}
+
 // data:image/png;base64,XXXX を Storage にアップロードして公開URLを返す
 async function uploadDataUrlToStorage(stampId, dataUrl) {
   const ref = storageRef(fst, `studio_custom_stamps/${stampId}.png`)
-  // uploadString は data URL を直接受け付ける ('data_url' フォーマット)
   await uploadString(ref, dataUrl, 'data_url')
   return await getDownloadURL(ref)
 }
 
-// アップロード進行中の Promise を stampId ごとにキャッシュして二重アップロードを防ぐ
+// セッション内で処理済みの stampId を追跡
+const savedStampIds = new Set()    // Firestore にドキュメントを書いた ID
+const uploadedImageIds = new Set() // Storage にアップロード済みの ID
 const uploadInflight = new Map()
-// アップロード完了済みの stampId → imageUrl をセッション内でキャッシュ。
-// React state が dataUrl を保持し続けても再アップロードしないようにする
-const uploadedUrls = new Map()
 
 /**
- * customStamps の各エントリについて、`dataUrl` が base64 ならStorageへ移行して
- * `imageUrl` に置き換えた配列を Firestore へ保存。
- * - localStorage には base64 を含むフル状態を保存（オフライン即時表示用）
- * - Firestore には imageUrl のみ保存（軽量・無制限）
+ * カスタムスタンプを個別ドキュメントとして保存。
+ * 前回との差分のみ書き込み、削除も反映する。
+ * 配列全量上書きは行わない。
  */
-export async function saveCustomStamps(customStamps) {
-  // localStorage は即時に書き込み（dataUrl も含めて持つ）
-  lsWrite(LS_KEYS.customStamps, customStamps)
+export async function saveCustomStamps(currentStamps) {
+  // localStorage は即時に書き込み
+  lsWrite(LS_KEYS.customStamps, currentStamps)
 
-  // Firestore 用にアップロードしてURLに置き換える
-  const lite = await Promise.all(customStamps.map(async (s) => {
-    if (s.imageUrl) {
-      uploadedUrls.set(s.id, s.imageUrl)
-      return stripDataUrl(s)
-    }
-    if (uploadedUrls.has(s.id)) {
-      // セッション内で既にアップロード済み
-      return stripDataUrl({ ...s, imageUrl: uploadedUrls.get(s.id) })
-    }
-    if (s.dataUrl?.startsWith('data:')) {
+  const currentIds = new Set(currentStamps.map(s => s.id))
+
+  // 新規・更新: 個別ドキュメントとして upsert
+  for (const s of currentStamps) {
+    if (savedStampIds.has(s.id) && !s.dataUrl?.startsWith('data:')) continue
+
+    // base64 → Storage アップロード（未アップロードのもののみ）
+    let imageUrl = s.imageUrl
+    if (s.dataUrl?.startsWith('data:') && !imageUrl && !uploadedImageIds.has(s.id)) {
       try {
         let p = uploadInflight.get(s.id)
         if (!p) {
           p = uploadDataUrlToStorage(s.id, s.dataUrl)
           uploadInflight.set(s.id, p)
         }
-        const url = await p
+        imageUrl = await p
         uploadInflight.delete(s.id)
-        uploadedUrls.set(s.id, url)
-        // localStorage 側のエントリも imageUrl で更新（次回ロードからアップロード不要）
-        patchLocalCustomStamp(s.id, { imageUrl: url, dataUrl: null })
-        return stripDataUrl({ ...s, imageUrl: url })
+        uploadedImageIds.add(s.id)
       } catch (err) {
         uploadInflight.delete(s.id)
         console.warn(`[studioStorage] upload failed for ${s.id}:`, err.message)
-        return null
+        // アップロード失敗でもメタデータは保存する（画像なしでもドキュメントは残す）
+        imageUrl = s.imageUrl || null
       }
     }
-    return stripDataUrl(s)
-  }))
 
-  const sanitized = lite.filter(Boolean)
-  pushSettingsToFirestore({ customStamps: sanitized })
+    const docData = { ...s, source: 'custom' }
+    if (imageUrl) docData.imageUrl = imageUrl
+    delete docData.dataUrl // base64 は Firestore に載せない
+
+    try {
+      await authReady
+      await setDoc(doc(fdb, 'studio_custom_stamps', s.id), docData, { merge: true })
+      savedStampIds.add(s.id)
+
+      // localStorage 側も imageUrl で更新
+      if (imageUrl && s.dataUrl?.startsWith('data:')) {
+        const ls = loadCustomStamps()
+        const patched = ls.map(x => x.id === s.id ? { ...x, imageUrl, dataUrl: null } : x)
+        lsWrite(LS_KEYS.customStamps, patched)
+      }
+    } catch (err) {
+      console.warn(`[studioStorage] save stamp ${s.id} failed:`, err.message)
+    }
+  }
+
+  // 削除: 前回保存済みで今回消えた ID を deleteDoc
+  for (const id of savedStampIds) {
+    if (!currentIds.has(id)) {
+      try {
+        await authReady
+        await deleteDoc(doc(fdb, 'studio_custom_stamps', id))
+        savedStampIds.delete(id)
+      } catch (err) {
+        console.warn(`[studioStorage] delete stamp ${id} failed:`, err.message)
+      }
+    }
+  }
 }
 
-function stripDataUrl(stamp) {
-  // Firestore に dataUrl(base64) を載せない
-  const { dataUrl: _drop, ...rest } = stamp
-  return rest
-}
-
-function patchLocalCustomStamp(stampId, patch) {
-  const current = loadCustomStamps()
-  const next = current.map(s => s.id === stampId ? { ...s, ...patch } : s)
-  lsWrite(LS_KEYS.customStamps, next)
+export async function deleteCustomStamp(stampId) {
+  try {
+    await authReady
+    await deleteDoc(doc(fdb, 'studio_custom_stamps', stampId))
+    savedStampIds.delete(stampId)
+  } catch (err) {
+    console.warn(`[studioStorage] deleteCustomStamp ${stampId} failed:`, err.message)
+  }
+  const ls = loadCustomStamps().filter(s => s.id !== stampId)
+  lsWrite(LS_KEYS.customStamps, ls)
 }
 
 // ---------- 公開API: ngReasons ----------
