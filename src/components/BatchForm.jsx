@@ -7,6 +7,7 @@ import {
 import { CANONICAL_AREAS, DEFAULT_AREA_CONFIG, AREA_COLORS } from '../config/areas'
 import { cropToCircle } from '../utils/imageProcess'
 import { resolveLocationInput } from '../utils/location'
+import { createStampWithImage } from '../config/studioStamps'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
@@ -380,11 +381,12 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
             </label>
             {!addedToGallery && generatedImages.some(g => g.dataUrl) && (
               <button
-                onClick={() => {
+                onClick={async () => {
+                  const ts = Date.now()
                   const newStamps = generatedImages
                     .filter(g => g.dataUrl)
                     .map((g, i) => ({
-                      id: `gen_${Date.now()}_${i}`,
+                      id: `gen_${ts}_${i}`,
                       spotId: lockedSpot?.spotId || spotName.replace(/\s+/g, '_').toLowerCase(),
                       spotName,
                       area,
@@ -397,10 +399,18 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
                       designerNote: '',
                       ngTags: [],
                       source: 'custom',
-                      createdAt: Date.now(),
                     }))
-                  setStamps(prev => [...prev, ...newStamps])
+                  // 楽観更新: UIに即反映
+                  setStamps(prev => [...prev, ...newStamps.map(s => ({ ...s, imageUrl: s.dataUrl }))])
                   setAddedToGallery(true)
+                  // Storage upload + Firestore 書き込み（逐次発火、失敗は個別ログ）
+                  for (const s of newStamps) {
+                    try {
+                      await createStampWithImage(s)
+                    } catch (err) {
+                      console.warn(`[BatchForm] createStamp ${s.id} failed:`, err.message)
+                    }
+                  }
                   if (onClose) setTimeout(onClose, 500)
                 }}
                 style={{

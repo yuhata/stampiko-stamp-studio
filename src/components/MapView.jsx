@@ -5,6 +5,7 @@ import 'leaflet/dist/leaflet.css'
 
 import { AREA_LABELS, AREA_COLORS } from '../config/areas'
 import { resolveLocationInput } from '../utils/location'
+import { upsertStampsMany } from '../config/studioStamps'
 
 const CATEGORY_ICONS = {
   shrine: { emoji: '⛩', color: '#888' },
@@ -77,7 +78,15 @@ export default function MapView({ stamps, updateStamp, setStamps, onSelectSpot, 
         confirmFn: (geo) => confirm(`検索結果:\n${geo.display}\n\n(${geo.lat.toFixed(5)}, ${geo.lng.toFixed(5)})\n\nこの位置に更新しますか？`),
       })
       if (!result) return
+      const targets = stamps.filter(s => s.spotId === spotId)
+      // 楽観更新
       setStamps(prev => prev.map(s => s.spotId === spotId ? { ...s, lat: result.lat, lng: result.lng } : s))
+      // Firestore 一括更新
+      try {
+        await upsertStampsMany(targets.map(s => ({ id: s.id, lat: result.lat, lng: result.lng })))
+      } catch (e2) {
+        console.warn('[MapView] location update failed:', e2.message)
+      }
     } catch (err) {
       alert(`位置取得エラー: ${err.message}`)
     }

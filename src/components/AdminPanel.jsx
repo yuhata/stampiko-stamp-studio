@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import FirebaseSync from './FirebaseSync'
+import { saveAreaConfig } from '../config/studioStorage'
 
 const AREAS_KEY = 'lbs-stamp-studio-areas'
 
@@ -18,7 +19,7 @@ export default function AdminPanel({ stamps, onClose }) {
 
   const saveAreas = (config) => {
     setAreaConfig(config)
-    localStorage.setItem(AREAS_KEY, JSON.stringify(config))
+    saveAreaConfig(config) // localStorage + Firestore 同期
   }
 
   const handleAddArea = () => {

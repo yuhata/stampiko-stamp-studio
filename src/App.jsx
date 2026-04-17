@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import StampGallery from './components/StampGallery'
 import MapView from './components/MapView'
 import BatchForm from './components/BatchForm'
@@ -6,12 +6,8 @@ import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
 import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
-import { collection, getDocs, query, where } from 'firebase/firestore'
-import { db, authReady } from './config/firebase'
-import {
-  pullSettingsFromFirestore, loadStampOverrides, saveStampOverride,
-  pullCustomStampsFromFirestore, saveCustomStamps, loadNgReasons, saveNgReasons,
-} from './config/studioStorage'
+import { subscribeStamps, upsertStamp } from './config/studioStamps'
+import { pullSettingsFromFirestore, loadNgReasons, saveNgReasons } from './config/studioStorage'
 import './App.css'
 
 const TABS = [
@@ -26,111 +22,49 @@ const TABS = [
 function App() {
   const [stamps, setStamps] = useState([])
   const [ngReasons, setNgReasons] = useState([])
+  const [stampsReady, setStampsReady] = useState(false)
   const [activeTab, setActiveTab] = useState('batch')
   const [filterArea, setFilterArea] = useState('all')
   const [filterStatus, setFilterStatus] = useState('all')
   const [focusSpotId, setFocusSpotId] = useState(null)
   const [showAdmin, setShowAdmin] = useState(false)
 
+  // onSnapshot で studio_stamps を購読（リアルタイム同期）
   useEffect(() => {
-    const loadStamps = async () => {
-      // 0. 認証完了を待つ（Firestoreセキュリティルール対応）
-      await authReady
-
-      // 0.5. Firestoreから設定（areaConfig/criteria/stampOverrides）をローカルへ復元
-      // cache clear 後でも Firestore に保存済みの設定が戻る
-      await pullSettingsFromFirestore()
-
-      // 1. manifest.json（既存の静的スタンプ）
-      let manifestStamps = []
-      try {
-        const res = await fetch(import.meta.env.BASE_URL + 'stamps/manifest.json')
-        manifestStamps = await res.json()
-      } catch {}
-
-      // 2. Firestoreからランドマークスポット（thumbnail_url付き）を取得
-      let firestoreStamps = []
-      try {
-        const snap = await getDocs(query(
-          collection(db, 'spots'),
-          where('spot_type', '==', 'landmark')
-        ))
-        firestoreStamps = snap.docs
-          .map(d => ({ id: d.id, ...d.data() }))
-          .map(s => ({
-            id: `fs_${s.id}`,
-            spotId: s.id,
-            spotName: s.name,
-            area: s.group_id || 'unknown',
-            lat: s.location?.latitude || 0,
-            lng: s.location?.longitude || 0,
-            variant: 0,
-            path: null,
-            dataUrl: s.thumbnail_url ? `${s.thumbnail_url}&bust=${Date.now()}` : null,
-            status: s.thumbnail_url ? 'draft' : 'pending',
-            designerNote: '',
-            ngTags: [],
-            source: 'firestore',
-          }))
-      } catch (err) {
-        console.warn('[App] Firestore fetch failed:', err.message)
+    let initialized = false
+    pullSettingsFromFirestore() // areaConfig / criteria 等を localStorage に同期（本体stampsとは別系統）
+    const unsub = subscribeStamps((docs) => {
+      setStamps(docs)
+      if (!initialized) {
+        initialized = true
+        setStampsReady(true)
       }
-
-      // マージ（manifest優先、Firestoreは未登録分のみ追加）
-      const manifestSpotIds = new Set(manifestStamps.map(s => s.spotId))
-      const newFromFirestore = firestoreStamps.filter(s => !manifestSpotIds.has(s.spotId))
-      const merged = [...manifestStamps, ...newFromFirestore]
-
-      // stampOverrides をマージ（差し替え画像/位置/メモ等を復元）
-      const overrides = loadStampOverrides()
-      const withOverrides = merged.map(s => overrides[s.id] ? { ...s, ...overrides[s.id] } : s)
-
-      // customStamps — Firestoreの個別ドキュメントから読み込み
-      const customStamps = await pullCustomStampsFromFirestore()
-      const existingIds = new Set(withOverrides.map(s => s.id))
-      const newCustom = customStamps.filter(s => !existingIds.has(s.id))
-      const withCustom = [...withOverrides, ...newCustom]
-      // ロード完了前にユーザーが追加した custom stamps があれば保持する
-      // （loadStamps が async なため、手動追加とロード完了の race で消えるのを防ぐ）
-      setStamps(prev => {
-        const loadedIds = new Set(withCustom.map(s => s.id))
-        const inflightCustom = prev.filter(s => s.source === 'custom' && !loadedIds.has(s.id))
-        return [...withCustom, ...inflightCustom]
-      })
-      // 初期ロード完了後に永続化を有効化
-      stampsLoaded.current = true
-    }
-
-    loadStamps()
-
+    })
     const savedNg = loadNgReasons()
     if (savedNg.length > 0) setNgReasons(savedNg)
+    return () => unsub()
   }, [])
 
-  // 初回ロード前のwriteを避けるためのフラグ
-  const ngLoaded = useRef(false)
+  // NG記録の永続化（フル配列方式だが件数少・別系統として残す）
   useEffect(() => {
-    if (!ngLoaded.current) { ngLoaded.current = true; return }
+    if (!stampsReady) return
     saveNgReasons(ngReasons)
-  }, [ngReasons])
+  }, [ngReasons, stampsReady])
 
-  // customStamps（source: 'custom'）のみ抽出して永続化
-  const stampsLoaded = useRef(false)
-  useEffect(() => {
-    if (!stampsLoaded.current) return
-    const custom = stamps.filter(s => s.source === 'custom')
-    saveCustomStamps(custom)
-  }, [stamps])
-
-  const updateStamp = (id, updates) => {
+  // スタンプ更新: onSnapshot が再反映するので setStamps は不要（楽観更新なし）
+  const updateStamp = async (id, updates) => {
+    // 楽観更新: UIの即時反応のためローカルstateも更新（onSnapshotで再確定される）
     setStamps(prev => prev.map(s => s.id === id ? { ...s, ...updates } : s))
-    // 永続化対象フィールドのみ Firestore + localStorage へ
-    const persistKeys = ['dataUrl', 'status', 'designerNote', 'ngTags', 'lat', 'lng']
+    const persistKeys = [
+      'status', 'designerNote', 'ngTags',
+      'lat', 'lng', 'spotName', 'area', 'spotId',
+    ]
     const persistable = Object.fromEntries(
       Object.entries(updates).filter(([k]) => persistKeys.includes(k))
     )
     if (Object.keys(persistable).length > 0) {
-      saveStampOverride(id, persistable)
+      try { await upsertStamp(id, persistable) }
+      catch (err) { console.warn('[App] upsertStamp failed:', err.message) }
     }
   }
 

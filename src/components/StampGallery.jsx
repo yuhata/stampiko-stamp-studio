@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import { AREA_LABELS, CANONICAL_AREAS } from '../config/areas'
+import { upsertStampsMany, deleteStampsMany, deleteStampsBySpotId, replaceStampImage } from '../config/studioStamps'
 import BatchForm from './BatchForm'
 
 const STATUS_OPTIONS = [
@@ -83,11 +84,14 @@ export default function StampGallery({
             >{o.label}</button>
           ))}
           <button
-            onClick={() => {
-              const rejectedCount = stamps.filter(s => s.status === 'rejected').length
-              if (rejectedCount === 0) { alert('却下済みスタンプはありません'); return }
-              if (!confirm(`却下済みスタンプ${rejectedCount}件をすべて削除します。よろしいですか？`)) return
+            onClick={async () => {
+              const rejectedIds = stamps.filter(s => s.status === 'rejected').map(s => s.id)
+              if (rejectedIds.length === 0) { alert('却下済みスタンプはありません'); return }
+              if (!confirm(`却下済みスタンプ${rejectedIds.length}件をすべて削除します。よろしいですか？`)) return
+              // 楽観更新 + Firestore削除（onSnapshotが再確定）
               setStamps(prev => prev.filter(s => s.status !== 'rejected'))
+              try { await deleteStampsMany(rejectedIds) }
+              catch (err) { console.warn('[StampGallery] bulk delete rejected failed:', err.message) }
             }}
             className="filter-btn"
             style={{ marginLeft: 8, color: 'var(--accent-red)', borderColor: 'var(--accent-red)' }}
@@ -129,16 +133,28 @@ export default function StampGallery({
                   </select>
                   <button
                     disabled={!editingSpot.spotName.trim()}
-                    onClick={() => {
+                    onClick={async () => {
                       const newName = editingSpot.spotName.trim()
                       const newArea = editingSpot.area
                       const newSpotId = newName.replace(/\s+/g, '_').toLowerCase()
+                      // 対象スタンプのIDリストを収集
+                      const targets = stamps.filter(s => s.spotId === spotId)
+                      // 楽観更新
                       setStamps(prev => prev.map(s =>
                         s.spotId === spotId
                           ? { ...s, spotName: newName, area: newArea, spotId: newSpotId }
                           : s
                       ))
                       setEditingSpot(null)
+                      // Firestore 一括更新
+                      try {
+                        await upsertStampsMany(targets.map(s => ({
+                          id: s.id,
+                          spotId: newSpotId, spotName: newName, area: newArea,
+                        })))
+                      } catch (err) {
+                        console.warn('[StampGallery] tag update failed:', err.message)
+                      }
                     }}
                     style={{
                       background: 'var(--accent)', border: 'none', borderRadius: 4,
@@ -212,9 +228,13 @@ export default function StampGallery({
               </button>
               <button
                 title="このスポットを削除"
-                onClick={() => {
+                onClick={async () => {
                   if (!confirm(`スポット「${group.spotName}」と、紐づく${group.stamps.length}件のスタンプを削除します。よろしいですか？`)) return
+                  const targetIds = stamps.filter(s => s.spotId === spotId).map(s => s.id)
+                  // 楽観更新 + Firestore削除
                   setStamps(prev => prev.filter(s => s.spotId !== spotId))
+                  try { await deleteStampsMany(targetIds) }
+                  catch (err) { console.warn('[StampGallery] spot delete failed:', err.message) }
                 }}
                 style={{
                   background: 'none',
@@ -482,8 +502,15 @@ function StampModal({ stamp, stamps, onClose, updateStamp, addNgReason, ngReason
                   if (!file) return
                   if (file.size > 5 * 1024 * 1024) { alert('5MB以下の画像を選択してください'); return }
                   const reader = new FileReader()
-                  reader.onload = () => {
-                    updateStamp(stamp.id, { dataUrl: reader.result, path: null })
+                  reader.onload = async () => {
+                    const dataUrl = reader.result
+                    try {
+                      const { imageUrl } = await replaceStampImage(stamp.id, dataUrl, stamp.imageUrl || null)
+                      // 楽観更新: imageUrl を即時反映（onSnapshotが確定させる）
+                      updateStamp(stamp.id, { imageUrl, path: null })
+                    } catch (err) {
+                      alert('画像差し替えに失敗しました: ' + err.message)
+                    }
                   }
                   reader.readAsDataURL(file)
                   e.target.value = ''
