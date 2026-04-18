@@ -1,0 +1,10 @@
+rules_version = '2';
+
+// Emulator 専用: 全アクセス許可（本番ルールは Firebase Console で別管理）
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if true;
+    }
+  }
+}

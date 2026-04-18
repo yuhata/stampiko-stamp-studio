@@ -1,7 +1,7 @@
 import { initializeApp } from 'firebase/app'
-import { getFirestore, collection, doc, setDoc, getDocs, query, where, writeBatch, serverTimestamp, GeoPoint } from 'firebase/firestore'
-import { getStorage, ref, uploadBytes, getDownloadURL } from 'firebase/storage'
-import { getAuth, signInAnonymously, onAuthStateChanged } from 'firebase/auth'
+import { getFirestore, collection, doc, setDoc, getDocs, query, where, writeBatch, serverTimestamp, GeoPoint, connectFirestoreEmulator } from 'firebase/firestore'
+import { getStorage, ref, uploadBytes, getDownloadURL, connectStorageEmulator } from 'firebase/storage'
+import { getAuth, signInAnonymously, onAuthStateChanged, connectAuthEmulator } from 'firebase/auth'
 
 const firebaseConfig = {
   apiKey: "AIzaSyDcYEpjKmI_ygA-fvRTrmIZwoy1jDhYzz0",
@@ -16,6 +16,19 @@ const app = initializeApp(firebaseConfig)
 const db = getFirestore(app)
 const storage = getStorage(app)
 const auth = getAuth(app)
+
+// E2E テスト用: VITE_USE_EMULATOR=true で Firebase Emulator に接続
+// （本番では env 変数なしのため自動的に本番Firebase接続）
+if (import.meta.env?.VITE_USE_EMULATOR === 'true') {
+  try {
+    connectAuthEmulator(auth, 'http://127.0.0.1:9099', { disableWarnings: true })
+    connectFirestoreEmulator(db, '127.0.0.1', 8081)
+    connectStorageEmulator(storage, '127.0.0.1', 9199)
+    console.log('[firebase] Connected to local emulators (auth:9099, firestore:8081, storage:9199)')
+  } catch (e) {
+    console.warn('[firebase] Emulator connection failed:', e.message)
+  }
+}
 
 // Firestoreセキュリティルールが認証必須のため、匿名認証でアクセス
 const authReady = new Promise((resolve) => {
