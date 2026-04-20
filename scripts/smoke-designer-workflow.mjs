@@ -722,6 +722,68 @@ async function edgeColdStart(browser, token) {
 
 // ---------- Main ----------
 
+// ---------- Z: 実API認証パス検証（mockApi=false）----------
+// 2026-04-18 デプロイ順序事故の再発防止 (memory: feedback_deploy_coordination)
+// API側 adminRequired と Studio shared secret (VITE_STUDIO_API_KEY) の整合を、
+// 既存の mockApi:true テストでは検出不可能だったため、必ず実APIへ1ケース投げる。
+async function testZ_realApiAuth(browser) {
+  const ctx = await browser.newContext()
+  const page = await ctx.newPage()
+  const apiCalls = []
+  page.on('request', req => {
+    if (req.url().includes('/api/generate-stamp-image')) {
+      apiCalls.push({
+        hasAuth: !!req.headers()['authorization'],
+        authPrefix: (req.headers()['authorization'] || '').slice(0, 14),
+      })
+    }
+  })
+  page.on('response', async res => {
+    if (res.url().includes('/api/generate-stamp-image')) {
+      const idx = apiCalls.length - 1
+      if (apiCalls[idx]) apiCalls[idx].status = res.status()
+    }
+  })
+  page.on('dialog', d => { d.accept().catch(() => {}) })
+
+  await page.goto(DEV_URL, { waitUntil: 'domcontentloaded' })
+  await page.waitForTimeout(3000)
+  const spotName = 'smk_Z_realapi_' + Date.now()
+  await page.fill('input[placeholder*="雷門"]', spotName)
+  // 候補数を1に下げて高速化
+  await page.evaluate(() => {
+    const range = document.querySelector('input[type="range"]')
+    if (!range) return
+    const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set
+    setter.call(range, '1')
+    range.dispatchEvent(new Event('input', { bubbles: true }))
+  })
+  await page.click('button.generate-btn')
+
+  try {
+    await page.waitForResponse(r => r.url().includes('/api/generate-stamp-image'), { timeout: 30000 })
+    await page.waitForTimeout(1000)
+  } catch {
+    log('Z_realapi', 'FAIL', { error: 'no API response within 30s' })
+    await ctx.close()
+    return
+  }
+
+  const call = apiCalls[0]
+  if (!call) {
+    log('Z_realapi', 'FAIL', { reason: 'no /api/generate-stamp-image call observed' })
+  } else if (!call.hasAuth) {
+    log('Z_realapi', 'FAIL', { reason: 'Authorization header missing — VITE_STUDIO_API_KEY not embedded?', call })
+  } else if (!call.authPrefix.startsWith('Bearer studio:')) {
+    log('Z_realapi', 'FAIL', { reason: 'Authorization prefix mismatch', call })
+  } else if (call.status !== 200) {
+    log('Z_realapi', 'FAIL', { reason: `HTTP ${call.status} — API auth path broken`, call })
+  } else {
+    log('Z_realapi', 'PASS', { authPrefix: call.authPrefix, status: call.status })
+  }
+  await ctx.close()
+}
+
 async function main() {
   const token = await getToken()
   const startCount = await countAllStamps(token)
@@ -743,6 +805,7 @@ async function main() {
     { name: 'Edge2: 冪等性', fn: edgeIdempotentReload },
     { name: 'Edge3: 連続操作整合性', fn: edgeRapidSuccession },
     { name: 'Edge4: コールドスタート', fn: edgeColdStart },
+    { name: 'Z: 実API認証パス (mockApi=false)', fn: testZ_realApiAuth },
   ]
 
   for (const t of tests) {
@@ -756,7 +819,7 @@ async function main() {
 
   // 最終ゴミクリーンアップ
   console.log('\n=== final cleanup ===')
-  const allTestNames = ['smk_A_', 'smk_B_base_', 'smk_D_target_', 'smk_D_tagged', 'smk_E_', 'smk_G_', 'smk_K_', 'smk_L_', 'smk_N_', 'smk_concurrent_', 'smk_rapid_']
+  const allTestNames = ['smk_A_', 'smk_B_base_', 'smk_D_target_', 'smk_D_tagged', 'smk_E_', 'smk_G_', 'smk_K_', 'smk_L_', 'smk_N_', 'smk_concurrent_', 'smk_rapid_', 'smk_Z_realapi_']
   const allDocs = await fetchAllDocs(token)
   let cleaned = 0
   for (const d of allDocs) {
