@@ -5,7 +5,7 @@ import {
   buildDesignOptionsBlock,
 } from '../config/promptDefaults'
 import { CANONICAL_AREAS, DEFAULT_AREA_CONFIG, AREA_COLORS } from '../config/areas'
-import { cropToCircle } from '../utils/imageProcess'
+import { cropToCircle, resizeImageFile } from '../utils/imageProcess'
 import { resolveLocationInput } from '../utils/location'
 import { createStampWithImage } from '../config/studioStamps'
 
@@ -45,7 +45,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
   const [area, setArea] = useState(lockedSpot?.area || 'asakusa')
   const palette = useMemo(() => getAreaPalette(area), [area])
   const [style, setStyle] = useState('circular')
-  const [count, setCount] = useState(4)
+  const [count, setCount] = useState(2)
   const [mood, setMood] = useState('')
   const [colorCount, setColorCount] = useState('')
   const [elements, setElements] = useState([])
@@ -54,19 +54,17 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
   const [generatedImages, setGeneratedImages] = useState([])
   const [addedToGallery, setAddedToGallery] = useState(false)
 
-  const handleRefImageUpload = (e) => {
+  const handleRefImageUpload = async (e) => {
     const file = e.target.files?.[0]
     if (!file) return
-    if (file.size > 5 * 1024 * 1024) { alert('5MB以下の画像を選択してください'); return }
-    const reader = new FileReader()
-    reader.onload = () => {
-      const dataUrl = reader.result
-      // data:image/jpeg;base64,xxxx → base64部分とmimeTypeを分離
-      const [header, base64] = dataUrl.split(',')
-      const mimeType = header.match(/:(.*?);/)?.[1] || 'image/jpeg'
-      setRefImage({ base64, mimeType, preview: dataUrl })
+    if (file.size > 10 * 1024 * 1024) { alert('10MB以下の画像を選択してください'); return }
+    try {
+      // 長辺1024pxにリサイズしてJPEG化（Gemini APIへの入力トークン削減）
+      const resized = await resizeImageFile(file, 1024, 0.9)
+      setRefImage(resized)
+    } catch (err) {
+      alert(`画像読み込みエラー: ${err.message || err}`)
     }
-    reader.readAsDataURL(file)
     e.target.value = ''
   }
 
@@ -102,12 +100,14 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
     localStorage.setItem(STORAGE_KEYS.PROMPT, val)
   }
 
-  const handleGenerate = async () => {
+  const handleGenerate = async ({ append = false } = {}) => {
     if (!spotName.trim()) return
 
     setGenerating(true)
-    setGeneratedImages([])
-    setAddedToGallery(false)
+    if (!append) {
+      setGeneratedImages([])
+      setAddedToGallery(false)
+    }
 
     const optionBlock = buildDesignOptionsBlock({ mood, colorCount, elements })
 
@@ -160,7 +160,11 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
         })
       )
 
-      setGeneratedImages(results)
+      if (append) {
+        setGeneratedImages(prev => [...prev, ...results])
+      } else {
+        setGeneratedImages(results)
+      }
     } catch (err) {
       alert(`生成エラー: ${err.message}`)
     } finally {
@@ -371,7 +375,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
         <textarea rows={10} style={{ fontSize: 12, lineHeight: 1.5 }} value={promptTemplate} onChange={e => updatePrompt(e.target.value)} />
       </div>
 
-      <button className="generate-btn" disabled={!spotName.trim() || generating} onClick={handleGenerate}>
+      <button className="generate-btn" disabled={!spotName.trim() || generating} onClick={() => handleGenerate()}>
         {generating ? `生成中...` : `${count}候補を生成`}
       </button>
 
@@ -380,7 +384,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
         <div style={{ marginTop: 20 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
             <label style={{ fontSize: 13, color: 'var(--text-muted)' }}>
-              生成結果 ({generatedImages.filter(g => g.dataUrl).length}/{count})
+              生成結果 ({generatedImages.filter(g => g.dataUrl).length}/{generatedImages.length})
             </label>
             {!addedToGallery && generatedImages.some(g => g.dataUrl) && (
               <button
@@ -447,6 +451,18 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
               </div>
             ))}
           </div>
+          {!addedToGallery && (
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: 12 }}>
+              <button
+                className="filter-btn"
+                disabled={generating}
+                onClick={() => handleGenerate({ append: true })}
+                title="同じプロンプト・設定で追加生成します"
+              >
+                {generating ? '生成中...' : `同じ設定でもう${count}枚生成`}
+              </button>
+            </div>
+          )}
         </div>
       )}
     </div>

@@ -36,9 +36,11 @@ document.createElement = (tag) => {
       width: 0, height: 0,
       getContext: () => ({
         drawImage: () => {}, beginPath: () => {}, arc: () => {}, closePath: () => {}, fill: () => {},
+        fillRect: () => {},
+        set fillStyle(_v) {},
         set globalCompositeOperation(_v) {},
       }),
-      toDataURL: () => 'data:image/png;base64,STUB',
+      toDataURL: (type = 'image/png') => `data:${type};base64,STUB`,
     }
   }
   return _origCreateElement(tag)
@@ -183,7 +185,7 @@ describe('BatchForm - API呼び出し', () => {
     expect(url).toContain('/api/generate-stamp-image')
     const body = JSON.parse(options.body)
     expect(body.prompt).toContain('東京タワー')
-    expect(body.count).toBe(4) // デフォルト
+    expect(body.count).toBe(2) // デフォルト（コスト削減のため 4→2 に変更）
   })
 
   it('referenceImageなしの場合はbodyに含まれない', async () => {
@@ -233,6 +235,84 @@ describe('BatchForm - API呼び出し', () => {
     await vi.waitFor(() => {
       expect(screen.getByText(/生成結果/)).toBeInTheDocument()
     })
+  })
+
+  it('生成後に「同じ設定でもう N 枚生成」ボタンが表示され、appendされる', async () => {
+    const fakeBase64 = 'iVBORw0KGgoAAAANSUhEUg=='
+    global.fetch
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          results: [
+            { index: 0, base64: fakeBase64, mimeType: 'image/png' },
+            { index: 1, base64: fakeBase64, mimeType: 'image/png' },
+          ],
+        }),
+      })
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          results: [
+            { index: 0, base64: fakeBase64, mimeType: 'image/png' },
+            { index: 1, base64: fakeBase64, mimeType: 'image/png' },
+          ],
+        }),
+      })
+
+    render(<BatchForm {...defaultProps} />)
+    fireEvent.change(screen.getByPlaceholderText(/雷門/), { target: { value: 'テスト' } })
+    fireEvent.click(screen.getByText(/候補を生成/))
+
+    // 初回生成結果の2/2 を確認
+    await vi.waitFor(() => {
+      expect(screen.getByText(/2\/2/)).toBeInTheDocument()
+    })
+
+    // 追加生成ボタンをクリック
+    const addMoreBtn = screen.getByText(/同じ設定でもう2枚生成/)
+    fireEvent.click(addMoreBtn)
+
+    // appendされて4枚に
+    await vi.waitFor(() => {
+      expect(screen.getByText(/4\/4/)).toBeInTheDocument()
+    })
+    expect(global.fetch).toHaveBeenCalledTimes(2)
+  })
+})
+
+describe('BatchForm - 参照画像アップロード時リサイズ', () => {
+  const defaultProps = { stamps: [], setStamps: vi.fn(), ngReasons: [] }
+
+  it('画像アップロード後はJPEGにリサイズされた状態でAPIに送信される', async () => {
+    // FileReader が対応していない環境でも dataURL が生成されるよう Image モックは上で定義済み
+    global.fetch.mockResolvedValueOnce({
+      ok: true,
+      json: async () => ({ results: [] }),
+    })
+
+    render(<BatchForm {...defaultProps} />)
+    fireEvent.change(screen.getByPlaceholderText(/雷門/), { target: { value: 'テスト' } })
+
+    const fileInput = document.querySelector('input[type="file"]')
+    const file = new File(['dummy-bytes'], 'photo.png', { type: 'image/png' })
+    fireEvent.change(fileInput, { target: { files: [file] } })
+
+    // アップロード処理（Promise-based）が完走して削除ボタンが見えるまで待機
+    await vi.waitFor(() => {
+      expect(screen.getByText('削除')).toBeInTheDocument()
+    })
+
+    fireEvent.click(screen.getByText(/候補を生成/))
+
+    await vi.waitFor(() => {
+      expect(global.fetch).toHaveBeenCalled()
+    })
+    const body = JSON.parse(global.fetch.mock.calls[0][1].body)
+    expect(body.referenceImage).toBeDefined()
+    // Canvas 経由でリサイズ→JPEGに変換されていること
+    expect(body.referenceImage.mimeType).toBe('image/jpeg')
+    expect(typeof body.referenceImage.base64).toBe('string')
+    expect(body.referenceImage.base64.length).toBeGreaterThan(0)
   })
 })
 

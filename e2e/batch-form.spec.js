@@ -74,6 +74,43 @@ test.describe('バッチ生成（BatchForm）', () => {
     await expect(page.getByRole('button', { name: /ギャラリーに追加/ })).toBeVisible()
   })
 
+  // 新機能: 生成後「同じ設定でもう N 枚生成」ボタンで結果がappendされる
+  test('追加生成ボタンで既存結果にappendされる', async ({ page }) => {
+    const TINY_PNG = 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=='
+
+    let callCount = 0
+    await page.route('**/api/generate-stamp-image', route => {
+      callCount++
+      return route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify({
+          results: [
+            { base64: TINY_PNG, mimeType: 'image/png', index: 0 },
+            { base64: TINY_PNG, mimeType: 'image/png', index: 1 },
+          ],
+        }),
+      })
+    })
+
+    await gotoStudio(page)
+    await gotoTab(page, 'バッチ生成')
+    await page.getByPlaceholder('例: 雷門、渋谷スクランブル交差点').fill('テスト')
+
+    // デフォルトcount=2 で初回生成
+    await page.getByRole('button', { name: /2候補を生成/ }).click()
+    await expect(page.getByText(/生成結果 \(2\/2\)/)).toBeVisible({ timeout: 10000 })
+
+    // 追加生成ボタンが見える
+    const addMoreBtn = page.getByRole('button', { name: /同じ設定でもう2枚生成/ })
+    await expect(addMoreBtn).toBeVisible()
+    await addMoreBtn.click()
+
+    // appendされて 4/4 に
+    await expect(page.getByText(/生成結果 \(4\/4\)/)).toBeVisible({ timeout: 10000 })
+    expect(callCount).toBe(2)
+  })
+
   // 回帰: APIエラー時もボタンが再活性化する（generating状態が固まらない）
   test('API失敗時にも生成ボタンが再活性化する', async ({ page }) => {
     await page.route('**/api/generate-stamp-image', route =>
