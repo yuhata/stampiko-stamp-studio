@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# Test output / auto-generated
+e2e/__screenshots__/
+test-results/
+scripts/backups/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
