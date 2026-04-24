@@ -1,17 +1,16 @@
 // TemplateManager - 16カテゴリのテンプレートスタンプ画像を管理するUI
 // ギャラリータブと並列、Firestore stamp_templates + Storage stamp_templates/ を管理
-import { useState, useEffect, useRef } from 'react'
-import {
-  subscribeTemplates, replaceTemplateImage, upsertTemplate, TEMPLATE_CATEGORIES,
-} from '../config/stampTemplates'
+// 差し替えボタン → TemplateEditModal（Gemini生成 or ローカルアップロード）
+import { useState, useEffect } from 'react'
+import { subscribeTemplates, upsertTemplate, TEMPLATE_CATEGORIES } from '../config/stampTemplates'
+import TemplateEditModal from './TemplateEditModal'
 
 export default function TemplateManager() {
   const [templates, setTemplates] = useState({}) // { [category]: {imageUrl, storagePath, updatedAt, color, ...} }
   const [ready, setReady] = useState(false)
-  const [uploadingCategory, setUploadingCategory] = useState(null)
-  const [uploadError, setUploadError] = useState(null)
+  const [editingCategory, setEditingCategory] = useState(null) // 編集モーダル対象カテゴリ
   const [previewOpen, setPreviewOpen] = useState(null)
-  const fileInputRefs = useRef({}) // { [category]: inputRef }
+  const [errorMsg, setErrorMsg] = useState(null)
 
   useEffect(() => {
     const unsub = subscribeTemplates((docs) => {
@@ -25,55 +24,13 @@ export default function TemplateManager() {
   const githubFallbackUrl = (category) =>
     `https://raw.githubusercontent.com/yuhata/lbs-stamp-studio/main/public/template-designs-v3/${category}.png`
 
-  async function handleFileChange(category, e) {
-    const file = e.target.files?.[0]
-    if (!file) return
-
-    setUploadError(null)
-
-    // バリデーション
-    if (file.type !== 'image/png') {
-      setUploadError('PNG形式のみアップロード可能です')
-      return
-    }
-    if (file.size > 2 * 1024 * 1024) {
-      setUploadError(`ファイルサイズが2MBを超えています（${(file.size / 1024 / 1024).toFixed(1)}MB）`)
-      return
-    }
-
-    setUploadingCategory(category)
-    try {
-      const dataUrl = await new Promise((resolve, reject) => {
-        const reader = new FileReader()
-        reader.onload = () => resolve(reader.result)
-        reader.onerror = () => reject(new Error('ファイル読み込み失敗'))
-        reader.readAsDataURL(file)
-      })
-
-      const oldImageUrl = templates[category]?.imageUrl
-      const meta = {
-        color: TEMPLATE_CATEGORIES.find(c => c.id === category)?.color,
-        label: TEMPLATE_CATEGORIES.find(c => c.id === category)?.label,
-        is_placeholder: false, // 手動アップロードは常に本格扱い
-      }
-      await replaceTemplateImage(category, dataUrl, oldImageUrl, meta)
-    } catch (err) {
-      console.error('[TemplateManager] upload failed:', err)
-      setUploadError(`アップロード失敗: ${err.message}`)
-    } finally {
-      setUploadingCategory(null)
-      // input リセット（同じファイルを再選択可能に）
-      if (e.target) e.target.value = ''
-    }
-  }
-
   async function handleTogglePlaceholder(category) {
     const current = templates[category]?.is_placeholder
     try {
       await upsertTemplate(category, { is_placeholder: !current })
     } catch (err) {
       console.error('[TemplateManager] toggle failed:', err)
-      setUploadError(`状態更新失敗: ${err.message}`)
+      setErrorMsg(`状態更新失敗: ${err.message}`)
     }
   }
 
@@ -95,12 +52,12 @@ export default function TemplateManager() {
         </span>
       </div>
 
-      {uploadError && (
+      {errorMsg && (
         <div style={{
           padding: 12, marginBottom: 12, borderRadius: 6,
           background: 'rgba(255, 80, 80, 0.15)', color: '#faa', fontSize: 13,
         }}>
-          ⚠️ {uploadError}
+          ⚠️ {errorMsg}
         </div>
       )}
 
@@ -112,9 +69,7 @@ export default function TemplateManager() {
         {TEMPLATE_CATEGORIES.map(cat => {
           const tpl = templates[cat.id]
           const hasFirestore = !!tpl?.imageUrl
-          const isPlaceholder = tpl?.is_placeholder !== false && !hasFirestore // 未登録も暫定扱い
           const imageSrc = tpl?.imageUrl || githubFallbackUrl(cat.id)
-          const uploading = uploadingCategory === cat.id
           const status = hasFirestore
             ? (tpl.is_placeholder ? 'placeholder' : 'official')
             : 'unregistered'
@@ -177,25 +132,17 @@ export default function TemplateManager() {
                 </div>
               )}
 
-              {/* アップロードボタン */}
+              {/* 差し替えボタン（モーダルを開く） */}
               <div style={{ marginTop: 10, display: 'flex', gap: 6 }}>
-                <input
-                  type="file"
-                  accept="image/png"
-                  style={{ display: 'none' }}
-                  ref={(el) => { fileInputRefs.current[cat.id] = el }}
-                  onChange={(e) => handleFileChange(cat.id, e)}
-                />
                 <button
-                  onClick={() => fileInputRefs.current[cat.id]?.click()}
-                  disabled={uploading}
+                  onClick={() => setEditingCategory(cat)}
                   style={{
                     flex: 1, padding: '6px 10px', fontSize: 12,
-                    background: uploading ? '#555' : cat.color, color: '#fff',
-                    border: 'none', borderRadius: 5, cursor: uploading ? 'wait' : 'pointer',
+                    background: cat.color, color: '#fff',
+                    border: 'none', borderRadius: 5, cursor: 'pointer',
                   }}
                 >
-                  {uploading ? '⏳ 投稿中...' : '📤 差し替え'}
+                  📤 差し替え
                 </button>
                 {hasFirestore && (
                   <button
@@ -215,6 +162,15 @@ export default function TemplateManager() {
           )
         })}
       </div>
+
+      {/* 編集モーダル（Gemini生成 or ローカルアップロード） */}
+      {editingCategory && (
+        <TemplateEditModal
+          category={editingCategory}
+          currentImageUrl={templates[editingCategory.id]?.imageUrl}
+          onClose={() => setEditingCategory(null)}
+        />
+      )}
 
       {/* プレビューモーダル */}
       {previewOpen && (
