@@ -1,34 +1,89 @@
 // TemplateEditModal - カテゴリ別テンプレ画像を Gemini生成 or ローカルアップロードで差し替えるモーダル
-// TemplateManager の各カード「差し替え」ボタンから呼び出される
-import { useState } from 'react'
+// BatchForm と同等のオプション（mood / elements / 参照画像 / プロンプトテンプレ編集）を提供しつつ、
+// テンプレ特有の固定値（構図=circular / 単色=category.color / スポット名なし）は内部で処理
+import { useState, useMemo } from 'react'
 import { replaceTemplateImage } from '../config/stampTemplates'
-import { API_URL } from '../config/promptDefaults'
-import { buildTemplatePrompt, TEMPLATE_ILLUSTRATIONS } from '../config/templatePrompts'
+import {
+  API_URL, MOOD_OPTIONS, ELEMENT_OPTIONS, buildDesignOptionsBlock,
+} from '../config/promptDefaults'
+import {
+  buildTemplatePrompt, DEFAULT_TEMPLATE_PROMPT, TEMPLATE_ILLUSTRATIONS,
+} from '../config/templatePrompts'
+import { cropToCircle } from '../utils/imageProcess'
 
 export default function TemplateEditModal({ category, currentImageUrl, onClose }) {
   const [mode, setMode] = useState('gemini') // 'gemini' | 'local'
-  const [count, setCount] = useState(3) // 生成候補数
+
+  // Gemini 生成オプション
+  const [count, setCount] = useState(3)
   const [illustrationText, setIllustrationText] = useState(
     TEMPLATE_ILLUSTRATIONS[category.id] || 'Simple iconic landmark silhouette'
   )
+  const [promptTemplate, setPromptTemplate] = useState(DEFAULT_TEMPLATE_PROMPT)
+  const [mood, setMood] = useState('')
+  const [elements, setElements] = useState([])
+  const [refImage, setRefImage] = useState(null) // { base64, mimeType } | null
+  const [showPromptEditor, setShowPromptEditor] = useState(false)
+
   const [generating, setGenerating] = useState(false)
   const [candidates, setCandidates] = useState([]) // [{ id, dataUrl, error? }]
   const [selectedCandidateId, setSelectedCandidateId] = useState(null)
-  const [localPreview, setLocalPreview] = useState(null) // dataUrl for local upload preview
+  const [localPreview, setLocalPreview] = useState(null)
   const [adopting, setAdopting] = useState(false)
   const [error, setError] = useState(null)
 
-  const prompt = buildTemplatePrompt(category.id, category.color, illustrationText)
+  // フルプロンプト（確認表示用）
+  const fullPrompt = useMemo(() => {
+    const base = buildTemplatePrompt({
+      categoryId: category.id,
+      color: category.color,
+      illustration: illustrationText,
+      template: promptTemplate,
+    })
+    const optionBlock = buildDesignOptionsBlock({ mood, colorCount: 'mono', elements })
+    return base + optionBlock
+  }, [category.id, category.color, illustrationText, promptTemplate, mood, elements])
+
+  function toggleElement(value) {
+    setElements(prev => prev.includes(value) ? prev.filter(e => e !== value) : [...prev, value])
+  }
+
+  async function handleRefImageChange(e) {
+    const file = e.target.files?.[0]
+    if (!file) return
+    setError(null)
+    if (!file.type.startsWith('image/')) {
+      setError('画像ファイルを選択してください')
+      return
+    }
+    if (file.size > 5 * 1024 * 1024) {
+      setError('参照画像は5MB以下にしてください')
+      return
+    }
+    const reader = new FileReader()
+    reader.onload = () => {
+      const dataUrl = reader.result
+      // "data:image/png;base64,xxx" → xxx
+      const [meta, base64] = dataUrl.split(',')
+      const mimeType = meta.match(/data:([^;]+);/)?.[1] || 'image/png'
+      setRefImage({ base64, mimeType, preview: dataUrl })
+    }
+    reader.onerror = () => setError('参照画像読み込み失敗')
+    reader.readAsDataURL(file)
+  }
 
   async function handleGenerate() {
     setError(null)
     setGenerating(true)
     setSelectedCandidateId(null)
     try {
-      const body = { prompt, count }
+      const body = { prompt: fullPrompt, count }
+      if (refImage) body.referenceImage = { base64: refImage.base64, mimeType: refImage.mimeType }
+
       const headers = { 'Content-Type': 'application/json' }
       const studioKey = import.meta.env.VITE_STUDIO_API_KEY
       if (studioKey) headers.Authorization = `Bearer studio:${studioKey}`
+
       const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
         method: 'POST',
         headers,
@@ -37,7 +92,7 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
       const data = await res.json()
       if (!res.ok) throw new Error(data.error || `API ${res.status}`)
 
-      const results = (data.results || []).map((r, i) => {
+      const rawResults = (data.results || []).map((r, i) => {
         if (r.base64) {
           return {
             id: `gen_${Date.now()}_${i}`,
@@ -47,6 +102,19 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
         }
         return { id: `err_${i}`, error: r.error || '生成失敗', variant: r.index }
       })
+
+      // 円形切り抜き（構図=circular固定）
+      const results = await Promise.all(
+        rawResults.map(async (r) => {
+          if (!r.dataUrl) return r
+          try {
+            const cropped = await cropToCircle(r.dataUrl)
+            return { ...r, dataUrl: cropped }
+          } catch {
+            return r
+          }
+        })
+      )
       setCandidates(results)
     } catch (err) {
       console.error('[TemplateEditModal] generate failed:', err)
@@ -82,7 +150,7 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
       const meta = {
         color: category.color,
         label: category.label,
-        is_placeholder: false, // Gemini生成もローカルアップロードも本格扱い
+        is_placeholder: false,
       }
       await replaceTemplateImage(category.id, dataUrl, currentImageUrl, meta)
       onClose()
@@ -102,14 +170,14 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
       style={{
         position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.75)',
         display: 'flex', alignItems: 'center', justifyContent: 'center',
-        zIndex: 2000,
+        zIndex: 2000, padding: 16,
       }}
     >
       <div
         onClick={(e) => e.stopPropagation()}
         style={{
           background: '#111', color: '#eee',
-          width: 'min(900px, 92vw)', maxHeight: '92vh',
+          width: 'min(960px, 95vw)', maxHeight: '92vh',
           borderRadius: 10, overflow: 'auto',
           padding: 20,
           boxShadow: '0 10px 40px rgba(0,0,0,0.5)',
@@ -126,13 +194,12 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
               {category.label}（<code style={{ fontSize: 13 }}>{category.id}</code>）テンプレート編集
             </h2>
             <div style={{ fontSize: 12, color: '#888', marginTop: 4 }}>
-              色: <code>{category.color}</code>
+              色: <code>{category.color}</code>（単色固定）／ 構図: <code>circular</code>（円形固定）／ 下部25-30%はPOI名合成用の空白
             </div>
           </div>
           <button
             onClick={onClose}
             style={{ background: 'transparent', color: '#aaa', border: 'none', fontSize: 22, cursor: 'pointer' }}
-            title="閉じる"
           >
             ✕
           </button>
@@ -176,40 +243,107 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
         {/* Gemini mode */}
         {mode === 'gemini' && (
           <div>
-            <div style={{ marginBottom: 12 }}>
-              <label style={{ fontSize: 13, color: '#aaa' }}>
-                イラスト記述（英語、Gemini プロンプトの ILLUSTRATION 部分）
-              </label>
+            {/* イラスト記述 */}
+            <Field label="イラスト記述（英語）" hint="Gemini プロンプトのILLUSTRATIONセクションに入る">
               <textarea
                 value={illustrationText}
                 onChange={(e) => setIllustrationText(e.target.value)}
                 rows={2}
-                style={{
-                  width: '100%', fontSize: 13, padding: 8,
-                  background: '#222', color: '#eee', border: '1px solid #333', borderRadius: 4,
-                  marginTop: 4, fontFamily: 'monospace',
-                }}
+                style={textareaStyle}
               />
-            </div>
+            </Field>
 
-            <div style={{ marginBottom: 12, display: 'flex', alignItems: 'center', gap: 12 }}>
-              <label style={{ fontSize: 13 }}>候補数: {count}</label>
+            {/* 雰囲気 */}
+            <Field label="雰囲気" hint="全体のテイスト">
+              <select
+                value={mood}
+                onChange={(e) => setMood(e.target.value)}
+                style={selectStyle}
+              >
+                {MOOD_OPTIONS.map(o => (
+                  <option key={o.value} value={o.value}>{o.label}</option>
+                ))}
+              </select>
+            </Field>
+
+            {/* 要素（複数選択） */}
+            <Field label="含める要素（複数可）" hint="illustration記述と組み合わせて生成される">
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                {ELEMENT_OPTIONS.map(o => (
+                  <label key={o.value} style={{
+                    display: 'flex', alignItems: 'center', gap: 4,
+                    padding: '4px 10px', borderRadius: 4,
+                    background: elements.includes(o.value) ? category.color : '#222',
+                    color: elements.includes(o.value) ? '#fff' : '#aaa',
+                    cursor: 'pointer', fontSize: 12,
+                  }}>
+                    <input
+                      type="checkbox"
+                      checked={elements.includes(o.value)}
+                      onChange={() => toggleElement(o.value)}
+                      style={{ display: 'none' }}
+                    />
+                    {o.label}
+                  </label>
+                ))}
+              </div>
+            </Field>
+
+            {/* 参照画像 */}
+            <Field label="参照画像（任意）" hint="既存テンプレの改版 or 似た意匠を伝えたい時">
+              <input type="file" accept="image/*" onChange={handleRefImageChange} style={{ fontSize: 12 }} />
+              {refImage && (
+                <div style={{ marginTop: 6, display: 'flex', alignItems: 'center', gap: 8 }}>
+                  <img src={refImage.preview} alt="ref" style={{ height: 48, borderRadius: 4, background: '#fff' }} />
+                  <button onClick={() => setRefImage(null)} style={linkBtnStyle}>× 解除</button>
+                </div>
+              )}
+            </Field>
+
+            {/* プロンプトテンプレ編集（折畳） */}
+            <Field
+              label={<>
+                プロンプトテンプレート編集{' '}
+                <button onClick={() => setShowPromptEditor(v => !v)} style={linkBtnStyle}>
+                  {showPromptEditor ? '閉じる' : '開く'}
+                </button>
+              </>}
+              hint={showPromptEditor ? '{CATEGORY} / {COLOR} / {ILLUSTRATION} が差し込まれる' : null}
+            >
+              {showPromptEditor && (
+                <>
+                  <textarea
+                    value={promptTemplate}
+                    onChange={(e) => setPromptTemplate(e.target.value)}
+                    rows={14}
+                    style={{ ...textareaStyle, fontFamily: 'monospace', fontSize: 11 }}
+                  />
+                  <button onClick={() => setPromptTemplate(DEFAULT_TEMPLATE_PROMPT)} style={linkBtnStyle}>
+                    デフォルトに戻す
+                  </button>
+                </>
+              )}
+            </Field>
+
+            {/* 候補数 */}
+            <Field label={`候補数: ${count}`} hint={`Gemini コスト目安: ~$${(count * 0.039).toFixed(2)} (${count}枚 × $0.039)`}>
               <input
                 type="range" min={1} max={5} value={count}
                 onChange={(e) => setCount(Number(e.target.value))}
-                style={{ flex: 1 }}
+                style={{ width: '100%' }}
               />
-              <span style={{ fontSize: 11, color: '#888' }}>
-                ~${(count * 0.039).toFixed(2)} ({count}枚 × $0.039)
-              </span>
-            </div>
+            </Field>
 
-            <details style={{ marginBottom: 12 }}>
-              <summary style={{ cursor: 'pointer', fontSize: 12, color: '#888' }}>フルプロンプトを見る</summary>
+            {/* フルプロンプトプレビュー（折畳） */}
+            <details style={{ marginBottom: 12, background: '#0a0a0a', borderRadius: 4, padding: 8 }}>
+              <summary style={{ cursor: 'pointer', fontSize: 12, color: '#888' }}>
+                組み立て後のフルプロンプトを確認（{fullPrompt.length}文字）
+              </summary>
               <pre style={{
-                fontSize: 11, background: '#0a0a0a', color: '#aaa',
-                padding: 10, borderRadius: 4, overflow: 'auto', marginTop: 6,
-              }}>{prompt}</pre>
+                fontSize: 10, color: '#9c9',
+                padding: 8, overflow: 'auto', margin: '8px 0 0', maxHeight: 240,
+                whiteSpace: 'pre-wrap',
+              }}>{fullPrompt}</pre>
             </details>
 
             <button
@@ -228,7 +362,7 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
             {candidates.length > 0 && (
               <div>
                 <div style={{ fontSize: 12, color: '#aaa', marginBottom: 8 }}>
-                  候補をクリックして選択 → 「このデザインを採用」ボタンで確定
+                  候補をクリックして選択 → 「このデザインを採用」で確定
                 </div>
                 <div style={{
                   display: 'grid',
@@ -244,7 +378,6 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
                         border: `3px solid ${selectedCandidateId === c.id ? category.color : 'transparent'}`,
                         cursor: c.error ? 'not-allowed' : 'pointer',
                         opacity: c.error ? 0.4 : 1,
-                        transition: 'border-color 0.1s',
                       }}
                     >
                       {c.dataUrl ? (
@@ -279,29 +412,19 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
         {mode === 'local' && (
           <div>
             <div style={{ marginBottom: 16 }}>
-              <input
-                type="file"
-                accept="image/png"
-                onChange={handleLocalFileChange}
-                style={{ fontSize: 13 }}
-              />
+              <input type="file" accept="image/png" onChange={handleLocalFileChange} style={{ fontSize: 13 }} />
               <div style={{ fontSize: 11, color: '#888', marginTop: 4 }}>
-                PNG形式、2MB以下、推奨: 512×512 or 1024×1024
+                PNG形式、2MB以下、推奨: 1024×1024、下部25-30%は空白（POI名合成用）
               </div>
             </div>
-
             {localPreview && (
               <div style={{ marginBottom: 16 }}>
                 <div style={{ fontSize: 12, color: '#aaa', marginBottom: 6 }}>プレビュー:</div>
-                <div style={{
-                  background: '#fff', borderRadius: 8, overflow: 'hidden',
-                  width: '50%', margin: '0 auto',
-                }}>
+                <div style={{ background: '#fff', borderRadius: 8, overflow: 'hidden', width: '50%', margin: '0 auto' }}>
                   <img src={localPreview} alt="preview" style={{ width: '100%', display: 'block' }} />
                 </div>
               </div>
             )}
-
             <button
               onClick={() => adoptDataUrl(localPreview)}
               disabled={!localPreview || adopting}
@@ -319,4 +442,35 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
       </div>
     </div>
   )
+}
+
+// ---------- 小物 ----------
+function Field({ label, hint, children }) {
+  return (
+    <div style={{ marginBottom: 12 }}>
+      <div style={{ fontSize: 13, color: '#ccc', marginBottom: 4 }}>
+        {label}
+        {hint && <span style={{ fontSize: 11, color: '#666', marginLeft: 6 }}>— {hint}</span>}
+      </div>
+      {children}
+    </div>
+  )
+}
+
+const textareaStyle = {
+  width: '100%', padding: 8,
+  background: '#222', color: '#eee', border: '1px solid #333', borderRadius: 4,
+  fontFamily: 'inherit', fontSize: 13,
+  boxSizing: 'border-box',
+}
+
+const selectStyle = {
+  padding: 6,
+  background: '#222', color: '#eee', border: '1px solid #333', borderRadius: 4,
+  fontSize: 13,
+}
+
+const linkBtnStyle = {
+  background: 'transparent', color: '#8cf', border: 'none',
+  textDecoration: 'underline', cursor: 'pointer', fontSize: 11, padding: 0, marginLeft: 8,
 }
