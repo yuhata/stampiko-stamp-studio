@@ -6,6 +6,7 @@ import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
 import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
+import TemplateManager from './components/TemplateManager'
 import { subscribeStamps, upsertStamp } from './config/studioStamps'
 import { pullSettingsFromFirestore, loadNgReasons, saveNgReasons } from './config/studioStorage'
 import './App.css'
@@ -13,6 +14,7 @@ import './App.css'
 const TABS = [
   { id: 'batch', label: 'バッチ生成' },
   { id: 'gallery', label: 'ギャラリー' },
+  { id: 'templates', label: 'テンプレート' },
   { id: 'map', label: 'マップ' },
   { id: 'rules', label: 'エリアルール' },
   { id: 'nglog', label: 'NG学習ログ' },
@@ -159,6 +161,9 @@ function App() {
       )}
       {activeTab === 'ugc' && (
         <UGCQueue />
+      )}
+      {activeTab === 'templates' && (
+        <TemplateManager />
       )}
 
       {/* 管理者パネル（モーダル） */}
