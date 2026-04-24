@@ -2,7 +2,7 @@
 // ギャラリータブと並列、Firestore stamp_templates + Storage stamp_templates/ を管理
 // 差し替えボタン → TemplateEditModal（Gemini生成 or ローカルアップロード）
 import { useState, useEffect } from 'react'
-import { subscribeTemplates, upsertTemplate, TEMPLATE_CATEGORIES } from '../config/stampTemplates'
+import { subscribeTemplates, TEMPLATE_CATEGORIES } from '../config/stampTemplates'
 import TemplateEditModal from './TemplateEditModal'
 
 export default function TemplateManager() {
@@ -23,16 +23,6 @@ export default function TemplateManager() {
   // GitHub raw URL（Firestoreにdocが無いカテゴリ用フォールバックプレビュー）
   const githubFallbackUrl = (category) =>
     `https://raw.githubusercontent.com/yuhata/lbs-stamp-studio/main/public/template-designs-v3/${category}.png`
-
-  async function handleTogglePlaceholder(category) {
-    const current = templates[category]?.is_placeholder
-    try {
-      await upsertTemplate(category, { is_placeholder: !current })
-    } catch (err) {
-      console.error('[TemplateManager] toggle failed:', err)
-      setErrorMsg(`状態更新失敗: ${err.message}`)
-    }
-  }
 
   if (!ready) {
     return <div style={{ padding: 24, color: '#888' }}>テンプレートを読み込み中...</div>
@@ -133,30 +123,17 @@ export default function TemplateManager() {
               )}
 
               {/* 差し替えボタン（モーダルを開く） */}
-              <div style={{ marginTop: 10, display: 'flex', gap: 6 }}>
+              <div style={{ marginTop: 10 }}>
                 <button
                   onClick={() => setEditingCategory(cat)}
                   style={{
-                    flex: 1, padding: '6px 10px', fontSize: 12,
+                    width: '100%', padding: '6px 10px', fontSize: 12,
                     background: cat.color, color: '#fff',
                     border: 'none', borderRadius: 5, cursor: 'pointer',
                   }}
                 >
                   📤 差し替え
                 </button>
-                {hasFirestore && (
-                  <button
-                    onClick={() => handleTogglePlaceholder(cat.id)}
-                    title={tpl.is_placeholder ? '本格扱いに変更' : '暫定扱いに変更'}
-                    style={{
-                      padding: '6px 10px', fontSize: 12,
-                      background: 'transparent', color: '#ccc',
-                      border: '1px solid #444', borderRadius: 5, cursor: 'pointer',
-                    }}
-                  >
-                    {tpl.is_placeholder ? '→本格' : '→暫定'}
-                  </button>
-                )}
               </div>
             </div>
           )

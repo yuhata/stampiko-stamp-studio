@@ -15,7 +15,7 @@ export default function TemplateEditModal({ category, currentImageUrl, onClose }
   const [mode, setMode] = useState('gemini') // 'gemini' | 'local'
 
   // Gemini 生成オプション
-  const [count, setCount] = useState(3)
+  const [count, setCount] = useState(2) // BatchForm と同じデフォルト
   const [illustrationText, setIllustrationText] = useState(
     TEMPLATE_ILLUSTRATIONS[category.id] || 'Simple iconic landmark silhouette'
   )
