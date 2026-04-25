@@ -34,14 +34,41 @@ const authReady = new Promise((resolve) => {
 export { authReady }
 
 /**
+ * 旧 group_id (`group_X` プレフィクス形式) と4件mismatchを正規 area_id (CANONICAL_AREAS) に正規化
+ * - group_nihonbashi → tokyo
+ * - group_ryogoku    → asakusa
+ * - group_tokyotower → shimbashi
+ * - group_tsukiji    → ginza
+ * - group_test_*     → null (テストデータ)
+ * - 特殊キー (`_*`)  → null
+ */
+const AREA_REMAP = {
+  nihonbashi: 'tokyo',
+  ryogoku:    'asakusa',
+  tokyotower: 'shimbashi',
+  tsukiji:    'ginza',
+}
+function normalizeAreaId(rawGroupId) {
+  if (!rawGroupId || typeof rawGroupId !== 'string') return null
+  if (rawGroupId.startsWith('_')) return null
+  let bare = rawGroupId.startsWith('group_') ? rawGroupId.slice(6) : rawGroupId
+  if (bare.startsWith('test_')) return null
+  return AREA_REMAP[bare] || bare
+}
+
+/**
  * スタンプをFirestoreに公開
  * stamp-studioで承認されたスタンプをstampsコレクションに登録
+ *
+ * dual-write: 旧 group_id と新 area_id 両方を書く（B3後継リファクタ、PR-7）
  */
 export const publishStamp = async (stampData) => {
   const stampId = stampData.id || `stamp_${Date.now()}`
+  const groupId = stampData.groupId || ''
   await setDoc(doc(db, 'stamps', stampId), {
     name: stampData.spotName || stampData.name || '',
-    group_id: stampData.groupId || '',
+    group_id: groupId,
+    area_id: normalizeAreaId(groupId),
     rarity: stampData.rarity || 'common',
     image_url: stampData.imageUrl || stampData.path || '',
     is_special: false,
@@ -88,6 +115,7 @@ export const importPOIsToFirestore = async (pois, options = {}) => {
         name: poi.name,
         display_name: poi.name,
         group_id: `_data_${poi.category}`,
+        area_id: null, // data_spot は area 概念外（PR-7 dual-write）
         location: new GeoPoint(poi.lat, poi.lng),
         question: defaults.question,
         hints: defaults.hints,

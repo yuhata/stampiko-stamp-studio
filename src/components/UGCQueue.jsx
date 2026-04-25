@@ -56,6 +56,7 @@ export default function UGCQueue() {
         name: submission.spot_name,
         display_name: submission.spot_name,
         group_id: '_ugc',
+        area_id: null, // UGC は area 概念外（PR-7 dual-write）
         location: new GeoPoint(loc.latitude, loc.longitude),
         question: submission.generated_quest || `${submission.spot_name}を見つけて写真を撮ってください`,
         hints: [submission.description || 'ユーザーが発見したスポットです'],
