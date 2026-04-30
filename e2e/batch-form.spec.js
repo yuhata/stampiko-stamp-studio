@@ -128,4 +128,84 @@ test.describe('バッチ生成（BatchForm）', () => {
     // 失敗後もボタンは再活性化（5秒以内）
     await expect(page.getByRole('button', { name: /\d+候補を生成/ })).toBeEnabled({ timeout: 5000 })
   })
+
+  // 回帰: 参考画像添付時にカラーパレット制約がプロンプト先頭に含まれる（バグ #20260430）
+  test('参考画像添付時にカラーパレット制約がプロンプトに含まれAPIに送信される', async ({ page }) => {
+    // 1x1 PNGを参考画像として使用（最小バイナリ）
+    const TINY_PNG_B64 = 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=='
+    let capturedBody = null
+
+    await page.route('**/api/generate-stamp-image', route => {
+      capturedBody = JSON.parse(route.request().postData())
+      return route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify({
+          results: [{ base64: TINY_PNG_B64, mimeType: 'image/png', index: 0 }],
+        }),
+      })
+    })
+
+    await gotoStudio(page)
+    await gotoTab(page, 'バッチ生成')
+    await page.getByPlaceholder('例: 雷門、渋谷スクランブル交差点').fill('テスト雷門')
+
+    // 参考写真アップロードラベルをクリックしてファイルを設定
+    const refInput = page.locator('label').filter({ hasText: '写真をアップロード' }).locator('input[type="file"]')
+    // eslint-disable-next-line no-undef
+    await refInput.setInputFiles({
+      name: 'ref.png',
+      mimeType: 'image/png',
+      // Node.js テスト環境では Buffer が利用可能
+      // eslint-disable-next-line no-undef
+      buffer: Buffer.from(TINY_PNG_B64, 'base64'),
+    })
+
+    // サムネイルが表示されるまで待機
+    await expect(page.getByAltText('参考写真')).toBeVisible({ timeout: 3000 })
+
+    // 生成実行
+    await page.getByRole('button', { name: /候補を生成/ }).click()
+    await expect(page.getByRole('button', { name: /\d+候補を生成/ })).toBeEnabled({ timeout: 10000 })
+
+    // 送信されたプロンプトにカラーロック制約が含まれていること
+    expect(capturedBody).not.toBeNull()
+    expect(capturedBody.prompt).toMatch(/COLOR LOCK/i)
+    expect(capturedBody.prompt).toMatch(/SILHOUETTE.*SHAPE.*reference|reference.*SILHOUETTE.*SHAPE/i)
+    // 参考画像も一緒に送信されていること（resizeImageFile が JPEG 変換するため mimeType は image/jpeg）
+    expect(capturedBody.referenceImage).toBeDefined()
+    expect(capturedBody.referenceImage.mimeType).toMatch(/^image\//)
+    expect(capturedBody.referenceImage.base64).toBeTruthy()
+  })
+
+  // 回帰: 参考画像なしのときはカラーロック制約プレフィックスが付かない
+  test('参考画像なしのときはカラーロックプレフィックスが付かない', async ({ page }) => {
+    const TINY_PNG_B64 = 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=='
+    let capturedBody = null
+
+    await page.route('**/api/generate-stamp-image', route => {
+      capturedBody = JSON.parse(route.request().postData())
+      return route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify({
+          results: [{ base64: TINY_PNG_B64, mimeType: 'image/png', index: 0 }],
+        }),
+      })
+    })
+
+    await gotoStudio(page)
+    await gotoTab(page, 'バッチ生成')
+    await page.getByPlaceholder('例: 雷門、渋谷スクランブル交差点').fill('テスト雷門')
+
+    // 参考画像なしで生成
+    await page.getByRole('button', { name: /候補を生成/ }).click()
+    await expect(page.getByRole('button', { name: /\d+候補を生成/ })).toBeEnabled({ timeout: 10000 })
+
+    // カラーロックプレフィックスが含まれないこと
+    expect(capturedBody).not.toBeNull()
+    expect(capturedBody.prompt).not.toMatch(/COLOR LOCK/i)
+    // 参考画像フィールドが存在しないこと
+    expect(capturedBody.referenceImage).toBeUndefined()
+  })
 })

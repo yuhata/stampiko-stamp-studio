@@ -67,6 +67,8 @@ Single ink color: {COLOR} on pure white (#FFFFFF).
 Rubber-stamp ink texture with gentle, uneven edges. Slight ink bleed.
 Colors appear slightly absorbed/muted, like real rubber stamp ink.
 Do NOT use white inside the illustration area (except intentional cutouts within the silhouette).
+IMPORTANT: If a reference photo was provided, IGNORE all colors in that photo.
+Use ONLY the ink color ({COLOR}) specified above, regardless of the reference image.
 
 === VISUAL STYLE ===
 Flat graphic shapes, Showa-era retro. Geometric simplification.

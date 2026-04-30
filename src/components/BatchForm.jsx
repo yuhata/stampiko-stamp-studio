@@ -114,9 +114,24 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
     // 補足テキストが入力されている場合は、それをスポット名の代わりに生成モチーフへ使用
     // （例: 店名「茄子おやじ」→ 補足「カレー屋」→ カレーのイメージで生成）
     const motif = spotHint.trim() || spotName
-    const prompt = (promptTemplate + optionBlock)
+    let prompt = (promptTemplate + optionBlock)
       .replace(/\{SPOT_NAME\}/g, motif)
       .replace(/\{PALETTE\}/g, palette.join(', '))
+
+    // 参考画像がある場合、カラーパレット制約をプロンプト先頭に付与する（二重防御）
+    // API側 buildContentParts でも同処理をするが、クライアント側でも確実に制約を先頭に注入する。
+    // これにより localStorage にカスタムプロンプトが保存されている場合も保護される。
+    if (refImage) {
+      const colorLockPrefix = [
+        `=== COLOR LOCK (REFERENCE IMAGE ATTACHED) ===`,
+        `The attached photo is for SILHOUETTE/SHAPE reference ONLY.`,
+        `DO NOT adopt any colors from the reference photo.`,
+        `Use ONLY the palette colors listed in the COLOR section: ${palette.join(', ')}.`,
+        `=== END COLOR LOCK ===`,
+        ``,
+      ].join('\n')
+      prompt = colorLockPrefix + prompt
+    }
 
     try {
       const body = { prompt, count }
