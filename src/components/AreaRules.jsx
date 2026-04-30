@@ -43,6 +43,9 @@ export default function AreaRules({ stamps, areas }) {
     return saved ? JSON.parse(saved) : DEFAULT_CRITERIA
   })
   const [editingArea, setEditingArea] = useState(null)
+  // パレット入力の生テキストを一時保持（末尾カンマなど未確定入力を保存するため）
+  // onBlur / 完了ボタン押下時にパース → areaConfig へコミット
+  const [paletteInputValues, setPaletteInputValues] = useState({})
   const [editingId, setEditingId] = useState(null)
   const [newRow, setNewRow] = useState({ criteria: '', ok: '', ng: '' })
   const [showAdd, setShowAdd] = useState(false)
@@ -80,6 +83,33 @@ export default function AreaRules({ stamps, areas }) {
     updateAreaField(areaKey, 'palette', colors)
   }
 
+  // パレット入力フィールドのテキスト変更（生テキストのみ保持、パースしない）
+  const handlePaletteChange = (areaKey, value) => {
+    setPaletteInputValues(prev => ({ ...prev, [areaKey]: value }))
+  }
+
+  // パレット入力をパース → areaConfig へコミットし、一時状態をクリア
+  const commitPaletteInput = (areaKey) => {
+    const raw = paletteInputValues[areaKey]
+    if (raw === undefined) return // 変更なし
+    updateAreaPalette(areaKey, raw)
+    setPaletteInputValues(prev => {
+      const next = { ...prev }
+      delete next[areaKey]
+      return next
+    })
+  }
+
+  // 編集モードの開閉（完了時は未コミットのパレット入力をフラッシュしてから閉じる）
+  const handleEditToggle = (areaKey, isCurrentlyEditing) => {
+    if (isCurrentlyEditing) {
+      commitPaletteInput(areaKey)
+      setEditingArea(null)
+    } else {
+      setEditingArea(areaKey)
+    }
+  }
+
   // 品質基準
   const updateCriteria = (id, field, value) => {
     setCriteriaList(prev => prev.map(c => c.id === id ? { ...c, [field]: value } : c))
@@ -113,7 +143,7 @@ export default function AreaRules({ stamps, areas }) {
           <div key={area} className="area-section">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <h2>{config.label}</h2>
-              <button className="criteria-btn edit" onClick={() => setEditingArea(isEditing ? null : area)}>
+              <button className="criteria-btn edit" onClick={() => handleEditToggle(area, isEditing)}>
                 {isEditing ? '完了' : '編集'}
               </button>
             </div>
@@ -122,8 +152,12 @@ export default function AreaRules({ stamps, areas }) {
               <div style={{ display: 'grid', gap: 8, marginBottom: 12 }}>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>パレット（カンマ区切り）</label>
-                  <input className="criteria-input" value={config.palette.join(', ')}
-                    onChange={e => updateAreaPalette(area, e.target.value)} />
+                  <input
+                    className="criteria-input"
+                    value={paletteInputValues[area] ?? config.palette.join(', ')}
+                    onChange={e => handlePaletteChange(area, e.target.value)}
+                    onBlur={() => commitPaletteInput(area)}
+                  />
                 </div>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>スタイル</label>

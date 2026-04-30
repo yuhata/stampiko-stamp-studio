@@ -57,6 +57,48 @@ describe('AreaRules - パレット編集バグ回帰テスト', () => {
     expect(within(section).getByRole('heading', { level: 2 }).textContent).toBe('渋谷エリア')
   })
 
+  it('パレット末尾にカンマを入力できる（入力中はカンマが消えない）', () => {
+    render(<AreaRules stamps={[]} areas={[]} />)
+
+    // 渋谷エリアを編集モードへ
+    const shibuyaHeading = screen.getAllByText('渋谷エリア')[0]
+    const section = shibuyaHeading.closest('.area-section')
+    fireEvent.click(within(section).getByText('編集'))
+
+    // パレット入力欄を取得（最初の色コードで始まる value を持つ input）
+    const paletteInput = within(section).getByDisplayValue(/^#/)
+
+    // 末尾にカンマを追加入力
+    const valueWithTrailingComma = paletteInput.value + ','
+    fireEvent.change(paletteInput, { target: { value: valueWithTrailingComma } })
+
+    // 入力中は末尾カンマが保持されること（即座に消えない）
+    expect(paletteInput.value).toBe(valueWithTrailingComma)
+  })
+
+  it('パレット末尾カンマ入力後に blur するとパレット配列が正しく確定される', () => {
+    render(<AreaRules stamps={[]} areas={[]} />)
+
+    const shibuyaHeading = screen.getAllByText('渋谷エリア')[0]
+    const section = shibuyaHeading.closest('.area-section')
+    fireEvent.click(within(section).getByText('編集'))
+
+    const paletteInput = within(section).getByDisplayValue(/^#/)
+
+    // 新しい色を末尾カンマ付きで入力
+    fireEvent.change(paletteInput, { target: { value: '#aabbcc, #ddeeff,' } })
+
+    // blur でコミット
+    fireEvent.blur(paletteInput)
+
+    // コミット後は trailing カンマが除去された正規形（', ' 区切り）になること
+    expect(paletteInput.value).toBe('#aabbcc, #ddeeff')
+
+    // 完了後も h2 は維持される
+    fireEvent.click(within(section).getByText('完了'))
+    expect(within(section).getByRole('heading', { level: 2 }).textContent).toBe('渋谷エリア')
+  })
+
   it('未登録エリア（stampsから来たもの）を編集してもラベルが維持される', () => {
     // areas prop に DEFAULT に無いキーを渡す
     render(<AreaRules stamps={[]} areas={['mystery_area']} />)
