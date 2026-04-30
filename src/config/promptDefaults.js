@@ -20,8 +20,10 @@ Street View perspective of {SPOT_NAME}. Landmark silhouette fills ~45–55% of t
 === INK TEXTURE ===
 Subtle rubber-stamp ink effect. Gentle ink bleed at edges.
 
-=== COLOR ===
+=== COLOR (CRITICAL — STRICTLY ENFORCED) ===
 Use 2–4 ink colors from: {PALETTE}.
+IMPORTANT: Use ONLY these palette colors — even if a reference photo is provided,
+its colors MUST be completely ignored. Apply the palette as ink on white paper.
 Colors appear as absorbed ink, slightly muted. DO NOT use white inside.
 
 === VISUAL STYLE ===
