@@ -70,6 +70,38 @@ test.describe('localStorage マイグレーション（旧14エリア→25エリ
   })
 })
 
+test.describe('パレット末尾カンマ入力バグ回帰防止', () => {
+  test('末尾にカンマを打っても入力値が維持される', async ({ page }) => {
+    const errors = attachConsoleErrorCollector(page)
+    await clearStudioStorage(page)
+    await openAreaRules(page)
+
+    const section = await getAreaSection(page, '渋谷エリア')
+    await section.getByRole('button', { name: '編集' }).click()
+
+    const paletteInput = section.locator('input.criteria-input').first()
+    // 既存値をクリアしてカンマ末尾の文字列を入力
+    await paletteInput.fill('#ff0000, #00ff00,')
+
+    // フォーカスを外す前の時点で末尾カンマが残っているか確認
+    await expect(paletteInput).toHaveValue('#ff0000, #00ff00,')
+
+    // blur（完了ボタンをクリック → blur が先に発火）
+    await section.getByRole('button', { name: '完了' }).click()
+
+    // blur 後: parse されて 2色のスウォッチが表示される
+    await expect(section.locator('.area-palette')).toContainText('#ff0000')
+    await expect(section.locator('.area-palette')).toContainText('#00ff00')
+
+    // 再度編集を開くと正規化済みの値が表示される
+    await section.getByRole('button', { name: '編集' }).click()
+    const paletteInput2 = section.locator('input.criteria-input').first()
+    await expect(paletteInput2).toHaveValue('#ff0000, #00ff00')
+
+    expect(errors, errors.join('\n')).toEqual([])
+  })
+})
+
 test.describe('クロスタブ状態保持', () => {
   test('エリア編集 → 他タブへ → 戻ると編集内容が保持される', async ({ page }) => {
     await clearStudioStorage(page)

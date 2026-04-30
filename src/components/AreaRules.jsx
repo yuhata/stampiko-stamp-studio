@@ -44,6 +44,10 @@ export default function AreaRules({ stamps, areas }) {
   })
   const [editingArea, setEditingArea] = useState(null)
   const [editingId, setEditingId] = useState(null)
+  // パレット入力中の生テキストをエリアキーごとに保持する。
+  // onChange では raw テキストのみ更新し、onBlur で parse → areaConfig へ反映する。
+  // これにより末尾カンマ入力時の即時削除バグを防ぐ。
+  const [paletteText, setPaletteText] = useState({})
   const [newRow, setNewRow] = useState({ criteria: '', ok: '', ng: '' })
   const [showAdd, setShowAdd] = useState(false)
 
@@ -78,6 +82,21 @@ export default function AreaRules({ stamps, areas }) {
   const updateAreaPalette = (areaKey, paletteStr) => {
     const colors = paletteStr.split(',').map(c => c.trim()).filter(Boolean)
     updateAreaField(areaKey, 'palette', colors)
+  }
+
+  // パレット入力フィールド用ハンドラー
+  // onChange: raw テキストのみ state に保持（末尾カンマ等を消さない）
+  const handlePaletteChange = (areaKey, value) => {
+    setPaletteText(prev => ({ ...prev, [areaKey]: value }))
+  }
+  // onBlur: raw テキストを parse して areaConfig へ反映し、ローカル state をクリア
+  const handlePaletteBlur = (areaKey, value) => {
+    updateAreaPalette(areaKey, value)
+    setPaletteText(prev => {
+      const next = { ...prev }
+      delete next[areaKey]
+      return next
+    })
   }
 
   // 品質基準
@@ -122,8 +141,12 @@ export default function AreaRules({ stamps, areas }) {
               <div style={{ display: 'grid', gap: 8, marginBottom: 12 }}>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>パレット（カンマ区切り）</label>
-                  <input className="criteria-input" value={config.palette.join(', ')}
-                    onChange={e => updateAreaPalette(area, e.target.value)} />
+                  <input
+                    className="criteria-input"
+                    value={paletteText[area] !== undefined ? paletteText[area] : config.palette.join(', ')}
+                    onChange={e => handlePaletteChange(area, e.target.value)}
+                    onBlur={e => handlePaletteBlur(area, e.target.value)}
+                  />
                 </div>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>スタイル</label>
