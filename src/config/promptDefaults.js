@@ -1,4 +1,13 @@
 // スタンプ生成プロンプトのデフォルト定義と学習関連の定数
+//
+// [2026-04-30] 参考画像+カラーパレット問題について
+// 参考画像を添付した場合、Gemini が写真の色に引きずられてパレット指定を無視する問題を修正。
+// 対処は二重防御:
+//   1. このプロンプトテンプレートの COLOR セクションに「参考写真の色を使わない」旨を追記
+//   2. API 側の buildContentParts()（LBS_Stamp_API/lib/stampImage.js）で参考画像ありの
+//      場合は色制約プレフィックスをプロンプト先頭に自動挿入（最高優先度）
+// コスト影響: 参考画像なし時はトークン数変化なし。参考画像ありの場合は API 側プレフィックスで
+//   約+300トークン/リクエスト増加（~¥0.002/生成 程度、月100件で¥0.2未満）。
 
 export const DEFAULT_PROMPT = `Japanese rubber stamp design for a location-based stamp collection app.
 Category: Location Stamp
@@ -23,6 +32,8 @@ Subtle rubber-stamp ink effect. Gentle ink bleed at edges.
 === COLOR ===
 Use 2–4 ink colors from: {PALETTE}.
 Colors appear as absorbed ink, slightly muted. DO NOT use white inside.
+IMPORTANT: If a reference photo was provided, IGNORE all colors in that photo.
+Use ONLY the palette colors listed above, regardless of the reference image.
 
 === VISUAL STYLE ===
 Flat graphic shapes, Showa-era retro. NO gradients, NO 3D, NO photorealism.
